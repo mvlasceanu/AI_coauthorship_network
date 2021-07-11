@@ -1,0 +1,235 @@
+conference,year,index,paper_id,given_name,family_name,org,institution,email,title
+aies,2018,0,32787213278732,Cindy M.,Grimm,oregonstate,oregon state universitycorvallisorusa,,An Education Model of Reasonable and Good-Faith Effort for Autonomous Systems
+aies,2018,1,32787213278732,William D.,Smart,oregonstate,oregon state universitycorvallisorusa,,An Education Model of Reasonable and Good-Faith Effort for Autonomous Systems
+aies,2018,2,32787213278732,Woodrow,Hartzog,northeastern,northeastern universitybostonmausa,,An Education Model of Reasonable and Good-Faith Effort for Autonomous Systems
+aies,2018,0,32787213278793,Joseph A.,Blass,northwestern,northwestern universitychicagoilusa,,"Legal, Ethical, Customizable Artificial Intelligence"
+aies,2018,0,32787213278801,Colin,Garvey,rpi,rensselaer polytechnic institutetroynyusa,,AI Risk Mitigation Through Democratic Governance
+aies,2018,0,32787213278786,Jin,Xu,gatech,georgia institute of technologyatlantagausa,,Overtrust of Robots in High-Risk Scenarios
+aies,2018,0,32787213278722,Naman,Goel,polytechnique,ecole polytechnique federal de lausannelausanneswitzerland,,Non-Discriminatory Machine Learning through Convex Fairness Criteria
+aies,2018,1,32787213278722,Mohammad,Yaghini,polytechnique,ecole polytechnique federal de lausannelausanneswitzerland,,Non-Discriminatory Machine Learning through Convex Fairness Criteria
+aies,2018,2,32787213278722,Boi,Faltings,polytechnique,ecole polytechnique federal de lausannelausanneswitzerland,,Non-Discriminatory Machine Learning through Convex Fairness Criteria
+aies,2018,0,32787213278730,Daniel,Estrada,itu,new jersey institute of technologynewarknjusa,,"Value Alignment, Fair Play, and the Rights of Service Robots"
+aies,2018,0,32787213278748,Shiva,Kaul,cmu,carnegie mellon universitypittsburghpausa,,Margins and Opportunity
+aies,2018,0,32787213278782,Kyle,Hundman,caltech,california institute of technologypasadenacausa,,Always Lurking
+aies,2018,1,32787213278782,Thamme,Gowda,usc,university of southern californiamarina del reycausa,,Always Lurking
+aies,2018,2,32787213278782,Mayank,Kejriwal,usc,university of southern californiamarina del reycausa,,Always Lurking
+aies,2018,3,32787213278782,Benedikt,Boecking,cmu,carnegie mellon universitypittsburghpausa,,Always Lurking
+aies,2018,0,32787213278764,Matthew,Joseph,upenn,university of pennsylvaniaphiladelphiapausa,,Meritocratic Fairness for Infinite and Contextual Bandits
+aies,2018,1,32787213278764,Michael,Kearns,upenn,university of pennsylvaniaphiladelphiapausa,,Meritocratic Fairness for Infinite and Contextual Bandits
+aies,2018,2,32787213278764,Jamie,Morgenstern,upenn,university of pennsylvaniaphiladelphiapausa,,Meritocratic Fairness for Infinite and Contextual Bandits
+aies,2018,3,32787213278764,Seth,Neel,upenn,university of pennsylvaniaphiladelphiapausa,,Meritocratic Fairness for Infinite and Contextual Bandits
+aies,2018,4,32787213278764,Aaron,Roth,upenn,university of pennsylvaniaphiladelphiapausa,,Meritocratic Fairness for Infinite and Contextual Bandits
+aies,2018,0,32787213278743,Michael R.,Scheessele,indiana,indiana university south bendsouth bendinusa,,A Framework for Grounding the Moral Status of Intelligent Machines
+aies,2018,0,32787213278754,Deepak,Somaya,illinois,university of illinois at urbanachampaignurbanailusa,,"Embodiment, Anthropomorphism, and Intellectual Property Rights for AI Creations"
+aies,2018,1,32787213278754,Lav R.,Varshney,illinois,university of illinois at urbanachampaignurbanailusa,,"Embodiment, Anthropomorphism, and Intellectual Property Rights for AI Creations"
+aies,2018,0,32787213278744,Biplav,Srivastava,ibm,ibm researchyorktown heightsnyusa,,Towards Composable Bias Rating of AI Services
+aies,2018,1,32787213278744,Francesca,Rossi,ibm,ibm researchyorktown heightsnyusa,,Towards Composable Bias Rating of AI Services
+aies,2018,0,32787213278759,Fan-Yun,Sun,ntu,national taiwan universitytaipeitaiwan roc,,Designing Non-greedy Reinforcement Learning Agents with Diminishing Reward Shaping
+aies,2018,1,32787213278759,Yen-Yu,Chang,ntu,national taiwan universitytaipeitaiwan roc,,Designing Non-greedy Reinforcement Learning Agents with Diminishing Reward Shaping
+aies,2018,2,32787213278759,Yueh-Hua,Wu,ntu,national taiwan universitytaipeitaiwan roc,,Designing Non-greedy Reinforcement Learning Agents with Diminishing Reward Shaping
+aies,2018,3,32787213278759,Shou-De,Lin,ntu,national taiwan universitytaipeitaiwan roc,,Designing Non-greedy Reinforcement Learning Agents with Diminishing Reward Shaping
+aies,2018,0,32787213278749,Nicholas,Mattei,ibm,ibm researchyorktown heightsnyusa,,Fairness in Deceased Organ Matching
+aies,2018,1,32787213278749,Abdallah,Saffidine,unsw,unsw sydneysydneyaustralia,,Fairness in Deceased Organ Matching
+aies,2018,2,32787213278749,Toby,Walsh,tu-berlin,unsw sydneydataamptu berlinsydneyaustralia,,Fairness in Deceased Organ Matching
+aies,2018,0,32787213278794,Rediet,Abebe,cornell,cornell universityithacanyusa,,Computational Perspectives on Social Good and Access to Opportunity
+aies,2018,0,32787213278790,Gong,Chen,,hong kong polytechnic universityhong konghong kong,,Nurturing the Companion ChatBot
+aies,2018,0,32787213278797,Bobbie,Eicher,gatech,georgia institute of technologyatlantagausa,,Giving AI a Theory of Mind
+aies,2018,0,32787213278789,Priel,Levy,biu,bar ilan universityramat ganisrael,,Optimal Contest Design for Multi-Agent Systems
+aies,2018,0,32787213278792,Marc,Serramia,,universitat de barcelonabarcelonaspain,,Ethics in Norm Decision Making
+aies,2018,0,32787213278741,Piercosma,Bisconti Lucidi,uniroma1,sapienza university of romeromeitaly,,Companion Robots
+aies,2018,1,32787213278741,Daniele,Nardi,uniroma1,sapienza university of romeromeitaly,,Companion Robots
+aies,2018,0,32787213278800,Cassandra,Carley,duke,duke universitydurhamncusa,,Balancing Privacy and Utility with Pattern Based Activity Detection
+aies,2018,0,32787213278802,Sarah,Tan,cornell,cornell universityithacanyusa,,Interpretable Approaches to Detect Bias in Black-Box Models
+aies,2018,0,32787213278783,Stefano,Tedeschi,,universitdegli studi di torinotorinoitaly,,Accountable Agents and Where to Find Them
+aies,2018,0,32787213278805,Richard B.,Freeman,harvard,harvard universitycambridgemausa,,The Great AI/Robot Jobs Scare
+aies,2018,1,32787213278805,Jason,Furman,harvard,harvard universitycambridgemausa,,The Great AI/Robot Jobs Scare
+aies,2018,0,32787213278757,Hau,Chan,,university of nebraskalincolnlincolnneusa,,Utilizing Housing Resources for Homeless Youth Through the Lens of Multiple Multi-Dimensional Knapsacks
+aies,2018,1,32787213278757,Long,Tran-Thanh,soton,university of southamptonsouthamptonunited kingdom,,Utilizing Housing Resources for Homeless Youth Through the Lens of Multiple Multi-Dimensional Knapsacks
+aies,2018,2,32787213278757,Bryan,Wilder,usc,university of southern californialos angelescausa,,Utilizing Housing Resources for Homeless Youth Through the Lens of Multiple Multi-Dimensional Knapsacks
+aies,2018,3,32787213278757,Eric,Rice,usc,university of southern californialos angelescausa,,Utilizing Housing Resources for Homeless Youth Through the Lens of Multiple Multi-Dimensional Knapsacks
+aies,2018,4,32787213278757,Phebe,Vayanos,usc,university of southern californialos angelescausa,,Utilizing Housing Resources for Homeless Youth Through the Lens of Multiple Multi-Dimensional Knapsacks
+aies,2018,5,32787213278757,Milind,Tambe,usc,university of southern californialos angelescausa,,Utilizing Housing Resources for Homeless Youth Through the Lens of Multiple Multi-Dimensional Knapsacks
+aies,2018,0,32787213278738,Shivaram,Kalyanakrishnan,iitb,indian institute of technology bombaymumbaiindia,,Opportunities and Challenges for Artificial Intelligence in India
+aies,2018,1,32787213278738,Rahul Alex,Panicker,,embrace innovationsbangaloreindia,,Opportunities and Challenges for Artificial Intelligence in India
+aies,2018,2,32787213278738,Sarayu,Natarajan,kcl,kings college londonlondonunited kingdom,,Opportunities and Challenges for Artificial Intelligence in India
+aies,2018,3,32787213278738,Shreya,Rao,,rao law chambersazim premji universitybangaloreindia,,Opportunities and Challenges for Artificial Intelligence in India
+aies,2018,0,32787213278763,Alex John,London,cmu,carnegie mellon universitypittsburghpausa,,Regulating Autonomous Vehicles
+aies,2018,1,32787213278763,David,Danks,cmu,carnegie mellon universitypittsburghpausa,,Regulating Autonomous Vehicles
+aies,2018,0,32787213278791,Daniel,Kasenberg,tufts,tufts universitymedfordmausa,,Learning and Obeying Conflicting Norms in Stochastic Domains
+aies,2018,0,32787213278787,Barton E.,Lee,unsw,the university of new south walessydneyaustralia,,A Win for Society! Conquering Barriers to Fair Elections
+aies,2018,0,32787213278788,Martin,Strobel,,national university singaporesingaporesingapore,,An Axiomatic Approach to Explain Computer Generated Decisions
+aies,2018,0,32787213278784,Eva,Thelisson,,university of fribourgfribourgswitzerland,,Towards a Computational Sustainability for AI/ML to Foster Responsibility
+aies,2018,0,32787213278806,Patrick,Lin,,california polytechnic state universitysan luis obispocausa,,"AI Decisions, Risk, and Ethics"
+aies,2018,0,32787213278767,Edvard P.,Bjørgen,uib,university of bergenbergennorway,,"Cake, Death, and Trolleys"
+aies,2018,1,32787213278767,Simen,Madsen,uib,university of bergenbergennorway,,"Cake, Death, and Trolleys"
+aies,2018,2,32787213278767,Therese S.,Bjørknes,uib,university of bergenbergennorway,,"Cake, Death, and Trolleys"
+aies,2018,3,32787213278767,Fredrik V.,Heimsæter,uib,university of bergenbergennorway,,"Cake, Death, and Trolleys"
+aies,2018,4,32787213278767,Robin,Håvik,uib,university of bergenbergennorway,,"Cake, Death, and Trolleys"
+aies,2018,5,32787213278767,Morten,Linderud,uib,university of bergenbergennorway,,"Cake, Death, and Trolleys"
+aies,2018,6,32787213278767,Per-Niklas,Longberg,uib,university of bergenbergennorway,,"Cake, Death, and Trolleys"
+aies,2018,7,32787213278767,Louise A.,Dennis,google,university of liverpoolliverpoolunited kingdom,,"Cake, Death, and Trolleys"
+aies,2018,8,32787213278767,Marija,Slavkovik,uib,university of bergenbergennorway,,"Cake, Death, and Trolleys"
+aies,2018,0,32787213278752,Max F.,Kramer,,university of arizonatucsonazusa,,When Do People Want AI to Make Decisions?
+aies,2018,1,32787213278752,Jana,Schaich Borg,duke,duke universitydurhamncusa,,When Do People Want AI to Make Decisions?
+aies,2018,2,32787213278752,Vincent,Conitzer,duke,duke universitydurhamncusa,,When Do People Want AI to Make Decisions?
+aies,2018,3,32787213278752,Walter,Sinnott-Armstrong,duke,duke universitydurhamncusa,,When Do People Want AI to Make Decisions?
+aies,2018,0,32787213278737,Daniel L.,Tobey,,vinson ampelkinsllpdallastxusa,,Software Malpractice in the Age of AI
+aies,2018,0,32787213278795,Gagan,Bansal,washington,university of washingtonseattlewausa,,Explanatory Dialogs
+aies,2018,0,32787213278775,Daniel,Kasenberg,tufts,tufts universitymedfordmausa,,Inverse Norm Conflict Resolution
+aies,2018,1,32787213278775,Matthias,Scheutz,tufts,tufts universitymedfordmausa,,Inverse Norm Conflict Resolution
+aies,2018,0,32787213278725,Sarah,Tan,cornell,cornell universityithacanyusa,,Distill-and-Compare
+aies,2018,1,32787213278725,Rich,Caruana,microsoft,microsoft researchredmondwausa,,Distill-and-Compare
+aies,2018,2,32787213278725,Giles,Hooker,cornell,cornell universityithacanyusa,,Distill-and-Compare
+aies,2018,3,32787213278725,Yin,Lou,antn,ant financialsan mateocausa,,Distill-and-Compare
+aies,2018,0,32787213278742,Edward,Raff,columbia,booz allen hamiltoncolumbiamdusa,,Fair Forests
+aies,2018,1,32787213278742,Jared,Sylvester,columbia,booz allen hamiltoncolumbiamdusa,,Fair Forests
+aies,2018,2,32787213278742,Steven,Mills,columbia,booz allen hamiltoncolumbiamdusa,,Fair Forests
+aies,2018,0,32787213278735,Marc,Serramia,,universitat de barcelonabarcelonaspain,,Exploiting Moral Values to Choose the Right Norms
+aies,2018,1,32787213278735,Maite,Lopez-Sanchez,,universitat de barcelonabarcelonaspain,,Exploiting Moral Values to Choose the Right Norms
+aies,2018,2,32787213278735,Juan A.,Rodriguez-Aguilar,intel,artificial intelligence research institute iiiacsiccerdanyola del vallesspain,,Exploiting Moral Values to Choose the Right Norms
+aies,2018,3,32787213278735,Javier,Morales,ox,university of oxfordoxfordunited kingdom,,Exploiting Moral Values to Choose the Right Norms
+aies,2018,4,32787213278735,Michael,Wooldridge,ox,university of oxfordoxfordunited kingdom,,Exploiting Moral Values to Choose the Right Norms
+aies,2018,5,32787213278735,Carlos,Ansotegui,,universitat de lleidalleidaspain,,Exploiting Moral Values to Choose the Right Norms
+aies,2018,0,32787213278740,Amit K.,Chopra,lancaster,lancaster universitylancasterunited kingdom,,Sociotechnical Systems and Ethics in the Large
+aies,2018,1,32787213278740,Munindar P.,SIngh,ncsu,north carolina state universityraleighncusa,,Sociotechnical Systems and Ethics in the Large
+aies,2018,0,32787213278778,Jianxin,Zhao,cam,university of cambridgecambridgeunited kingdom,,Privacy-Preserving Machine Learning Based Data Analytics on Edge Devices
+aies,2018,1,32787213278778,Richard,Mortier,cam,university of cambridgecambridgeunited kingdom,,Privacy-Preserving Machine Learning Based Data Analytics on Edge Devices
+aies,2018,2,32787213278778,Jon,Crowcroft,cam,university of cambridgecambridgeunited kingdom,,Privacy-Preserving Machine Learning Based Data Analytics on Edge Devices
+aies,2018,3,32787213278778,Liang,Wang,cam,university of cambridgecambridgeunited kingdom,,Privacy-Preserving Machine Learning Based Data Analytics on Edge Devices
+aies,2018,0,32787213278733,Golnoosh,Farnadi,ucsc,uc santa cruzsanta cruzcausa,,Fairness in Relational Domains
+aies,2018,1,32787213278733,Behrouz,Babaki,polymtl,polytechnique montrealmontrealpqcanada,,Fairness in Relational Domains
+aies,2018,2,32787213278733,Lise,Getoor,ucsc,uc santa cruzsanta cruzcausa,,Fairness in Relational Domains
+aies,2018,0,32787213278739,Haris,Aziz,unsw,the university of new south wales ampdatasydneyaustralia,,Sub-committee Approval Voting and Generalized Justified Representation Axioms
+aies,2018,1,32787213278739,Barton E.,Lee,unsw,the university of new south wales ampdatasydneyaustralia,,Sub-committee Approval Voting and Generalized Justified Representation Axioms
+aies,2018,0,32787213278760,Bobbie,Eicher,gatech,georgia institute of technologyatlantagausa,,Jill Watson Doesn't Care if You're Pregnant
+aies,2018,1,32787213278760,Lalith,Polepeddi,gatech,georgia institute of technologyatlantagausa,,Jill Watson Doesn't Care if You're Pregnant
+aies,2018,2,32787213278760,Ashok,Goel,gatech,georgia institute of technologyatlantagausa,,Jill Watson Doesn't Care if You're Pregnant
+aies,2018,0,32787213278753,John N.,Hooker,cmu,carnegie mellon universitypittsburghpausa,,Toward Non-Intuition-Based Machine and Artificial Intelligence Ethics
+aies,2018,1,32787213278753,Tae Wan N.,Kim,cmu,carnegie mellon universitypittsburghpausa,,Toward Non-Intuition-Based Machine and Artificial Intelligence Ethics
+aies,2018,0,32787213278755,Yuanshuo,Zhao,gatech,georgia institute of technologyatlantagausa,,Data Driven Techniques for Organizing Scientific Articles Relevant to Biomimicry
+aies,2018,1,32787213278755,Ioana,Baldini,ibm,ibm researchyorktown heightsnyusa,,Data Driven Techniques for Organizing Scientific Articles Relevant to Biomimicry
+aies,2018,2,32787213278755,Prasanna,Sattigeri,ibm,ibm researchyorktown heightsnyusa,,Data Driven Techniques for Organizing Scientific Articles Relevant to Biomimicry
+aies,2018,3,32787213278755,Inkit,Padhi,ibm,ibm researchibm researchnyusa,,Data Driven Techniques for Organizing Scientific Articles Relevant to Biomimicry
+aies,2018,4,32787213278755,Yoong Keok,Lee,ibm,ibm researchyorktown heightsnyusa,,Data Driven Techniques for Organizing Scientific Articles Relevant to Biomimicry
+aies,2018,5,32787213278755,Ethan,Smith,itu,biomimicry institutemissoulamtusa,,Data Driven Techniques for Organizing Scientific Articles Relevant to Biomimicry
+aies,2018,0,32787213278734,Pablo,Suárez-Serrato,bosch,universidad nacional autnoma de mxicomxico citymexico,,Socialbots Supporting Human Rights
+aies,2018,1,32787213278734,Eduardo Iván,Velázquez Richards,bosch,universidad nacional autnoma de mxicomxico citymexico,,Socialbots Supporting Human Rights
+aies,2018,2,32787213278734,Mehrdad,Yazdani,ucsd,university of california san diegosan diegocausa,,Socialbots Supporting Human Rights
+aies,2018,0,32787213278768,Alan R.,Wagner,psu,pennsylvania state universityuniversity parkpausa,,An Autonomous Architecture that Protects the Right to Privacy
+aies,2018,0,32787213278765,Mathieu,d'Aquin,,national university of ireland galwaygalwayireland,,"Towards an ""Ethics by Design"" Methodology for AI Research Projects"
+aies,2018,1,32787213278765,Pinelopi,Troullinou,,the open universitymilton keynesunited kingdom,,"Towards an ""Ethics by Design"" Methodology for AI Research Projects"
+aies,2018,2,32787213278765,Noel E.,O'Connor,,dublin city universitydublinireland,,"Towards an ""Ethics by Design"" Methodology for AI Research Projects"
+aies,2018,3,32787213278765,Aindrias,Cullen,,dublin city universitydublinireland,,"Towards an ""Ethics by Design"" Methodology for AI Research Projects"
+aies,2018,4,32787213278765,Gráinne,Faller,,fh media consulting ltddublinireland,,"Towards an ""Ethics by Design"" Methodology for AI Research Projects"
+aies,2018,5,32787213278765,Louise,Holden,,fh media consulting ltddublinireland,,"Towards an ""Ethics by Design"" Methodology for AI Research Projects"
+aies,2018,0,32787213278796,Shiva,Kaul,cmu,carnegie mellon universitypittsburghpausa,,Speed And Accuracy Are Not Enough! Trustworthy Machine Learning
+aies,2018,0,32787213278751,Marisa,Vasconcelos,ibm,ibm researchsao paulobrazil,,Modeling Epistemological Principles for Bias Mitigation in AI Systems
+aies,2018,1,32787213278751,Carlos,Cardonha,ibm,ibm researchsao paulobrazil,,Modeling Epistemological Principles for Bias Mitigation in AI Systems
+aies,2018,2,32787213278751,Bernardo,Gonçalves,ibm,ibm researchsao paulobrazil,,Modeling Epistemological Principles for Bias Mitigation in AI Systems
+aies,2018,0,32787213278773,Lydia,Manikonda,asu,arizona state universitytempeazusa,,What's up with Privacy?
+aies,2018,1,32787213278773,Aditya,Deotale,asu,arizona state universitytempeazusa,,What's up with Privacy?
+aies,2018,2,32787213278773,Subbarao,Kambhampati,asu,arizona state universitytempeazusa,,What's up with Privacy?
+aies,2018,0,32787213278731,Olivia J.,Erdélyi,,university of canterburychristchurchnew zealand,,Regulating Artificial Intelligence
+aies,2018,1,32787213278731,Judy,Goldsmith,ntu,university of kentuckylexingtonkyusa,,Regulating Artificial Intelligence
+aies,2018,0,32787213278728,Nolan P.,Shaw,uwaterloo,university of waterloowaterloooncanada,,Towards Provably Moral AI Agents in Bottom-up Learning Frameworks
+aies,2018,1,32787213278728,Andreas,Stöckel,uwaterloo,university of waterloowaterloooncanada,,Towards Provably Moral AI Agents in Bottom-up Learning Frameworks
+aies,2018,2,32787213278728,Ryan W.,Orr,uwaterloo,university of waterloowaterloooncanada,,Towards Provably Moral AI Agents in Bottom-up Learning Frameworks
+aies,2018,3,32787213278728,Thomas F.,Lidbetter,uwaterloo,university of waterloowaterloooncanada,,Towards Provably Moral AI Agents in Bottom-up Learning Frameworks
+aies,2018,4,32787213278728,Robin,Cohen,uwaterloo,university of waterloowaterloooncanada,,Towards Provably Moral AI Agents in Bottom-up Learning Frameworks
+aies,2018,0,32787213278774,Daniel,Kasenberg,tufts,tufts universitymedfordmausa,,"Norms, Rewards, and the Intentional Stance"
+aies,2018,1,32787213278774,Thomas,Arnold,tufts,tufts universitymedfordmausa,,"Norms, Rewards, and the Intentional Stance"
+aies,2018,2,32787213278774,Matthias,Scheutz,tufts,tufts universitymedfordmausa,,"Norms, Rewards, and the Intentional Stance"
+aies,2018,0,32787213278780,Stephen,Cave,cam,university of cambridgecambridgeunited kingdom,,An AI Race for Strategic Advantage
+aies,2018,1,32787213278780,Seán S.,ÓhÉigeartaigh,cam,university of cambridgecambridgeunited kingdom,,An AI Race for Strategic Advantage
+aies,2018,0,32787213278781,Habib,Karbasian,fb,george mason universityfairfaxvausa,,Real-Time Inference of User Types to Assist with more Inclusive and Diverse Social Media Activism Campaigns
+aies,2018,1,32787213278781,Hemant,Purohit,fb,george mason universityfairfaxvausa,,Real-Time Inference of User Types to Assist with more Inclusive and Diverse Social Media Activism Campaigns
+aies,2018,2,32787213278781,Rajat,Handa,fb,george mason universityfairfaxvausa,,Real-Time Inference of User Types to Assist with more Inclusive and Diverse Social Media Activism Campaigns
+aies,2018,3,32787213278781,Aqdas,Malik,fb,george mason universityfairfaxvausa,,Real-Time Inference of User Types to Assist with more Inclusive and Diverse Social Media Activism Campaigns
+aies,2018,4,32787213278781,Aditya,Johri,fb,george mason universityfairfaxvausa,,Real-Time Inference of User Types to Assist with more Inclusive and Diverse Social Media Activism Campaigns
+aies,2018,0,32787213278758,Sungyong,Seo,usc,university of southern californialos angelescausa,,Partially Generative Neural Networks for Gang Crime Classification with Partial Information
+aies,2018,1,32787213278758,Hau,Chan,,university of nebraskalincolnlincolnneusa,,Partially Generative Neural Networks for Gang Crime Classification with Partial Information
+aies,2018,2,32787213278758,P. Jeffrey,Brantingham,ucla,university of californialos angeleslos angelescausa,,Partially Generative Neural Networks for Gang Crime Classification with Partial Information
+aies,2018,3,32787213278758,Jorja,Leap,ucla,university of californialos angeleslos angelescausa,,Partially Generative Neural Networks for Gang Crime Classification with Partial Information
+aies,2018,4,32787213278758,Phebe,Vayanos,usc,university of southern californialos angelescausa,,Partially Generative Neural Networks for Gang Crime Classification with Partial Information
+aies,2018,5,32787213278758,Milind,Tambe,usc,university of southern californialos angelescausa,,Partially Generative Neural Networks for Gang Crime Classification with Partial Information
+aies,2018,6,32787213278758,Yan,Liu,usc,university of southern californialos angelescausa,,Partially Generative Neural Networks for Gang Crime Classification with Partial Information
+aies,2018,0,32787213278798,Lily,Hu,harvard,harvard universitycambridgemausa,,Justice Beyond Utility in Artificial Intelligence
+aies,2018,0,32787213278771,Emily,LaRosa,cmu,carnegie mellon universitypittsburghpausa,,Impacts on Trust of Healthcare AI
+aies,2018,1,32787213278771,David,Danks,cmu,carnegie mellon universitypittsburghpausa,,Impacts on Trust of Healthcare AI
+aies,2018,0,32787213278769,Sjur,Dyrkolbotn,,western norway university of applied sciencesbergennorway,,On the Distinction between Implicit and Explicit Ethical Agency
+aies,2018,1,32787213278769,Truls,Pedersen,uib,university of bergenbergennorway,,On the Distinction between Implicit and Explicit Ethical Agency
+aies,2018,2,32787213278769,Marija,Slavkovik,uib,university of bergenbergennorway,,On the Distinction between Implicit and Explicit Ethical Agency
+aies,2018,0,32787213278785,Ilse,Verdiesen,ethz,delft university of technologydelftnetherlands,,The Design of Human Oversight in Autonomous Weapon Systems
+aies,2018,0,32787213278770,Richard,Kim,mit,massachusetts institute of technologycambridgemausa,,A Computational Model of Commonsense Moral Decision Making
+aies,2018,1,32787213278770,Max,Kleiman-Weiner,mit,massachusetts institute of technologycambridgemausa,,A Computational Model of Commonsense Moral Decision Making
+aies,2018,2,32787213278770,Andrés,Abeliuk,mit,massachusetts institute of technologycambridgemausa,,A Computational Model of Commonsense Moral Decision Making
+aies,2018,3,32787213278770,Edmond,Awad,mit,massachusetts institute of technologycambridgemausa,,A Computational Model of Commonsense Moral Decision Making
+aies,2018,4,32787213278770,Sohan,Dsouza,mit,massachusetts institute of technologycambridgemausa,,A Computational Model of Commonsense Moral Decision Making
+aies,2018,5,32787213278770,Joshua B.,Tenenbaum,mit,massachusetts institute of technologycambridgemausa,,A Computational Model of Commonsense Moral Decision Making
+aies,2018,6,32787213278770,Iyad,Rahwan,mit,massachusetts institute of technologycambridgemausa,,A Computational Model of Commonsense Moral Decision Making
+aies,2018,0,32787213278750,Ryan,Carey,ox,oxford universityoxfordunited kingdom,,Incorrigibility in the CIRL Framework
+aies,2018,0,32787213278776,Rahul,Iyer,cmu,carnegie mellon universitypittsburghpausa,,Transparency and Explanation in Deep Reinforcement Learning Neural Networks
+aies,2018,1,32787213278776,Yuezhang,Li,google,google incmountain viewpausa,,Transparency and Explanation in Deep Reinforcement Learning Neural Networks
+aies,2018,2,32787213278776,Huao,Li,pitt,university of pittsburghpittsburghpausa,,Transparency and Explanation in Deep Reinforcement Learning Neural Networks
+aies,2018,3,32787213278776,Michael,Lewis,pitt,university of pittsburghpittsburghpausa,,Transparency and Explanation in Deep Reinforcement Learning Neural Networks
+aies,2018,4,32787213278776,Ramitha,Sundar,cmu,carnegie mellon universitypittsburghpausa,,Transparency and Explanation in Deep Reinforcement Learning Neural Networks
+aies,2018,5,32787213278776,Katia,Sycara,cmu,carnegie mellon universitypittsburghpausa,,Transparency and Explanation in Deep Reinforcement Learning Neural Networks
+aies,2018,0,32787213278766,Matthijs M.,Maas,ku,university of copenhagencopenhagendenmark,,Regulating for 'Normal AI Accidents'
+aies,2018,0,32787213278746,Ross,Gruetzemacher,auburn,auburn universityauburnalusa,,Rethinking AI Strategy and Policy as Entangled Super Wicked Problems
+aies,2018,0,32787213278723,Andrea,Loreggia,,university of padovapadovaitaly,,Preferences and Ethical Principles in Decision Making
+aies,2018,1,32787213278723,Nicholas,Mattei,ibm,ibm researchyorktown heights nynyusa,,Preferences and Ethical Principles in Decision Making
+aies,2018,2,32787213278723,Francesca,Rossi,ibm,ibm research and university of padovayorktown heights nynyusa,,Preferences and Ethical Principles in Decision Making
+aies,2018,3,32787213278723,K. Brent,Venable,,tulane universitynew orleanslausa,,Preferences and Ethical Principles in Decision Making
+aies,2018,0,32787213278726,Dieter,Vanderelst,,university of cincinnaticincinnatiohusa,,The Dark Side of Ethical Robots
+aies,2018,1,32787213278726,Alan,Winfield,,university of the west of englandbristolunited kingdom,,The Dark Side of Ethical Robots
+aies,2018,0,32787213278777,Peter,Henderson,mcgill,mcgill universitymontrealpqcanada,,Ethical Challenges in Data-Driven Dialogue Systems
+aies,2018,1,32787213278777,Koustuv,Sinha,mcgill,mcgill universitymontrealpqcanada,,Ethical Challenges in Data-Driven Dialogue Systems
+aies,2018,2,32787213278777,Nicolas,Angelard-Gontier,mcgill,mcgill universitymontrealpqcanada,,Ethical Challenges in Data-Driven Dialogue Systems
+aies,2018,3,32787213278777,Nan Rosemary,Ke,polymtl,polytechnique montralmontrealpqcanada,,Ethical Challenges in Data-Driven Dialogue Systems
+aies,2018,4,32787213278777,Genevieve,Fried,mcgill,mcgill universitymontrealpqcanada,,Ethical Challenges in Data-Driven Dialogue Systems
+aies,2018,5,32787213278777,Ryan,Lowe,mcgill,mcgill universitymontrealpqcanada,,Ethical Challenges in Data-Driven Dialogue Systems
+aies,2018,6,32787213278777,Joelle,Pineau,mcgill,mcgill universitymontrealpqcanada,,Ethical Challenges in Data-Driven Dialogue Systems
+aies,2018,0,32787213278727,Rachel,Freedman,duke,duke universitydurhamncusa,,Adapting a Kidney Exchange Algorithm to Align with Human Values
+aies,2018,1,32787213278727,Jana,Schaich Borg,duke,duke universitydurhamncusa,,Adapting a Kidney Exchange Algorithm to Align with Human Values
+aies,2018,2,32787213278727,Walter,Sinnott-Armstrong,duke,duke universitydurhamncusa,,Adapting a Kidney Exchange Algorithm to Align with Human Values
+aies,2018,3,32787213278727,John P.,Dickerson,umd,university of marylandcollege parkmdusa,,Adapting a Kidney Exchange Algorithm to Align with Human Values
+aies,2018,4,32787213278727,Vincent,Conitzer,duke,duke universitydurhamncusa,,Adapting a Kidney Exchange Algorithm to Align with Human Values
+aies,2018,0,32787213278729,Lucas,Dixon,google,googlenew yorknyusa,,Measuring and Mitigating Unintended Bias in Text Classification
+aies,2018,1,32787213278729,John,Li,google,googlenew yorknyusa,,Measuring and Mitigating Unintended Bias in Text Classification
+aies,2018,2,32787213278729,Jeffrey,Sorensen,google,googlenew yorknyusa,,Measuring and Mitigating Unintended Bias in Text Classification
+aies,2018,3,32787213278729,Nithum,Thain,google,googlenew yorknyusa,,Measuring and Mitigating Unintended Bias in Text Classification
+aies,2018,4,32787213278729,Lucy,Vasserman,google,googlenew yorknyusa,,Measuring and Mitigating Unintended Bias in Text Classification
+aies,2018,0,32787213278745,Virginia,Dignum,,umeuniversityumesweden,,Ethics by Design
+aies,2018,1,32787213278745,Matteo,Baldoni,,universitdegli studi di torinotorinoitaly,,Ethics by Design
+aies,2018,2,32787213278745,Cristina,Baroglio,,universitdegli studi di torinotorinoitaly,,Ethics by Design
+aies,2018,3,32787213278745,Maurizio,Caon,,university of applied sciences and arts western switzerlandfribourgswitzerland,,Ethics by Design
+aies,2018,4,32787213278745,Raja,Chatila,lip6,sorbonne universitparisfrance,,Ethics by Design
+aies,2018,5,32787213278745,Louise,Dennis,google,university of liverpoolliverpoolunited kingdom,,Ethics by Design
+aies,2018,6,32787213278745,Gonzalo,Génova,uc3m,universidad carlos iii de madridlegansspain,,Ethics by Design
+aies,2018,7,32787213278745,Galit,Haim,,the college of management academic studiesrishon lezionisrael,,Ethics by Design
+aies,2018,8,32787213278745,Malte S.,Kließ,ethz,deft technical universitydelftnetherlands,,Ethics by Design
+aies,2018,9,32787213278745,Maite,Lopez-Sanchez,,universitat de barcelonabarcelonaspain,,Ethics by Design
+aies,2018,10,32787213278745,Roberto,Micalizio,,universitdegli studi di torinotorinoitaly,,Ethics by Design
+aies,2018,11,32787213278745,Juan,Pavón,experian,universidad complutense de madridmadridspain,,Ethics by Design
+aies,2018,12,32787213278745,Marija,Slavkovik,uib,university of bergenbergennorway,,Ethics by Design
+aies,2018,13,32787213278745,Matthijs,Smakman,ethz,hu university of applied sciences utrechtutrechtnetherlands,,Ethics by Design
+aies,2018,14,32787213278745,Marlies,van Steenbergen,ethz,hu university of applied sciencesutrechtutrechtnetherlands,,Ethics by Design
+aies,2018,15,32787213278745,Stefano,Tedeschi,,universitdegli studi di torinotorinoitaly,,Ethics by Design
+aies,2018,16,32787213278745,Leon,van der Toree,,university of luxembourgluxembourgluxembourg,,Ethics by Design
+aies,2018,17,32787213278745,Serena,Villata,inria,universitcte dazurcnrsinriaissophia antipolis cedexfrance,,Ethics by Design
+aies,2018,18,32787213278745,Tristan,de Wildt,ethz,delft university of technologydelftnetherlands,,Ethics by Design
+aies,2018,0,32787213278779,Brian Hu,Zhang,stanford,stanford universitystanfordcausa,,Mitigating Unwanted Biases with Adversarial Learning
+aies,2018,1,32787213278779,Blake,Lemoine,google,googlemountain viewcausa,,Mitigating Unwanted Biases with Adversarial Learning
+aies,2018,2,32787213278779,Margaret,Mitchell,google,googlemountain viewcausa,,Mitigating Unwanted Biases with Adversarial Learning
+aies,2018,0,32787213278736,Upol,Ehsan,gatech,georgia institute of technologyatlantagausa,,Rationalization
+aies,2018,1,32787213278736,Brent,Harrison,ntu,university of kentuckylexingtonkyusa,,Rationalization
+aies,2018,2,32787213278736,Larry,Chan,gatech,georgia institute of technologyatlantagausa,,Rationalization
+aies,2018,3,32787213278736,Mark O.,Riedl,gatech,georgia institute of technologyatlantagausa,,Rationalization
+aies,2018,0,32787213278772,Collin,Johnson,umich,university of michiganann arbormiusa,,Socially-Aware Navigation Using Topological Maps and Social Norm Learning
+aies,2018,1,32787213278772,Benjamin,Kuipers,umich,university of michiganann arbormiusa,,Socially-Aware Navigation Using Topological Maps and Social Norm Learning
+aies,2018,0,32787213278761,Mahmoudreza,Babaei,mpi-sws,max planck institute for software systemssaarbruckengermany,,Purple Feed
+aies,2018,1,32787213278761,Juhi,Kulshrestha,mpi-sws,max planck institute for software systemssaarbruckengermany,,Purple Feed
+aies,2018,2,32787213278761,Abhijnan,Chakraborty,iit,max planck institute for software systems ampiit kharagpurindiasaarbruckengermany,,Purple Feed
+aies,2018,3,32787213278761,Fabrício,Benevenuto,ufmg,universidade federal de minas geraisbelo horizontebrazil,,Purple Feed
+aies,2018,4,32787213278761,Krishna P.,Gummadi,mpi-sws,max planck institute for software systemssaarbrueckengermany,,Purple Feed
+aies,2018,5,32787213278761,Adrian,Weller,cam,university of cambridge ampalan turing institutecambridgeunited kingdom,,Purple Feed

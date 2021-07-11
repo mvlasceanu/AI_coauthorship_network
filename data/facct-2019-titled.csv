@@ -1,0 +1,150 @@
+conference,year,index,paper_id,given_name,family_name,org,institution,email,title
+facct,2019,0,32875603287561,Ran,Canetti,bu,boston university and tel aviv university,,From Soft Classifiers to Hard Decisions
+facct,2019,1,32875603287561,Aloni,Cohen,mit,mit,,From Soft Classifiers to Hard Decisions
+facct,2019,2,32875603287561,Nishanth,Dikkala,mit,mit,,From Soft Classifiers to Hard Decisions
+facct,2019,3,32875603287561,Govind,Ramnarayan,mit,mit,,From Soft Classifiers to Hard Decisions
+facct,2019,4,32875603287561,Sarah,Scheffler,bu,boston university,,From Soft Classifiers to Hard Decisions
+facct,2019,5,32875603287561,Adam,Smith,bu,boston university,,From Soft Classifiers to Hard Decisions
+facct,2019,0,32875603287568,Jake,Goldenfein,cornell,cornell technew yorknew york and cornell techcornell university and swinburne university of technology,,The Profiling Potential of Computer Vision and the Challenge of Computational Empiricism
+facct,2019,0,32875603287599,Hussein,Mouzannar,usc,american university of beirut,,From Fair Decision Making To Social Equality
+facct,2019,1,32875603287599,Mesrob I.,Ohannessian,ttic,toyota technological institute at chicago,,From Fair Decision Making To Social Equality
+facct,2019,2,32875603287599,Nathan,Srebro,ttic,toyota technological institute at chicago,,From Fair Decision Making To Social Equality
+facct,2019,0,32875603287579,Nicole,Immorlica,microsoft,microsoft research,,Access to Population-Level Signaling as a Source of Inequality
+facct,2019,1,32875603287579,Katrina,Ligett,huji,hebrew university of jerusalem,,Access to Population-Level Signaling as a Source of Inequality
+facct,2019,2,32875603287579,Juba,Ziani,caltech,california institute of technology,,Access to Population-Level Signaling as a Source of Inequality
+facct,2019,0,32875603287565,Shan,Jiang,northeastern,northeastern university,,Who's the Guinea Pig?
+facct,2019,1,32875603287565,John,Martin,northeastern,northeastern university,,Who's the Guinea Pig?
+facct,2019,2,32875603287565,Christo,Wilson,northeastern,northeastern university,,Who's the Guinea Pig?
+facct,2019,0,32875603287591,Brenda,Leong,washington,future of privacy forumwashingtondcusa,,Robot Eyes Wide Shut
+facct,2019,1,32875603287591,Evan,Selinger,rit,department of philosophyrochester institute of technologyrochesternyusa,,Robot Eyes Wide Shut
+facct,2019,0,32875603287583,Dimitrios,Bountouridis,ethz,delft university of technologythe netherlands,,SIREN
+facct,2019,1,32875603287583,Jaron,Harambam,uva,institute for information lawuniversity of amsterdamthe netherlands,,SIREN
+facct,2019,2,32875603287583,Mykola,Makhortykh,uva,amsterdam school of communication researchuniversity of amsterdamthe netherlands,,SIREN
+facct,2019,3,32875603287583,Mónica,Marrero,ethz,delft university of technologythe netherlands,,SIREN
+facct,2019,4,32875603287583,Nava,Tintarev,ethz,delft university of technologythe netherlands,,SIREN
+facct,2019,5,32875603287583,Claudia,Hauff,ethz,delft university of technologythe netherlands,,SIREN
+facct,2019,0,32875603287595,Dallas,Card,cmu,machine learning departmentcarnegie mellon universitypittsburghpennsylvania,,Deep Weighted Averaging Classifiers
+facct,2019,1,32875603287595,Michael,Zhang,washington,paul gallen school of computer science and engineeringuniversity of washingtonseattlewashington,,Deep Weighted Averaging Classifiers
+facct,2019,2,32875603287595,Noah A.,Smith,washington,paul gallen school of computer science and engineeringuniversity of washingtonseattlewashington and allen institute for artificialintelligenceseattlewashington,,Deep Weighted Averaging Classifiers
+facct,2019,0,32875603287570,Abhijnan,Chakraborty,iit,mpi for software systemsgermany iit kharagpurindia,,Equality of Voice
+facct,2019,1,32875603287570,Gourab K.,Patro,iit,iit kharagpurindia,,Equality of Voice
+facct,2019,2,32875603287570,Niloy,Ganguly,iit,iit kharagpurindia,,Equality of Voice
+facct,2019,3,32875603287570,Krishna P.,Gummadi,,mpi for software systemsgermany,,Equality of Voice
+facct,2019,4,32875603287570,Patrick,Loiseau,inria,univgrenoble alpesinriacnrsgrenoble inplig ampmpi sws,,Equality of Voice
+facct,2019,0,32875603287578,Sampath,Kannan,upenn,university of pennsylvania,,Downstream Effects of Affirmative Action
+facct,2019,1,32875603287578,Aaron,Roth,upenn,university of pennsylvania,,Downstream Effects of Affirmative Action
+facct,2019,2,32875603287578,Juba,Ziani,caltech,california institute of technology,,Downstream Effects of Affirmative Action
+facct,2019,0,32875603287585,Severin,Engelmann,tum,technical university of munich,,"Clear Sanctions, Vague Rewards"
+facct,2019,1,32875603287585,Mo,Chen,tum,technical university of munich,,"Clear Sanctions, Vague Rewards"
+facct,2019,2,32875603287585,Felix,Fischer,tum,technical university of munich and iflondon,,"Clear Sanctions, Vague Rewards"
+facct,2019,3,32875603287585,Ching-yu,Kao,itu,fraunhofer institute for applied and integrated security,,"Clear Sanctions, Vague Rewards"
+facct,2019,4,32875603287585,Jens,Grossklags,tum,technical university of munich,,"Clear Sanctions, Vague Rewards"
+facct,2019,0,32875603287588,Aws,Albarghouthi,wisc,university of wisconsinmadison,,Fairness-Aware Programming
+facct,2019,1,32875603287588,Samuel,Vinitsky,wisc,university of wisconsinmadison,,Fairness-Aware Programming
+facct,2019,0,32875603287567,Samir,Passi,cornell,information sciencecornell university,,Problem Formulation and Fairness
+facct,2019,1,32875603287567,Solon,Barocas,cornell,information sciencecornell university,,Problem Formulation and Fairness
+facct,2019,0,32875603287601,L. Elisa,Celis,yale,yale university,,Controlling Polarization in Personalization
+facct,2019,1,32875603287601,Sayash,Kapoor,iit,iit kanpur,,Controlling Polarization in Personalization
+facct,2019,2,32875603287601,Farnood,Salehi,epfl,cole polytechnique fdrale de lausanne epfl,,Controlling Polarization in Personalization
+facct,2019,3,32875603287601,Nisheeth,Vishnoi,yale,yale university,,Controlling Polarization in Personalization
+facct,2019,0,32875603287577,Meg,Young,washington,university of washington,,Beyond Open vs. Closed
+facct,2019,1,32875603287577,Luke,Rodriguez,washington,university of washington,,Beyond Open vs. Closed
+facct,2019,2,32875603287577,Emily,Keller,washington,university of washington,,Beyond Open vs. Closed
+facct,2019,3,32875603287577,Feiyang,Sun,washington,university of washington,,Beyond Open vs. Closed
+facct,2019,4,32875603287577,Boyang,Sa,washington,university of washington,,Beyond Open vs. Closed
+facct,2019,5,32875603287577,Jan,Whittington,washington,university of washington,,Beyond Open vs. Closed
+facct,2019,6,32875603287577,Bill,Howe,washington,university of washington,,Beyond Open vs. Closed
+facct,2019,0,32875603287562,Smitha,Milli,berkeley,university of californiaberkeley,,Model Reconstruction from Model Explanations
+facct,2019,1,32875603287562,Ludwig,Schmidt,berkeley,university of californiaberkeley,,Model Reconstruction from Model Explanations
+facct,2019,2,32875603287562,Anca D.,Dragan,berkeley,university of californiaberkeley,,Model Reconstruction from Model Explanations
+facct,2019,3,32875603287562,Moritz,Hardt,berkeley,university of californiaberkeley,,Model Reconstruction from Model Explanations
+facct,2019,0,32875603287587,Stevie,Chancellor,gatech,georgia techatlantagaus,,A Taxonomy of Ethical Tensions in Inferring Mental Health States from Social Media
+facct,2019,1,32875603287587,Michael L.,Birnbaum,nyu,northwell healthglen oaksnyus,,A Taxonomy of Ethical Tensions in Inferring Mental Health States from Social Media
+facct,2019,2,32875603287587,Eric D.,Caine,nyu,university of rochesterrochesternyus,,A Taxonomy of Ethical Tensions in Inferring Mental Health States from Social Media
+facct,2019,3,32875603287587,Vincent M. B.,Silenzio,nyu,university of rochesterrochesternyus,,A Taxonomy of Ethical Tensions in Inferring Mental Health States from Social Media
+facct,2019,4,32875603287587,Munmun,De Choudhury,gatech,georgia techatlantagaus,,A Taxonomy of Ethical Tensions in Inferring Mental Health States from Social Media
+facct,2019,0,32875603287576,Smitha,Milli,berkeley,university of californiaberkeley,,The Social Cost of Strategic Classification
+facct,2019,1,32875603287576,John,Miller,berkeley,university of californiaberkeley,,The Social Cost of Strategic Classification
+facct,2019,2,32875603287576,Anca D.,Dragan,berkeley,university of californiaberkeley,,The Social Cost of Strategic Classification
+facct,2019,3,32875603287576,Moritz,Hardt,berkeley,university of californiaberkeley,,The Social Cost of Strategic Classification
+facct,2019,0,32875603287563,Ben,Green,harvard,harvard university,,Disparate Interactions
+facct,2019,1,32875603287563,Yiling,Chen,harvard,harvard university,,Disparate Interactions
+facct,2019,0,32875603287580,Filipe N.,Ribeiro,ufmg,ufopufmgbrazil,,On Microtargeting Socially Divisive Ads
+facct,2019,1,32875603287580,Koustuv,Saha,gatech,georgia techus,,On Microtargeting Socially Divisive Ads
+facct,2019,2,32875603287580,Mahmoudreza,Babaei,mpi-sws,mpiswsgermany,,On Microtargeting Socially Divisive Ads
+facct,2019,3,32875603287580,Lucas,Henrique,ufmg,ufmgbrazil,,On Microtargeting Socially Divisive Ads
+facct,2019,4,32875603287580,Johnnatan,Messias,mpi-sws,mpiswsgermany,,On Microtargeting Socially Divisive Ads
+facct,2019,5,32875603287580,Fabricio,Benevenuto,ufmg,ufmgbrazil,,On Microtargeting Socially Divisive Ads
+facct,2019,6,32875603287580,Oana,Goga,cnrs,univgrenoble alpescnrsgrenoble inpligfrance,,On Microtargeting Socially Divisive Ads
+facct,2019,7,32875603287580,Krishna P.,Gummadi,mpi-sws,mpiswsgermany,,On Microtargeting Socially Divisive Ads
+facct,2019,8,32875603287580,Elissa M.,Redmiles,umd,university of marylandus,,On Microtargeting Socially Divisive Ads
+facct,2019,0,32875603287581,Mahmoudreza,Babaei,mpi-sws,mpiswsgermany,,Analyzing Biases in Perception of Truth in News Stories and Their Implications for Fact Checking
+facct,2019,1,32875603287581,Abhijnan,Chakraborty,mpi-sws,mpiswsgermany,,Analyzing Biases in Perception of Truth in News Stories and Their Implications for Fact Checking
+facct,2019,2,32875603287581,Juhi,Kulshrestha,,gesisgermany,,Analyzing Biases in Perception of Truth in News Stories and Their Implications for Fact Checking
+facct,2019,3,32875603287581,Elissa M.,Redmiles,umd,university of marylandus,,Analyzing Biases in Perception of Truth in News Stories and Their Implications for Fact Checking
+facct,2019,4,32875603287581,Meeyoung,Cha,kaist,kaistsouth korea,,Analyzing Biases in Perception of Truth in News Stories and Their Implications for Fact Checking
+facct,2019,5,32875603287581,Krishna P.,Gummadi,mpi-sws,mpiswsgermany,,Analyzing Biases in Perception of Truth in News Stories and Their Implications for Fact Checking
+facct,2019,0,32875603287597,Lily,Hu,harvard,harvard universitycambridgema,,The Disparate Effects of Strategic Manipulation
+facct,2019,1,32875603287597,Nicole,Immorlica,microsoft,microsoft researchcambridgema,,The Disparate Effects of Strategic Manipulation
+facct,2019,2,32875603287597,Jennifer Wortman,Vaughan,microsoft,microsoft researchnew yorkny,,The Disparate Effects of Strategic Manipulation
+facct,2019,0,32875603287584,Hoda,Heidari,ethz,eth zrich,,A Moral Framework for Understanding Fair ML through Economic Models of Equality of Opportunity
+facct,2019,1,32875603287584,Michele,Loi,,university of zrich,,A Moral Framework for Understanding Fair ML through Economic Models of Equality of Opportunity
+facct,2019,2,32875603287584,Krishna P.,Gummadi,mpi-sws,mpisws,,A Moral Framework for Understanding Fair ML through Economic Models of Equality of Opportunity
+facct,2019,3,32875603287584,Andreas,Krause,ethz,eth zrich,,A Moral Framework for Understanding Fair ML through Economic Models of Equality of Opportunity
+facct,2019,0,32875603287572,Maria,De-Arteaga,cmu,carnegie mellon university,,Bias in Bios
+facct,2019,1,32875603287572,Alexey,Romanov,umass,university of massachusetts lowell,,Bias in Bios
+facct,2019,2,32875603287572,Hanna,Wallach,microsoft,microsoft research,,Bias in Bios
+facct,2019,3,32875603287572,Jennifer,Chayes,microsoft,microsoft research,,Bias in Bios
+facct,2019,4,32875603287572,Christian,Borgs,microsoft,microsoft research,,Bias in Bios
+facct,2019,5,32875603287572,Alexandra,Chouldechova,cmu,carnegie mellon university,,Bias in Bios
+facct,2019,6,32875603287572,Sahin,Geyik,linkedin,linkedin,,Bias in Bios
+facct,2019,7,32875603287572,Krishnaram,Kenthapadi,linkedin,linkedin,,Bias in Bios
+facct,2019,8,32875603287572,Adam Tauman,Kalai,microsoft,microsoft research,,Bias in Bios
+facct,2019,0,32875603287564,David,Madras,toronto,university of torontovector institute,,Fairness through Causal Awareness
+facct,2019,1,32875603287564,Elliot,Creager,toronto,university of torontovector institute,,Fairness through Causal Awareness
+facct,2019,2,32875603287564,Toniann,Pitassi,toronto,university of torontovector institute,,Fairness through Causal Awareness
+facct,2019,3,32875603287564,Richard,Zemel,toronto,university of torontovector institute,,Fairness through Causal Awareness
+facct,2019,0,32875603287573,Bruce,Glymour,,department of philosophykansas state universitymanhattanksusa,,Measuring the Biases that Matter
+facct,2019,1,32875603287573,Jonathan,Herington,,department of philosophykansas state universitymanhattanksusa,,Measuring the Biases that Matter
+facct,2019,0,32875603287598,Andrew D.,Selbst,csiro,data ampsociety research institutenew yorkny,,Fairness and Abstraction in Sociotechnical Systems
+facct,2019,1,32875603287598,Danah,Boyd,microsoft,microsoft research and data ampsociety research institutenew yorkny,,Fairness and Abstraction in Sociotechnical Systems
+facct,2019,2,32875603287598,Sorelle A.,Friedler,haverford,haverford collegehaverfordpa,,Fairness and Abstraction in Sociotechnical Systems
+facct,2019,3,32875603287598,Suresh,Venkatasubramanian,utah,university of utahsalt lake cityut,,Fairness and Abstraction in Sociotechnical Systems
+facct,2019,4,32875603287598,Janet,Vertesi,princeton,princeton universityprincetonnj,,Fairness and Abstraction in Sociotechnical Systems
+facct,2019,0,32875603287575,Sebastian,Benthall,nyu,new york university,,Racial categories in machine learning
+facct,2019,1,32875603287575,Bruce D.,Haynes,ucdavis,university of californiadavis,,Racial categories in machine learning
+facct,2019,0,32875603287569,Chris,Russell,turing,the university of surrey and the alan turing institute,,Efficient Search for Diverse Coherent Explanations
+facct,2019,0,32875603287590,Vivian,Lai,colorado,university of colorado boulder,,On Human Predictions with Explanations and Predictions of Machine Learning Models
+facct,2019,1,32875603287590,Chenhao,Tan,colorado,university of colorado boulder,,On Human Predictions with Explanations and Predictions of Machine Learning Models
+facct,2019,0,32875603287592,Michael,Kearns,upenn,department of computer and information sciencesuniversity of pennsylvania,,An Empirical Study of Rich Subgroup Fairness for Machine Learning
+facct,2019,1,32875603287592,Seth,Neel,upenn,department of statisticsuniversity of pennsylvania,,An Empirical Study of Rich Subgroup Fairness for Machine Learning
+facct,2019,2,32875603287592,Aaron,Roth,upenn,department of computer and information sciencesuniversity of pennsylvania,,An Empirical Study of Rich Subgroup Fairness for Machine Learning
+facct,2019,3,32875603287592,Zhiwei Steven,Wu,umn,department of computer science and engineeringuniversity of minnesota,,An Empirical Study of Rich Subgroup Fairness for Machine Learning
+facct,2019,0,32875603287586,L. Elisa,Celis,yale,yale university,,Classification with Fairness Constraints
+facct,2019,1,32875603287586,Lingxiao,Huang,epfl,epfl,,Classification with Fairness Constraints
+facct,2019,2,32875603287586,Vijay,Keswani,epfl,epfl,,Classification with Fairness Constraints
+facct,2019,3,32875603287586,Nisheeth K.,Vishnoi,yale,yale university,,Classification with Fairness Constraints
+facct,2019,0,32875603287566,Berk,Ustun,harvard,harvard universitycambridgema,,Actionable Recourse in Linear Classification
+facct,2019,1,32875603287566,Alexander,Spangher,cmu,carnegie mellon universitypittsburghpa,,Actionable Recourse in Linear Classification
+facct,2019,2,32875603287566,Yang,Liu,ucsc,uc santa cruz csesanta cruzca,,Actionable Recourse in Linear Classification
+facct,2019,0,32875603287593,Ziad,Obermeyer,berkeley,uc berkeleyberkeleyca,,Dissecting Racial Bias in an Algorithm that Guides Health Decisions for 70 Million People
+facct,2019,1,32875603287593,Sendhil,Mullainathan,uchicago,university of chicagochicagoil,,Dissecting Racial Bias in an Algorithm that Guides Health Decisions for 70 Million People
+facct,2019,0,32875603287589,Sorelle A.,Friedler,haverford,haverford college,,A comparative study of fairness-enhancing interventions in machine learning
+facct,2019,1,32875603287589,Carlos,Scheidegger,,university of arizona,,A comparative study of fairness-enhancing interventions in machine learning
+facct,2019,2,32875603287589,Suresh,Venkatasubramanian,utah,university of utah,,A comparative study of fairness-enhancing interventions in machine learning
+facct,2019,3,32875603287589,Sonam,Choudhary,utah,university of utah,,A comparative study of fairness-enhancing interventions in machine learning
+facct,2019,4,32875603287589,Evan P.,Hamilton,haverford,haverford college,,A comparative study of fairness-enhancing interventions in machine learning
+facct,2019,5,32875603287589,Derek,Roth,haverford,haverford college,,A comparative study of fairness-enhancing interventions in machine learning
+facct,2019,0,32875603287571,Hadi,Elzayn,upenn,university of pennsylvania,,Fair Algorithms for Learning in Allocation Problems
+facct,2019,1,32875603287571,Shahin,Jabbari,upenn,university of pennsylvania,,Fair Algorithms for Learning in Allocation Problems
+facct,2019,2,32875603287571,Christopher,Jung,upenn,university of pennsylvania,,Fair Algorithms for Learning in Allocation Problems
+facct,2019,3,32875603287571,Michael,Kearns,upenn,university of pennsylvania,,Fair Algorithms for Learning in Allocation Problems
+facct,2019,4,32875603287571,Seth,Neel,upenn,university of pennsylvania,,Fair Algorithms for Learning in Allocation Problems
+facct,2019,5,32875603287571,Aaron,Roth,upenn,university of pennsylvania,,Fair Algorithms for Learning in Allocation Problems
+facct,2019,6,32875603287571,Zachary,Schutzman,upenn,university of pennsylvania,,Fair Algorithms for Learning in Allocation Problems
+facct,2019,0,32875603287582,Moshe,Babaioff,microsoft,microsoft research,,Fair Allocation through Competitive Equilibrium from Generic Incomes
+facct,2019,1,32875603287582,Noam,Nisan,huji,hebrew university of jerusalem,,Fair Allocation through Competitive Equilibrium from Generic Incomes
+facct,2019,2,32875603287582,Inbal,Talgam-Cohen,technion,technion,,Fair Allocation through Competitive Equilibrium from Generic Incomes
+facct,2019,0,32875603287574,Brent,Mittelstadt,ox,university of oxfordthe alan turing institute,,Explaining Explanations in AI
+facct,2019,1,32875603287574,Chris,Russell,turing,university of surreythe alan turing institute,,Explaining Explanations in AI
+facct,2019,2,32875603287574,Sandra,Wachter,ox,university of oxfordthe alan turing institute,,Explaining Explanations in AI

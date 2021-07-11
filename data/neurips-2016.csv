@@ -1,0 +1,1954 @@
+conference,year,index,paper_id,given_name,family_name,org,institution,email
+neurips,2016,0,1283,Chien-Ju,Ho,cornell,Cornell University,ch624@cornell.edu
+neurips,2016,1,1283,Rafael,Frongillo,colorado,CU Boulder,raf@colorado.edu
+neurips,2016,2,1283,Yiling,Chen,harvard,Harvard University,yiling@seas.harvard.edu
+neurips,2016,0,2113,Georgios,Arvanitidis,dtu,DTU,gear@dtu.dk
+neurips,2016,1,2113,Lars,Hansen,dtu,Technical University of Denmark,lkai@dtu.dk
+neurips,2016,2,2113,Søren,Hauberg,dtu,Technical University of Denmark,sohau@dtu.dk
+neurips,2016,0,2226,Klaus,Greff,cai,IDSIA,antti@cai.fi
+neurips,2016,1,2226,Antti,Rasmus,cai,The Curious AI Company,mathias@cai.fi
+neurips,2016,2,2226,Mathias,Berglund,cai,The Curious AI Company,hotloo@cai.fi
+neurips,2016,3,2226,Tele,Hao,cai,The Curious AI Company,harri@cai.fi
+neurips,2016,4,2226,Harri,Valpola,idsia,The Curious AI Company,klaus@idsia.ch
+neurips,2016,5,2226,Jürgen,Schmidhuber,idsia,IDSIA,juergen@idsia.ch
+neurips,2016,0,2262,Wei-Shou,Hsu,uwaterloo,University of Waterloo,wwhsu@uwaterloo.ca
+neurips,2016,1,2262,Pascal,Poupart,uwaterloo,University of Waterloo,ppoupart@uwaterloo.ca
+neurips,2016,0,1467,Yong,Ren,tsinghua,Tsinghua University,renyong15@mails.tsinghua.edu.cn
+neurips,2016,1,1467,Jun,Zhu,tsinghua,Tsinghua University,luoyc15@mails.tsinghua.edu.cn
+neurips,2016,2,1467,Jialian,Li,tsinghua,Tsinghua University,jl12@mails.tsinghua.edu.cn
+neurips,2016,3,1467,Yucen,Luo,tsinghua,Tsinghua University,dcszj@tsinghua.edu.cn
+neurips,2016,0,245,Hao,Wang,ust,HKUST,hwangaz@cse.ust.hk
+neurips,2016,1,245,Xingjian,SHI,ust,Hong Kong University of Science and Technology,xshiab@cse.ust.hk
+neurips,2016,2,245,Dit-Yan,Yeung,ust,"HKUST, Hong Kong",dyyeung@cse.ust.hk
+neurips,2016,0,2327,Matthias,Seeger,amazon,Amazon,matthis@amazon.de
+neurips,2016,1,2327,David,Salinas,amazon,Amazon,dsalina@amazon.de
+neurips,2016,2,2327,Valentin,Flunkert,amazon,Amazon,flunkert@amazon.de
+neurips,2016,0,63,Tianfan,Xue,mit,MIT CSAIL,tfxue@mit.edu
+neurips,2016,1,63,Jiajun,Wu,mit,MIT,jiajunwu@mit.edu
+neurips,2016,2,63,Katherine,Bouman,mit,MIT,klbouman@mit.edu
+neurips,2016,3,63,Bill,Freeman,mit,MIT/Google,billf@mit.edu
+neurips,2016,0,2454,Ashish,Khetan,illinois,University of Illinois Urbana-,khetan2@illinois.edu
+neurips,2016,1,2454,Sewoong,Oh,illinois,UIUC,swoh@illinois.edu
+neurips,2016,0,1089,Alain,Durmus,,Telecom ParisTech,
+neurips,2016,1,1089,Umut,Simsekli,,Télécom ParisTech,
+neurips,2016,2,1089,Eric,Moulines,,Ecole Polytechnique,
+neurips,2016,3,1089,Roland,Badeau,,Telecom ParisTech,
+neurips,2016,4,1089,Gaël,RICHARD,,Telecom ParisTech,
+neurips,2016,0,339,Carl,Vondrick,mit,MIT,vondrick@mit.edu
+neurips,2016,1,339,Hamed,Pirsiavash,umbc,"University of Maryland, Baltimore County",hpirsiav@umbc.edu
+neurips,2016,2,339,Antonio,Torralba,mit,MIT,torralba@mit.edu
+neurips,2016,0,2311,Andrej,Risteski,princeton,Princeton University,yuanzhil@cs.princeton.edu
+neurips,2016,1,2311,Yuanzhi,Li,princeton,Princeton University,risteski@cs.princeton.edu
+neurips,2016,0,1911,Michaël,Defferrard,epfl,EPFL,michael.defferrard@epfl.ch
+neurips,2016,1,1911,Xavier,Bresson,epfl,EPFL,xavier.bresson@epfl.ch
+neurips,2016,2,1911,Pierre,Vandergheynst,epfl,EPFL,pierre.vandergheynst@epfl.ch
+neurips,2016,0,1792,Baharan,Mirzasoleiman,,ETH Zurich,
+neurips,2016,1,1792,Morteza,Zadimoghaddam,,Google Research,
+neurips,2016,2,1792,Amin,Karbasi,,Yale,
+neurips,2016,0,269,Maja,Rudolph,,Columbia University,
+neurips,2016,1,269,Francisco,Ruiz,,Columbia University,
+neurips,2016,2,269,Stephan,Mandt,,Disney Research,
+neurips,2016,3,269,David,Blei,,Columbia University,
+neurips,2016,0,1077,William,Hoiles,ucla,University of California,whoiles@ucla.edu
+neurips,2016,1,1077,Mihaela,van der Schaar,ucla,"University of California, Los Angeles",mihaela@ee.ucla.edu
+neurips,2016,0,158,Hakan,Bilen,ox,University of Oxford,hbilen@robots.ox.ac.uk
+neurips,2016,1,158,Andrea,Vedaldi,ox,University of Oxford,vedaldi@robots.ox.ac.uk
+neurips,2016,0,521,Jason,Weston,fb,Facebook AI Research,jase@fb.com
+neurips,2016,0,594,Yarin,Gal,cam,University of Cambridge,yg279@cam.ac.uk
+neurips,2016,1,594,Zoubin,Ghahramani,cam,University of Cambridge,zg201@cam.ac.uk
+neurips,2016,0,1632,Noah,Apthorpe,,Princeton University,
+neurips,2016,1,1632,Alexander,Riordan,,Princeton University,
+neurips,2016,2,1632,Robert,Aguilar,,Princeton University,
+neurips,2016,3,1632,Jan,Homann,,Princeton University,
+neurips,2016,4,1632,Yi,Gu,,Princeton University,
+neurips,2016,5,1632,David,Tank,,Princeton University,
+neurips,2016,6,1632,H. Sebastian,Seung,,Princeton University,
+neurips,2016,0,2024,Shreyas,Saxena,,INRIA,
+neurips,2016,1,2024,Jakob,Verbeek,,INRIA,
+neurips,2016,0,278,Kaito,Fujii,kyoto-u,Kyoto University,fujii@ml.ist.i.kyoto-u.ac.jp
+neurips,2016,1,278,Hisashi,Kashima,kyoto-u,Kyoto University,kashima@i.kyoto-u.ac.jp
+neurips,2016,0,1677,Madhu,Advani,stanford,Stanford University,msadvani@stanford.edu
+neurips,2016,1,1677,Surya,Ganguli,stanford,Stanford,sganguli@stanford.edu
+neurips,2016,0,2029,Jin,Lu,uconn,University of Connecticut,jin.lu@uconn.edu
+neurips,2016,1,2029,Guannan,Liang,uconn,University of Connecticut,guannan.liang@uconn.edu
+neurips,2016,2,2029,Jiangwen,Sun,uconn,University of Connecticut,jiangwen.sun@uconn.edu
+neurips,2016,3,2029,Jinbo,Bi,uconn,University of Connecticut,jinbo.bi@uconn.edu
+neurips,2016,0,1396,Hossein,Esfandiari,,University of Maryland,
+neurips,2016,1,1396,Nitish,Korula,,Google Research,
+neurips,2016,2,1396,Vahab,Mirrokni,,Google,
+neurips,2016,0,144,Wittawat,Jitkrittum,gmail,Gatsby Unit,wittawatj@gmail.com
+neurips,2016,1,144,Zoltán,Szabó,gmail,École Polytechnique,zoltan.szabo.m@gmail.com
+neurips,2016,2,144,Kacper,Chwialkowski,gmail,Gatsby Unit,kacper.chwialkowski@gmail.com
+neurips,2016,3,144,Arthur,Gretton,gmail,University Collage London,arthur.gretton@gmail.com
+neurips,2016,0,1173,Laetitia,Papaxanthos,,ETH Zurich,
+neurips,2016,1,1173,Felipe,Llinares-López,,ETH Zurich,
+neurips,2016,2,1173,Dean,Bodenham,,ETH Zurich,
+neurips,2016,3,1173,Karsten,Borgwardt,,ETH Zurich,
+neurips,2016,0,888,Ming,Lin,,University of Michigan,
+neurips,2016,1,888,Jieping,Ye,,University of Michigan,
+neurips,2016,0,2190,Jacob,Steinhardt,,Stanford University,
+neurips,2016,1,2190,Gregory,Valiant,,Stanford University,
+neurips,2016,2,2190,Moses,Charikar,,Stanford University,
+neurips,2016,0,2474,Jacob,Abernethy,umich,University of Michigan,jabernet@umich.edu
+neurips,2016,1,2474,Kareem,Amin,umich,University of Michigan,amkareem@umich.edu
+neurips,2016,2,2474,Ruihao,Zhu,mit,MIT,rzhu@mit.edu
+neurips,2016,0,1505,Aditya,Grover,stanford,Stanford University,adityag@cs.stanford.edu
+neurips,2016,1,1505,Stefano,Ermon,stanford,Stanford,ermon@cs.stanford.edu
+neurips,2016,0,1574,Juho,Lee,postech,POSTECH,stonecold@postech.ac.kr
+neurips,2016,1,1574,Lancelot,James,ust,HKUST,lancelot@ust.hk
+neurips,2016,2,1574,Seungjin,Choi,postech,POSTECH,seungjin@postech.ac.kr
+neurips,2016,0,2147,Bo,Xin,pku,Peking University,yizhou.wang@pku.edu.cn
+neurips,2016,1,2147,Yizhou,Wang,pku,Peking University,wgao@pku.edu.cn
+neurips,2016,2,2147,Wen,Gao,microsoft,peking university,boxin@microsoft.com
+neurips,2016,3,2147,David,Wipf,microsoft,Microsoft Research,baoyuanw@microsoft.com
+neurips,2016,4,2147,Baoyuan,Wang,microsoft,Microsoft Research,davidwip@microsoft.com
+neurips,2016,0,413,Weifeng,Chen,umich,University of Michigan,wfchen@umich.edu
+neurips,2016,1,413,Zhao,Fu,umich,University of Michigan,zhaofu@umich.edu
+neurips,2016,2,413,Dawei,Yang,umich,University of Michigan,ydawei@umich.edu
+neurips,2016,3,413,Jia,Deng,umich,University of Michigan,jiadeng@umich.edu
+neurips,2016,0,1347,Shanshan,Wu,utexas,UT Austin,shanshan@utexas.edu
+neurips,2016,1,1347,Srinadh,Bhojanapalli,ttic,TTI Chicago,srinadh@ttic.edu
+neurips,2016,2,1347,Sujay,Sanghavi,utexas,UT-Austin,sanghavi@mail.utexas.edu
+neurips,2016,3,1347,Alexandros,Dimakis,utexas,"University of Texas, Austin",dimakis@austin.utexas.edu
+neurips,2016,0,198,Malik,Magdon-Ismail,rpi,Rensselaer,magdon@cs.rpi.edu
+neurips,2016,1,198,Christos,Boutsidis,gmail,Yahoo Labs,christos.boutsidis@gmail.com
+neurips,2016,0,1288,Roger,Grosse,,University of Toronto,
+neurips,2016,1,1288,Siddharth,Ancha,,University of Toronto,
+neurips,2016,2,1288,Daniel,Roy,,University of Toronto,
+neurips,2016,0,1422,Xiaojiao,Mao,,Nanjing University,
+neurips,2016,1,1422,Chunhua,Shen,,,
+neurips,2016,2,1422,Yu-Bin,Yang,,NanjingUniversity,
+neurips,2016,0,885,Nils,Kriege,tu-dortmund,TU Dortmund,nils.kriege@tu-dortmund.de
+neurips,2016,1,885,Pierre-Louis,Giscard,york,University of York,pierre-louis.giscard@york.ac.uk
+neurips,2016,2,885,Richard,Wilson,york,University of York,richard.wilson@york.ac.uk
+neurips,2016,0,639,Tomoharu,Iwata,ntt,NTT,iwata.tomoharu@lab.ntt.co.jp
+neurips,2016,1,639,Makoto,Yamada,ieee,Kyoto University,makoto.m.yamada@ieee.org
+neurips,2016,0,2433,Jonathan,Kadmon,,Hebrew University,
+neurips,2016,1,2433,Haim,Sompolinsky,,Hebrew University and Harvard University,
+neurips,2016,0,2245,Daniel,McNamee,,University of Cambridge,
+neurips,2016,1,2245,Daniel,Wolpert,,University of Cambridge,
+neurips,2016,2,2245,Mate,Lengyel,,University of Cambridge,
+neurips,2016,0,691,Qi,Meng,pku,Peking University,1qimeng13@pku.edu.cn
+neurips,2016,1,691,Guolin,Ke,microsoft,Microsoft Research,2Guolin.Ke@microsoft.com
+neurips,2016,2,691,Taifeng,Wang,microsoft,Microsoft Research,taifengw@microsoft.com
+neurips,2016,3,691,Wei,Chen,microsoft,Microsoft Research,wche@microsoft.com
+neurips,2016,4,691,Qiwei,Ye,microsoft,Microsoft Research,qiwye@microsoft.com
+neurips,2016,5,691,Zhi-Ming,Ma,microsoft,Academy of Mathematics and Systems Science,tie-yan.liu@microsoft.com
+neurips,2016,6,691,Tie-Yan,Liu,amt,Microsoft Research,3mazm@amt.ac.cn
+neurips,2016,0,2462,Gao,Huang,cornell,Cornell University,gh349@cornell.edu
+neurips,2016,1,2462,Chuan,Guo,cornell,Cornell University,cg563@cornell.edu
+neurips,2016,2,2462,Matt,Kusner,cornell,Washington University in St. Louis,ys646@cornell.edu
+neurips,2016,3,2462,Yu,Sun,cornell,Cornell University,kqw4@cornell.edu
+neurips,2016,4,2462,Fei,Sha,turing,University of Southern California,mkusner@turing.ac.uk
+neurips,2016,5,2462,Kilian,Weinberger,ucla,Cornell University,feisha@cs.ucla.edu
+neurips,2016,0,2199,Marius,Pachitariu,,"Gatsby Unit, UCL",
+neurips,2016,1,2199,Nicholas,Steinmetz,,UCL,
+neurips,2016,2,2199,Shabnam,Kadir,,University College London,
+neurips,2016,3,2199,Matteo,Carandini,,UCL,
+neurips,2016,4,2199,Kenneth,Harris,,UCL,
+neurips,2016,0,2296,Elvis,DOHMATOB,,Inria,
+neurips,2016,1,2296,Arthur,Mensch,,inria,
+neurips,2016,2,2296,Gael,Varoquaux,,"Parietal Team, INRIA",
+neurips,2016,3,2296,Bertrand,Thirion,,INRIA,
+neurips,2016,0,1929,Jason,Pazis,duke,MIT,parr@cs.duke.edu
+neurips,2016,1,1929,Ronald,Parr,mit,Duke University,jpazis@mit.edu
+neurips,2016,2,1929,Jonathan,How,mit,MIT,jhow@mit.edu
+neurips,2016,0,527,Aryeh,Kontorovich,,Ben Gurion University,
+neurips,2016,1,527,Sivan,Sabato,,Ben-Gurion University of the Negev,
+neurips,2016,2,527,Ruth,Urner,,MPI Tuebingen,
+neurips,2016,0,159,Yu-Xiong,Wang,cmu,Carnegie Mellon University,yuxiongw@cs.cmu.edu
+neurips,2016,1,159,Martial,Hebert,cmu,Carnegie Mellon University,hebert@cs.cmu.edu
+neurips,2016,0,1206,Eunice Yuh-Jie,Chen,ucla,UCLA,eyjchen@cs.ucla.edu
+neurips,2016,1,1206,Yujia,Shen,ucla,UCLA,yujias@cs.ucla.edu
+neurips,2016,2,1206,Arthur,Choi,ucla,UCLA,aychoi@cs.ucla.edu
+neurips,2016,3,1206,Adnan,Darwiche,ucla,UCLA,darwiche@cs.ucla.edu
+neurips,2016,0,1670,Ben,Poole,stanford,Stanford University,benpoole@stanford.edu
+neurips,2016,1,1670,Subhaneil,Lahiri,stanford,Stanford University,sulahiri@stanford.edu
+neurips,2016,2,1670,Maithra,Raghu,stanford,Cornell University,sganguli@stanford.edu
+neurips,2016,3,1670,Jascha,Sohl-Dickstein,google,Google Brain,maithra@google.com
+neurips,2016,4,1670,Surya,Ganguli,google,Stanford,jaschasd@google.com
+neurips,2016,0,1823,Tim,van Erven,timvanerven,Leiden University,tim@timvanerven.nl
+neurips,2016,1,1823,Wouter,Koolen,cwi,Centrum Wiskunde & Informatica,wmkoolen@cwi.nl
+neurips,2016,0,1395,He,Huang,gmail,LIBR,crane081@gmail.com
+neurips,2016,1,1395,Martin,Paulus,laureateinstitute,LIBR,mpaulus@laureateinstitute.org
+neurips,2016,0,1046,Rodrigo,Nogueira,nyu,New York University,rodrigonogueira@nyu.edu
+neurips,2016,1,1046,Kyunghyun,Cho,nyu,University of Montreal,kyunghyun.cho@nyu.edu
+neurips,2016,0,1667,Mathieu,Blondel,,NTT,
+neurips,2016,1,1667,Akinori,Fujino,,NTT,
+neurips,2016,2,1667,Naonori,Ueda,,NTT Communication Science Laboratories,
+neurips,2016,3,1667,Masakazu,Ishihata,,Hokkaido University,
+neurips,2016,0,555,Haipeng,Luo,princeton,Princeton University,haipengl@cs.princeton.edu
+neurips,2016,1,555,Alekh,Agarwal,microsoft,Microsoft,alekha@microsoft.com
+neurips,2016,2,555,Nicolò,Cesa-Bianchi,unimi,University of Milan,nicolo.cesa-bianchi@unimi.it
+neurips,2016,3,555,John,Langford,microsoft,Microsoft Research New York,jcl@microsoft.com
+neurips,2016,0,2295,Alex,Lamb,,Montreal,
+neurips,2016,1,2295,Anirudh Goyal,ALIAS PARTH GOYAL,,University of Montreal,
+neurips,2016,2,2295,Ying,Zhang,,University of Montreal,
+neurips,2016,3,2295,Saizheng,Zhang,,University of Montreal,
+neurips,2016,4,2295,Aaron,Courville,,University of Montreal,
+neurips,2016,5,2295,Yoshua,Bengio,,U. Montreal,
+neurips,2016,0,6,yan,yang,xjtu,Xi'an Jiaotong University,yangyan92@stu.xjtu.edu.cn
+neurips,2016,1,6,Jian,Sun,xjtu,Xi'an Jiaotong University,huibinli@mail.xjtu.edu.cn
+neurips,2016,2,6,Huibin,Li,xjtu,Xi'an Jiaotong University,jiansun@mail.xjtu.edu.cn
+neurips,2016,3,6,Zongben,Xu,xjtu,,zbxu@mail.xjtu.edu.cn
+neurips,2016,0,1493,Walid,Krichene,berkeley,UC Berkeley,walid@eecs.berkeley.edu
+neurips,2016,1,1493,Alexandre,Bayen,berkeley,UC Berkeley,bayen@berkeley.edu
+neurips,2016,2,1493,Peter,Bartlett,berkeley,UC Berkeley,bartlett@cs.berkeley.edu
+neurips,2016,0,564,Yoshinobu,Kawahara,osaka-u,Osaka University,ykawahara@sanken.osaka-u.ac.jp
+neurips,2016,0,1762,Veeranjaneyulu,Sadhanala,cmu,Carnegie Mellon University,vsadhana@cs.cmu.edu
+neurips,2016,1,1762,Yu-Xiang,Wang,cmu,Carnegie Mellon University,yuxiangw@cs.cmu.edu
+neurips,2016,2,1762,Ryan,Tibshirani,cmu,Carnegie Mellon University,ryantibs@stat.cmu.edu
+neurips,2016,0,1139,Satyen,Kale,satyenkale,Google,satyen@satyenkale.com
+neurips,2016,1,1139,Chansoo,Lee,umich,University of Michigan,chansool@umich.edu
+neurips,2016,2,1139,David,Pal,yahoo-inc,Google,dpal@yahoo-inc.com
+neurips,2016,0,627,Dangna,Li,stanford,Stanford university,dangna@stanford.edu
+neurips,2016,1,627,Kun,Yang,stanford,Google Inc,kunyang@stanford.edu
+neurips,2016,2,627,Wing Hung,Wong,stanford,Stanford university,whwong@stanford.edu
+neurips,2016,0,1404,Ping,Li,rutgers,Rugters University,pingli@stat.rutgers.edu
+neurips,2016,1,1404,Michael,Mitzenmacher,harvard,Harvard University,michaelm@eecs.harvard.edu
+neurips,2016,2,1404,Martin,Slawski,rutgers,George Mason University,martin.slawski@rutgers.edu
+neurips,2016,0,2412,Andrej,Risteski,princeton,Princeton University,yuanzhil@cs.princeton.edu
+neurips,2016,1,2412,Yuanzhi,Li,princeton,Princeton University,risteski@cs.princeton.edu
+neurips,2016,0,1567,Jian,Wu,cornell,Cornell University,jw926@cornell.edu
+neurips,2016,1,1567,Peter,Frazier,cornell,Princeton University,pf98@cornell.edu
+neurips,2016,0,2111,Diana,Cai,uchicago,University of Chicago,dcai@uchicago.edu
+neurips,2016,1,2111,Trevor,Campbell,mit,MIT,tdjc@mit.edu
+neurips,2016,2,2111,Tamara,Broderick,mit,MIT,tbroderick@csail.mit.edu
+neurips,2016,0,803,Balamurugan,Palaniappan,inria,INRIA,balamurugan.palaniappan@inria.fr
+neurips,2016,1,803,Francis,Bach,ens,INRIA - Ecole Normale Superieure,francis.bach@ens.fr
+neurips,2016,0,1459,Koosha,Khalvati,washington,University of Washington,koosha@cs.washington.edu
+neurips,2016,1,1459,Seongmin,Park,cnrs,Cognitive Neuroscience Center,park@isc.cnrs.fr
+neurips,2016,2,1459,Jean-Claude,Dreher,cnrs,Centre de Neurosciences Cognitives,dreher@isc.cnrs.fr
+neurips,2016,3,1459,Rajesh,Rao,washington,University of Washington,rao@cs.washington.edu
+neurips,2016,0,963,JUN,HAN,dartmouth,Dartmouth College,jun.han.gr@dartmouth.edu
+neurips,2016,1,963,Qiang,Liu,dartmouth,Dartmouth College,qiang.liu@dartmouth.edu
+neurips,2016,0,2556,Danilo,Jimenez Rezende,google,Google DeepMind,danilor@google.com
+neurips,2016,1,2556,S. M. Ali,Eslami,google,Google DeepMind,aeslami@google.com
+neurips,2016,2,2556,Shakir,Mohamed,google,Google DeepMind,shakir@google.com
+neurips,2016,3,2556,Peter,Battaglia,google,Google DeepMind,peterbattaglia@google.com
+neurips,2016,4,2556,Max,Jaderberg,google,DeepMind,jaderberg@google.com
+neurips,2016,5,2556,Nicolas,Heess,google,Google DeepMind,heess@google.com
+neurips,2016,0,2154,Valentina,Zantedeschi,,UJM Saint-Etienne,
+neurips,2016,1,2154,Rémi,Emonet,,Hubert Curien Lab.,
+neurips,2016,2,2154,Marc,Sebban,,University Jean Monnet,
+neurips,2016,0,2479,Lev,Bogolubsky,yandex-team,"Yandex, Moscow State University",bogolubsky@yandex-team.ru
+neurips,2016,1,2479,Pavel,Dvurechenskii,yandex-team,Weierstrass Institute for Appl,gleb57@yandex-team.ru
+neurips,2016,2,2479,Alexander,Gasnikov,yandex-team,SkolTech,raigorodsky@yandex-team.ru
+neurips,2016,3,2479,Gleb,Gusev,yandex-team,Yandex LLC,altsoph@yandex-team.ru
+neurips,2016,4,2479,Yurii,Nesterov,yandex-team,Catholic University of Louvain (UCL),zhukmax@yandex-team.ru
+neurips,2016,5,2479,Andrei,Raigorodskii,wias-berlin,Moscow Institute of Physics and Technology,pavel.dvurechensky@wias-berlin.de
+neurips,2016,6,2479,Aleksey,Tikhonov,yandex,Yandex,gasnikov@yandex.ru
+neurips,2016,7,2479,Maksim,Zhukovskii,uclouvain,,yurii.nesterov@uclouvain.be
+neurips,2016,0,927,Antoine,Gautier,,Saarland University,
+neurips,2016,1,927,Quynh,Nguyen,,Saarland University,
+neurips,2016,2,927,Matthias,Hein,,Saarland University,
+neurips,2016,0,880,Zeyuan,Allen-Zhu,mit,Princeton University,zeyuan@csail.mit.edu
+neurips,2016,1,880,Elad,Hazan,princeton,Princeton University,ehazan@cs.princeton.edu
+neurips,2016,0,1143,Marco,Fraccaro,,DTU,
+neurips,2016,1,1143,Søren Kaae,Sønderby,,KU,
+neurips,2016,2,1143,Ulrich,Paquet,,DeepMind,
+neurips,2016,3,1143,Ole,Winther,,DTU,
+neurips,2016,0,2348,Devon,Hjelm,mrn,University of New Mexico,dhjelm@mrn.org
+neurips,2016,1,2348,Russ,Salakhutdinov,nyu,University of Toronto,kyunghyun.cho@nyu.edu
+neurips,2016,2,2348,Kyunghyun,Cho,umontreal,University of Montreal,junyoung.chung@umontreal.ca
+neurips,2016,3,2348,Nebojsa,Jojic,toronto,Microsoft Research,rsalakhu@cs.toronto.edu
+neurips,2016,4,2348,Vince,Calhoun,mrn,Mind Research Network,vcalhoun@mrn.org
+neurips,2016,5,2348,Junyoung,Chung,microsoft,University of Montreal,jojic@microsoft.com
+neurips,2016,0,1112,Stefan,Lee,vt,Indiana University,steee@vt.edu
+neurips,2016,1,1112,Senthil,Purushwalkam Shiva Prakash,cmu,Carnegie Mellon,spurushw@andrew.cmu.edu
+neurips,2016,2,1112,Michael,Cogswell,vt,Virginia Tech,cogswell@vt.edu
+neurips,2016,3,1112,Viresh,Ranjan,vt,Virginia Tech,rviresh@vt.edu
+neurips,2016,4,1112,David,Crandall,indiana,Indiana University,djcran@indiana.edu
+neurips,2016,5,1112,Dhruv,Batra,vt,Virginia Tech,dbatra@vt.edu
+neurips,2016,0,1585,Davide,Boscaini,,University of Lugano,
+neurips,2016,1,1585,Jonathan,Masci,,Università della Svizzera italiana,
+neurips,2016,2,1585,Emanuele,Rodolà,,University of Lugano,
+neurips,2016,3,1585,Michael,Bronstein,,University of Lugano,
+neurips,2016,0,852,Vikas,Garg,,MIT,
+neurips,2016,1,852,Tommi,Jaakkola,,MIT,
+neurips,2016,0,1754,Edward,Choi,gatech,Georgia Institute of Technolog,mp2893@gatech.edu
+neurips,2016,1,1754,Mohammad Taha,Bahadori,gatech,Gatech,bahadori@gatech.edu
+neurips,2016,2,1754,Jimeng,Sun,gatech,Georgia Tech,jkulas3@gatech.edu
+neurips,2016,3,1754,Joshua,Kulas,sutterhealth,Georgia Institute of Technology,schueta1@sutterhealth.org
+neurips,2016,4,1754,Andy,Schuetz,sutterhealth,Sutter Health,stewarwf@sutterhealth.org
+neurips,2016,5,1754,Walter,Stewart,gatech,Sutter Health,jsun@cc.gatech.edu
+neurips,2016,0,1005,Akshay,Krishnamurthy,umass,UMass Amherst,akshay@cs.umass.edu
+neurips,2016,1,1005,Alekh,Agarwal,microsoft,Microsoft,alekha@microsoft.com
+neurips,2016,2,1005,John,Langford,microsoft,Microsoft Research New York,jcl@microsoft.com
+neurips,2016,0,1416,Xinghua,Lou,vicarious,Vicarious FPC Inc,xinghua@vicarious.com
+neurips,2016,1,1416,Ken,Kansky,vicarious,"Vicarious FPC, Inc.",ken@vicarious.com
+neurips,2016,2,1416,Wolfgang,Lehrach,vicarious,Vicarious,wolfgang@vicarious.com
+neurips,2016,3,1416,CC,Laan,vicarious,,cc@vicarious.com
+neurips,2016,4,1416,Bhaskara,Marthi,vicarious,Vicarious,bhaskara@vicarious.com
+neurips,2016,5,1416,D.,Phoenix,vicarious,,scott@vicarious.com
+neurips,2016,6,1416,Dileep,George,vicarious,Vicarious,dileep@vicarious.com
+neurips,2016,0,2140,Onur,Teymur,,Imperial College London,
+neurips,2016,1,2140,Kostas,Zygalakis,,University of Edinburgh,
+neurips,2016,2,2140,Ben,Calderhead,,Imperial College,
+neurips,2016,0,436,Ashish,Khetan,illinois,University of Illinois Urbana-,khetan2@illinois.edu
+neurips,2016,1,436,Sewoong,Oh,illinois,UIUC,swoh@illinois.edu
+neurips,2016,0,1672,Chendi,Huang,pku,Peking University,cdhuang@pku.edu.cn
+neurips,2016,1,1672,Xinwei,Sun,pku,Peking University,sxwxiaoxiaohehe@pku.edu.cn
+neurips,2016,2,1672,Jiechao,Xiong,pku,Peking University,xiongjiechao@pku.edu.cn
+neurips,2016,3,1672,Yuan,Yao,ust,Stanford University,yuany@ust.hk
+neurips,2016,0,2167,Ching-An,Cheng,gatech,Georgia Institute of Technolog,cacheng@gatech.edu
+neurips,2016,1,2167,Byron,Boots,gatech,Georgia Tech,bboots@cc.gatech.edu
+neurips,2016,0,474,Zhao,Song,utexas,UT-Austin,zhaos@utexas.edu
+neurips,2016,1,474,David,Woodruff,ibm,IBM Research,dpwoodru@us.ibm.com
+neurips,2016,2,474,Huan,Zhang,ucdavis,UC-Davis,ecezhang@ucdavis.edu
+neurips,2016,0,2090,Michaël,Perrot,univ-st-etienne,University of Saint-Etienne,michael.perrot@univ-st-etienne.fr
+neurips,2016,1,2090,Nicolas,Courty,univ-ubs,IRISA / University South Brittany,courty@univ-ubs.fr
+neurips,2016,2,2090,Rémi,Flamary,unice,Université Côte d'Azur,remi.flamary@unice.fr
+neurips,2016,3,2090,Amaury,Habrard,univ-st-etienne,University of Saint-Etienne,amaury.habrard@univ-st-etienne.fr
+neurips,2016,0,1957,Dino,Oglic,uni-bonn,University of Bonn,dino.oglic@uni-bonn.de
+neurips,2016,1,1957,Thomas,Gärtner,nottingham,The University of Nottingham,thomas.gaertner@nottingham.ac.uk
+neurips,2016,0,756,Yiwen,Guo,intel,Intel Labs China,yiwen.guo@intel.com
+neurips,2016,1,756,Anbang,Yao,intel,Intel Labs China,anbang.yao@intel.com
+neurips,2016,2,756,Yurong,Chen,intel,Intel Labs China,yurong.chen@intel.com
+neurips,2016,0,1297,Yali,Wan,washington,University of Washington,yaliwan@washington.edu
+neurips,2016,1,1297,Marina,Meila,washington,University of Washington,mmp@stat.washington.edu
+neurips,2016,0,234,Oswin,Krause,ku,University of Copenhagen,oswin.krause@di.ku.dk
+neurips,2016,1,234,Dídac Rodríguez,Arbonès,ku,University of Copenhagen,didac@di.ku.dk
+neurips,2016,2,234,Christian,Igel,ku,University of Copenhagen,igel@di.ku.dk
+neurips,2016,0,2452,José,Torrecilla,uam,Universidad Autónoma de Madrid,joseluis.torrecilla@uam.es
+neurips,2016,1,2452,Alberto,Suárez,uam,Universidad Autónoma de Madrid,alberto.suarez@uam.es
+neurips,2016,0,1332,Xinghao,Pan,,UC Berkeley,
+neurips,2016,1,1332,Maximilian,Lam,,UC Berkeley,
+neurips,2016,2,1332,Stephen,Tu,,UC Berkeley,
+neurips,2016,3,1332,Dimitris,Papailiopoulos,,UW-Madison,
+neurips,2016,4,1332,Ce,Zhang,,Stanford,
+neurips,2016,5,1332,Michael,Jordan,,UC Berkeley,
+neurips,2016,6,1332,Kannan,Ramchandran,,UC Berkeley,
+neurips,2016,7,1332,Christopher,Ré,,,
+neurips,2016,0,642,Sashank,J. Reddi,cmu,Carnegie Mellon University,sjakkamr@cs.cmu.edu
+neurips,2016,1,642,Suvrit,Sra,cmu,MIT,bapoczos@cs.cmu.edu
+neurips,2016,2,642,Barnabas,Poczos,mit,Carnegie Mellon University,suvrit@mit.edu
+neurips,2016,3,642,Alexander,Smola,smola,Amazon - We are hiring!,alex@smola.org
+neurips,2016,0,2070,Hao,Wu,fu-berlin,Free University of Berlin,hao.wu@fu-berlin.de
+neurips,2016,1,2070,Frank,Noe,fu-berlin,FU Berlin,frank.noe@fu-berlin.de
+neurips,2016,0,1772,Yossi,Arjevani,weizmann,Weizmann Institute of Science,yossi.arjevani@weizmann.ac.il
+neurips,2016,1,1772,Ohad,Shamir,weizmann,Weizmann Institute of Science,ohad.shamir@weizmann.ac.il
+neurips,2016,0,1060,Seyed Hamidreza,Kasaei,ua,IEETA,seyed.hamidreza@ua.pt
+neurips,2016,1,1060,Ana Maria,Tomé,ua,University of Averio,ana@ua.pt
+neurips,2016,2,1060,Luís,Lopes,ua,University of Averio,lsl@ua.pt
+neurips,2016,0,1426,Tzu-Kuo,Huang,,Uber Advanced Technologies Center,
+neurips,2016,1,1426,Lihong,Li,,Microsoft Research,
+neurips,2016,2,1426,Ara,Vartanian,,University of Wisconsin-Madison,
+neurips,2016,3,1426,Saleema,Amershi,,Microsoft,
+neurips,2016,4,1426,Jerry,Zhu,,University of Wisconsin-Madison,
+neurips,2016,0,1705,Aude,Genevay,dauphine,Université Paris Dauphine,genevay@ceremade.dauphine.fr
+neurips,2016,1,1705,Marco,Cuturi,ensae,ENSAE - CREST,marco.cuturi@ensae.fr
+neurips,2016,2,1705,Gabriel,Peyré,ens,Université Paris Dauphine,gabriel.peyre@ens.fr
+neurips,2016,3,1705,Francis,Bach,inria,INRIA - Ecole Normale Superieure,francis.bach@inria.fr
+neurips,2016,0,155,Damek,Davis,cornell,Cornell University,dsd95@cornell.edu
+neurips,2016,1,155,Brent,Edmunds,cornell,University of California,mru8@cornell.edu
+neurips,2016,2,155,Madeleine,Udell,ucla,Cornell University,brent.edmunds@math.ucla.edu
+neurips,2016,0,2035,Jonathan,Huggins,,MIT,
+neurips,2016,1,2035,Trevor,Campbell,,MIT,
+neurips,2016,2,2035,Tamara,Broderick,,MIT,
+neurips,2016,0,145,Edouard,Pauwels,laas,IRIT,lasserre@laas.fr
+neurips,2016,1,145,Jean,Lasserre,irit,LAAS-CNRS,edouard.pauwels@irit.fr
+neurips,2016,0,957,Kirthevasan,Kandasamy,cmu,CMU,kandasamy@cs.cmu.edu
+neurips,2016,1,957,Gautam,Dasarathy,cmu,Carnegie Mellon University,schneide@cs.cmu.edu
+neurips,2016,2,957,Barnabas,Poczos,cmu,Carnegie Mellon University,bapoczos@cs.cmu.edu
+neurips,2016,3,957,Jeff,Schneider,rice,CMU,gautamd@rice.edu
+neurips,2016,0,523,Theodore,Bluche,a2ia,A2iA,tb@a2ia.com
+neurips,2016,0,2483,Oren,Anava,voleon,Technion,oren@voleon.com
+neurips,2016,1,2483,Kfir,Levy,ethz,Technion,yehuda.levy@inf.ethz.ch
+neurips,2016,0,2100,Vladimir,Golkov,tum,Technical University of Munich,golkov@cs.tum.edu
+neurips,2016,1,2100,Marcin,Skwark,skwark,Vanderbilt University,marcin@skwark.pl
+neurips,2016,2,2100,Antonij,Golkov,uni-augsburg,University of Augsburg,antonij.golkov@student.uni-augsburg.de
+neurips,2016,3,2100,Alexey,Dosovitskiy,uni-freiburg,University of Freiburg,dosovits@cs.uni-freiburg.de
+neurips,2016,4,2100,Thomas,Brox,uni-freiburg,University of Freiburg,brox@cs.uni-freiburg.de
+neurips,2016,5,2100,Jens,Meiler,vanderbilt,Vanderbilt University,jens.meiler@vanderbilt.edu
+neurips,2016,6,2100,Daniel,Cremers,tum,Technical University of Munich,cremers@tum.de
+neurips,2016,0,2062,Oleg,Grinchuk,,Skolkovo Institute of Science and Technology,
+neurips,2016,1,2062,Vadim,Lebedev,,Skolkovo Institute of Science and Technology,
+neurips,2016,2,2062,Victor,Lempitsky,,Skolkovo Institute of Science and Technology (Skoltech),
+neurips,2016,0,672,Shashank,Singh,cmu,Carnegie Mellon University,sss1@andrew.cmu.edu
+neurips,2016,1,672,Barnabas,Poczos,cmu,Carnegie Mellon University,bapoczos@cs.cmu.edu
+neurips,2016,0,1301,Christopher,Lynn,upenn,University of Pennsylvania,chlynn@sas.upenn.edu
+neurips,2016,1,1301,Daniel,Lee,upenn,University of Pennsylvania,ddlee@seas.upenn.edu
+neurips,2016,0,1449,Nagarajan,Natarajan,,Microsoft Research,
+neurips,2016,1,1449,Prateek,Jain,,Microsoft Research,
+neurips,2016,0,741,Shengjia,Zhao,,Tsinghua University,
+neurips,2016,1,741,Enze,Zhou,,Tsinghua University,
+neurips,2016,2,741,Ashish,Sabharwal,,Allen Institute for AI,
+neurips,2016,3,741,Stefano,Ermon,,Stanford,
+neurips,2016,0,658,Sébastien,Gerchinovitz,univ-toulouse,Université Toulouse 3 - Paul Sabatier,sebastien.gerchinovitz@math.univ-toulouse.fr
+neurips,2016,1,658,Tor,Lattimore,gmail,Indiana University,tor.lattimore@gmail.com
+neurips,2016,0,2446,Dmitry,Ostrovsky,,Univ. Grenoble Alpes,
+neurips,2016,1,2446,Zaid,Harchaoui,,NYU,
+neurips,2016,2,2446,Anatoli,Juditsky,,UJF,
+neurips,2016,3,2446,Arkadi,Nemirovski,,Gerogia Institute of Technology,
+neurips,2016,0,943,Mohammad,Norouzi,google,Google,mnorouzi@google.com
+neurips,2016,1,943,Samy,Bengio,google,Google Brain,bengio@google.com
+neurips,2016,2,943,zhifeng,Chen,google,Google Brain,zhifengc@google.com
+neurips,2016,3,943,Navdeep,Jaitly,google,Google Brain,ndjaitly@google.com
+neurips,2016,4,943,Mike,Schuster,google,Google,schuster@google.com
+neurips,2016,5,943,Yonghui,Wu,google,,yonghui@google.com
+neurips,2016,6,943,Dale,Schuurmans,google,Alberta,schuurmans@google.com
+neurips,2016,0,652,Mehdi,Sajjadi,utah,University of Utah,mehdi@sci.utah.edu
+neurips,2016,1,652,Mehran,Javanmardi,utah,University of Utah,mehran@sci.utah.edu
+neurips,2016,2,652,Tolga,Tasdizen,utah,University of Utah,tolga@sci.utah.edu
+neurips,2016,0,2025,Navdeep,Jaitly,google,Google Brain,ndjaitly@google.com
+neurips,2016,1,2025,Quoc,Le,google,Google,sussillo@google.com
+neurips,2016,2,2025,Oriol,Vinyals,google,Google,qvl@google.com
+neurips,2016,3,2025,Ilya,Sutskever,google,Google,vinyals@google.com
+neurips,2016,4,2025,David,Sussillo,openai,Google,ilyasu@openai.com
+neurips,2016,5,2025,Samy,Bengio,google,Google Brain,bengio@google.com
+neurips,2016,0,2244,Peter,Battaglia,,Google DeepMind,
+neurips,2016,1,2244,Razvan,Pascanu,,Google DeepMind,
+neurips,2016,2,2244,Matthew,Lai,,Google DeepMind,
+neurips,2016,3,2244,Danilo,Jimenez Rezende,,Google DeepMind,
+neurips,2016,4,2244,koray,kavukcuoglu,,Google DeepMind,
+neurips,2016,0,817,Victor,Picheny,,Institut National de la Recherche Agronomique,
+neurips,2016,1,817,Robert,Gramacy,,Virginia Tech,
+neurips,2016,2,817,Stefan,Wild,,Argonne National Lab,
+neurips,2016,3,817,Sebastien,Le Digabel,,École Polytechnique de Montréal,
+neurips,2016,0,1067,Jeremy,Maitin-Shepard,google,Google,jbms@google.com
+neurips,2016,1,1067,Viren,Jain,google,Google,viren@google.com
+neurips,2016,2,1067,Michal,Januszewski,google,Google,mjanusz@google.com
+neurips,2016,3,1067,Peter,Li,google,Google,phli@google.com
+neurips,2016,4,1067,Pieter,Abbeel,berkeley,OpenAI / UC Berkeley / Gradescope,pabbeel@cs.berkeley.edu
+neurips,2016,0,187,Tom,Rainforth,ox,University of Oxford,twgr@robots.ox.ac.uk
+neurips,2016,1,187,Tuan Anh,Le,ox,University of Oxford,tuananh@robots.ox.ac.uk
+neurips,2016,2,187,Jan-Willem,van de Meent,ox,University of Oxford,mosb@robots.ox.ac.uk
+neurips,2016,3,187,Michael,Osborne,ox,U Oxford,fwood@robots.ox.ac.uk
+neurips,2016,4,187,Frank,Wood,northeastern,University of Oxford,j.vandemeent@northeastern.edu
+neurips,2016,0,320,Francesco,Orabona,orabona,Yahoo Research,francesco@orabona.com
+neurips,2016,1,320,David,Pal,yahoo-inc,Google,dpal@yahoo-inc.com
+neurips,2016,0,2069,Evgeniya,Ustinova,,Skoltech,
+neurips,2016,1,2069,Victor,Lempitsky,,Skolkovo Institute of Science and Technology (Skoltech),
+neurips,2016,0,2230,Ashkan,Norouzi-Fard,epfl,EPFL,ashkan.norouzifard@epfl.ch
+neurips,2016,1,2230,Abbas,Bazzi,epfl,EPFL,abbas.bazzi@epfl.ch
+neurips,2016,2,2230,Ilija,Bogunovic,epfl,EPFL Lausanne,marwa.elhalabi@epfl.ch
+neurips,2016,3,2230,Marwa,El Halabi,epfl,l,ilija.bogunovic@epfl.ch
+neurips,2016,4,2230,Ya-Ping,Hsieh,epfl,EPFL,ya-ping.hsieh@epfl.ch
+neurips,2016,5,2230,Volkan,Cevher,epfl,EPFL,volkan.cevher@epfl.ch
+neurips,2016,0,2609,Farshad,Lahouti,caltech,Caltech,lahouti@caltech.edu
+neurips,2016,1,2609,Babak,Hassibi,caltech,Caltech,hassibi@caltech.edu
+neurips,2016,0,2495,Moontae,Lee,cornell,Cornell University,moontae@cs.cornell.edu
+neurips,2016,1,2495,Seok Hyun,Jin,cornell,Cornell University,sj372@cornell.edu
+neurips,2016,2,2495,David,Mimno,cornell,Cornell University,mimno@cornell.edu
+neurips,2016,0,301,Pan,Zhang,itp,Institute of Theoretical Physics,panzhang@itp.ac.cn
+neurips,2016,0,399,Rémi,Flamary,unice,Université Côte d'Azur,remi.flamary@unice.fr
+neurips,2016,1,399,Cédric,Févotte,univ-ubs,CNRS,courty@univ-ubs.fr
+neurips,2016,2,399,Nicolas,Courty,irit,IRISA / University South Brittany,cedric.fevotte@irit.fr
+neurips,2016,3,399,Valentin,Emiya,univ-mrs,Aix-Marseille University,valentin.emiya@lif.univ-mrs.fr
+neurips,2016,0,1548,Gregory,Rogez,,Inria,
+neurips,2016,1,1548,Cordelia,Schmid,,Inria Grenoble,
+neurips,2016,0,337,Dennis,Wei,ibm,IBM Research,dwei@us.ibm.com
+neurips,2016,0,169,Yunhe,Wang,pku,Peking University,wangyunhe@pku.edu.cn
+neurips,2016,1,169,Chang,Xu,uts,Peking University,Chang.Xu@uts.edu.au
+neurips,2016,2,169,Shan,You,pku,,youshan@pku.edu.cn
+neurips,2016,3,169,Dacheng,Tao,uts,Nanyang Technological University,Dacheng.Tao@uts.edu.au
+neurips,2016,4,169,Chao,Xu,pku,Peking University,xuchao@cis.pku.edu.cn
+neurips,2016,0,1386,Jiyan,Yang,stanford,Stanford University,jiyan@stanford.edu
+neurips,2016,1,1386,Michael,Mahoney,berkeley,UC Berkeley,mmahoney@stat.berkeley.edu
+neurips,2016,2,1386,Michael,Saunders,stanford,Stanford University,saunders@stanford.edu
+neurips,2016,3,1386,Yuekai,Sun,umich,University of Michigan,yuekai@umich.edu
+neurips,2016,0,352,Alexey,Dosovitskiy,uni-freiburg,University of Freiburg,dosovits@cs.uni-freiburg.de
+neurips,2016,1,352,Thomas,Brox,uni-freiburg,University of Freiburg,brox@cs.uni-freiburg.de
+neurips,2016,0,304,Andreas,Veit,cornell,Cornell University,av443@cornell.edu
+neurips,2016,1,304,Michael,Wilber,cornell,Cornell Tech,mjw285@cornell.edu
+neurips,2016,2,304,Serge,Belongie,cornell,Cornell University,sjb344@cornell.edu
+neurips,2016,0,1028,Guillaume,Rabusseau,,Aix-Marseille University,
+neurips,2016,1,1028,Hachem,Kadri,,Aix-Marseille University,
+neurips,2016,0,2254,Chi,Jin,berkeley,UC Berkeley,chijin@cs.berkeley.edu
+neurips,2016,1,2254,Sham,Kakade,washington,University of Washington,sham@cs.washington.edu
+neurips,2016,2,2254,Praneeth,Netrapalli,microsoft,Microsoft Research,praneeth@microsoft.com
+neurips,2016,0,2046,Chi,Jin,berkeley,UC Berkeley,chijin@cs.berkeley.edu
+neurips,2016,1,2046,Yuchen,Zhang,berkeley,UC Berkeley,yuczhang@berkeley.edu
+neurips,2016,2,2046,Sivaraman,Balakrishnan,cmu,CMU,siva@stat.cmu.edu
+neurips,2016,3,2046,Martin,Wainwright,berkeley,UC Berkeley,wainwrig@berkeley.edu
+neurips,2016,4,2046,Michael,Jordan,berkeley,UC Berkeley,jordan@cs.berkeley.edu
+neurips,2016,0,1073,James,Atwood,,UMass Amherst,
+neurips,2016,1,1073,Don,Towsley,,UMass Amherst,
+neurips,2016,0,2117,Tue,Herlau,dtu,Technical University of Denmark,tuhe@dtu.dk
+neurips,2016,1,2117,Mikkel,Schmidt,dtu,DTU,mns@dtu.dk
+neurips,2016,2,2117,Morten,Mørup,dtu,Technical University of Denmark,mmor@dtu.dk
+neurips,2016,0,1216,Feng,Nan,bu,Boston University,fnan@bu.edu
+neurips,2016,1,1216,Joseph,Wang,bu,Boston University,joewang@bu.edu
+neurips,2016,2,1216,Venkatesh,Saligrama,bu,Boston University,srv@bu.edu
+neurips,2016,0,819,Sung-Soo,Ahn,kaist,KAIST,sungsoo.ahn@kaist.ac.kr
+neurips,2016,1,819,Michael,Chertkov,kaist,Los Alamos National Laboratory,jinwoos@kaist.ac.kr
+neurips,2016,2,819,Jinwoo,Shin,lanl,KAIST,chertkov@lanl.gov
+neurips,2016,0,2126,Travis,Monk,uol,University of Oldenburg,travis.monk@uol.de
+neurips,2016,1,2126,Cristina,Savin,ist,IST Austria,csavin@ist.ac.at
+neurips,2016,2,2126,Jörg,Lücke,uol,University of Oldenburg,joerg.luecke@uol.de
+neurips,2016,0,2383,Peter,Schulam,jhu,Johns Hopkins University,pschulam@cs.jhu.edu
+neurips,2016,1,2383,Raman,Arora,jhu,Johns Hopkins University,arora@cs.jhu.edu
+neurips,2016,0,1454,Gustavo,Malkomes,wustl,Washington University,luizgustavo@wustl.edu
+neurips,2016,1,1454,Charles,Schaff,wustl,Washington University in St. Louis,cbschaff@wustl.edu
+neurips,2016,2,1454,Roman,Garnett,wustl,Washington University in St. Louis,garnett@wustl.edu
+neurips,2016,0,1639,Reza,Eghbali,uw,University of washington,eghbali@uw.edu
+neurips,2016,1,1639,Maryam,Fazel,uw,University of Washington,mfazel@uw.edu
+neurips,2016,0,949,Yizhe,Zhang,,Duke university,
+neurips,2016,1,949,Xiangyu,Wang,,Duke University,
+neurips,2016,2,949,Changyou,Chen,,Duke University,
+neurips,2016,3,949,Ricardo,Henao,,Duke University,
+neurips,2016,4,949,Kai,Fan,,Duke university,
+neurips,2016,5,949,Lawrence,Carin,,Duke University,
+neurips,2016,0,2438,Maia,Fraser,uottawa,University of Ottawa,mfrase8@uottawa.ca
+neurips,2016,0,1405,Nicolas,Boumal,princeton,Princeton University,nboumal@math.princeton.edu
+neurips,2016,1,1405,Vlad,Voroninski,mit,MIT,vvlad@math.mit.edu
+neurips,2016,2,1405,Afonso,Bandeira,nyu,,bandeira@cims.nyu.edu
+neurips,2016,0,125,Maximilian,Balandat,,UC Berkeley,
+neurips,2016,1,125,Walid,Krichene,,UC Berkeley,
+neurips,2016,2,125,Claire,Tomlin,,UC Berkeley,
+neurips,2016,3,125,Alexandre,Bayen,,UC Berkeley,
+neurips,2016,0,1725,Christoph,Feichtenhofer,tugraz,Graz University of Technology,feichtenhofer@tugraz.at
+neurips,2016,1,1725,Axel,Pinz,tugraz,Graz University of Technology,axel.pinz@tugraz.at
+neurips,2016,2,1725,Richard,Wildes,yorku,York University Toronto,wildes@cse.yorku.ca
+neurips,2016,0,1803,Jack,Rae,,Google DeepMind,
+neurips,2016,1,1803,Jonathan,Hunt,,Brain Corporation,
+neurips,2016,2,1803,Ivo,Danihelka,,Google DeepMind,
+neurips,2016,3,1803,Timothy,Harley,,Google DeepMind,
+neurips,2016,4,1803,Andrew,Senior,,Google DeepMind,
+neurips,2016,5,1803,Gregory,Wayne,,Google DeepMind,
+neurips,2016,6,1803,Alex,Graves,,Google DeepMind,
+neurips,2016,7,1803,Timothy,Lillicrap,,Google DeepMind,
+neurips,2016,0,340,Daniel,Ritchie,,Stanford University,
+neurips,2016,1,340,Anna,Thomas,,Stanford University,
+neurips,2016,2,340,Pat,Hanrahan,,Stanford University,
+neurips,2016,3,340,Noah,Goodman,,Stanford University,
+neurips,2016,0,1722,Andrey,Lokhov,lanl,Los Alamos National Laboratory,lokhov@lanl.gov
+neurips,2016,0,1978,Chen-Yu,Wei,sinica,Academia Sinica,bahh723@iis.sinica.edu.tw
+neurips,2016,1,1978,Yi-Te,Hong,sinica,Academia Sinica,ted0504@iis.sinica.edu.tw
+neurips,2016,2,1978,Chi-Jen,Lu,sinica,Academia Sinica,cjlu@iis.sinica.edu.tw
+neurips,2016,0,1430,Ming,Yu,chicagobooth,The University of Chicago,mingyu@chicagobooth.edu
+neurips,2016,1,1430,Mladen,Kolar,chicagobooth,University of Chicago,varun.gupta@chicagobooth.edu
+neurips,2016,2,1430,Varun,Gupta,chicagobooth,University of Chicago,mladen.kolar@chicagobooth.edu
+neurips,2016,0,1094,Wei,Wen,pitt,University of Pittsburgh,wew57@pitt.edu
+neurips,2016,1,1094,Chunpeng,Wu,pitt,University of Pittsburgh,chw127@pitt.edu
+neurips,2016,2,1094,Yandan,Wang,pitt,University of Pittsburgh,yaw46@pitt.edu
+neurips,2016,3,1094,Yiran,Chen,pitt,University of Pittsburgh,yic52@pitt.edu
+neurips,2016,4,1094,Hai,Li,pitt,University of Pittsburg,hal66@pitt.edu
+neurips,2016,0,457,Weiran,Wang,,"University of California, Merced",
+neurips,2016,1,457,Jialei,Wang,,University of Chicago,
+neurips,2016,2,457,Dan,Garber,,Technion,
+neurips,2016,3,457,Dan,Garber,,Toyota Technological Institute at Chicago,
+neurips,2016,4,457,Nati,Srebro,,TTI-Chicago,
+neurips,2016,0,628,Sven,Eberhardt,brown,Brown University,sven2@brown.edu
+neurips,2016,1,628,Jonah,Cader,brown,Brown University,jonah_cader@brown.edu
+neurips,2016,2,628,Thomas,Serre,brown,Brown University,thomas_serre@brown.edu
+neurips,2016,0,921,Subhashini,Krishnasamy,,The University of Texas at Austin,
+neurips,2016,1,921,Rajat,Sen,,The University of Texas at Austin,
+neurips,2016,2,921,Ramesh,Johari,,Stanford University,
+neurips,2016,3,921,Sanjay,Shakkottai,,The University of Texas at Aus,
+neurips,2016,0,2289,Trung,Le,deakin,University of Pedagogy Ho Chi Minh city,trung.l@deakin.edu.au
+neurips,2016,1,2289,Tu,Nguyen,deakin,Deakin University,tu.nguyen@deakin.edu.au
+neurips,2016,2,2289,Vu,Nguyen,deakin,Deakin University,v.nguyen@deakin.edu.au
+neurips,2016,3,2289,Dinh,Phung,deakin,Deakin University,dinh.phung@deakin.edu.au
+neurips,2016,0,2340,Yang,You,berkeley,UC Berkeley,youyang@cs.berkeley.edu
+neurips,2016,1,2340,Xiangru,Lian,yandex,University of Rochester,xiangru@yandex.com
+neurips,2016,2,2340,Ji,Liu,rochester,University of Rochester,jliu@cs.rochester.edu
+neurips,2016,3,2340,Hsiang-Fu,Yu,utexas,University of Texas at Austin,rofuyu@cs.utexas.edu
+neurips,2016,4,2340,Inderjit,Dhillon,utexas,University of Texas at Austin,inderjit@cs.utexas.edu
+neurips,2016,5,2340,James,Demmel,berkeley,UC Berkeley,demmel@eecs.berkeley.edu
+neurips,2016,6,2340,Cho-Jui,Hsieh,ucdavis,UC Davis,chohsieh@cs.ucdavis.edu
+neurips,2016,0,816,Boris,Belousov,,TU Darmstadt,
+neurips,2016,1,816,Gerhard,Neumann,,University of Lincoln,
+neurips,2016,2,816,Constantin,Rothkopf,,TU Darmstadt,
+neurips,2016,3,816,Jan,Peters,,TU Darmstadt & MPI Intelligent Systems,
+neurips,2016,0,1920,Michal,Feldman,tau,TAU,michal.feldman@cs.tau.ac.il
+neurips,2016,1,1920,Tomer,Koren,google,Technion---Israel Inst. of Technology,tkoren@google.com
+neurips,2016,2,1920,Roi,Livni,princeton,Huji,rlivni@cs.princeton.edu
+neurips,2016,3,1920,Yishay,Mansour,huji,Microsoft,avivz@cs.huji.ac.il
+neurips,2016,4,1920,Aviv,Zohar,tau,huji,mansour@tau.ac.il
+neurips,2016,0,62,Jiajun,Wu,,MIT,
+neurips,2016,1,62,Chengkai,Zhang,,Massachusetts Institute of Technology,
+neurips,2016,2,62,Tianfan,Xue,,MIT CSAIL,
+neurips,2016,3,62,Bill,Freeman,,MIT/Google,
+neurips,2016,4,62,Josh,Tenenbaum,,MIT,
+neurips,2016,0,1572,Eli,Gutin,mit,Massachusetts Institute of Tec,vivekf@mit.edu
+neurips,2016,1,1572,Vivek,Farias,mit,Massachusetts Institute of Technology,gutin@mit.edu
+neurips,2016,0,1144,Hongseok,Namkoong,,Stanford University,
+neurips,2016,1,1144,John,Duchi,,Stanford,
+neurips,2016,0,1292,Weihao,Gao,illinois,UIUC,wgao9@illinois.edu
+neurips,2016,1,1292,Sewoong,Oh,illinois,UIUC,swoh@illinois.edu
+neurips,2016,2,1292,Pramod,Viswanath,illinois,UIUC,pramodv@illinois.edu
+neurips,2016,0,216,Konstantinos,Bousmalis,google,Google Brain,konstantinos@google.com
+neurips,2016,1,216,George,Trigeorgis,imperial,Google,g.trigeorgis@imperial.ac.uk
+neurips,2016,2,216,Nathan,Silberman,google,Google,nsilberman@google.com
+neurips,2016,3,216,Dilip,Krishnan,google,Google,dilipkay@google.com
+neurips,2016,4,216,Dumitru,Erhan,google,Google,dumitru@google.com
+neurips,2016,0,1075,Feras,Saad,mit,MIT,fsaad@mit.edu
+neurips,2016,1,1075,Vikash,Mansinghka,mit,MIT,vkm@mit.edu
+neurips,2016,0,2368,Antoine,Desir,columbia,Columbia University,antoine@ieor.columbia.edu
+neurips,2016,1,2368,Vineet,Goyal,nyu,Columbia University,sjagabat@stern.nyu.edu
+neurips,2016,2,2368,Srikanth,Jagabathula,columbia,NYU Stern School of Business,vgoyal@ieor.columbia.edu
+neurips,2016,3,2368,Danny,Segev,haifa,University of Haifa,segevd@stat.haifa.ac.il
+neurips,2016,0,582,Xinan,Wang,ucsd,UCSD,xinan@ucsd.edu
+neurips,2016,1,582,Sanjoy,Dasgupta,ucsd,UC San Diego,dasgupta@cs.ucsd.edu
+neurips,2016,0,148,Zohar,Karnin,voleon,Yahoo Research,oren@voleon.com
+neurips,2016,1,148,Oren,Anava,yahoo-inc,Technion,zkarnin@yahoo-inc.com
+neurips,2016,0,1606,Davood,Hajinezhad,,Iowa State University,
+neurips,2016,1,1606,Mingyi,Hong,,iowa state university,
+neurips,2016,2,1606,Tuo,Zhao,,Johns Hopkins University,
+neurips,2016,3,1606,Zhaoran,Wang,,Princeton University,
+neurips,2016,0,1854,Eric,Schulz,ucl,University College London,e.schulz@cs.ucl.ac.uk
+neurips,2016,1,1854,Josh,Tenenbaum,mit,MIT,jbt@mit.edu
+neurips,2016,2,1854,David,Duvenaud,toronto,University of Toronto,duvenaud@cs.toronto.edu
+neurips,2016,3,1854,Maarten,Speekenbrink,ucl,University College London,m.speekenbrink@ucl.ac.uk
+neurips,2016,4,1854,Samuel,Gershman,harvard,Harvard University,gershman@fas.harvard.edu
+neurips,2016,0,869,Bryant,Chen,,UCLA,
+neurips,2016,0,2450,Philip,Bachman,maluuba,Maluuba,phil.bachman@maluuba.com
+neurips,2016,0,1773,Karol,Gregor,google,Google DeepMind,karolg@google.com
+neurips,2016,1,1773,Frederic,Besse,google,Google DeepMind,fbesse@google.com
+neurips,2016,2,1773,Danilo,Jimenez Rezende,google,Google DeepMind,danilor@google.com
+neurips,2016,3,1773,Ivo,Danihelka,google,Google DeepMind,danihelka@google.com
+neurips,2016,4,1773,Daan,Wierstra,google,Google DeepMind,wierstra@google.com
+neurips,2016,0,894,Zeyuan,Allen-Zhu,mit,Princeton University,zeyuan@csail.mit.edu
+neurips,2016,1,894,Yang,Yuan,cornell,Cornell University,yangyuan@cs.cornell.edu
+neurips,2016,2,894,Karthik,Sridharan,cornell,University of Pennsylvania,sridharan@cs.cornell.edu
+neurips,2016,0,945,Carl-Johann,Simon-Gabriel,,MPI Tuebingen,
+neurips,2016,1,945,Adam,Scibior,,University of Cambridge,
+neurips,2016,2,945,Ilya,Tolstikhin,,MPI for Intelligent Systems,
+neurips,2016,3,945,Bernhard,Schölkopf,,"MPI for Intelligent Systems Tübingen, Germany",
+neurips,2016,0,1199,Aurko,Roy,gatech,Georgia Tech,aurko@gatech.edu
+neurips,2016,1,1199,Sebastian,Pokutta,gatech,GeorgiaTech,sebastian.pokutta@isye.gatech.edu
+neurips,2016,0,1507,Jianxu,Chen,nd,University of Notre Dame,jchen16@nd.edu
+neurips,2016,1,1507,Lin,Yang,nd,University of Notre Dame,lyang5@nd.edu
+neurips,2016,2,1507,Yizhe,Zhang,nd,University of Notre Dame,yzhang29@nd.edu
+neurips,2016,3,1507,Mark,Alber,nd,University of Notre Dame,dchen@nd.edu
+neurips,2016,4,1507,Danny,Chen,nd,University of Notre Dame,malber@nd.edu
+neurips,2016,0,2533,Kiarash,Shaloudegi,imperial,Imperial College London,k.shaloudegi16@imperial.ac.uk
+neurips,2016,1,2533,András,György,imperial,Imperial College London,a.gyorgy@imperial.ac.uk
+neurips,2016,2,2533,Csaba,Szepesvari,ualberta,U. Alberta,szepesva@ualberta.ca
+neurips,2016,3,2533,Wilsun,Xu,ualberta,University of Alberta,wxu@ualberta.ca
+neurips,2016,0,1382,Lalit,Jain,umich,University of Michigan,lalitj@umich.edu
+neurips,2016,1,1382,Kevin,Jamieson,berkeley,UC Berkeley,kjamieson@berkeley.edu
+neurips,2016,2,1382,Rob,Nowak,wisc,University of Wisconsin Madison,rdnowak@wisc.edu
+neurips,2016,0,1664,Alina,Beygelzimer,yahoo-inc,Yahoo Inc,beygel@yahoo-inc.com
+neurips,2016,1,1664,Daniel,Hsu,microsoft,Columbia University,jcl@microsoft.com
+neurips,2016,2,1664,John,Langford,columbia,Microsoft Research New York,djhsu@cs.columbia.edu
+neurips,2016,3,1664,Chicheng,Zhang,ucsd,UCSD,chz038@cs.ucsd.edu
+neurips,2016,0,382,Aaron,Defazio,,Ambiata,
+neurips,2016,0,258,Ming-Yu,Liu,merl,MERL,mliu@merl.com
+neurips,2016,1,258,Oncel,Tuzel,merl,Mitsubishi Electric Research Labs (MERL),oncel@merl.com
+neurips,2016,0,1050,Ilya,Tolstikhin,mpg,MPI for Intelligent Systems,ilya@tuebingen.mpg.de
+neurips,2016,1,1050,Bharath,Sriperumbudur,psu,Penn State University,bks18@psu.edu
+neurips,2016,2,1050,Bernhard,Schölkopf,mpg,"MPI for Intelligent Systems Tübingen, Germany",bs@tuebingen.mpg.de
+neurips,2016,0,1410,Zhen,Xu,buffalo,SUNY at Buffalo,zxu8@buffalo.edu
+neurips,2016,1,1410,Wen,Dong,buffalo,University at Buffalo,wendong@buffalo.edu
+neurips,2016,2,1410,Sargur,Srihari,buffalo,University at Buffalo,srihari@buffalo.edu
+neurips,2016,0,874,Paul,Lagrée,,Université Paris Sud,
+neurips,2016,1,874,Claire,Vernade,,Université Paris Saclay,
+neurips,2016,2,874,Olivier,Cappe,,,
+neurips,2016,0,2127,Hado,van Hasselt,,DeepMind,
+neurips,2016,1,2127,Arthur,Guez,,Google,
+neurips,2016,2,2127,Arthur,Guez,,Google DeepMind,
+neurips,2016,3,2127,Matteo,Hessel,,Google DeepMind,
+neurips,2016,4,2127,Volodymyr,Mnih,,Google DeepMind,
+neurips,2016,5,2127,David,Silver,,DeepMind,
+neurips,2016,0,1612,S. M. Ali,Eslami,google,Google DeepMind,aeslami@google.com
+neurips,2016,1,1612,Nicolas,Heess,google,Google DeepMind,heess@google.com
+neurips,2016,2,1612,Theophane,Weber,google,Google DeepMind,theophane@google.com
+neurips,2016,3,1612,Yuval,Tassa,google,Google DeepMind,tassa@google.com
+neurips,2016,4,1612,David,Szepesvari,google,Google DeepMind,dsz@google.com
+neurips,2016,5,1612,koray,kavukcuoglu,google,Google DeepMind,korayk@google.com
+neurips,2016,6,1612,Geoffrey,Hinton,google,Google,geoffhinton@google.com
+neurips,2016,0,2436,Edwin,Stoudenmire,,Univ of California Irvine,
+neurips,2016,1,2436,David,Schwab,,Northwestern University,
+neurips,2016,0,1310,Corinna,Cortes,google,Google Research,corinna@google.com
+neurips,2016,1,1310,Vitaly,Kuznetsov,nyu,Courant Institute,vitaly@cims.nyu.edu
+neurips,2016,2,1310,Mehryar,Mohri,nyu,"Courant Institute, NYU & Google",mohri@cims.nyu.edu
+neurips,2016,3,1310,Scott,Yang,nyu,New York University,yangs@cims.nyu.edu
+neurips,2016,0,1859,Alnur,Ali,cmu,Carnegie Mellon University,alnurali@cmu.edu
+neurips,2016,1,1859,J. Zico,Kolter,cmu,Carnegie Mellon University,zkolter@cs.cmu.edu
+neurips,2016,2,1859,Ryan,Tibshirani,cmu,Carnegie Mellon University,ryantibs@cmu.edu
+neurips,2016,0,1068,Felix Xinnan,Yu,google,Google Research,felixyu@google.com
+neurips,2016,1,1068,Ananda Theertha,Suresh,google,"University of California, San Diego",theertha@google.com
+neurips,2016,2,1068,Krzysztof,Choromanski,google,Google Brain Robotics,kchoro@google.com
+neurips,2016,3,1068,Daniel,Holtmann-Rice,google,Google Inc,dhr@google.com
+neurips,2016,4,1068,Sanjiv,Kumar,google,Google,sanjivk@google.com
+neurips,2016,0,2267,Yichen,Wang,gatech,Georgia Tech,yichen.wang@gatech.edu
+neurips,2016,1,2267,Nan,Du,gatech,Georgia Tech,rstrivedi@gatech.edu
+neurips,2016,2,2267,Rakshit,Trivedi,google,Georgia Institute of Technolo,dunan@google.com
+neurips,2016,3,2267,Le,Song,gatech,Georgia Institute of Technology,lsong@cc.gatech.edu
+neurips,2016,0,694,Vignesh,Ganapathiraman,uic,University Of Illinois at Chicago,vganap2@uic.edu
+neurips,2016,1,694,Xinhua,Zhang,uic,UIC,zhangx@uic.edu
+neurips,2016,2,694,Yaoliang,Yu,uwaterloo,Carnegie Mellon University,yaoliang.yu@uwaterloo.ca
+neurips,2016,3,694,Junfeng,Wen,gmail,UofA,junfengwen@gmail.com
+neurips,2016,0,444,Ashok,Cutkosky,,Stanford University,
+neurips,2016,1,444,Kwabena,Boahen,,Stanford University,
+neurips,2016,0,239,Eugene,Ndiaye,,Télécom ParisTech,
+neurips,2016,1,239,Olivier,Fercoq,,Telecom ParisTech,
+neurips,2016,2,239,Alexandre,Gramfort,,"CNRS LTCI, Telecom Paristech",
+neurips,2016,3,239,Joseph,Salmon,,Télécom ParisTech,
+neurips,2016,0,684,Chen,Huang,cuhk,Chinese University of HongKong,chuang@ie.cuhk.edu.hk
+neurips,2016,1,684,Chen Change,Loy,cuhk,The Chinese University of HK,ccloy@ie.cuhk.edu.hk
+neurips,2016,2,684,Xiaoou,Tang,cuhk,The Chinese University of Hong Kong,xtang@ie.cuhk.edu.hk
+neurips,2016,0,2530,Ruitong,Huang,ualberta,University of Alberta,ruitong@ualberta.ca
+neurips,2016,1,2530,Tor,Lattimore,gmail,Indiana University,tor.lattimore@gmail.com
+neurips,2016,2,2530,András,György,imperial,Imperial College London,a.gyorgy@imperial.ac.uk
+neurips,2016,3,2530,Csaba,Szepesvari,ualberta,U. Alberta,szepesva@ualberta.ca
+neurips,2016,0,1153,Sainbayar,Sukhbaatar,nyu,NYU,sainbar@cs.nyu.edu
+neurips,2016,1,1153,arthur,szlam,fb,Facebook,aszlam@fb.com
+neurips,2016,2,1153,Rob,Fergus,fb,New York University,robfergus@fb.com
+neurips,2016,0,1497,Peng,Xu,stanford,Stanford University,pengxu@stanford.edu
+neurips,2016,1,1497,Jiyan,Yang,stanford,Stanford University,jiyan@stanford.edu
+neurips,2016,2,1497,Fred,Roosta,berkeley,University of California Berkeley,farbod@icsi.berkeley.edu
+neurips,2016,3,1497,Christopher,Ré,stanford,,chrismre@cs.stanford.edu
+neurips,2016,4,1497,Michael,Mahoney,berkeley,UC Berkeley,mmahoney@stat.berkeley.edu
+neurips,2016,0,1185,Been,Kim,mit,Allen Institute of Artificial Intelligence,beenkim@csail.mit.edu
+neurips,2016,1,1185,Rajiv,Khanna,utexas,rajivak@utexas.edu,rajivak@utexas.edu
+neurips,2016,2,1185,Oluwasanmi,Koyejo,illinois,UIUC,sanmi@illinois.edu
+neurips,2016,0,235,Jifeng,Dai,,Microsoft,
+neurips,2016,1,235,Yi,Li,,Tsinghua University,
+neurips,2016,2,235,Kaiming,He,,Microsoft,
+neurips,2016,3,235,Jian,Sun,,Microsoft,
+neurips,2016,0,2469,Amin,Jalali,uw,University of Washington,amjalali@uw.edu
+neurips,2016,1,2469,Qiyang,Han,uw,University of Washington,royhan@uw.edu
+neurips,2016,2,2469,Ioana,Dumitriu,uw,University of Washington,dumitriu@uw.edu
+neurips,2016,3,2469,Maryam,Fazel,uw,University of Washington,mfazel@uw.edu
+neurips,2016,0,342,Kun,He,hust,Huazhong University of Science and Technology,brooklet60@hust.edu.cn
+neurips,2016,1,342,Yan,Wang,hust,HUAZHONG UNIVERSITY OF SCIENCE,yanwang@hust.edu.cn
+neurips,2016,2,342,John,Hopcroft,cornell,Cornell University,jeh@cs.cornell.edu
+neurips,2016,0,1049,Ryan,Rogers,,University of Pennsylvania,
+neurips,2016,1,1049,Aaron,Roth,,University of Pennsylvania,
+neurips,2016,2,1049,Jonathan,Ullman,,Northeastern University,
+neurips,2016,3,1049,Salil,Vadhan,,Harvard University,
+neurips,2016,0,2221,Xinyang,Yi,utexas,UT Austin,yixy@utexas.edu
+neurips,2016,1,2221,Zhaoran,Wang,utexas,Princeton University,constantine@utexas.edu
+neurips,2016,2,2221,Zhuoran,Yang,princeton,Princeton University,zhaoran@princeton.edu
+neurips,2016,3,2221,Constantine,Caramanis,princeton,UT Austin,zy6@princeton.edu
+neurips,2016,4,2221,Han,Liu,princeton,Princeton University,hanliu@princeton.edu
+neurips,2016,0,1413,Ofir,David,technion,Technion - Israel institute of technology,ofirdav@tx.technion.ac.il
+neurips,2016,1,1413,Shay,Moran,technion,Technion - Israel institue of Technology,shaymrn@cs.technion.ac.il
+neurips,2016,2,1413,Amir,Yehudayoff,gmail,Technion - Israel institue of Technology,amir.yehudayoff@gmail.com
+neurips,2016,0,2123,Kévin,Degraux,uclouvain,Université catholique de Louva,kevin.degraux@uclouvain.be
+neurips,2016,1,2123,Gabriel,Peyré,ens,Université Paris Dauphine,gabriel.peyre@ens.fr
+neurips,2016,2,2123,Jalal,Fadili,ensicaen,CNRS-ENSICAEN-Univ. Caen,Jalal.Fadili@ensicaen.fr
+neurips,2016,3,2123,Laurent,Jacques,uclouvain,Université catholique de Louvain,laurent.jacques@uclouvain.be
+neurips,2016,0,1954,Yujia,Shen,ucla,UCLA,yujias@cs.ucla.edu
+neurips,2016,1,1954,Arthur,Choi,ucla,UCLA,aychoi@cs.ucla.edu
+neurips,2016,2,1954,Adnan,Darwiche,ucla,UCLA,darwiche@cs.ucla.edu
+neurips,2016,0,501,Di,He,pku,Microsoft,1dih@cis.pku.edu.cn
+neurips,2016,1,501,Yingce,Xia,pku,USTC,wanglw@cis.pku.edu.cn
+neurips,2016,2,501,Tao,Qin,ustc,Microsoft,2xiayingc@mail.ustc.edu.cn
+neurips,2016,3,501,Liwei,Wang,ustc,Peking University,2ynh@ustc.edu.cn
+neurips,2016,4,501,Nenghai,Yu,microsoft,USTC,3taoqin@microsoft.com
+neurips,2016,5,501,Tie-Yan,Liu,microsoft,Microsoft,tie-yan.liu@microsoft.com
+neurips,2016,6,501,Wei-Ying,Ma,microsoft,Microsoft,wyma@microsoft.com
+neurips,2016,0,317,Gang,Wang,umn,University of Minnesota,gangwang@umn.edu
+neurips,2016,1,317,Georgios,Giannakis,umn,University of Minnesota,georgios@umn.edu
+neurips,2016,0,1928,Daniel,Neil,uzh,Institute of Neuroinformatics,dneil@ini.uzh.ch
+neurips,2016,1,1928,Michael,Pfeiffer,uzh,Institute of Neuroinformatics,pfeiffer@ini.uzh.ch
+neurips,2016,2,1928,Shih-Chii,Liu,uzh,"Institute for Neuroinformatics, University of Zurich and ETH Zurich",shih@ini.uzh.ch
+neurips,2016,0,2141,Alp,Yurtsever,ep,EPFL,alp.yurtsever@ep.ch
+neurips,2016,1,2141,Bang Cong,Vu,ep,"LIONS, EPFL",bang.vu@ep.ch
+neurips,2016,2,2141,Volkan,Cevher,ep,EPFL,volkan.cevher@ep.ch
+neurips,2016,0,1685,Anh,Nguyen,,University of Wyoming,
+neurips,2016,1,1685,Alexey,Dosovitskiy,,University of Freiburg,
+neurips,2016,2,1685,Jason,Yosinski,,Cornell,
+neurips,2016,3,1685,Thomas,Brox,,University of Freiburg,
+neurips,2016,4,1685,Jeff,Clune,,University of Wyoming,
+neurips,2016,0,537,Remi,Lam,mit,MIT,rlam@mit.edu
+neurips,2016,1,537,Karen,Willcox,mit,MIT,kwillcox@mit.edu
+neurips,2016,2,537,David,Wolpert,santafe,NASA Ames Research  Center,dhw@santafe.edu
+neurips,2016,0,586,Kirthevasan,Kandasamy,cmu,CMU,kandasamy@cs.cmu.edu
+neurips,2016,1,586,Gautam,Dasarathy,cmu,Carnegie Mellon University,joliva@cs.cmu.edu
+neurips,2016,2,586,Junier,Oliva,cmu,Carnegie Mellon University,schneide@cs.cmu.edu
+neurips,2016,3,586,Jeff,Schneider,cmu,CMU,bapoczos@cs.cmu.edu
+neurips,2016,4,586,Barnabas,Poczos,rice,Carnegie Mellon University,gautamd@rice.edu
+neurips,2016,0,2330,Yongbo,Li,,Xidian University,
+neurips,2016,1,2330,Weisheng,Dong,,Xidian University,
+neurips,2016,2,2330,Xuemei,Xie,,Xidian University,
+neurips,2016,3,2330,GUANGMING,Shi,,Xidian University,
+neurips,2016,4,2330,Xin,Li,,WVU,
+neurips,2016,5,2330,Donglai,Xu,,Teesside University,
+neurips,2016,0,248,jean,barbier,,EPFL,
+neurips,2016,1,248,Mohamad,Dia,,EPFL,
+neurips,2016,2,248,Nicolas,Macris,,EPFL,
+neurips,2016,3,248,Florent,Krzakala,,Ecole Normale Superieure Paris,
+neurips,2016,4,248,Thibault,Lesieur,,IPHT Saclay,
+neurips,2016,5,248,Lenka,Zdeborová,,CNRS and CEA Saclay,
+neurips,2016,0,823,Mohammad,Saberian,netflix,Netflix,esaberian@netflix.com
+neurips,2016,1,823,Jose,Costa Pereira,inesctec,UC San Diego,jose.c.pereira@inesctec.pt
+neurips,2016,2,823,Can,Xu,google,Google,canxu@google.com
+neurips,2016,3,823,Jian,Yang,yahoo-inc,Yahoo Research,jianyang@yahoo-inc.com
+neurips,2016,4,823,Nuno,Nvasconcelos,ucsd,UC San Diego,nvasconcelos@ucsd.edu
+neurips,2016,0,275,Vu,Dinh,,Fred Hutchinson Cancer Center,
+neurips,2016,1,275,Lam,Ho,,UCLA,
+neurips,2016,2,275,Binh,Nguyen,,University of Science,
+neurips,2016,3,275,Duy,Nguyen,,University of Wisconsin-Madison,
+neurips,2016,0,1786,Liangbei,Xu,gatech,Gatech,lxu66@gatech.edu
+neurips,2016,1,1786,Mark,Davenport,gatech,Georgia Institute of Technology,mdav@gatech.edu
+neurips,2016,0,1809,Blake,Woodworth,ttic,Toyota Technological Institute,blake@ttic.edu
+neurips,2016,1,1809,Nati,Srebro,ttic,TTI-Chicago,nati@ttic.edu
+neurips,2016,0,1908,Ivan,Herreros,,Universitat Pompeu Fabra,
+neurips,2016,1,1908,Xerxes,Arsiwalla,,Pompeu Fabra University,
+neurips,2016,2,1908,Paul,Verschure,,ICREA - Universitat Pompeu Fabra,
+neurips,2016,0,105,Zohar,Karnin,ymail,Yahoo Research,zkarnin@ymail.com
+neurips,2016,0,132,Peng,Wang,,UCLA,
+neurips,2016,1,132,Xiaohui,Shen,,Adobe Research,
+neurips,2016,2,132,Bryan,Russell,,Adobe,
+neurips,2016,3,132,Scott,Cohen,,Adobe Research,
+neurips,2016,4,132,Brian,Price,,,
+neurips,2016,5,132,Alan,Yuille,,UCLA,
+neurips,2016,0,1916,Miguel,Bautista,,Heidelberg University,
+neurips,2016,1,1916,Artsiom,Sanakoyeu,,Heidelberg University,
+neurips,2016,2,1916,Ekaterina,Tikhoncheva,,Heidelberg University,
+neurips,2016,3,1916,Bjorn,Ommer,,Heidelberg University,
+neurips,2016,0,2265,Justin,Khim,upenn,University of Pennsylvania,jkhim@wharton.upenn.edu
+neurips,2016,1,2265,Varun,Jog,wisc,University of Wisconsin - Madison,vjog@wisc.edu
+neurips,2016,2,2265,Po-Ling,Loh,wisc,Berkeley,loh@ece.wisc.edu
+neurips,2016,0,1778,Alexander,Ratner,stanford,Stanford University,ajratner@stanford.edu
+neurips,2016,1,1778,Christopher,De Sa,stanford,Stanford University,cdesa@stanford.edu
+neurips,2016,2,1778,Sen,Wu,stanford,Stanford University,senwu@stanford.edu
+neurips,2016,3,1778,Daniel,Selsam,stanford,Stanford,dselsam@stanford.edu
+neurips,2016,4,1778,Christopher,Ré,stanford,Stanford University,chrismre@stanford.edu
+neurips,2016,0,811,Brenda,Betancourt,unibocconi,Duke University,giacomo.zanella@unibocconi.it
+neurips,2016,1,811,Giacomo,Zanella,duke,The University of Warick,bb222@stat.duke.edu
+neurips,2016,2,811,Jeffrey,Miller,dirichlet,Duke University,hanna@dirichlet.net
+neurips,2016,3,811,Hanna,Wallach,harvard,Microsoft Research,jwmiller@hsph.harvard.edu
+neurips,2016,4,811,Abbas,Zaidi,duke,Duke University,amz19@stat.duke.edu
+neurips,2016,5,811,Rebecca,Steorts,duke,Duke University,beka@stat.duke.edu
+neurips,2016,0,1127,Dogyoon,Song,mit,MIT,celee@mit.edu
+neurips,2016,1,1127,Christina,Lee,mit,MIT,liyihua@mit.edu
+neurips,2016,2,1127,Yihua,Li,mit,MIT,devavrat@mit.edu
+neurips,2016,3,1127,Devavrat,Shah,mit,Massachusetts Institute of Technology,dgsong@mit.edu
+neurips,2016,0,445,Miguel,Carreira-Perpinan,ucmerced,UC Merced,mcarreira-perpinan@ucmerced.edu
+neurips,2016,1,445,Ramin,Raziperchikolaei,ucmerced,UC Merced,rraziperchikolaei@ucmerced.edu
+neurips,2016,0,1093,Xinran,He,usc,USC,xinranhe@usc.edu
+neurips,2016,1,1093,Ke,Xu,usc,USC,xuk@usc.edu
+neurips,2016,2,1093,David,Kempe,usc,USC,dkempe@usc.edu
+neurips,2016,3,1093,Yan,Liu,usc,University of Southern California,yanliu.cs@usc.edu
+neurips,2016,0,2158,Tuomas,Haarnoja,berkeley,UC Berkeley,haarnoja@berkeley.edu
+neurips,2016,1,2158,Anurag,Ajay,berkeley,UC Berkeley,anuragajay@berkeley.edu
+neurips,2016,2,2158,Sergey,Levine,berkeley,University of Washington,svlevine@berkeley.edu
+neurips,2016,3,2158,Pieter,Abbeel,berkeley,OpenAI / UC Berkeley / Gradescope,pabbeel@berkeley.edu
+neurips,2016,0,1129,Xi,Chen,,Columbia University,
+neurips,2016,1,1129,Xi,Chen,,Columbia University,
+neurips,2016,2,1129,Yu,Cheng,,U of Southern California,
+neurips,2016,3,1129,Bo,Tang,,University of Oxford,
+neurips,2016,0,635,Timothy,Rubin,,Indiana University,
+neurips,2016,1,635,Oluwasanmi,Koyejo,,UIUC,
+neurips,2016,2,635,Michael,Jones,,Indiana University,
+neurips,2016,3,635,Tal,Yarkoni,,University of Texas at Austin,
+neurips,2016,0,598,George,Papamakarios,ed,University of Edinburgh,g.papamakarios@ed.ac.uk
+neurips,2016,1,598,Iain,Murray,ed,University of Edinburgh,i.murray@ed.ac.uk
+neurips,2016,0,1855,Casper Kaae,Sønderby,gmail,University of Copenhagen,casperkaae@gmail.com
+neurips,2016,1,1855,Tapani,Raiko,aalto,Apple Inc.,tapani.raiko@aalto.fi
+neurips,2016,2,1855,Lars,Maaløe,dtu,Technical University of Denmark,larsma@dtu.dk
+neurips,2016,3,1855,Søren Kaae,Sønderby,gmail,KU,skaaesonderby@gmail.com
+neurips,2016,4,1855,Ole,Winther,dtu,Technical University of Denmark,olwi@dtu.dk
+neurips,2016,0,1013,Kihyuk,Sohn,nec-labs,NEC Laboratories America,ksohn@nec-labs.com
+neurips,2016,0,1899,Mohammad Javad,Hosseini,washington,University of Washington,hosseini@cs.washington.edu
+neurips,2016,1,1899,Su-In,Lee,washington,University of Washington,suinlee@cs.washington.edu
+neurips,2016,0,1368,Kevin,Winner,umass,UMass CICS,kwinner@cs.umass.edu
+neurips,2016,1,1368,Daniel,Sheldon,umass,University of Massachusetts Amherst,sheldon@cs.umass.edu
+neurips,2016,0,733,Emmanuel,Abbe,princeton,Princeton University,eabbe@princeton.edu
+neurips,2016,1,733,Colin,Sandon,princeton,Princeton University,sandon@princeton.edu
+neurips,2016,0,250,Han,Zhao,cmu,Carnegie Mellon University,han.zhao@cs.cmu.edu
+neurips,2016,1,250,Pascal,Poupart,uwaterloo,University of Waterloo,ppoupart@uwaterloo.ca
+neurips,2016,2,250,Geoffrey,Gordon,cmu,CMU,ggordon@cs.cmu.edu
+neurips,2016,0,1487,Risi,Kondor,uchicago,The University of Chicago,risi@cs.uchicago.edu
+neurips,2016,1,1487,Horace,Pan,uchicago,UChicago,hopan@uchicago.edu
+neurips,2016,0,1163,Jose,Alvarez,csiro,NICTA,jose.alvarez@data61.csiro.au
+neurips,2016,1,1163,Mathieu,Salzmann,epfl,EPFL,mathieu.salzmann@epfl.ch
+neurips,2016,0,480,Jinzhuo,Wang,pku,PKU,jzwang@pku.edu.cn
+neurips,2016,1,480,Wenmin,Wang,pku,peking university,wangwm@ece.pku.edu.cn
+neurips,2016,2,480,xiongtao,Chen,pku,peking university,cxt@pku.edu.cn
+neurips,2016,3,480,Ronggang,Wang,pku,peking university,rgwang@ece.pku.edu.cn
+neurips,2016,4,480,Wen,Gao,pku,peking university,wgao@pku.edu.cn
+neurips,2016,0,2518,Chris Junchi,Li,princeton,Princeton University,junchil@princeton.edu
+neurips,2016,1,2518,Zhaoran,Wang,princeton,Princeton University,zhaoran@princeton.edu
+neurips,2016,2,2518,Han,Liu,princeton,Princeton University,hanliu@princeton.edu
+neurips,2016,0,1944,Ransalu,Senanayake,sydney,The University of Sydney,rsen4557@uni.sydney.edu.au
+neurips,2016,1,1944,Lionel,Ott,csiro,The University of Sydney,simon.ocallaghan@data61.csiro.au
+neurips,2016,2,1944,Simon,O'Callaghan,sydney,NICTA,lionel.ott@sydney.edu.au
+neurips,2016,3,1944,Fabio,Ramos,sydney,The University of Sydney,fabio.ramos@sydney.edu.au
+neurips,2016,0,210,Xiao,Chu,cuhk,Cuhk,xchu@ee.cuhk.edu.hk
+neurips,2016,1,210,Wanli,Ouyang,cuhk,The Chinese University of Hong Kong,hsli@ee.cuhk.edu.hk
+neurips,2016,2,210,hongsheng,Li,cuhk,cuhk,wlouyang@ee.cuhk.edu.hk
+neurips,2016,3,210,Xiaogang,Wang,cuhk,Chinese University of Hong Kong,xgwang@ee.cuhk.edu.hk
+neurips,2016,0,1074,Scott,Linderman,columbia,Columbia University,swl2133@columbia.edu
+neurips,2016,1,1074,Ryan,Adams,harvard,Harvard and Twitter,rpa@seas.harvard.edu
+neurips,2016,2,1074,Jonathan,Pillow,princeton,Princeton University,pillow@princeton.edu
+neurips,2016,0,2283,Chang,Liu,,University of Maryland,
+neurips,2016,1,2283,Xinyun,Chen,,Shanghai Jiaotong University,
+neurips,2016,2,2283,Eui Chul,Shin,,UC Berkeley,
+neurips,2016,3,2283,Mingcheng,Chen,,University of Illinois,
+neurips,2016,4,2283,Dawn,Song,,UC Berkeley,
+neurips,2016,0,832,Matthias,Bauer,cam,University of Cambridge,msb55@cam.ac.uk
+neurips,2016,1,832,Mark,van der Wilk,cam,University of Cambridge,mv310@cam.ac.uk
+neurips,2016,2,832,Carl Edward,Rasmussen,cam,University of Cambridge,cer54@cam.ac.uk
+neurips,2016,0,1839,Grégoire,Montavon,tu-berlin,TU Berlin,gregoire.montavon@tu-berlin.de
+neurips,2016,1,1839,Klaus-Robert,Müller,tu-berlin,TU Berlin,klaus-robert.mueller@tu-berlin.de
+neurips,2016,2,1839,Marco,Cuturi,ensae,ENSAE - CREST,marco.cuturi@ensae.fr
+neurips,2016,0,2589,Necdet Serhat,Aybat,psu,Penn State University,nsa10@psu.edu
+neurips,2016,1,2589,Erfan,Yazdandoost Hamedani,psu,Penn State University,evy5047@psu.edu
+neurips,2016,0,1726,Behnam,Neyshabur,ttic,TTI-Chicago,bneyshabur@ttic.edu
+neurips,2016,1,1726,Yuhuai,Wu,toronto,University of Toronto,ywu@cs.toronto.edu
+neurips,2016,2,1726,Russ,Salakhutdinov,cmu,University of Toronto,rsalakhu@cs.cmu.edu
+neurips,2016,3,1726,Nati,Srebro,ttic,TTI-Chicago,nati@ttic.edu
+neurips,2016,0,1853,Jiecao,Chen,,Indiana University Bloomington,
+neurips,2016,1,1853,He,Sun,,The University of Bristol,
+neurips,2016,2,1853,David,Woodruff,,IBM Research,
+neurips,2016,3,1853,Qin,Zhang,,Indiana University Bloomington,
+neurips,2016,0,914,Corinna,Cortes,google,Google Research,corinna@google.com
+neurips,2016,1,914,Giulia,DeSalvo,nyu,New York University,desalvo@cims.nyu.edu
+neurips,2016,2,914,Mehryar,Mohri,nyu,"Courant Institute, NYU & Google",mohri@cims.nyu.edu
+neurips,2016,0,128,Yuanjun,Gao,columbia,Columbia University,yg2312@columbia.edu
+neurips,2016,1,128,Evan,Archer,columbia,Columbia University,evan@stat.columbia.edu
+neurips,2016,2,128,Liam,Paninski,columbia,Columbia University,liam@stat.columbia.edu
+neurips,2016,3,128,John,Cunningham,columbia,University of Columbia,jpc2181@columbia.edu
+neurips,2016,0,616,Yingzhen,Li,cam,University of Cambridge,yl494@cam.ac.uk
+neurips,2016,1,616,Richard,Turner,cam,University of Cambridge,ret26@cam.ac.uk
+neurips,2016,0,1502,Chang,Liu,,Tsinghua University,chang-li14@mails
+neurips,2016,1,1502,Jun,Zhu,tsinghua,Tsinghua University,dcszj@.tsinghua.edu.cn
+neurips,2016,2,1502,Yang,Song,stanford,Stanford University,songyang@stanford.edu
+neurips,2016,0,2504,Nicolo,Colombo,ucl,Univ of Luxembourg,nicolo.colombo@ucl.ac.uk
+neurips,2016,1,2504,Nikos,Vlassis,adobe,Adobe Research,vlassis@adobe.com
+neurips,2016,0,1374,Ji,Xu,columbia,Columbia university,jixu@cs.columbia.edu
+neurips,2016,1,1374,Daniel,Hsu,columbia,Columbia University,djhsu@cs.columbia.edu
+neurips,2016,2,1374,Arian,Maleki,columbia,Columbia University,arian@stat.columbia.edu
+neurips,2016,0,826,Artem,Sokolov,uni-heidelberg,Heidelberg University,sokolov@cl.uni-heidelberg.de
+neurips,2016,1,826,Julia,Kreutzer,uni-heidelberg,Heidelberg University,kreutzer@cl.uni-heidelberg.de
+neurips,2016,2,826,Stefan,Riezler,uni-heidelberg,Heidelberg University,riezler@cl.uni-heidelberg.de
+neurips,2016,3,826,Christopher,Lo,gmail,,chris.aa.lo@gmail.com
+neurips,2016,0,1376,Shantanu,Jain,indiana,Indiana University,shajain@indiana.edu
+neurips,2016,1,1376,Martha,White,indiana,Indiana University,martha@indiana.edu
+neurips,2016,2,1376,Predrag,Radivojac,indiana,Indiana University,predrag@indiana.edu
+neurips,2016,0,2103,Farzan,Farnia,stanford,Stanford University,farnia@stanford.edu
+neurips,2016,1,2103,David,Tse,stanford,Stanford University,dntse@stanford.edu
+neurips,2016,0,2335,Jean-Bastien,Grill,inria,Inria Lille - Nord Europe,jean-bastien.grill@inria.fr
+neurips,2016,1,2335,Michal,Valko,inria,Inria Lille - Nord Europe,michal.valko@inria.fr
+neurips,2016,2,2335,Remi,Munos,google,Google DeepMind,munos@google.com
+neurips,2016,0,2020,Yin Cheng,Ng,ucl,University College London,y.ng.12@ucl.ac.uk
+neurips,2016,1,2020,Pawel,Chilinski,ucl,University College London,ucabchi@ucl.ac.uk
+neurips,2016,2,2020,Ricardo,Silva,ucl,University College London,r.silva@ucl.ac.uk
+neurips,2016,0,1311,Zhe,Li,ucf,The University of Iowa,bgong@crcv.ucf.edu
+neurips,2016,1,1311,Boqing,Gong,uiowa,University of Central Florida,zhe-li-1@uiowa.edu
+neurips,2016,2,1311,Tianbao,Yang,uiowa,University of Iowa,tianbao-yang@uiowa.edu
+neurips,2016,0,2173,Pedro,Mercado,,Saarland University,
+neurips,2016,1,2173,Francesco,Tudisco,,Saarland University,
+neurips,2016,2,2173,Matthias,Hein,,Saarland University,
+neurips,2016,0,1571,Ilya,Shpitser,jhu,Johns Hopkins University,ilyas@cs.jhu.edu
+neurips,2016,0,1689,Mathias,Niepert,neclabs,NEC Labs Europe,mathias.niepert@neclabs.eu
+neurips,2016,0,1293,Fan,Yang,uchicago,University of Chicago,fyang1@uchicago.edu
+neurips,2016,1,1293,Rina,Foygel Barber,uchicago,University of Chicago,rina@uchicago.edu
+neurips,2016,2,1293,Prateek,Jain,microsoft,Microsoft Research,prajain@microsoft.com
+neurips,2016,3,1293,John,Lafferty,uchicago,University of Chicago,lafferty@galton.uchicago.edu
+neurips,2016,0,1134,Xi,Chen,,UC Berkeley and OpenAI,
+neurips,2016,1,1134,Yan,Duan,,UC Berkeley,
+neurips,2016,2,1134,Rein,Houthooft,,Ghent University - iMinds and UC Berkeley and OpenAI,
+neurips,2016,3,1134,John,Schulman,,OpenAI,
+neurips,2016,4,1134,Ilya,Sutskever,,Google,
+neurips,2016,5,1134,Pieter,Abbeel,,OpenAI / UC Berkeley / Gradescope,
+neurips,2016,0,1048,Uygar,Sümbül,,Columbia University,
+neurips,2016,1,1048,Douglas,Roossien,,University of Michigan,
+neurips,2016,2,1048,Dawen,Cai,,University of Michigan,
+neurips,2016,3,1048,Fei,Chen,,Massachusetts Institute of Technology,
+neurips,2016,4,1048,Nicholas,Barry,,Massachusetts Institute of Technology,
+neurips,2016,5,1048,John,Cunningham,,University of Columbia,
+neurips,2016,6,1048,Edward,Boyden,,Massachusetts Institute of Technology,
+neurips,2016,7,1048,Liam,Paninski,,Columbia University,
+neurips,2016,0,887,Alhussein,Fawzi,,Ecole Polytechnique Federale de Lausanne (EPFL),
+neurips,2016,1,887,Seyed-Mohsen,Moosavi-Dezfooli,,EPFL,
+neurips,2016,2,887,Pascal,Frossard,,EPFL,
+neurips,2016,0,1474,Matthew,Johnson,harvard,MIT,mattjj@seas.harvard.edu
+neurips,2016,1,1474,David,Duvenaud,harvard,University of Toronto,dduvenaud@seas.harvard.edu
+neurips,2016,2,1474,Alex,Wiltschko,harvard,Harvard University and Twitter,awiltsch@fas.harvard.edu
+neurips,2016,3,1474,Ryan,Adams,harvard,Harvard and Twitter,srdatta@hms.harvard.edu
+neurips,2016,4,1474,Sandeep,Datta,harvard,Harvard Medical School,rpa@seas.harvard.edu
+neurips,2016,0,542,Yusuf,Aytar,mit,MIT,yusuf@csail.mit.edu
+neurips,2016,1,542,Carl,Vondrick,mit,MIT,vondrick@mit.edu
+neurips,2016,2,542,Antonio,Torralba,mit,MIT,torralba@mit.edu
+neurips,2016,0,2582,Ian En-Hsu,Yen,,University of Texas at Austin,
+neurips,2016,1,2582,Xiangru,Huang,,University of Texas at Austin,
+neurips,2016,2,2582,Kai,Zhong,,University of Texas at Austin,
+neurips,2016,3,2582,Ruohan,Zhang,,University of Texas at Austin,
+neurips,2016,4,2582,Pradeep,Ravikumar,,Carnegie Mellon University,
+neurips,2016,5,2582,Inderjit,Dhillon,,University of Texas at Austin,
+neurips,2016,0,1263,Jason,Hartford,ubc,University of British Columbia,jasonhar@cs.ubc.ca
+neurips,2016,1,1263,James,Wright,ubc,University of British Columbia,jrwright@cs.ubc.ca
+neurips,2016,2,1263,Kevin,Leyton-Brown,ubc,University of British Columbia,kevinlb@cs.ubc.ca
+neurips,2016,0,1769,Yining,Wang,cmu,Carnegie Mellon University,OnlineandDifferentially-PrivateTensorDecompositionYiningWangMachineLearningDepartmentCarnegieMellonUniversityyiningwa@cs.cmu.eduAnimashreeAnandkumarDepartmentofEECSUniversityofCalifornia
+neurips,2016,1,1769,Anima,Anandkumar,uci,UC Irvine,Irvinea.anandkumar@uci.edu
+neurips,2016,0,150,Ruth,Heller,gmail,Tel-Aviv University,ruheller@gmail.com
+neurips,2016,1,150,Yair,Heller,gmail,Independent,heller.yair@gmail.com
+neurips,2016,0,271,Shuyang,Gao,usc,University of Southern California,gaos@usc.edu
+neurips,2016,1,271,Greg,Ver Steeg,isi,University of Southern California,gregv@isi.edu
+neurips,2016,2,271,Aram,Galstyan,isi,USC Information Sciences Inst,galstyan@isi.edu
+neurips,2016,0,1391,Wataru,Kumagai,kanagawa-u,Kanagawa University,kumagai@kanagawa-u.ac.jp
+neurips,2016,0,1485,Rong,Ge,duke,Princeton University,rongge@cs.duke.edu.
+neurips,2016,1,1485,Jason,Lee,usc,UC Berkeley,jasonlee@marshall.usc.edu.
+neurips,2016,2,1485,Tengyu,Ma,princeton,Princeton University,tengyu@cs.princeton.edu.
+neurips,2016,0,1687,Brian,Dolhansky,washington,University of Washington,bdol@cs.washington.edu
+neurips,2016,1,1687,Jeff,Bilmes,uw,University of Washington,bilmes@uw.edu
+neurips,2016,0,1053,Ji Hyun,Bak,re,Princeton University,jhbak@kias.re.kr
+neurips,2016,1,1053,Jung Yoon,Choi,princeton,,jungchoi@princeton.edu
+neurips,2016,2,1053,Athena,Akrami,princeton,,aakrami@princeton.edu
+neurips,2016,3,1053,Ilana,Witten,princeton,,iwitten@princeton.edu
+neurips,2016,4,1053,Jonathan,Pillow,princeton,Princeton University,pillow@princeton.edu
+neurips,2016,0,1620,Sheng,Chen,umn,University of Minnesota,shengc@cs.umn.edu
+neurips,2016,1,1620,Arindam,Banerjee,umn,University of Minnesota,banerjee@cs.umn.edu
+neurips,2016,0,1451,ALEXANDROS,GEORGOGIANNIS,,TECHNICAL UNIVERSITY OF CRETE,
+neurips,2016,0,95,Zequn,Jie,,National Univ of Singapore,
+neurips,2016,1,95,Xiaodan,Liang,,Sun Yat-sen University,
+neurips,2016,2,95,Jiashi,Feng,,National University of Singapo,
+neurips,2016,3,95,Xiaojie,Jin,,NUS,
+neurips,2016,4,95,Wen,Lu,,National Univ of Singapore,
+neurips,2016,5,95,Shuicheng,Yan,,National University of Singapore,
+neurips,2016,0,2068,Michalis,Titsias RC AUEB,aueb,Athens University of Economics and Business,mtitsias@aueb.gr
+neurips,2016,0,2564,Aaron,Schein,umass,UMass Amherst,aschein@cs.umass.edu
+neurips,2016,1,2564,Hanna,Wallach,utexas,Microsoft Research,mingyuan.zhou@mccombs.utexas.edu
+neurips,2016,2,2564,Mingyuan,Zhou,dirichlet,University of Texas at Austin,hanna@dirichlet.net
+neurips,2016,0,1642,Motonobu,Kanagawa,ism,The Institute of Statistical Mathematics,kanagawa@ism.ac.jp
+neurips,2016,1,1642,Bharath,Sriperumbudur,psu,Penn State University,bks18@psu.edu
+neurips,2016,2,1642,Kenji,Fukumizu,ism,Institute of Statistical Mathematics,fukumizu@ism.ac.jp
+neurips,2016,0,1517,Thibaut,Horel,harvard,Harvard University,thorel@seas.harvard.edu
+neurips,2016,1,1517,Yaron,Singer,harvard,Harvard University,yaron@seas.harvard.edu
+neurips,2016,0,1371,Yuxun,Zhou,berkeley,UC Berkeley,yxzhou@berkeley.edu
+neurips,2016,1,1371,Costas,Spanos,berkeley,"University of California, Berkeley",spanos@berkeley.edu
+neurips,2016,0,2102,Zhao,Song,,Duke University,
+neurips,2016,1,2102,Ronald,Parr,,Duke University,
+neurips,2016,2,2102,Xuejun,Liao,,Duke University,
+neurips,2016,3,2102,Lawrence,Carin,,Duke University,
+neurips,2016,0,1140,Kai,Zhong,utexas,UT AUSTIN,zhongkai@ices.utexas.edu
+neurips,2016,1,1140,Prateek,Jain,microsoft,Microsoft Research,prajain@microsoft.com
+neurips,2016,2,1140,Inderjit,Dhillon,utexas,University of Texas at Austin,inderjit@cs.utexas.edu
+neurips,2016,0,1025,David,Harwath,mit,MIT CSAIL,dharwath@csail.mit.edu
+neurips,2016,1,1025,Antonio,Torralba,mit,MIT CSAIL,torralba@csail.mit.edu
+neurips,2016,2,1025,James,Glass,mit,MIT CSAIL,jrg@csail.mit.edu
+neurips,2016,0,725,Ramya,Korlakai Vinayak,caltech,Caltech,ramya@caltech.edu
+neurips,2016,1,725,Babak,Hassibi,caltech,Caltech,hassibi@systems.caltech.edu
+neurips,2016,0,289,Luca,Bertinetto,,University of Oxford,
+neurips,2016,1,289,João,Henriques,,University of Oxford,
+neurips,2016,2,289,Jack,Valmadre,,University of Oxford,
+neurips,2016,3,289,Philip,Torr,,Oxford University,
+neurips,2016,4,289,Andrea,Vedaldi,,University of Oxford,
+neurips,2016,0,1358,Huishuai,Zhang,syr,Syracuse University,hzhan23@syr.edu
+neurips,2016,1,1358,Yingbin,Liang,syr,Syracuse University,yliang06@syr.edu
+neurips,2016,0,1036,Bo,Li,,Vanderbilt University,
+neurips,2016,1,1036,Yining,Wang,,Carnegie Mellon University,
+neurips,2016,2,1036,Aarti,Singh,,Carnegie Mellon University,
+neurips,2016,3,1036,Yevgeniy,Vorobeychik,,Vanderbilt University,
+neurips,2016,0,1029,Pascal,Germain,inria,Laval University,Supérieure@inria.fr
+neurips,2016,1,1029,Francis,Bach,inria,INRIA - Ecole Normale Superieure,firstname.lastname@inria.fr
+neurips,2016,2,1029,Alexandre,Lacoste,google,Universite de Montreal,Google@google.com
+neurips,2016,3,1029,Simon,Lacoste-Julien,google,INRIA,allac@google.com
+neurips,2016,0,2082,Chengtao,Li,mit,MIT,ctli@mit.edu
+neurips,2016,1,2082,Suvrit,Sra,mit,MIT,stefje@csail.mit.edu
+neurips,2016,2,2082,Stefanie,Jegelka,mit,MIT,suvrit@mit.edu
+neurips,2016,0,526,Hsiang-Fu,Yu,utexas,University of Texas at Austin,rofuyu@cs.utexas.edu
+neurips,2016,1,526,Nikhil,Rao,gmail,Technicolor,nikhilrao86@gmail.com
+neurips,2016,2,526,Inderjit,Dhillon,utexas,University of Texas at Austin,inderjit@cs.utexas.edu
+neurips,2016,0,202,Yangyan,Li,,Stanford University,
+neurips,2016,1,202,Soeren,Pirk,,Stanford University,
+neurips,2016,2,202,Hao,Su,,Stanford University,
+neurips,2016,3,202,Charles,Qi,,Stanford University,
+neurips,2016,4,202,Leonidas,Guibas,,Stanford University,
+neurips,2016,0,1423,Mandar,Dixit,ucsd,UC San Diego,mdixit@ucsd.edu
+neurips,2016,1,1423,Nuno,Vasconcelos,ucsd,UC San Diego,nvasconcelos@ucsd.edu
+neurips,2016,0,992,Saizheng,Zhang,,University of Montreal,
+neurips,2016,1,992,Yuhuai,Wu,,University of Toronto,
+neurips,2016,2,992,Tong,Che,,IHES,
+neurips,2016,3,992,Zhouhan,Lin,,University of Montreal,
+neurips,2016,4,992,Roland,Memisevic,,University of Montreal,
+neurips,2016,5,992,Russ,Salakhutdinov,,University of Toronto,
+neurips,2016,6,992,Yoshua,Bengio,,U. Montreal,
+neurips,2016,0,1350,Marc,Vuffray,lanl,Los Alamos National Laboratory,vuffray@lanl.gov
+neurips,2016,1,1350,Sidhant,Misra,lanl,Los Alamos National Laboratory,sidhant@lanl.gov
+neurips,2016,2,1350,Andrey,Lokhov,lanl,Los Alamos National Laboratory,lokhov@lanl.gov
+neurips,2016,3,1350,Michael,Chertkov,lanl,Los Alamos National Laboratory,chertkov@lanl.gov
+neurips,2016,0,1765,Aris,Anagnostopoulos,,Sapienza University of Rome,
+neurips,2016,1,1765,Jakub,cki,,Sapienza University of Rome,
+neurips,2016,2,1765,Silvio,Lattanzi,,Google,
+neurips,2016,3,1765,Stefano,Leonardi,,Sapienza University of Rome,
+neurips,2016,4,1765,Mohammad,Mahdian,,Google Research,
+neurips,2016,0,754,Suriya,Gunasekar,utexas,UT Austin,suriya@utexas.edu
+neurips,2016,1,754,Oluwasanmi,Koyejo,illinois,UIUC,sanmi@illinois.edu
+neurips,2016,2,754,Joydeep,Ghosh,utexas,UT Austin,ghosh@ece.utexas.edu
+neurips,2016,0,1581,Wen-Hao,Zhang,ust,Institute of Neuroscience,wenhaoz@ust.hk
+neurips,2016,1,1581,He,Wang,ust,HKUST,hwangaa@connect.ust.hk
+neurips,2016,2,1581,K. Y. Michael,Wong,ust,HKUST,phkywong@ust.hk
+neurips,2016,3,1581,Si,Wu,bnu,Beijing Normal University,wusi@bnu.edu.cn
+neurips,2016,0,2170,Carlo,Ciliberto,mit,MIT,cciliber@mit.edu
+neurips,2016,1,2170,Lorenzo,Rosasco,mit,University of Genova- MIT - IIT,ale_rudi@mit.edu
+neurips,2016,2,2170,Alessandro,Rudi,mit,University of Genova,lrosasco@mit.edu
+neurips,2016,0,2165,Chinmay,Hegde,,Iowa State University,
+neurips,2016,1,2165,Piotr,Indyk,,MIT,
+neurips,2016,2,2165,Ludwig,Schmidt,,MIT,
+neurips,2016,0,1146,Tim,Salimans,,Algoritmica,
+neurips,2016,1,1146,Ian,Goodfellow,,OpenAI,
+neurips,2016,2,1146,Wojciech,Zaremba,,OpenAI,
+neurips,2016,3,1146,Vicki,Cheung,,OpenAI,
+neurips,2016,4,1146,Alec,Radford,,OpenAI,
+neurips,2016,5,1146,Xi,Chen,,UC Berkeley and OpenAI,
+neurips,2016,6,1146,Xi,Chen,,UC Berkeley and OpenAI,
+neurips,2016,0,1090,Qi,Lei,utexas,UT AUSTIN,leiqi@ices.utexas.edu
+neurips,2016,1,1090,Kai,Zhong,utexas,UT AUSTIN,zhongkai@ices.utexas.edu
+neurips,2016,2,1090,Inderjit,Dhillon,utexas,University of Texas at Austin,inderjit@cs.utexas.edu
+neurips,2016,0,1717,Rishi,Gupta,stanford,Stanford,rishig@cs.stanford.edu
+neurips,2016,1,1717,Ravi,Kumar,gmail,Yahoo!,ravi.k53@gmail.com
+neurips,2016,2,1717,Sergei,Vassilvitskii,google,Google,sergeiv@google.com
+neurips,2016,0,2459,Moein,Falahatgar,ucsd,UCSD,moein@ucsd.edu
+neurips,2016,1,2459,Mesrob,Ohannessian,ttic,Toyota Technological Institute at Chicago,mesrob@ttic.edu
+neurips,2016,2,2459,Alon,Orlitsky,ucsd,"University of California, San Diego",alon@ucsd.edu
+neurips,2016,0,378,Xu,Jia,,KU Leuven,
+neurips,2016,1,378,Bert,De Brabandere,,KU Leuven,
+neurips,2016,2,378,Tinne,Tuytelaars,,KU Leuven,
+neurips,2016,3,378,Luc,Gool,,ETH Zürich,
+neurips,2016,0,1525,Lin,Chen,yale,Yale University,lin.chen@yale.edu
+neurips,2016,1,1525,Amin,Karbasi,yale,Yale,amin.karbasi@yale.edu
+neurips,2016,2,1525,Forrest,Crawford,yale,Yale University,forrest.crawford@yale.edu
+neurips,2016,0,1779,Vitaly,Feldman,,IBM Research - Almaden,
+neurips,2016,0,747,James,Newling,idiap,Idiap Research Institute,james.newling@idiap.ch
+neurips,2016,1,747,François,Fleuret,idiap,Idiap Research Institute,francois.fleuret@idiap.ch
+neurips,2016,0,1935,matt,zhang,,Nicta,
+neurips,2016,1,1935,Peng,Lin,,Data61,
+neurips,2016,2,1935,Peng,Lin,,Data61,
+neurips,2016,3,1935,Ting,Guo,,Data61,
+neurips,2016,4,1935,Yang,Wang,,Data61,
+neurips,2016,5,1935,Yang,Wang,,Data61,
+neurips,2016,6,1935,Fang,Chen,,Data61,
+neurips,2016,0,940,Kai-Wei,Chang,kwchang,University of Virginia,kw@kwchang.net
+neurips,2016,1,940,He,He,umd,University of Maryland,hhe@cs.umd.edu
+neurips,2016,2,940,Stephane,Ross,hal3,Google,me@hal3.name
+neurips,2016,3,940,Hal,Daume III,microsoft,University of Maryland,jcl@microsoft.com
+neurips,2016,4,940,John,Langford,google,Microsoft Research New York,stephaneross@google.com
+neurips,2016,0,2017,Ian,Osband,google,DeepMind,iosband@google.com
+neurips,2016,1,2017,Charles,Blundell,google,DeepMind,cblundell@google.com
+neurips,2016,2,2017,Alexander,Pritzel,google,Google Deepmind,apritzel@google.com
+neurips,2016,3,2017,Benjamin,Van Roy,stanford,Stanford University,bvr@stanford.edu
+neurips,2016,0,1797,Cristina,Savin,ist,IST Austria,csavin@ist.ac.at
+neurips,2016,1,1797,Gasper,Tkacik,ist,Institute of Science and Technology Austria,tkacik@ist.ac.at
+neurips,2016,0,830,Prateek,Jain,,Microsoft Research,
+neurips,2016,1,830,Nikhil,Rao,,Technicolor,
+neurips,2016,2,830,Inderjit,Dhillon,,University of Texas at Austin,
+neurips,2016,0,611,Albert,Berahas,northwestern,Northwestern University,albertberahas@u.northwestern.edu
+neurips,2016,1,611,Jorge,Nocedal,northwestern,Northwestern University,j-nocedal@northwestern.edu
+neurips,2016,2,611,Martin,Takac,gmail,Lehigh University,takac.mt@gmail.com
+neurips,2016,0,178,Josip,Djolonga,ethz,ETH Zurich,josipd@inf.ethz.ch
+neurips,2016,1,178,Stefanie,Jegelka,mit,MIT,stefje@mit.edu
+neurips,2016,2,178,Sebastian,Tschiatschek,ethz,ETH Zurich,stschia@inf.ethz.ch
+neurips,2016,3,178,Andreas,Krause,ethz,ETHZ,krausea@inf.ethz.ch
+neurips,2016,0,675,Han-Jia,Ye,nju,Nanjing University,yehj@lamda.nju.edu.cn
+neurips,2016,1,675,De-Chuan,Zhan,nju,Nanjing University,zhandc@lamda.nju.edu.cn
+neurips,2016,2,675,Xue-Min,Si,nju,Nanjing University,sixm@lamda.nju.edu.cn
+neurips,2016,3,675,Yuan,Jiang,nju,Nanjing University,jiangy@lamda.nju.edu.cn
+neurips,2016,4,675,Zhi-Hua,Zhou,nju,Nanjing University,zhouzh@lamda.nju.edu.cn
+neurips,2016,0,1804,Oriol,Vinyals,google,Google,vinyals@google.com
+neurips,2016,1,1804,Charles,Blundell,google,DeepMind,cblundell@google.com
+neurips,2016,2,1804,Timothy,Lillicrap,google,Google DeepMind,countzero@google.com
+neurips,2016,3,1804,koray,kavukcuoglu,google,Google DeepMind,korayk@google.com
+neurips,2016,4,1804,Daan,Wierstra,google,Google DeepMind,wierstra@google.com
+neurips,2016,0,244,Rong,Zhu,amss,Chinese Academy of Sciences,rongzhu@amss.ac.cn
+neurips,2016,0,941,Mengdi,Wang,princeton,Princeton University,mengdiw@princeton.edu
+neurips,2016,1,941,Ji,Liu,gmail,University of Rochester,ji.liu.uwisc@gmail.com
+neurips,2016,2,941,Ethan,Fang,psu,Pennsylvania State University,xxf13@psu.edu
+neurips,2016,0,953,Josip,Djolonga,ethz,ETH Zurich,josipd@inf.ethz.ch
+neurips,2016,1,953,Sebastian,Tschiatschek,ethz,ETH Zurich,tschiats@inf.ethz.ch
+neurips,2016,2,953,Andreas,Krause,ethz,ETHZ,krausea@inf.ethz.ch
+neurips,2016,0,1743,Brian,Bullins,princeton,Princeton University,bbullins@cs.princeton.edu
+neurips,2016,1,1743,Elad,Hazan,princeton,Princeton University,ehazan@cs.princeton.edu
+neurips,2016,2,1743,Tomer,Koren,google,Technion---Israel Inst. of Technology,tkoren@google.com
+neurips,2016,0,1607,Hassan,Ashtiani,uwaterloo,University of Waterloo,mhzokaei@uwaterloo.ca
+neurips,2016,1,1607,Shrinu,Kushagra,uwaterloo,University of Waterloo,skushagr@uwaterloo.ca
+neurips,2016,2,1607,Shai,Ben-David,uwaterloo,U. Waterloo,shai@uwaterloo.ca
+neurips,2016,0,1616,Ayan,Sinha,mit,Purdue,sinhayan@mit.edu
+neurips,2016,1,1616,David,Gleich,purdue,Purdue University,dgleich@purdue.edu
+neurips,2016,2,1616,Karthik,Ramani,purdue,Purdue University,ramani@purdue.edu
+neurips,2016,0,2540,Yuanzhi,Li,princeton,Princeton University,yuanzhil@cs.princeton.edu
+neurips,2016,1,2540,Yingyu,Liang,princeton,Princeton University,yingyul@cs.princeton.edu
+neurips,2016,2,2540,Andrej,Risteski,princeton,Princeton University,risteski@cs.princeton.edu
+neurips,2016,0,1860,Nathan,Lepora,bristol,University of Bristol,n.lepora@bristol.ac.uk
+neurips,2016,0,213,Alexander,Kirillov,,TU Dresden,
+neurips,2016,1,213,Alexander,Shekhovtsov,,Graz University of Technology,
+neurips,2016,2,213,Carsten,Rother,,TU Dresden,
+neurips,2016,3,213,Bogdan,Savchynskyy,,TU Dresden,
+neurips,2016,0,1627,Himabindu,Lakkaraju,stanford,Stanford University,himalv@cs.stanford.edu
+neurips,2016,1,1627,Jure,Leskovec,stanford,Stanford University,jure@cs.stanford.edu
+neurips,2016,0,1356,Osbert,Bastani,stanford,Stanford University,obastani@cs.stanford.edu
+neurips,2016,1,1356,Yani,Ioannou,microsoft,University of Cambridge,dimitris@microsoft.com
+neurips,2016,2,1356,Leonidas,Lampropoulos,cam,University of Pennsylvania,yai20@cam.ac.uk
+neurips,2016,3,1356,Dimitrios,Vytiniotis,microsoft,Microsoft Research,adityan@microsoft.com
+neurips,2016,4,1356,Aditya,Nori,upenn,Microsoft Research,llamp@seas.upenn.edu
+neurips,2016,5,1356,Antonio,Criminisi,microsoft,Microsoft Research,antcrim@microsoft.com
+neurips,2016,0,460,Kevin,Jamieson,berkeley,UC Berkeley,kjamieson@eecs.berkeley.edu
+neurips,2016,1,460,Daniel,Haas,berkeley,UC Berkeley,dhaas@eecs.berkeley.edu
+neurips,2016,2,460,Benjamin,Recht,berkeley,UC Berkeley,brecht@eecs.berkeley.edu
+neurips,2016,0,873,Daniel,Mankowitz,technion,Technion,danielm@tx.technion.ac.il
+neurips,2016,1,873,Timothy,Mann,acm,Google DeepMind,mann.timothy@acm.org
+neurips,2016,2,873,Shie,Mannor,technion,Technion,shie@ee.technion.ac.il
+neurips,2016,0,2291,Hongyi,Zhang,,MIT,
+neurips,2016,1,2291,Sashank,J. Reddi,,Carnegie Mellon University,
+neurips,2016,2,2291,Suvrit,Sra,,MIT,
+neurips,2016,0,1302,Hao,Zhou,,University of Wisconsin Madiso,
+neurips,2016,1,1302,Vamsi,Ithapu,,University of Wisconsin Madison,
+neurips,2016,2,1302,Sathya Narayanan,Ravi,,University of Wisconsin Madiso,
+neurips,2016,3,1302,Vikas,Singh,,UW Madison,
+neurips,2016,4,1302,Grace,Wahba,,University of Wisconsin Madison,
+neurips,2016,5,1302,Sterling,Johnson,,University of Wisconsin Madison,
+neurips,2016,0,1235,Zhilin,Yang,cmu,Carnegie Mellon University,zhiliny@cs.cmu.edu
+neurips,2016,1,1235,Ye,Yuan,cmu,Carnegie Mellon University,yey1@cs.cmu.edu
+neurips,2016,2,1235,Yuexin,Wu,cmu,Carnegie Mellon University,yuexinw@cs.cmu.edu
+neurips,2016,3,1235,William,Cohen,cmu,Carnegie Mellon University,rsalakhu@cs.cmu.edu
+neurips,2016,4,1235,Russ,Salakhutdinov,cmu,University of Toronto,wcohen@cs.cmu.edu
+neurips,2016,0,567,Shandian,Zhe,purdue,Purdue University,szhe@purdue.edu
+neurips,2016,1,567,Kai,Zhang,nec-labs,NEC Labs America,kzhang@nec-labs.com
+neurips,2016,2,567,Pengyuan,Wang,uga,Yahoo! Research,pengyuan@uga.edu
+neurips,2016,3,567,Kuang-chih,Lee,yahoo-inc,Yahoo Inc.,kclee@yahoo-inc.com
+neurips,2016,4,567,Zenglin,Xu,uestc,University of Electronic Science & Technology of China,zlxu@uestc.edu.cn
+neurips,2016,5,567,Yuan,Qi,outlook,Ant financial service group,alanqi0@outlook.com
+neurips,2016,6,567,Zoubin,Ghahramani,cam,University of Cambridge,zoubin@cam.ac.uk
+neurips,2016,0,1193,Mohammad,Ghavamzadeh,,Adobe Research & INRIA,
+neurips,2016,1,1193,Marek,Petrik,,University of New Hampshire,
+neurips,2016,2,1193,Yinlam,Chow,,Stanford University,
+neurips,2016,0,2135,Matteo,Turchetta,ethz,ETH Zurich,matteotu@ethz.ch
+neurips,2016,1,2135,Felix,Berkenkamp,ethz,ETH Zurich,befelix@ethz.ch
+neurips,2016,2,2135,Andreas,Krause,ethz,ETHZ,krausea@ethz.ch
+neurips,2016,0,231,Jin-Hwa,Kim,snu,Seoul National University,jhkim@bi.snu.ac.kr
+neurips,2016,1,231,Sang-Woo,Lee,snu,Seoul National University,slee@bi.snu.ac.kr
+neurips,2016,2,231,Donghyun,Kwak,snu,Seoul National University,dhkwak@bi.snu.ac.kr
+neurips,2016,3,231,Min-Oh,Heo,snu,Seoul National University,moheo@bi.snu.ac.kr
+neurips,2016,4,231,Jeonghee,Kim,navercorp,Naver Labs,jeonghee.kim@navercorp.com
+neurips,2016,5,231,Jung-Woo,Ha,navercorp,Naver Labs,jungwoo.ha@navercorp.com
+neurips,2016,6,231,Byoung-Tak,Zhang,snu,Seoul National University,btzhang@bi.snu.ac.kr
+neurips,2016,0,643,Kumar Avinava,Dubey,cmu,Carnegie Mellon University,akdubey@cs.cmu.edu
+neurips,2016,1,643,Sashank,J. Reddi,cmu,Carnegie Mellon University,sjakkamr@cs.cmu.edu
+neurips,2016,2,643,Sinead,Williamson,cmu,University of Texas at Austin,bapoczos@cs.cmu.edu
+neurips,2016,3,643,Barnabas,Poczos,cmu,Carnegie Mellon University,alex@cs.cmu.edu
+neurips,2016,4,643,Alexander,Smola,cmu,Amazon - We are hiring!,epxing@cs.cmu.edu
+neurips,2016,5,643,Eric,Xing,utexas,Carnegie Mellon University,sinead.williamson@mccombs.utexas.edu
+neurips,2016,0,15,Richard,Nock,csiro,Data61 and ANU,richard.nock@data61.csiro.au
+neurips,2016,0,976,Steven Cheng-Xian,Li,umass,UMass Amherst,cxl@cs.umass.edu
+neurips,2016,1,976,Benjamin,Marlin,umass,University of Massachusetts Amherst,marlin@cs.umass.edu
+neurips,2016,0,291,Ting-Yu,Cheng,,,
+neurips,2016,1,291,Guiguan,Lin,,Appier,
+neurips,2016,2,291,xinyang,gong,,NTHU,
+neurips,2016,3,291,Kang-Jun,Liu,,National Tsing Hua University,
+neurips,2016,4,291,Shan-Hung (Brandon),Wu,,National Tsing Hua University,
+neurips,2016,0,1654,Moritz,Hardt,,Google Brain,
+neurips,2016,1,1654,Eric,Price,,The University of Texas at Austin,
+neurips,2016,2,1654,Eric,Price,,,
+neurips,2016,3,1654,Nati,Srebro,,TTI-Chicago,
+neurips,2016,0,1988,Hassan,Kingravi,pindrop,Pindrop Security Services,hkingravi@pindrop.com
+neurips,2016,1,1988,Harshal,Maske,illinois,UIUC,hmaske2@illinois.edu
+neurips,2016,2,1988,Girish,Chowdhary,illinois,UIUC,girishc@illinois.edu
+neurips,2016,0,188,Jiasen,Lu,vt,Virginia Tech,jiasenlu@vt.edu
+neurips,2016,1,188,Jianwei,Yang,vt,Virginia Tech,jw2yang@vt.edu
+neurips,2016,2,188,Dhruv,Batra,vt,Virginia Tech,dbatra@vt.edu
+neurips,2016,3,188,Devi,Parikh,vt,Virginia Tech,parikh@vt.edu
+neurips,2016,0,350,Huasen,Wu,ucdavis,University of California at Davis,hswu@ucdavis.edu
+neurips,2016,1,350,Xin,Liu,ucdavis,University of California,xinliu@ucdavis.edu
+neurips,2016,0,673,Ying,Yang,gmail,Carnegie Mellon University,ying.yang.cnbc.cmu@gmail.com
+neurips,2016,1,673,Elissa,Aminoff,,Carnegie Mellon University,eaminoff@fordham
+neurips,2016,2,673,Michael,Tarr,,Carnegie Mellon University,michaeltarr@cmu
+neurips,2016,3,673,Kass,Robert,cmu,Carnegie Mellon University,kass@stat.cmu.edu
+neurips,2016,0,2143,Jimmy,Ba,,University of Toronto,
+neurips,2016,1,2143,Geoffrey,Hinton,,Google,
+neurips,2016,2,2143,Volodymyr,Mnih,,Google DeepMind,
+neurips,2016,3,2143,Joel,Leibo,,Google DeepMind,
+neurips,2016,4,2143,Catalin,Ionescu,,Google,
+neurips,2016,0,56,Ehsan,Elhamifar,neu,Northeastern University,eelhami@ccs.neu.edu
+neurips,2016,0,2027,Aryan,Mokhtari,upenn,University of Pennsylvania,aryanm@seas.upenn.edu
+neurips,2016,1,2027,Hadi,Daneshmand,ethz,ETH Zurich,hadi.daneshmand@inf.ethz.ch
+neurips,2016,2,2027,Aurelien,Lucchi,ethz,ETH Zurich,aurelien.lucchi@inf.ethz.ch
+neurips,2016,3,2027,Thomas,Hofmann,ethz,ETH Zurich,thomas.hofmann@inf.ethz.ch
+neurips,2016,4,2027,Alejandro,Ribeiro,upenn,University of Pennsylvania,aribeiro@seas.upenn.edu
+neurips,2016,0,1900,Firas,Abuzaid,,MIT,
+neurips,2016,1,1900,Joseph,Bradley,,Databricks,
+neurips,2016,2,1900,Feynman,Liang,,Cambridge University Engineering Department,
+neurips,2016,3,1900,Andrew,Feng,,Yahoo!,
+neurips,2016,4,1900,Lee,Yang,,Yahoo!,
+neurips,2016,5,1900,Matei,Zaharia,,MIT,
+neurips,2016,6,1900,Ameet,Talwalkar,,UCLA,
+neurips,2016,0,678,Nguyen,Cuong,,National University of Singapore,
+neurips,2016,1,678,Huan,Xu,,NUS,
+neurips,2016,0,2007,William,Montgomery,washington,University of Washington,wmonty@cs.washington.edu
+neurips,2016,1,2007,Sergey,Levine,washington,University of Washington,svlevine@cs.washington.edu
+neurips,2016,0,390,Guillaume,Papa,,Télécom ParisTech,
+neurips,2016,1,390,Aurélien,Bellet,,INRIA,
+neurips,2016,2,390,Stephan,Clémençon,,Telecom ParisTech,
+neurips,2016,0,1308,Mikhail,Yurochkin,umich,University of Michigan,moonfolk@umich.edu
+neurips,2016,1,1308,XuanLong,Nguyen,umich,University of Michigan,xuanlong@umich.edu
+neurips,2016,0,1045,Zijun,Wei,stonybrook,Stony Brook,1.zijwei@cs.stonybrook.edu
+neurips,2016,1,1045,Hossein,Adeli,stonybrook,Stony Brook University,minhhoai@cs.stonybrook.edu
+neurips,2016,2,1045,Minh Hoai,Nguyen,stonybrook,Stony Brook University,samaras@cs.stonybrook.edu
+neurips,2016,3,1045,Greg,Zelinsky,stonybrook,Stony Brook University,2.hossein.adelijelodar@stonybrook.edu
+neurips,2016,4,1045,Dimitris,Samaras,stonybrook,Stony Brook University,gregory.zelinsky@stonybrook.edu
+neurips,2016,0,752,Lane,McIntosh,stanford,Stanford University,lmcintosh@stanford.edu
+neurips,2016,1,752,Niru,Maheswaranathan,stanford,Stanford University,nirum@stanford.edu
+neurips,2016,2,752,Aran,Nayebi,stanford,Stanford University,anayebi@stanford.edu
+neurips,2016,3,752,Surya,Ganguli,stanford,Stanford,sganguli@stanford.edu
+neurips,2016,4,752,Stephen,Baccus,stanford,Stanford University,baccus@stanford.edu
+neurips,2016,0,2098,Tarun,Kathuria,microsoft,Microsoft Research,t-takat@microsoft.com
+neurips,2016,1,2098,Amit,Deshpande,microsoft,,amitdesh@microsoft.com
+neurips,2016,2,2098,Pushmeet,Kohli,microsoft,Microsoft Research,pkohli@microsoft.com
+neurips,2016,0,1087,Rajkumar,Vasudeva Raju,rice,Rice University,rv12@rice.edu
+neurips,2016,1,1087,Zachary,Pitkow,rice,Rice University,xaq@rice.edu
+neurips,2016,0,1252,Alex,Beatson,princeton,Princeton University,abeatson@princeton.edu
+neurips,2016,1,1252,Zhaoran,Wang,princeton,Princeton University,zhaoran@princeton.edu
+neurips,2016,2,1252,Han,Liu,princeton,Princeton University,hanliu@princeton.edu
+neurips,2016,0,2271,Renjie,Liao,toronto,UofT,rjliao@cs.toronto.edu
+neurips,2016,1,2271,Alex,Schwing,toronto,University of Illinois at Urbana-Champaign,zemel@cs.toronto.edu
+neurips,2016,2,2271,Richard,Zemel,toronto,University of Toronto,urtasun@cs.toronto.edu
+neurips,2016,3,2271,Raquel,Urtasun,illinois,University of Toronto,aschwing@illinois.edu
+neurips,2016,0,950,Gabriel,Krummenacher,ethz,ETH Zurich,gabriel.krummenacher@inf.ethz.ch
+neurips,2016,1,950,Brian,McWilliams,disneyresearch,Disney Research,brian@disneyresearch.com
+neurips,2016,2,950,Yannic,Kilcher,ethz,ETH Zurich,yannic.kilcher@inf.ethz.ch
+neurips,2016,3,950,Joachim,Buhmann,ethz,ETH Zurich,jbuhmann@inf.ethz.ch
+neurips,2016,4,950,Nicolai,Meinshausen,ethz,ETH Zurich,meinshausen@stat.math.ethz.ch
+neurips,2016,0,1194,Justin,Eldridge,ohio-state,The Ohio State University,eldridge@cse.ohio-state.edu
+neurips,2016,1,1194,Mikhail,Belkin,ohio-state,Ohio State University,mbelkin@cse.ohio-state.edu
+neurips,2016,2,1194,Yusu,Wang,ohio-state,The Ohio State University,yusu@cse.ohio-state.edu
+neurips,2016,0,2152,Tolga,Bolukbasi,bu,Boston University,tolgab@bu.edu
+neurips,2016,1,2152,Kai-Wei,Chang,kwchang,University of Virginia,kw@kwchang.net
+neurips,2016,2,2152,James,Zou,gmail,Microsoft Research,jamesyzou@gmail.com
+neurips,2016,3,2152,Venkatesh,Saligrama,bu,Boston University,srv@bu.edu
+neurips,2016,4,2152,Adam,Kalai,microsoft,Microsoft Research,adam.kalai@microsoft.com
+neurips,2016,0,2047,Audrunas,Gruslys,google,Google DeepMind,audrunas@google.com
+neurips,2016,1,2047,Remi,Munos,google,Google DeepMind,munos@google.com
+neurips,2016,2,2047,Ivo,Danihelka,google,Google DeepMind,danihelka@google.com
+neurips,2016,3,2047,Marc,Lanctot,google,Google DeepMind,lanctot@google.com
+neurips,2016,4,2047,Alex,Graves,google,Google DeepMind,gravesa@google.com
+neurips,2016,0,637,Yexiang,Xue,cornell,Cornell University,yexiang@cs.cornell.edu
+neurips,2016,1,637,Zhiyuan,Li,tsinghua,Tsinghua University,lizhiyuan13@mails.tsinghua.edu.cn
+neurips,2016,2,637,Stefano,Ermon,stanford,Stanford,ermon@cs.stanford.edu
+neurips,2016,3,637,Carla,Gomes,cornell,Cornell University,gomes@cs.cornell.edu
+neurips,2016,4,637,Bart,Selman,cornell,Cornell University,selman@cs.cornell.edu
+neurips,2016,0,576,Kentaro,Minami,u-tokyo,The University of Tokyo,minami@mist.i.u-tokyo.ac.jp
+neurips,2016,1,576,HItomi,Arai,u-tokyo,The University of Tokyo,arai@dl.itc.u-tokyo.ac.jp
+neurips,2016,2,576,Issei,Sato,u-tokyo,The University of Tokyo,sato@k.u-tokyo.ac.jp
+neurips,2016,3,576,Hiroshi,Nakagawa,u-tokyo,The University of Tokyo,nakagawa@dl.itc.u-tokyo.ac.jp
+neurips,2016,0,2131,Keerthiram,Murugesan,cmu,Carnegie Mellon University,kmuruges@cs.cmu.edu
+neurips,2016,1,2131,Hanxiao,Liu,cmu,Carnegie Mellon University,hanxiaol@cs.cmu.edu
+neurips,2016,2,2131,Jaime,Carbonell,cmu,CMU,jgc@cs.cmu.edu
+neurips,2016,3,2131,Yiming,Yang,cmu,CMU,yiming@cs.cmu.edu
+neurips,2016,0,570,Pulkit,Tandon,gmail,IIT Bombay,pulkit1495@gmail.com
+neurips,2016,1,570,Yash,Malviya,gmail,IIT Bombay,yashmalviya94@gmail.com
+neurips,2016,2,570,Bipin,Rajendran,njit,NJIT,bipin@njit.edu
+neurips,2016,0,578,Se-Young,Yun,lanl,Los Alamos National Laboratory,syun@lanl.gov
+neurips,2016,1,578,Alexandre,Proutiere,kth,KTH,alepro@kth.se
+neurips,2016,0,1061,Matthew,Chalk,,IST Austria,
+neurips,2016,1,1061,Olivier,Marre,,Institut de la vision,
+neurips,2016,2,1061,Gasper,Tkacik,,Institute of Science and Technology Austria,
+neurips,2016,0,151,Scott,Reed,google,University of Michigan,reedscot@google.com
+neurips,2016,1,151,Zeynep,Akata,mpg,Max Planck Institute for Informatics,akata@mpi-inf.mpg.de
+neurips,2016,2,151,Santosh,Mohan,umich,University of MIchigan,santoshm@umich.edu
+neurips,2016,3,151,Samuel,Tenka,umich,University of MIchigan,samtenka@umich.edu
+neurips,2016,4,151,Bernt,Schiele,mpg,Max Planck Institute for Informatics,schiele@mpi-inf.mpg.de
+neurips,2016,5,151,Honglak,Lee,umich,University of Michigan,honglak@umich.edu
+neurips,2016,0,1240,Anh Tuan,Nguyen,,University of Minnesota,
+neurips,2016,1,1240,Jian,Xu,,University of Minnesota,
+neurips,2016,2,1240,Zhi,Yang,,University of Minnesota,
+neurips,2016,0,2056,Jost Tobias,Springenberg,uni-freiburg,University of Freiburg,springj@cs.uni-freiburg.de
+neurips,2016,1,2056,Aaron,Klein,uni-freiburg,University of Freiburg,kleinaa@cs.uni-freiburg.de
+neurips,2016,2,2056,Stefan,Falkner,uni-freiburg,University of Freiburg,sfalkner@cs.uni-freiburg.de
+neurips,2016,3,2056,Frank,Hutter,uni-freiburg,University of Freiburg,fh@cs.uni-freiburg.de
+neurips,2016,0,1000,Jisu,KIM,cmu,Carnegie Mellon University,jisuk1@andrew.cmu.edu
+neurips,2016,1,1000,Yen-Chi,Chen,uw,Carnegie Mellon University,yenchic@uw.edu
+neurips,2016,2,1000,Sivaraman,Balakrishnan,cmu,Carnegie Mellon University,siva@stat.cmu.edu
+neurips,2016,3,1000,Alessandro,Rinaldo,cmu,Carnegie Mellon University,arinaldo@stat.cmu.edu
+neurips,2016,4,1000,Larry,Wasserman,cmu,Carnegie Mellon University,larry@stat.cmu.edu
+neurips,2016,0,903,Wei,Chen,,Microsoft Research,
+neurips,2016,1,903,Wei,Hu,,Princeton University,
+neurips,2016,2,903,Fu,Li,,The University of Texas at Austin,
+neurips,2016,3,903,Jian,Li,,Tsinghua University,
+neurips,2016,4,903,Yu,Liu,,Tsinghua University,
+neurips,2016,5,903,Pinyan,Lu,,Shanghai University of Finance and Economics,
+neurips,2016,0,1529,Ayan,Chakrabarti,ttic,TTI Chicago,ayanc@ttic.edu
+neurips,2016,0,1103,Sanghamitra,Dutta,cmu,Carnegie Mellon University,sanghamd@andrew.cmu.edu
+neurips,2016,1,1103,Viveck,Cadambe,psu,Pennsylvania State University,viveck@engr.psu.edu
+neurips,2016,2,1103,Pulkit,Grover,cmu,Carnegie Mellon University,pgrover@andrew.cmu.edu
+neurips,2016,0,836,Elad,Richardson,technion,Technion,eladrich@cs.technion.ac.il
+neurips,2016,1,836,Rom,Herskovitz,technion,Technion - Israel Institute of Technology,mzib@cs.technion.ac.il
+neurips,2016,2,836,Boris,Ginsburg,gmail,Nvidia,fornoch@gmail.com
+neurips,2016,3,836,Michael,Zibulevsky,gmail,Technion - Israel Institute of Technology,boris.ginsburg@gmail.com
+neurips,2016,0,632,Rein,Houthooft,,Ghent University - iMinds and UC Berkeley and OpenAI,
+neurips,2016,1,632,Xi,Chen,,UC Berkeley and OpenAI,
+neurips,2016,2,632,Xi,Chen,,UC Berkeley and OpenAI,
+neurips,2016,3,632,Yan,Duan,,UC Berkeley,
+neurips,2016,4,632,John,Schulman,,OpenAI,
+neurips,2016,5,632,Filip,De Turck,,Ghent University - iMinds,
+neurips,2016,6,632,Pieter,Abbeel,,OpenAI / UC Berkeley / Gradescope,
+neurips,2016,0,1162,Amit,Daniely,,Google Brain,
+neurips,2016,1,1162,Roy,Frostig,,Stanford University,
+neurips,2016,2,1162,Yoram,Singer,,Google,
+neurips,2016,0,99,Mingsheng,Long,tsinghua,Tsinghua University,mingsheng@tsinghua.edu.cn
+neurips,2016,1,99,Han,Zhu,tsinghua,Tsinghua University,jimwang@tsinghua.edu.cn
+neurips,2016,2,99,Jianmin,Wang,gmail,Tsinghua University,zhuhan10@gmail.com
+neurips,2016,3,99,Michael,Jordan,berkeley,UC Berkeley,jordan@berkeley.edu
+neurips,2016,0,1473,Changyou,Chen,duke,Duke University,cc448@duke.edu
+neurips,2016,1,1473,Nan,Ding,duke,Google,cl319@duke.edu
+neurips,2016,2,1473,Chunyuan,Li,duke,Duke,yz196@duke.edu
+neurips,2016,3,1473,Yizhe,Zhang,duke,Duke university,lcarin@duke.edu
+neurips,2016,4,1473,Lawrence,Carin,google,Duke University,dingnan@google.com
+neurips,2016,0,593,Shashank,Singh,cmu,Carnegie Mellon University,sss1@andrew.cmu.edu
+neurips,2016,1,593,Simon,Du,cmu,Carnegie Mellon University,ssdu@cs.cmu.edu
+neurips,2016,2,593,Barnabas,Poczos,cmu,Carnegie Mellon University,bapoczos@cs.cmu.edu
+neurips,2016,0,315,Rizal,Fathony,uic,U. of Illinois at Chicago,rfatho2@uic.edu
+neurips,2016,1,315,Anqi,Liu,uic,University of Illinois at Chicago,aliu33@uic.edu
+neurips,2016,2,315,Kaiser,Asif,uic,University of Illinois at Chicago,kasif2@uic.edu
+neurips,2016,3,315,Brian,Ziebart,uic,University of Illinois at Chicago,bziebart@uic.edu
+neurips,2016,0,1354,Panagiotis,Toulis,chicagobooth,University of Chicago,panos.toulis@chicagobooth.edu
+neurips,2016,1,1354,David,Parkes,harvard,Harvard University,parkes@eecs.harvard.edu
+neurips,2016,0,699,Kevin,Ellis,mit,MIT,jbt@mit.edu
+neurips,2016,1,699,Armando,Solar-Lezama,mit,MIT,ellisk@mit.edu
+neurips,2016,2,699,Josh,Tenenbaum,mit,MIT,asolar@csail.mit.edu
+neurips,2016,0,822,Marc,Bellemare,google,Google DeepMind,bellemare@google.com
+neurips,2016,1,822,Sriram,Srinivasan,google,Google DeepMind,srsrinivasan@google.com
+neurips,2016,2,822,Georg,Ostrovski,google,Google DeepMind,ostrovski@google.com
+neurips,2016,3,822,Tom,Schaul,google,Google Deepmind,schaul@google.com
+neurips,2016,4,822,David,Saxton,google,Google DeepMind,saxton@google.com
+neurips,2016,5,822,Remi,Munos,google,Google DeepMind,munos@google.com
+neurips,2016,0,1444,Kirthevasan,Kandasamy,cmu,CMU,kandasamy@cs.cmu.edu
+neurips,2016,1,1444,Maruan,Al-Shedivat,cmu,CMU,alshedivat@cs.cmu.edu
+neurips,2016,2,1444,Eric,Xing,cmu,Carnegie Mellon University,epxing@cs.cmu.edu
+neurips,2016,0,853,Ricardo,Silva,ucl,University College London,ricardo@stats.ucl.ac.uk
+neurips,2016,0,1433,Samir,Chowdhury,osu,The Ohio State University,chowdhury.57@osu.edu
+neurips,2016,1,1433,Facundo,Mémoli,osu,The Ohio State University,memoli@math.osu.edu
+neurips,2016,2,1433,Zane,Smith,osu,Ohio State University,smith.9911@osu.edu
+neurips,2016,0,2514,Mingbo,Cai,princeton,Princeton University,mcai@princeton.edu
+neurips,2016,1,2514,Nicolas,Schuck,princeton,Princeton Neuroscience Institute,pillow@princeton.edu
+neurips,2016,2,2514,Jonathan,Pillow,princeton,Princeton University,nschuck@princeton.edu
+neurips,2016,3,2514,Yael,Niv,princeton,Princeton University,yael@princeton.edu
+neurips,2016,0,2395,Mehrdad,Farajtabar,gatech,Georgia Tech,mehrdad@gatech.edu
+neurips,2016,1,2395,Xiaojing,Ye,gsu,Georgia State University,xye@gsu.edu
+neurips,2016,2,2395,Sahar,Harati,emory,Emory University,sahar.harati@emory.edu
+neurips,2016,3,2395,Le,Song,gatech,Georgia Institute of Technology,lsong@cc.gatech.edu
+neurips,2016,4,2395,Hongyuan,Zha,gatech,Georgia Institute of Technology,zha@cc.gatech.edu
+neurips,2016,0,2435,Aaron,van den Oord,google,Google Deepmind,avdnoord@google.com
+neurips,2016,1,2435,Nal,Kalchbrenner,google,Google DeepMind,nalk@google.com
+neurips,2016,2,2435,Lasse,Espeholt,google,Google DeepMind,vinyals@google.com
+neurips,2016,3,2435,koray,kavukcuoglu,google,Google DeepMind,espeholt@google.com
+neurips,2016,4,2435,Oriol,Vinyals,google,Google,gravesa@google.com
+neurips,2016,5,2435,Alex,Graves,google,Google DeepMind,korayk@google.com
+neurips,2016,0,1924,Srinadh,Bhojanapalli,ttic,TTI Chicago,srinadh@ttic.edu
+neurips,2016,1,1924,Behnam,Neyshabur,ttic,TTI-Chicago,bneyshabur@ttic.edu
+neurips,2016,2,1924,Nati,Srebro,ttic,TTI-Chicago,nati@ttic.edu
+neurips,2016,0,1088,Chuan-Yung,Tsai,,Harvard University,
+neurips,2016,1,1088,Andrew,Saxe,,Stanford University,
+neurips,2016,2,1088,Andrew,Saxe,,Harvard University,
+neurips,2016,3,1088,David,Cox,,Harvard University,
+neurips,2016,0,1191,Scott,Yang,nyu,New York University,mohri@cims.nyu.edu
+neurips,2016,1,1191,Mehryar,Mohri,nyu,"Courant Institute, NYU & Google",yangs@cims.nyu.edu
+neurips,2016,0,1662,Yuan,Zhao,stonybrook,Stony Brook University,yuan.zhao@stonybrook.edu
+neurips,2016,1,1662,Il Memming,Park,stonybrook,Stony Brook University,memming.park@stonybrook.edu
+neurips,2016,0,1239,Qiang,Liu,dartmouth,Dartmouth College,qiang.liu@dartmouth.edu
+neurips,2016,1,1239,Dilin,Wang,dartmouth,Dartmouth College,dilin.wang.gr@dartmouth.edu
+neurips,2016,0,2409,Dylan,Foster,,Cornell University,
+neurips,2016,1,2409,Zhiyuan,Li,,Tsinghua University,
+neurips,2016,2,2409,Thodoris,Lykouris,,Cornell University,
+neurips,2016,3,2409,Karthik,Sridharan,,University of Pennsylvania,
+neurips,2016,4,2409,Eva,Tardos,,Cornell University,
+neurips,2016,0,657,Finnian,Lattimore,gmail,Australian National University,finn.lattimore@gmail.com
+neurips,2016,1,657,Tor,Lattimore,gmail,Indiana University,tor.lattimore@gmail.com
+neurips,2016,2,657,Mark,Reid,anu,Apple,mark.reid@anu.edu.au
+neurips,2016,0,1881,Taiji,Suzuki,,Tokyo Institute of Technology,
+neurips,2016,1,1881,Heishiro,Kanagawa,,Tokyo Institute of Technology,
+neurips,2016,2,1881,Hayato,Kobayashi,,Yahoo Japan Corporation,
+neurips,2016,3,1881,Nobuyuki,Shimizu,,Yahoo Japan Corporation,
+neurips,2016,4,1881,Yukihiro,Tagami,,Yahoo Japan Corporation,
+neurips,2016,0,1253,Christopher,Choy,stanford,Stanford University,chrischoy@ai.stanford.edu
+neurips,2016,1,1253,JunYoung,Gwak,stanford,Stanford University,jgwak@ai.stanford.edu
+neurips,2016,2,1253,Silvio,Savarese,stanford,Stanford University,ssilvio@stanford.edu
+neurips,2016,3,1253,Manmohan,Chandraker,nec-labs,NEC Labs America,manu@nec-labs.com
+neurips,2016,0,1267,Sougata,Chaudhuri,umich,University of Michigan,sougata@umich.edu
+neurips,2016,1,1267,Ambuj,Tewari,umich,University of Michigan,tewaria@umich.edu
+neurips,2016,0,1506,Mark,Ho,brown,Brown University,mark_ho@brown.edu
+neurips,2016,1,1506,Michael,Littman,brown,Brown University,mlittman@cs.brown.edu
+neurips,2016,2,1506,James,MacGlashan,harvard,Brown University,cushman@fas.harvard.edu
+neurips,2016,3,1506,Fiery,Cushman,brown,Harvard University,james_macglashan@brown.edu
+neurips,2016,4,1506,Joseph,Austerweil,wisc,University of Wisconsin-Madison,austerweil@wisc.edu
+neurips,2016,0,1111,Ozan,Sener,stanford,Cornell University,ozan@cs.stanford.edu
+neurips,2016,1,1111,Hyun Oh,Song,stanford,Google Research,hsong@cs.stanford.edu
+neurips,2016,2,1111,Ashutosh,Saxena,stanford,Brain of Things,asaxena@cs.stanford.edu
+neurips,2016,3,1111,Silvio,Savarese,stanford,Stanford University,ssilvio@cs.stanford.edu
+neurips,2016,0,1536,Bowei,Yan,,University of Texas at Austin,
+neurips,2016,1,1536,Purnamrita,Sarkar,,U.C. Berkeley,
+neurips,2016,0,667,Yi,Xu,uiowa,The University of Iowa,yi-xu@uiowa.edu
+neurips,2016,1,667,Yan,Yan,uiowa,University of Technology Sydney,qihang-lin@uiowa.edu
+neurips,2016,2,667,Qihang,Lin,uiowa,University of Iowa,tianbao-yang@uiowa.edu
+neurips,2016,3,667,Tianbao,Yang,uts,University of Iowa,yan.yan-3@student.uts.edu.au
+neurips,2016,0,2067,Xinyang,Yi,utexas,UT Austin,yixy@utexas.edu
+neurips,2016,1,2067,Dohyung,Park,utexas,University of Texas at Austin,dhpark@utexas.edu
+neurips,2016,2,2067,Yudong,Chen,utexas,Cornell University,constantine@utexas.edu
+neurips,2016,3,2067,Constantine,Caramanis,cornell,UT Austin,yudong.chen@cornell.edu
+neurips,2016,0,1406,Dan,Feldman,gmail,University of Haifa,dannyf.post@gmail.com
+neurips,2016,1,1406,Mikhail,Volkov,mit,MIT,mikhail@csail.mit.edu
+neurips,2016,2,1406,Daniela,Rus,mit,MIT,rus@csail.mit.edu
+neurips,2016,0,620,Shuangfei,Zhai,binghamton,Binghamton University,szhai2@binghamton.edu
+neurips,2016,1,620,Yu,Cheng,ibm,IBM Research,chengyu@us.ibm.com
+neurips,2016,2,620,Zhongfei (Mark),Zhang,tsinghua,Binghamton University,luwn14@mails.tsinghua.edu.cn
+neurips,2016,3,620,Weining,Lu,binghamton,Tsinghua University,zhongfei@cs.binghamton.edu
+neurips,2016,0,1108,Umut,Güçlü,donders,Radboud University,u.guclu@donders.ru.nl
+neurips,2016,1,1108,Jordy,Thielen,psych,Radboud University,j.thielen@psych.ru.nl
+neurips,2016,2,1108,Michael,Hanke,ovgu,Otto-von-Guericke University Magdeburg,michael.hanke@ovgu.de
+neurips,2016,3,1108,Marcel,van Gerven,donders,Radboud University,m.vangerven@donders.ru.nl
+neurips,2016,0,1702,sabyasachi,chatterjee,,University of Chicago,
+neurips,2016,1,1702,John,Duchi,,Stanford,
+neurips,2016,2,1702,John,Lafferty,,University of Chicago,
+neurips,2016,3,1702,Yuancheng,Zhu,,University of Chicago,
+neurips,2016,0,1379,Zelda,Mariet,mit,MIT,zelda@csail.mit.edu
+neurips,2016,1,1379,Suvrit,Sra,mit,MIT,suvrit@mit.edu
+neurips,2016,0,2486,Yanyao,Shen,utexas,UT Austin,shenyanyao@utexas.edu
+neurips,2016,1,2486,Qixing,Huang,utexas,Toyota Technological Institute at Chicago,huangqx@cs.utexas.edu
+neurips,2016,2,2486,Nati,Srebro,ttic,TTI-Chicago,nati@ttic.edu
+neurips,2016,3,2486,Sujay,Sanghavi,utexas,UT-Austin,sanghavi@mail.utexas.edu
+neurips,2016,0,1324,Hong,Chen,hzau,University of Texas,chenh@mail.hzau.edu.cn
+neurips,2016,1,1324,Haifeng,Xia,gmail,Huazhong Agricultural University,haifeng.xia0910@gmail.com
+neurips,2016,2,1324,Heng,Huang,sydney,University of Texas Arlington,tom.cai@sydney.edu.au
+neurips,2016,3,1324,Weidong,Cai,uta,University of Sydney,heng@uta.edu
+neurips,2016,0,403,Damien,Scieur,inria,INRIA - ENS,damien.scieur@inria.fr
+neurips,2016,1,403,Alexandre,d'Aspremont,ens,CNRS - Ecole Normale Supérieure,aspremon@di.ens.fr
+neurips,2016,2,403,Francis,Bach,inria,INRIA - Ecole Normale Superieure,francis.bach@inria.fr
+neurips,2016,0,1590,Stephen,Ragain,stanford,Stanford University,sragain@stanford.edu
+neurips,2016,1,1590,Johan,Ugander,stanford,Stanford University,jugander@stanford.edu
+neurips,2016,0,1349,Andrew,Wilson,,Carnegie Mellon University,
+neurips,2016,1,1349,Zhiting,Hu,,Carnegie Mellon University,
+neurips,2016,2,1349,Russ,Salakhutdinov,,University of Toronto,
+neurips,2016,3,1349,Eric,Xing,,Carnegie Mellon University,
+neurips,2016,0,662,Gang,Niu,,University of Tokyo,
+neurips,2016,1,662,Marthinus Christoffel,du Plessis,,The University of Tokyo,
+neurips,2016,2,662,Tomoya,Sakai,,The University of Tokyo,
+neurips,2016,3,662,Yao,Ma,,,
+neurips,2016,4,662,Masashi,Sugiyama,,RIKEN / University of Tokyo,
+neurips,2016,0,1651,Elad,Hazan,princeton,Princeton University,ehazan@cs.princeton.edu.
+neurips,2016,1,1651,Tengyu,Ma,princeton,Princeton University,tengyu@cs.princeton.edu.
+neurips,2016,0,219,Diane,Bouchacourt,ox,University of Oxford,diane@robots.ox.ac.uk
+neurips,2016,1,219,Pawan,Mudigonda,ox,University of Oxford,pawan@robots.ox.ac.uk
+neurips,2016,2,219,Sebastian,Nowozin,microsoft,Microsoft Research,sebastian.nowozin@microsoft.com
+neurips,2016,0,442,Pulkit,Agrawal,berkeley,UC Berkeley,pulkitag@berkeley.edu
+neurips,2016,1,442,Ashvin,Nair,berkeley,UC Berkeley,anair17@berkeley.edu
+neurips,2016,2,442,Pieter,Abbeel,berkeley,OpenAI / UC Berkeley / Gradescope,pabbeel@berkeley.edu
+neurips,2016,3,442,Jitendra,Malik,berkeley,UC Berkeley,malik@berkeley.edu
+neurips,2016,4,442,Sergey,Levine,berkeley,University of Washington,svlevine@berkeley.edu
+neurips,2016,0,1125,Aviv,Tamar,,UC Berkeley,
+neurips,2016,1,1125,YI,WU,,UC Berkeley,
+neurips,2016,2,1125,Garrett,Thomas,,UC Berkeley,
+neurips,2016,3,1125,Sergey,Levine,,UC Berkeley,
+neurips,2016,4,1125,Pieter,Abbeel,,OpenAI / UC Berkeley / Gradescope,
+neurips,2016,0,253,Junhua,Mao,ucla,UCLA,mjhustc@ucla.edu
+neurips,2016,1,253,Jiajing,Xu,pinterest,Pinterest,jiajing@pinterest.com
+neurips,2016,2,253,Kevin,Jing,pinterest,Pinterest,jing@pinterest.com
+neurips,2016,3,253,Alan,Yuille,gmail,UCLA,alan.l.yuille@gmail.com
+neurips,2016,0,828,Anshumali,Shrivastava,rice,Rice University,anshumali@rice.edu
+neurips,2016,0,1943,Dylan,Hadfield-Menell,,UC Berkeley,
+neurips,2016,1,1943,Stuart,Russell,,UC Berkeley,
+neurips,2016,2,1943,Pieter,Abbeel,,OpenAI / UC Berkeley / Gradescope,
+neurips,2016,3,1943,Anca,Dragan,,UC Berkeley,
+neurips,2016,0,602,Remi,Munos,google,Google DeepMind,munos@google.com
+neurips,2016,1,602,Tom,Stepleton,vub,Google DeepMind,anna.harutyunyan@vub.ac.be
+neurips,2016,2,602,Anna,Harutyunyan,google,Vrije Universiteit Brussel,stepleton@google.com
+neurips,2016,3,602,Marc,Bellemare,google,Google DeepMind,bellemare@google.com
+neurips,2016,0,2164,Xiang,Li,gmail,NJUST,1implusdream@gmail.com
+neurips,2016,1,2164,Tao,Qin,njust,Microsoft,1csjyang@njust.edu.cn
+neurips,2016,2,2164,Jian,Yang,microsoft,Facebook Inc.,2taoqin@microsoft.com
+neurips,2016,3,2164,Tie-Yan,Liu,microsoft,Microsoft Research,tie-yan.liu@microsoft.com
+neurips,2016,0,923,Dale,Schuurmans,ualberta,Alberta,daes@ualberta.ca
+neurips,2016,1,923,Martin,Zinkevich,google,Google,martinz@google.com
+neurips,2016,0,1735,Alexander,Vezhnevets,google,Google DeepMind,vezhnick@google.com
+neurips,2016,1,1735,Volodymyr,Mnih,google,Google DeepMind,vmnih@google.com
+neurips,2016,2,1735,Simon,Osindero,google,Google DeepMind,jagapiou@google.com
+neurips,2016,3,1735,Alex,Graves,google,Google DeepMind,osindero@google.com
+neurips,2016,4,1735,Oriol,Vinyals,google,Google,gravesa@google.com
+neurips,2016,5,1735,John,Agapiou,google,Google DeepMind,vinyals@google.com
+neurips,2016,6,1735,koray,kavukcuoglu,google,Google DeepMind,korayk@google.com
+neurips,2016,0,1227,Chaoyue,Liu,osu,The Ohio State University,liu.2656@osu.edu
+neurips,2016,1,1227,Mikhail,Belkin,ohio-state,Ohio State University,mbelkin@cse.ohio-state.edu
+neurips,2016,0,13,Saurabh,Singh,illinois,UIUC,ss1@illinois.edu
+neurips,2016,1,13,Derek,Hoiem,illinois,UIUC,dhoiem@illinois.edu
+neurips,2016,2,13,David,Forsyth,illinois,UIUC,daf@illinois.edu
+neurips,2016,0,254,Yiming,Ying,,State University of New York at Albany,
+neurips,2016,1,254,Longyin,Wen,,State University of New York at Albany,
+neurips,2016,2,254,Siwei,Lyu,,State University of New York at Albany,
+neurips,2016,0,347,Ramin,Raziperchikolaei,ucmerced,UC Merced,rraziperchikolaei@ucmerced.edu
+neurips,2016,1,347,Miguel,Carreira-Perpinan,ucmerced,UC Merced,mcarreira-perpinan@ucmerced.edu
+neurips,2016,0,1102,Maria-Florina,Balcan,cmu,Carnegie Mellon University,ninamf@cs.cmu.edu
+neurips,2016,1,1102,Tuomas,Sandholm,cmu,Carnegie Mellon University,sandholm@cs.cmu.edu
+neurips,2016,2,1102,Ellen,Vitercik,cmu,Carnegie Mellon University,vitercik@cs.cmu.edu
+neurips,2016,0,581,Zeyuan,Allen-Zhu,mit,Princeton University,zeyuan@csail.mit.edu
+neurips,2016,1,581,Yuanzhi,Li,princeton,Princeton University,yuanzhil@cs.princeton.edu
+neurips,2016,0,1326,Ankit,Patel,,Baylor College of Medicine and Rice University,
+neurips,2016,1,1326,Minh,Nguyen,,Rice University,
+neurips,2016,2,1326,Richard,Baraniuk,,Rice University,
+neurips,2016,0,16,Ohad,Shamir,weizmann,Weizmann Institute of Science,ohad.shamir@weizmann.ac.il
+neurips,2016,0,1124,Jakob,Foerster,ox,University of Oxford,jakob.foerster@cs.ox.ac.uk
+neurips,2016,1,1124,Ioannis Alexandros,Assael,ox,University of Oxford,yannis.assael@cs.ox.ac.uk
+neurips,2016,2,1124,Nando,de Freitas,google,University of Oxford,nandodefreitas@google.com
+neurips,2016,3,1124,Shimon,Whiteson,ox,University of Oxford,shimon.whiteson@cs.ox.ac.uk
+neurips,2016,0,2476,Wenjie,Luo,toronto,University of Toronto,wenjie@cs.toronto.edu
+neurips,2016,1,2476,Yujia,Li,toronto,University of Toronto,yujiali@cs.toronto.edu
+neurips,2016,2,2476,Raquel,Urtasun,toronto,University of Toronto,urtasun@cs.toronto.edu
+neurips,2016,3,2476,Richard,Zemel,toronto,University of Toronto,zemel@cs.toronto.edu
+neurips,2016,0,389,Conghui,Tan,cuhk,The Chinese University of HK,chtan@se.cuhk.edu.hk
+neurips,2016,1,389,Shiqian,Ma,cuhk,The Chinese University of Hong Kong,sqma@se.cuhk.edu.hk
+neurips,2016,2,389,Yu-Hong,Dai,cc,,dyh@lsec.cc.ac.cn
+neurips,2016,3,389,Yuqiu,Qian,hku,The University of Hong Kong,qyq79@connect.hku.hk
+neurips,2016,0,2011,Eric,Balkanski,harvard,Harvard University,ericbalkanski@g.harvard.edu
+neurips,2016,1,2011,Aviad,Rubinstein,berkeley,UC Berkeley,aviad@eecs.berkeley.edu
+neurips,2016,2,2011,Yaron,Singer,harvard,Harvard University,yaron@seas.harvard.edu
+neurips,2016,0,1549,Seyed Mehran,Kazemi,ubc,UBC,smkazemi@cs.ubc.ca
+neurips,2016,1,1549,Angelika,Kimmig,kuleuven,KU Leuven,angelika.kimmig@cs.kuleuven.be
+neurips,2016,2,1549,Guy,Van den Broeck,ucla,UCLA,guyvdb@cs.ucla.edu
+neurips,2016,3,1549,David,Poole,ubc,UBC,poole@cs.ubc.ca
+neurips,2016,0,722,Nir,Rosenfeld,huji,Hebrew University of Jerusalem,nir.rosenfeld@mail.huji.ac.il
+neurips,2016,1,722,Amir,Globerson,tau,Tel Aviv University,gamir@post.tau.ac.il
+neurips,2016,0,1464,Mahdi,Milani Fard,google,Google,canini@google.com
+neurips,2016,1,1464,Kevin,Canini,google,Google,acotter@google.com
+neurips,2016,2,1464,Andrew,Cotter,google,Google,mayagupta@google.com
+neurips,2016,3,1464,Jan,Pfeifer,google,Google,janpf@google.com
+neurips,2016,4,1464,Maya,Gupta,google,Google,mmilanifard@google.com
+neurips,2016,0,8,Richard,Nock,csiro,Data61 and ANU,richard.nock@data61.csiro.au
+neurips,2016,1,8,Aditya,Menon,csiro,NICTA,aditya.menon@data61.csiro.au
+neurips,2016,2,8,Cheng Soon,Ong,csiro,Data61,chengsoon.ong@data61.csiro.au
+neurips,2016,0,1892,Thomas,Laurent,lmu,Loyola Marymount University,tlaurent@lmu.edu
+neurips,2016,1,1892,James,von Brecht,fb,CSULB,aszlam@fb.com
+neurips,2016,2,1892,Xavier,Bresson,ntu,EPFL,xavier.bresson@ntu.edu.sg
+neurips,2016,3,1892,arthur,szlam,csulb,Facebook,james.vonbrecht@csulb.edu
+neurips,2016,0,866,Shahin,Jabbari,,University of Pennsylvania,jabbari@cis
+neurips,2016,1,866,Ryan,Rogers,,University of Pennsylvania,ryrogers@sas
+neurips,2016,2,866,Aaron,Roth,,University of Pennsylvania,aaroth@cis
+neurips,2016,3,866,Steven,Wu,upenn,University of Pennsylvania,wuzhiwei@cis.upenn.edu
+neurips,2016,0,2414,Tyler,Johnson,washington,University of Washington,tbjohns@washington.edu
+neurips,2016,1,2414,Carlos,Guestrin,washington,University of Washington,guestrin@cs.washington.edu
+neurips,2016,0,1917,Shinji,Ito,nec,NEC Coorporation,s-ito@me.jp.nec.com
+neurips,2016,1,1917,Ryohei,Fujimaki,nec-labs,NEC Data Science Research Laboratories,rfujimaki@nec-labs.com
+neurips,2016,0,2278,Jonathan,Ho,openai,Stanford,hoj@openai.com
+neurips,2016,1,2278,Stefano,Ermon,stanford,Stanford,ermon@cs.stanford.edu
+neurips,2016,0,829,Ilija,Bogunovic,ep,EPFL Lausanne,ilija.bogunovic@ep.ch
+neurips,2016,1,829,Jonathan,Scarlett,ep,EPFL,jonathan.scarlett@ep.ch
+neurips,2016,2,829,Andreas,Krause,ep,ETHZ,volkan.cevher@ep.ch
+neurips,2016,3,829,Volkan,Cevher,ethz,EPFL,krausea@ethz.ch
+neurips,2016,0,183,Sebastian,Nowozin,microsoft,Microsoft Research,Sebastian.Nowozin@microsoft.com
+neurips,2016,1,183,Botond,Cseke,microsoft,Microsoft Research,Botond.Cseke@microsoft.com
+neurips,2016,2,183,Ryota,Tomioka,microsoft,MSRC,ryoto@microsoft.com
+neurips,2016,0,1365,James,McQueen,washington,University of Washington,jmcq@u.washington.edu
+neurips,2016,1,1365,Marina,Meila,washington,University of Washington,mmp@stat.washington.edu
+neurips,2016,2,1365,Dominique,Joncas,gmail,Google,dcpjoncas@gmail.com
+neurips,2016,0,478,Xiangyu,Wang,gmail,Duke University,wwrechard@gmail.com
+neurips,2016,1,478,David,Dunson,duke,Duke University,dunson@stat.duke.edu
+neurips,2016,2,478,Chenlei,Leng,warwick,University of Warwick,C.Leng@warwick.ac.uk
+neurips,2016,0,75,Shizhong,Han,sc,University of South Carolina,han38@email.sc.edu
+neurips,2016,1,75,Zibo,Meng,sc,University of South Carolina,mengz@email.sc.edu
+neurips,2016,2,75,AHMED-SHEHAB,KHAN,sc,University of South Carolina,akhan@email.sc.edu
+neurips,2016,3,75,Yan,Tong,sc,University of South Carolina,tongy@cse.sc.edu
+neurips,2016,0,2174,Victor,Soto,columbia,Columbia University,vsoto@cs.columbia.edu
+neurips,2016,1,2174,Alberto,Suárez,uam,Universidad Autónoma de Madrid,gonzalo.martinez@uam.es
+neurips,2016,2,2174,Gonzalo,Martinez-Muñoz,uam,UAM,alberto.suarez@uam.es
+neurips,2016,0,1870,Aapo,Hyvarinen,,University of Helsinki,
+neurips,2016,1,1870,Hiroshi,Morioka,,University of Helsinki,
+neurips,2016,0,1690,Erik,Lindgren,utexas,University of Texas at Austin,erikml@utexas.edu
+neurips,2016,1,1690,Shanshan,Wu,utexas,UT Austin,shanshan@utexas.edu
+neurips,2016,2,1690,Alexandros,Dimakis,utexas,"University of Texas, Austin",dimakis@austin.utexas.edu
+neurips,2016,0,1965,Mark,Herbster,ucl,University College London,m.herbster@cs.ucl.ac.uk
+neurips,2016,1,1965,Stephen,Pasteris,ucl,UCL,s.pasteris@cs.ucl.ac.uk
+neurips,2016,2,1965,Massimiliano,Pontil,ucl,University College London         & Italian Institute of Technology,m.pontil@cs.ucl.ac.uk
+neurips,2016,0,2005,Ashish,Kapoor,microsoft,Microsoft Research,nawiebe@microsoft.com
+neurips,2016,1,2005,Nathan,Wiebe,microsoft,Microsoft Research,akapoor@microsoft.com
+neurips,2016,2,2005,Krysta,Svore,microsoft,Microsoft,ksvore@microsoft.com
+neurips,2016,0,600,Arild,Nøkland,gmail,None,arild.nokland@gmail.com
+neurips,2016,0,1901,Tengyao,Wang,cam,University of Cambridge,t.wang@statslab.cam.ac.uk
+neurips,2016,1,1901,Quentin,Berthet,cam,University of Cambridge,q.berthet@statslab.cam.ac.uk
+neurips,2016,2,1901,Yaniv,Plan,ubc,University of British Columbia,yaniv@math.ubc.ca
+neurips,2016,0,2324,Alexander,Shishkin,yandex-team,Yandex,sisoid@yandex-team.ru
+neurips,2016,1,2324,Anastasia,Bezzubtseva,yandex-team,Yandex,nstbezz@yandex-team.ru
+neurips,2016,2,2324,Alexey,Drutsa,yandex-team,Yandex,adrutsa@yandex-team.ru
+neurips,2016,3,2324,Ilia,Shishkov,yandex-team,Yandex,ishfb@yandex-team.ru
+neurips,2016,4,2324,Ekaterina,Gladkikh,yandex-team,Yandex,kglad@yandex-team.ru
+neurips,2016,5,2324,Gleb,Gusev,yandex-team,Yandex LLC,gleb57@yandex-team.ru
+neurips,2016,6,2324,Pavel,Serdyukov,yandex-team,Yandex,pavser@yandex-team.ru
+neurips,2016,0,39,Olivier,Bachem,ethz,ETH Zurich,olivier.bachem@inf.ethz.ch
+neurips,2016,1,39,Mario,Lucic,ethz,ETH Zurich,lucic@inf.ethz.ch
+neurips,2016,2,39,Hamed,Hassani,ethz,ETH Zurich,hamed@inf.ethz.ch
+neurips,2016,3,39,Andreas,Krause,ethz,ETHZ,krausea@ethz.ch
+neurips,2016,0,961,Kejun,Huang,umn,University of Minnesota,huang663@umn.edu
+neurips,2016,1,961,Xiao,Fu,umn,University of Minnesota,xfu@umn.edu
+neurips,2016,2,961,Nikolaos,Sidiropoulos,umn,University of Minnesota,nikos@ece.umn.edu
+neurips,2016,0,1834,Qilong,Gu,umn,University of Minnesota,guxxx396@cs.umn.edu
+neurips,2016,1,1834,Arindam,Banerjee,umn,University of Minnesota,banerjee@cs.umn.edu
+neurips,2016,0,980,Yang,Liu,harvard,Harvard University,yangl@seas.harvard.edu
+neurips,2016,1,980,Yiling,Chen,harvard,Harvard University,yiling@seas.harvard.edu
+neurips,2016,0,2043,Aditya,Bhaskara,utah,University of Utah,bhaskara@cs.utah.edu
+neurips,2016,1,2043,Mehrdad,Ghadiri,sharif,Sharif University of Technolog,ghadiri@ce.sharif.edu
+neurips,2016,2,2043,Vahab,Mirrokni,google,Google,mirrokni@google.com
+neurips,2016,3,2043,Ola,Svensson,epfl,EPFL,ola.svensson@epfl.ch
+neurips,2016,0,2044,Itay,Hubara,technion,Technion,itayh@technion.ac.il
+neurips,2016,1,2044,Matthieu,Courbariaux,gmail,Université de Montréal,matthieu.courbariaux@gmail.com
+neurips,2016,2,2044,Daniel,Soudry,gmail,Columbia University,daniel.soudry@gmail.com
+neurips,2016,3,2044,Ran,El-Yaniv,technion,Technion,rani@cs.technion.ac.il
+neurips,2016,4,2044,Yoshua,Bengio,gmail,Université de Montréal,yoshua.umontreal@gmail.com
+neurips,2016,0,765,Oren,Tadmor,,OrCam,
+neurips,2016,1,765,Tal,Rosenwein,,Orcam,
+neurips,2016,2,765,Shai,Shalev-Shwartz,,OrCam,
+neurips,2016,3,765,Yonatan,Wexler,,OrCam,
+neurips,2016,4,765,Amnon,Shashua,,OrCam,
+neurips,2016,0,274,Rajesh,Ranganath,,Princeton University,
+neurips,2016,1,274,Dustin,Tran,,Columbia University,
+neurips,2016,2,274,Jaan,Altosaar,,Princeton University,
+neurips,2016,3,274,David,Blei,,Columbia University,
+neurips,2016,0,46,Chelsea,Finn,berkeley,Google,cbfinn@eecs.berkeley.edu
+neurips,2016,1,46,Ian,Goodfellow,openai,Google,ian@openai.com
+neurips,2016,2,46,Sergey,Levine,google,University of Washington,slevine@google.com
+neurips,2016,0,2471,Scott,Wisdom,uw,University of Washington,swisdom@uw.edu
+neurips,2016,1,2471,Thomas,Powers,uw,University of Washington,tcpowers@uw.edu
+neurips,2016,2,2471,John,Hershey,uw,MERL,atlas@uw.edu
+neurips,2016,3,2471,Jonathan,Le Roux,merl,Mitsubishi Electric Research Laboratories (MERL),hershey@merl.com
+neurips,2016,4,2471,Les,Atlas,merl,University of Washington,leroux@merl.com
+neurips,2016,0,588,Dan,Garber,,Technion,
+neurips,2016,1,588,Dan,Garber,,Toyota Technological Institute at Chicago,
+neurips,2016,2,588,Ofer,Meshi,,Google,
+neurips,2016,0,2209,Wouter,Koolen,cwi,Centrum Wiskunde & Informatica,pdg@cwi.nl
+neurips,2016,1,2209,Peter,Grünwald,cwi,CWI,wmkoolen@cwi.nl
+neurips,2016,2,2209,Tim,van Erven,timvanerven,Leiden University,tim@timvanerven.nl
+neurips,2016,0,1520,Xiangru,Lian,yandex,University of Rochester,xiangru@yandex.com
+neurips,2016,1,1520,Huan,Zhang,gmail,"University of California, Davis",victzhang@gmail.com
+neurips,2016,2,1520,Cho-Jui,Hsieh,ucdavis,UC Davis,chohsieh@ucdavis.edu
+neurips,2016,3,1520,Yijun,Huang,gmail,University of Rochester,huangyj0@gmail.com
+neurips,2016,4,1520,Ji,Liu,gmail,University of Rochester,ji.liu.uwisc@gmail.com
+neurips,2016,0,1479,Maria-Florina,Balcan,cmu,Carnegie Mellon University,ninamf@cs.cmu.edu
+neurips,2016,1,1479,Hongyang,Zhang,cmu,CMU,hongyanz@cs.cmu.edu
+neurips,2016,0,1262,Gabriel,Goh,ucdavis,UC Davis,ggoh@math.ucdavis.edu
+neurips,2016,1,1262,Andrew,Cotter,google,Google,acotter@google.com
+neurips,2016,2,1262,Maya,Gupta,google,Google,mayagupta@google.com
+neurips,2016,3,1262,Michael,Friedlander,ubc,UC Davis,mpf@cs.ubc.ca
+neurips,2016,0,1580,Mahdi,Milani Fard,ens-lyon,Google,quentin.cormier@ens-lyon.fr
+neurips,2016,1,1580,Quentin,Cormier,google,Google,mmilanifard@google.com
+neurips,2016,2,1580,Kevin,Canini,google,Google,canini@google.com
+neurips,2016,3,1580,Maya,Gupta,google,Google,mayagupta@google.com
+neurips,2016,0,1322,Yaniv,Tenzer,,The Hebrew University,
+neurips,2016,1,1322,Alex,Schwing,,University of Illinois at Urbana-Champaign,
+neurips,2016,2,1322,Kevin,Gimpel,,Carnegie Mellon University,
+neurips,2016,3,1322,Tamir,Hazan,,Technion,
+neurips,2016,0,1976,Frederic,Chazal,inria,INRIA,frederic.chazal@inria.fr
+neurips,2016,1,1976,Ilaria,Giulini,me,INRIA and Paris Diderot,ilaria.giulini@me.com
+neurips,2016,2,1976,Bertrand,Michel,ec-nantes,UPMC,bertrand.michel@ec-nantes.fr
+neurips,2016,0,568,Pingfan,Tang,utah,University of Utah,tang1984@cs.utah.edu
+neurips,2016,1,568,Jeff,Phillips,utah,University of Utah,jeffp@cs.utah.edu
+neurips,2016,0,1116,Songbai,Yan,ucsd,University of California,yansongbai@eng.ucsd.edu
+neurips,2016,1,1116,Kamalika,Chaudhuri,ucsd,University of California,kamalika@cs.ucsd.edu
+neurips,2016,2,1116,Tara,Javidi,ucsd,University of California,tjavidi@eng.ucsd.edu
+neurips,2016,0,2411,Durk,Kingma,openai,OpenAI,dpkingma@openai.com
+neurips,2016,1,2411,Tim,Salimans,openai,Algoritmica,tim@openai.com
+neurips,2016,2,2411,Rafal,Jozefowicz,openai,OpenAI,rafal@openai.com
+neurips,2016,3,2411,Xi,Chen,openai,UC Berkeley and OpenAI,peter@openai.com
+neurips,2016,4,2411,Ilya,Sutskever,openai,Google,ilya@openai.com
+neurips,2016,5,2411,Max,Welling,uva,University of Amsterdam,M.Welling@uva.nl
+neurips,2016,0,1947,Abdul-Saboor,Sheikh,gmail,SAP Labs Berlin,sheikh.abdulsaboor@gmail.com
+neurips,2016,1,1947,Jörg,Lücke,uol,University of Oldenburg,joerg.luecke@uol.de
+neurips,2016,0,1523,Wei,Ping,uci,UC Irvine,wping@ics.uci.edu
+neurips,2016,1,1523,Qiang,Liu,uci,Dartmouth College,ihler@ics.uci.edu
+neurips,2016,2,1523,Alexander,Ihler,dartmouth,UC Irvine,qliu@cs.dartmouth.edu
+neurips,2016,0,533,Dan,Garber,,Toyota Technological Institute at Chicago,
+neurips,2016,1,533,Dan,Garber,,Technion,
+neurips,2016,0,1568,Vasilis,Syrgkanis,microsoft,Microsoft Research,vasy@microsoft.com
+neurips,2016,1,1568,Haipeng,Luo,microsoft,Princeton University,haipeng@microsoft.com
+neurips,2016,2,1568,Akshay,Krishnamurthy,umass,UMass Amherst,akshay@cs.umass.edu
+neurips,2016,3,1568,Robert,Schapire,microsoft,MIcrosoft Research,schapire@microsoft.com
+neurips,2016,0,1835,Maxime,Sangnier,,LTCI,
+neurips,2016,1,1835,Olivier,Fercoq,,Telecom ParisTech,
+neurips,2016,2,1835,Florence,d'Alché-Buc,,"LTCI CNRS, Télécom ParisTech, University of Paris-Saclay",
+neurips,2016,0,2421,Yang,Song,,Stanford University,
+neurips,2016,1,2421,Jun,Zhu,,Tsinghua University,
+neurips,2016,2,2421,Yong,Ren,,Tsinghua University,
+neurips,2016,0,1659,Murat,Erdogdu,stanford,Stanford University,erdogdu@stanford.edu
+neurips,2016,1,1659,Lee,Dicker,stanford,Rutgers University and Amazon,bayati@stanford.edu
+neurips,2016,2,1659,Mohsen,Bayati,rutgers,Stanford University,ldicker@stat.rutgers.edu
+neurips,2016,0,1243,Akshay,Krishnamurthy,umass,UMass Amherst,akshay@cs.umass.edu
+neurips,2016,1,1243,Alekh,Agarwal,microsoft,Microsoft,alekha@microsoft.com
+neurips,2016,2,1243,Miro,Dudik,microsoft,Microsoft Research,mdudik@microsoft.com
+neurips,2016,0,820,Mauro,Scanagatta,idsia,Idsia,mauro@idsia.ch
+neurips,2016,1,820,Giorgio,Corani,idsia,Idsia,giorgio@idsia.ch
+neurips,2016,2,820,Cassio,de Campos,qub,Queen's University Belfast,c.decampos@qub.ac.uk
+neurips,2016,3,820,Marco,Zaffalon,idsia,IDSIA,zaffalon@idsia.ch
+neurips,2016,0,1646,Bo,Wang,,Stanford University,
+neurips,2016,1,1646,Junjie,Zhu,,Stanford University,
+neurips,2016,2,1646,Armin,Pourshafeie,,Stanford University,
+neurips,2016,3,1646,Oana,Ursu,,Dept. of Genetics,
+neurips,2016,4,1646,Serafim,Batzoglou,,Dept. of Computer Science,
+neurips,2016,5,1646,Anshul,Kundaje,,Stanford University,
+neurips,2016,0,5,Bryan,He,stanford,Stanford University,bryanhe@stanford.edu
+neurips,2016,1,5,Christopher,De Sa,stanford,Stanford University,cdesa@stanford.edu
+neurips,2016,2,5,Ioannis,Mitliagkas,stanford,Stanford,imit@stanford.edu
+neurips,2016,3,5,Christopher,Ré,stanford,Stanford University,chrismre@stanford.edu
+neurips,2016,0,1373,Arulkumar,Subramaniam,iitm,IIT Madras,aruls@cse.iitm.ac.in
+neurips,2016,1,1373,Moitreya,Chatterjee,gmail,IIT Madras,metro.smiles@gmail.com
+neurips,2016,2,1373,Anurag,Mittal,iitm,IIT Madras,amittal@cse.iitm.ac.in
+neurips,2016,0,2304,Zhuo,Wang,nyu,University of Pennsylvania,wangzhuo@nyu.edu
+neurips,2016,1,2304,Xue-Xin,Wei,gmail,University of Pennsylvania,weixxpku@gmail.com
+neurips,2016,2,2304,Alan,Stocker,upenn,University of Pennsylvania,astocker@sas.upenn.edu
+neurips,2016,3,2304,Daniel,Lee,upenn,University of Pennsylvania,ddlee@seas.upenn.edu
+neurips,2016,0,710,Aman,Sinha,stanford,Stanford University,amans@stanford.edu
+neurips,2016,1,710,John,Duchi,stanford,Stanford,jduchi@stanford.edu
+neurips,2016,0,1480,Rémy,Degenne,ens-cachan,Université Paris Diderot,degenne@cmla.ens-cachan.fr
+neurips,2016,1,1480,Vianney,Perchet,normalesup,Ensae & Criteo Labs,perchet@normalesup.org
+neurips,2016,0,935,Xinchen,Yan,umich,University of Michigan,xcyan@umich.edu
+neurips,2016,1,935,Jimei,Yang,umich,Adobe Research,guoyijie@umich.edu
+neurips,2016,2,935,Ersin,Yumer,umich,Adobe Research,honglak@umich.edu
+neurips,2016,3,935,Yijie,Guo,adobe,University of Michigan,jimyang@adobe.com
+neurips,2016,4,935,Honglak,Lee,adobe,University of Michigan,yumer@adobe.com
+neurips,2016,0,1777,Xiaotong,Yuan,nuist,Nanjing University of Informat,xtyuan@nuist.edu.cn
+neurips,2016,1,1777,Ping,Li,rutgers,Rugters University,pingli@stat.rutgers.edu
+neurips,2016,2,1777,Tong,Zhang,rutgers,Rutgers,tzhang@stat.rutgers.edu
+neurips,2016,0,1614,Tatiana,Shpakova,inria,Inria - ENS Paris,tatiana.shpakova@inria.fr
+neurips,2016,1,1614,Francis,Bach,inria,INRIA - Ecole Normale Superieure,francis.bach@inria.fr
+neurips,2016,0,2019,Jingwei,Liang,ensicaen,GREYC,Jingwei.Liang@greyc.ensicaen.fr
+neurips,2016,1,2019,Jalal,Fadili,ensicaen,CNRS-ENSICAEN-Univ. Caen,Jalal.Fadili@greyc.ensicaen.fr
+neurips,2016,2,2019,Gabriel,Peyré,ens,Université Paris Dauphine,Gabriel.Peyre@ens.fr
+neurips,2016,0,2583,Akshay,Balsubramani,ucsd,UC San Diego,abalsubr@ucsd.edu
+neurips,2016,1,2583,Yoav,Freund,ucsd,"University of California, San Diego",yfreund@ucsd.edu
+neurips,2016,0,653,Dmitry,Krotov,ias,Institute for Advanced Study,krotov@ias.edu
+neurips,2016,1,653,John J.,Hopfield,princeton,Princeton Neuroscience Institute,hopfield@princeton.edu
+neurips,2016,0,211,Matthew,Joseph,upenn,University of Pennsylvania,majos@cis.upenn.edu
+neurips,2016,1,211,Michael,Kearns,upenn,University of Pennsylvania,mkearns@cis.upenn.edu
+neurips,2016,2,211,Jamie,Morgenstern,upenn,University of Pennsylvania,jamiemor@cis.upenn.edu
+neurips,2016,3,211,Aaron,Roth,upenn,University of Pennsylvania,aaroth@cis.upenn.edu
+neurips,2016,0,1228,Yunchen,Pu,duke,Duke University,yp42@duke.edu
+neurips,2016,1,1228,Zhe,Gan,duke,Duke,zg27@duke.edu
+neurips,2016,2,1228,Ricardo,Henao,duke,Duke University,r.henao@duke.edu
+neurips,2016,3,1228,Xin,Yuan,duke,Bell Labs,cl319@duke.edu
+neurips,2016,4,1228,Chunyuan,Li,duke,Duke,ajs104@duke.edu
+neurips,2016,5,1228,Andrew,Stevens,duke,Duke University,lcarin@duke.edu
+neurips,2016,6,1228,Lawrence,Carin,bell-labs,Duke University,xyuan@bell-labs.com
+neurips,2016,0,546,Tim,Salimans,openai,Algoritmica,tim@openai.com
+neurips,2016,1,546,Durk,Kingma,openai,OpenAI,dpkingma@openai.com
+neurips,2016,0,2156,Xiaotong,Yuan,nuist,Nanjing University of Informat,xtyuan@nuist.edu.cn
+neurips,2016,1,2156,Ping,Li,nuist,Rugters University,qsliu@nuist.edu.cn
+neurips,2016,2,2156,Tong,Zhang,nuist,Rutgers,gcliu@nuist.edu.cn
+neurips,2016,3,2156,Qingshan,Liu,rutgers,,pingli@stat.rutgers.edu
+neurips,2016,4,2156,Guangcan,Liu,rutgers,NUIST,tzhang@stat.rutgers.edu
+neurips,2016,0,2587,Michael,Mathieu,,NYU,
+neurips,2016,1,2587,Junbo Jake,Zhao,,NYU,
+neurips,2016,2,2587,Junbo,Zhao,,NYU,
+neurips,2016,3,2587,Aditya,Ramesh,,NYU,
+neurips,2016,4,2587,Pablo,Sprechmann,,New York University,
+neurips,2016,5,2587,Yann,LeCun,,NYU,
+neurips,2016,0,2576,Tamara,Fernandez,ox,Oxford,fernandez@stats.ox.ac.uk
+neurips,2016,1,2576,Nicolas,Rivera,kcl,King's College London,nicolas.rivera@kcl.ac.uk
+neurips,2016,2,2576,Yee Whye,Teh,ox,University of Oxford,y.w.teh@stats.ox.ac.uk
+neurips,2016,0,955,Namrata,Vaswani,iastate,Iowa State University,namrata@iastate.edu
+neurips,2016,1,955,Han,Guo,iastate,Iowa State University,hanguo@iastate.edu
+neurips,2016,0,472,Aurelien,Garivier,univ-toulouse,"Institut de Mathématiques de Toulouse, Université Toulouse",aurelien.garivier@math.univ-toulouse.fr
+neurips,2016,1,472,Tor,Lattimore,univ-lille1,Indiana University,emilie.kaufmann@univ-lille1.fr
+neurips,2016,2,472,Emilie,Kaufmann,gmail,Telecom ParisTech,tor.lattimore@gmail.com
+neurips,2016,0,818,Rudy,Bunel,ox,Oxford University,rudy@robots.ox.ac.uk
+neurips,2016,1,818,Alban,Desmaison,ox,Oxford,alban@robots.ox.ac.uk
+neurips,2016,2,818,Pawan,Mudigonda,microsoft,University of Oxford,pkohli@microsoft.com
+neurips,2016,3,818,Pushmeet,Kohli,ox,Microsoft Research,philip.torr@eng.ox.ac.uk
+neurips,2016,4,818,Philip,Torr,ox,Oxford University,pawan@robots.ox.ac.uk
+neurips,2016,0,1815,Yizhi,Wang,vt,Virginia Tech,yzwang@vt.edu
+neurips,2016,1,1815,David,Miller,psu,The Pennsylvania State University,djmiller@engr.psu.edu
+neurips,2016,2,1815,Kira,Poskanzer,ucsf,University of California,Kira.Poskanzer@ucsf.edu
+neurips,2016,3,1815,Yue,Wang,vt,Virginia Tech,yuewang@vt.edu
+neurips,2016,4,1815,Lin,Tian,ucdavis,The University of California,lintian@ucdavis.edu
+neurips,2016,5,1815,Guoqiang,Yu,vt,Virginia Tech,yug@vt.edu
+neurips,2016,0,574,Mikhail,Figurnov,,Skolkovo Inst. of Sc and Tech,
+neurips,2016,1,574,Aizhan,Ibraimova,,Skolkovo Institute of Science and Technology,
+neurips,2016,2,574,Dmitry,Vetrov,,"Higher School of Economics, Yandex",
+neurips,2016,3,574,Pushmeet,Kohli,,Microsoft Research,
+neurips,2016,0,1151,Geoffrey,Irving,google,Google,alemi@google.com
+neurips,2016,1,1151,Christian,Szegedy,google,Google,fchollet@google.com
+neurips,2016,2,1151,Alexander,Alemi,google,Google,een@google.com
+neurips,2016,3,1151,Niklas,Een,google,Google Inc.,geoffreyi@google.com
+neurips,2016,4,1151,Francois,Chollet,google,"Google, Inc",szegedy@google.com
+neurips,2016,5,1151,Josef,Urban,gmail,Czech Technical University in Prague,josef.urban@gmail.com
+neurips,2016,0,767,Tae-Hyun,Oh,gmail,KAIST,thoh.kaist.ac.kr@gmail.com
+neurips,2016,1,767,Yasuyuki,Matsushita,osaka-u,Osaka University,yasumat@ist.osaka-u.ac.jp
+neurips,2016,2,767,In,Kweon,kaist,KAIST,iskweon@kaist.ac.kr
+neurips,2016,3,767,David,Wipf,microsoft,Microsoft Research,davidwip@microsoft.com
+neurips,2016,0,1836,Kieran,Milan,google,Google DeepMind,kmilan@google.com
+neurips,2016,1,1836,Joel,Veness,google,DeepMind,aixi@google.com
+neurips,2016,2,1836,James,Kirkpatrick,google,Google DeepMind,kirkpatrick@google.com
+neurips,2016,3,1836,Michael,Bowling,google,University of Alberta,demishassabis@google.com
+neurips,2016,4,1836,Anna,Koop,ualberta,University of Alberta,anna@cs.ualberta.ca
+neurips,2016,5,1836,Demis,Hassabis,ualberta,DeepMind,bowling@cs.ualberta.ca
+neurips,2016,0,1820,Jacob,Steinhardt,,Stanford University,
+neurips,2016,1,1820,Percy,Liang,,Stanford University,
+neurips,2016,0,324,Kenji,Kawaguchi,mit,MIT,kawaguch@mit.edu
+neurips,2016,0,1719,Shipra,Agrawal,,Columbia University,
+neurips,2016,1,1719,Nikhil,Devanur,,Microsoft Research,
+neurips,2016,0,1544,Kameron,Harris,uw,University of Washington,kamdh@uw.edu
+neurips,2016,1,1544,Stefan,Mihalas,alleninstitute,Allen Institute for Brain Science,stefanm@alleninstitute.org
+neurips,2016,2,1544,Eric,Shea-Brown,uw,University of Washington,etsb@uw.edu
+neurips,2016,0,241,Abir,De,ernet,IIT Kharagpur,abir.de@cse.iitkgp.ernet.in
+neurips,2016,1,241,Isabel,Valera,ernet,Max Planck Institute for Software Systems (MPI-SWS),niloy@cse.iitkgp.ernet.in
+neurips,2016,2,241,Niloy,Ganguly,ernet,IIT Kharagpur,sourangshu@cse.iitkgp.ernet.in
+neurips,2016,3,241,Sourangshu,Bhattacharya,mpi-sws,IIT Kharagpur,ivalera@mpi-sws.org
+neurips,2016,4,241,Manuel,Gomez Rodriguez,mpi-sws,MPI-SWS,manuelgr@mpi-sws.org
+neurips,2016,0,1800,Anastasia,Pentina,ist,IST Austria,apentina@ist.ac.at
+neurips,2016,1,1800,Ruth,Urner,mpg,MPI Tuebingen,rurner@tuebingen.mpg.de
+neurips,2016,0,1372,Ayan,Chakrabarti,ttic,TTI Chicago,ayanc@ttic.edu
+neurips,2016,1,1372,Jingyu,Shao,ucla,UCLA,shaojy15@ucla.edu
+neurips,2016,2,1372,Greg,Shakhnarovich,ttic,TTI-Chicago,gregory@ttic.edu
+neurips,2016,0,2214,Sara,Magliacane,gmail,VU University Amsterdam,sara.magliacane@gmail.com
+neurips,2016,1,2214,Tom,Claassen,cs,Radboud University Nijmegen,tomc@cs.ru.nl
+neurips,2016,2,2214,Joris,Mooij,uva,Radboud University Nijmegen,j.m.mooij@uva.nl
+neurips,2016,0,1826,Tejas,Kulkarni,,MIT,
+neurips,2016,1,1826,Karthik,Narasimhan,,MIT,
+neurips,2016,2,1826,Ardavan,Saeedi,,MIT,
+neurips,2016,3,1826,Josh,Tenenbaum,,MIT,
+neurips,2016,0,2036,Matey,Neykov,princeton,Princeton University,mneykov@princeton.edu
+neurips,2016,1,2036,Zhaoran,Wang,princeton,Princeton University,zhaoran@princeton.edu
+neurips,2016,2,2036,Han,Liu,princeton,Princeton University,hanliu@princeton.edu
+neurips,2016,0,1440,Arturo,Deza,ucsb,UCSB,deza@dyns.ucsb.edu
+neurips,2016,1,1440,Miguel,Eckstein,ucsb,UCSB,eckstein@psych.ucsb.edu
+neurips,2016,0,528,Shenlong,Wang,toronto,University of Toronto,slwang@cs.toronto.edu
+neurips,2016,1,528,Sanja,Fidler,toronto,University of Toronto,fidler@cs.toronto.edu
+neurips,2016,2,528,Raquel,Urtasun,toronto,University of Toronto,urtasun@cs.toronto.edu
+neurips,2016,0,407,Dehua,Cheng,usc,Univ. of Southern California,dehua.cheng@usc.edu
+neurips,2016,1,407,Richard,Peng,gatech,,rpeng@cc.gatech.edu
+neurips,2016,2,407,Yan,Liu,gatech,University of Southern California,perros@gatech.edu
+neurips,2016,3,407,Ioakeim,Perros,usc,Georgia Institute of Technology,yanliu.cs@usc.edu
+neurips,2016,0,1442,Yuhuai,Wu,,University of Toronto,
+neurips,2016,1,1442,Saizheng,Zhang,,University of Montreal,
+neurips,2016,2,1442,Ying,Zhang,,University of Montreal,
+neurips,2016,3,1442,Yoshua,Bengio,,U. Montreal,
+neurips,2016,4,1442,Russ,Salakhutdinov,,University of Toronto,
+neurips,2016,0,256,Francisco,Ruiz,,Columbia University,
+neurips,2016,1,256,Michalis,Titsias RC AUEB,,Athens University of Economics and Business,
+neurips,2016,2,256,David,Blei,,Columbia University,
+neurips,2016,0,612,Pan,Xu,virginia,University of Virginia,px3ds@virginia.edu
+neurips,2016,1,612,Quanquan,Gu,virginia,University of Virginia,qg5w@virginia.edu
+neurips,2016,0,2425,Taesup,Moon,dgist,DGIST,tsmoon@dgist.ac.kr
+neurips,2016,1,2425,Seonwoo,Min,snu,Seoul National University,mswzeus@snu.ac.kr
+neurips,2016,2,2425,Byunghan,Lee,snu,Seoul National University,styxkr@snu.ac.kr
+neurips,2016,3,2425,Sungroh,Yoon,snu,Seoul National University,sryoon@snu.ac.kr
+neurips,2016,0,335,Eugene,Belilovsky,,CentraleSupelec,
+neurips,2016,1,335,Gaël,Varoquaux,,INRIA,
+neurips,2016,2,335,Matthew,Blaschko,,KU Leuven,
+neurips,2016,0,1982,Marcin,Andrychowicz,gmail,Google Deepmind,marcin.andrychowicz@gmail.com
+neurips,2016,1,1982,Misha,Denil,google,Google DeepMind,mdenil@google.com
+neurips,2016,2,1982,Sergio,Gómez,google,Google DeepMind,sergomez@google.com
+neurips,2016,3,1982,Matthew,Hoffman,google,Google DeepMind,mwhoffman@google.com
+neurips,2016,4,1982,David,Pfau,google,Google DeepMind,pfau@google.com
+neurips,2016,5,1982,Tom,Schaul,google,Google Deepmind,schaul@google.com
+neurips,2016,6,1982,Brendan,Shillingford,ox,,brendan.shillingford@cs.ox.ac.uk
+neurips,2016,7,1982,Nando,de Freitas,google,Google,nandodefreitas@google.com
+neurips,2016,0,727,Arno,Onken,iit,IIT,arno.onken@iit.it
+neurips,2016,1,727,Stefano,Panzeri,iit,IIT,stefano.panzeri@iit.it
+neurips,2016,0,1871,ukasz,Kaiser,google,Google Brain,lukaszkaiser@google.com
+neurips,2016,1,1871,Samy,Bengio,google,Google Brain,bengio@google.com
+neurips,2016,0,1069,Johannes,Friedrich,columbia,Columbia University,j.friedrich@columbia.edu
+neurips,2016,1,1069,Liam,Paninski,columbia,Columbia University,liam@stat.columbia.edu
+neurips,2016,0,65,Pedro,Ortega,upenn,DeepMind,ope@seas.upenn.edu
+neurips,2016,1,65,Alan,Stocker,upenn,University of Pennsylvania,astocker@sas.upenn.edu
+neurips,2016,0,784,Julien,Mairal,inria,Inria,julien.mairal@inria.fr
+neurips,2016,0,680,Siddartha,Ramamohan,,Indian Institute of Science,
+neurips,2016,1,680,Arun,Rajkumar,,"Xerox Research Center, India.",
+neurips,2016,2,680,Shivani,Agarwal,,Radcliffe Institute,
+neurips,2016,3,680,Shivani,Agarwal,,University of Pennsylvania,
+neurips,2016,0,2328,Ruiyu,Li,cuhk,CUHK,ryli@cse.cuhk.edu.hk
+neurips,2016,1,2328,Jiaya,Jia,cuhk,CUHK,leojia@cse.cuhk.edu.hk
+neurips,2016,0,2277,Junhong,Lin,,Istituto Italiano di Tecnologia,
+neurips,2016,1,2277,Lorenzo,Rosasco,,University of Genova- MIT - IIT,
+neurips,2016,0,1330,Tao,Wu,purdue,Purdue University,wu577@purdue.edu
+neurips,2016,1,1330,Austin,Benson,stanford,Stanford University,arbenson@stanford.edu
+neurips,2016,2,1330,David,Gleich,purdue,Purdue University,dgleich@purdue.edu
+neurips,2016,0,1463,Ahmed,Alaa,,University of California,
+neurips,2016,1,1463,Mihaela,van der Schaar,,"University of California, Los Angeles",
+neurips,2016,0,849,Stephan,Zheng,caltech,Caltech,stzheng@caltech.edu
+neurips,2016,1,849,Yisong,Yue,caltech,Caltech,yyue@caltech.edu
+neurips,2016,2,849,Jennifer,Hobbs,stats,Stats,plucey@stats.com
+neurips,2016,0,83,Hao,Wang,ust,HKUST,hwangaz@cse.ust.hk
+neurips,2016,1,83,Xingjian,SHI,ust,Hong Kong University of Science and Technology,xshiab@cse.ust.hk
+neurips,2016,2,83,Dit-Yan,Yeung,ust,"HKUST, Hong Kong",dyyeung@cse.ust.hk
+neurips,2016,0,1145,Kohei,Hayashi,gmail,AIST,hayashi.kohei@gmail.com
+neurips,2016,1,1145,Yuichi,Yoshida,nii,NII,yyoshida@nii.ac.jp

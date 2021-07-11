@@ -1,0 +1,1322 @@
+conference,year,index,paper_id,given_name,family_name,org,institution,email,title
+neurips,2015,0,550,Zheng,Qu,hku,University of Hong Kong,zhengqu@maths.hku.hk,Quartz: Randomized Dual Coordinate Ascent with Arbitrary Sampling
+neurips,2015,1,550,Peter,Richtarik,ed,University of Edinburgh,peter.richtarik@ed.ac.uk,Quartz: Randomized Dual Coordinate Ascent with Arbitrary Sampling
+neurips,2015,2,550,Tong,Zhang,rutgers,Rutgers,tzhang@stat.rutgers.edu,Quartz: Randomized Dual Coordinate Ascent with Arbitrary Sampling
+neurips,2015,0,1559,Arya,Mazumdar,umn,University of Minnesota -- Twin Cities,arya@umn.edu,Associative Memory via a Sparse Recovery Model
+neurips,2015,1,1559,Ankit Singh,Rawat,cmu,Carnegie Mellon University,asrawat@andrew.cmu.edu,Associative Memory via a Sparse Recovery Model
+neurips,2015,0,890,Aviv,Tamar,berkeley,Technion,avivt@berkeley.edu,Policy Gradient for Coherent Risk Measures
+neurips,2015,1,890,Yinlam,Chow,inria,Stanford,mohammad.ghavamzadeh@inria.fr,Policy Gradient for Coherent Risk Measures
+neurips,2015,2,890,Mohammad,Ghavamzadeh,stanford,Adobe Research & INRIA,ychow@stanford.edu,Policy Gradient for Coherent Risk Measures
+neurips,2015,3,890,Shie,Mannor,technion,Technion,shie@ee.technion.ac.il,Policy Gradient for Coherent Risk Measures
+neurips,2015,0,134,Miguel,Carreira-Perpinan,,UC Merced,,"A fast, universal algorithm to learn parametric nonlinear embeddings"
+neurips,2015,1,134,Max,Vladymyrov,,Yahoo,,"A fast, universal algorithm to learn parametric nonlinear embeddings"
+neurips,2015,0,245,Tian,Lin,gmail,Tsinghua University,lintian06@gmail.com,Stochastic Online Greedy Learning with Semi-bandit Feedbacks
+neurips,2015,1,245,Jian,Li,gmail,Tsinghua University,lapordge@gmail.com,Stochastic Online Greedy Learning with Semi-bandit Feedbacks
+neurips,2015,2,245,Wei,Chen,microsoft,Microsoft.com,weic@microsoft.com,Stochastic Online Greedy Learning with Semi-bandit Feedbacks
+neurips,2015,0,841,Qing,Sun,,Virginia Tech,,SubmodBoxes: Near-Optimal Search for a Set of Diverse Object Proposals
+neurips,2015,1,841,Dhruv,Batra,,Virginia Tech,,SubmodBoxes: Near-Optimal Search for a Set of Diverse Object Proposals
+neurips,2015,0,27,Huitong,Qiu,jhu,Johns Hopkins University,hqiu7@jhu.edu,Robust Portfolio Optimization
+neurips,2015,1,27,Fang,Han,jhu,Johns Hopkins University,fhan@jhu.edu,Robust Portfolio Optimization
+neurips,2015,2,27,Han,Liu,jhsph,Princeton University,bcaffo@jhsph.edu,Robust Portfolio Optimization
+neurips,2015,3,27,Brian,Caffo,princeton,,hanliu@princeton.edu,Robust Portfolio Optimization
+neurips,2015,0,195,Maksim,Lapin,,Max Planck Institute for Informatics,,Top-k Multiclass SVM
+neurips,2015,1,195,Matthias,Hein,,Saarland University,,Top-k Multiclass SVM
+neurips,2015,2,195,Bernt,Schiele,,Max Planck Institute for Informatics,,Top-k Multiclass SVM
+neurips,2015,0,1019,Alessandro,Rudi,mit,,rudi@mit.edu,Less is More: Nyström Computational Regularization
+neurips,2015,1,1019,Raffaello,Camoriano,mit,IIT - UNIGE,lrosasco@mit.edu,Less is More: Nyström Computational Regularization
+neurips,2015,2,1019,Lorenzo,Rosasco,iit,University of Genova,raffaello.camoriano@iit.it,Less is More: Nyström Computational Regularization
+neurips,2015,0,595,Akihiro,Kishimoto,ibm,IBM Research,akihirok@ie.ibm.com,Parallel Recursive Best-First AND/OR Search for Exact MAP Inference in Graphical Models
+neurips,2015,1,595,Radu,Marinescu,ibm,"IBM Research, Ireland",radu.marinescu@ie.ibm.com,Parallel Recursive Best-First AND/OR Search for Exact MAP Inference in Graphical Models
+neurips,2015,2,595,Adi,Botea,ibm,IBM Research,adibotea@ie.ibm.com,Parallel Recursive Best-First AND/OR Search for Exact MAP Inference in Graphical Models
+neurips,2015,0,629,Yining,Wang,cmu,Carnegie Mellon University,yiningwa@cs.cmu.edu,Differentially private subspace clustering
+neurips,2015,1,629,Yu-Xiang,Wang,cmu,CMU,yuxiangw@cs.cmu.edu,Differentially private subspace clustering
+neurips,2015,2,629,Aarti,Singh,cmu,CMU,aarti@cs.cmu.edu,Differentially private subspace clustering
+neurips,2015,0,1909,Kai-Yang,Chiang,utexas,UT Austin,kychiang@cs.utexas.edu,Matrix Completion with Noisy Side Information
+neurips,2015,1,1909,Cho-Jui,Hsieh,utexas,UC Davis,inderjit@cs.utexas.edu,Matrix Completion with Noisy Side Information
+neurips,2015,2,1909,Inderjit,Dhillon,ucdavis,University of Texas at Austin,chohsieh@ucdavis.edu,Matrix Completion with Noisy Side Information
+neurips,2015,0,269,Kirthevasan,Kandasamy,cmu,CMU,kandasamy@cs.cmu.edu,"Nonparametric von Mises Estimators for Entropies, Divergences and Mutual Informations"
+neurips,2015,1,269,Akshay,Krishnamurthy,cmu,CMU,akshaykr@cs.cmu.edu,"Nonparametric von Mises Estimators for Entropies, Divergences and Mutual Informations"
+neurips,2015,2,269,Barnabas,Poczos,cmu,Carnegie Mellon University,bapoczos@cs.cmu.edu,"Nonparametric von Mises Estimators for Entropies, Divergences and Mutual Informations"
+neurips,2015,3,269,Larry,Wasserman,cmu,Carnegie Mellon University,larry@stat.cmu.edu,"Nonparametric von Mises Estimators for Entropies, Divergences and Mutual Informations"
+neurips,2015,4,269,james,robins,harvard,Harvard University,robins@hsph.harvard.edu,"Nonparametric von Mises Estimators for Entropies, Divergences and Mutual Informations"
+neurips,2015,0,1844,Danilo,Bzdok,,INRIA,,Semi-Supervised Factored Logistic Regression for High-Dimensional Neuroimaging Data
+neurips,2015,1,1844,Michael,Eickenberg,,,,Semi-Supervised Factored Logistic Regression for High-Dimensional Neuroimaging Data
+neurips,2015,2,1844,Olivier,Grisel,,,,Semi-Supervised Factored Logistic Regression for High-Dimensional Neuroimaging Data
+neurips,2015,3,1844,Bertrand,Thirion,,INRIA,,Semi-Supervised Factored Logistic Regression for High-Dimensional Neuroimaging Data
+neurips,2015,4,1844,Gael,Varoquaux,,"Parietal Team, INRIA",,Semi-Supervised Factored Logistic Regression for High-Dimensional Neuroimaging Data
+neurips,2015,0,521,Xingjian,SHI,ust,HKUST,xshiab@cse.ust.hk,Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting
+neurips,2015,1,521,Zhourong,Chen,ust,HKUST,zchenbb@cse.ust.hk,Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting
+neurips,2015,2,521,Hao,Wang,ust,HKUST,hwangaz@cse.ust.hk,Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting
+neurips,2015,3,521,Dit-Yan,Yeung,ust,HKUST,dyyeung@cse.ust.hk,Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting
+neurips,2015,4,521,Wai-kin,Wong,hko,,wkwong@hko.gov.hk,Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting
+neurips,2015,5,521,Wang-chun,WOO,hko,,wcwoo@hko.gov.hk,Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting
+neurips,2015,0,1021,Isabel,Valera,mpi-sws,MPI-SWS,ivalera@mpi-sws.org,Infinite Factorial Dynamical Model
+neurips,2015,1,1021,Francisco,Ruiz,columbia,Columbia University,f.ruiz@columbia.edu,Infinite Factorial Dynamical Model
+neurips,2015,2,1021,Lennart,Svensson,chalmers,"Chalmers University of Technology, Göteborg",lennart.svensson@chalmers.se,Infinite Factorial Dynamical Model
+neurips,2015,3,1021,Fernando,Perez-Cruz,ieee,,fernandop@ieee.org,Infinite Factorial Dynamical Model
+neurips,2015,0,1914,Scott,Linderman,harvard,Harvard University,swl@seas.harvard.edu,Dependent Multinomial Models Made Easy: Stick-Breaking with the Polya-gamma Augmentation
+neurips,2015,1,1914,Matthew,Johnson,mit,MIT,mattjj@csail.mit.edu,Dependent Multinomial Models Made Easy: Stick-Breaking with the Polya-gamma Augmentation
+neurips,2015,2,1914,Ryan,Adams,harvard,Harvard,rpa@seas.harvard.edu,Dependent Multinomial Models Made Easy: Stick-Breaking with the Polya-gamma Augmentation
+neurips,2015,0,1396,Ian En-Hsu,Yen,utexas,University of Texas at Austin,ianyen@cs.utexas.edu,Sparse Linear Programming via Primal and Dual Augmented Coordinate Descent
+neurips,2015,1,1396,Kai,Zhong,utexas,UT Austin,pradeepr@cs.utexas.edu,Sparse Linear Programming via Primal and Dual Augmented Coordinate Descent
+neurips,2015,2,1396,Cho-Jui,Hsieh,utexas,UC Davis,inderjit@cs.utexas.edu,Sparse Linear Programming via Primal and Dual Augmented Coordinate Descent
+neurips,2015,3,1396,Pradeep,Ravikumar,ucdavis,University of Texas at Austin,chohsieh@ucdavis.edu,Sparse Linear Programming via Primal and Dual Augmented Coordinate Descent
+neurips,2015,4,1396,Inderjit,Dhillon,utexas,University of Texas at Austin,zhongkai@ices.utexas.edu,Sparse Linear Programming via Primal and Dual Augmented Coordinate Descent
+neurips,2015,0,1811,Philip,Bachman,gmail,McGill University,phil.bachman@gmail.com,Data Generation as Sequential Decision Making
+neurips,2015,1,1811,Doina,Precup,mcgill,University of McGill,dprecup@cs.mcgill.ca,Data Generation as Sequential Decision Making
+neurips,2015,0,1455,Alina,Beygelzimer,yahoo-inc,Yahoo Labs,beygel@yahoo-inc.com,Online Gradient Boosting
+neurips,2015,1,1455,Elad,Hazan,princeton,Princeton University,ehazan@cs.princeton.edu,Online Gradient Boosting
+neurips,2015,2,1455,Satyen,Kale,yahoo-inc,Yahoo Labs,satyen@yahoo-inc.com,Online Gradient Boosting
+neurips,2015,3,1455,Haipeng,Luo,princeton,Princeton University,haipengl@cs.princeton.edu,Online Gradient Boosting
+neurips,2015,0,191,Yen-Chi,Chen,cmu,Carnegie Mellon University,yenchic@andrew.cmu.edu,Optimal Ridge Detection using Coverage Risk
+neurips,2015,1,191,Christopher,Genovese,cmu,Carnegie Mellon University,shirleyh@andrew.cmu.edu,Optimal Ridge Detection using Coverage Risk
+neurips,2015,2,191,Shirley,Ho,cmu,Carnegie Mellon University,genovese@stat.cmu.edu,Optimal Ridge Detection using Coverage Risk
+neurips,2015,3,191,Larry,Wasserman,cmu,Carnegie Mellon University,larry@stat.cmu.edu,Optimal Ridge Detection using Coverage Risk
+neurips,2015,0,996,Yuval,Harel,,Technion,yharel@tx,A Tractable Approximation to Optimal Point Process Filtering: Application to Neural Encoding
+neurips,2015,1,996,Ron,Meir,technion,Technion,rmeir@ee.technion.ac.il,A Tractable Approximation to Optimal Point Process Filtering: Application to Neural Encoding
+neurips,2015,2,996,Manfred,Opper,tu-berlin,TU Berlin,opperm@cs.tu-berlin.de,A Tractable Approximation to Optimal Point Process Filtering: Application to Neural Encoding
+neurips,2015,0,369,Rahul,Krishnan,,New York University,,Barrier Frank-Wolfe for Marginal Inference
+neurips,2015,1,369,Simon,Lacoste-Julien,,INRIA,,Barrier Frank-Wolfe for Marginal Inference
+neurips,2015,2,369,David,Sontag,,NYU,,Barrier Frank-Wolfe for Marginal Inference
+neurips,2015,0,1265,Richard,Combes,supelec,Supelec,richard.combes@supelec.fr,Combinatorial Bandits Revisited
+neurips,2015,1,1265,Mohammad Sadegh,Talebi Mazraeh Shahi,kth,KTH Royal Inst. of Technology,mstms@kth.se,Combinatorial Bandits Revisited
+neurips,2015,2,1265,Alexandre,Proutiere,kth,,alepro@kth.se,Combinatorial Bandits Revisited
+neurips,2015,3,1265,marc,lelarge,ens,INRIA - ENS,marc.lelarge@ens.fr,Combinatorial Bandits Revisited
+neurips,2015,0,1574,Tzu-Kuo,Huang,microsoft,Microsoft,tkhuang@microsoft.com,Efficient and Parsimonious Agnostic Active Learning
+neurips,2015,1,1574,Alekh,Agarwal,microsoft,Microsoft Research,alekha@microsoft.com,Efficient and Parsimonious Agnostic Active Learning
+neurips,2015,2,1574,Daniel,Hsu,columbia,Columbia University,djhsu@cs.columbia.edu,Efficient and Parsimonious Agnostic Active Learning
+neurips,2015,3,1574,John,Langford,microsoft,Microsoft Research New York,jcl@microsoft.com,Efficient and Parsimonious Agnostic Active Learning
+neurips,2015,4,1574,Robert,Schapire,microsoft,MIcrosoft Research,schapire@microsoft.com,Efficient and Parsimonious Agnostic Active Learning
+neurips,2015,0,198,Philip,Thomas,,"University of Massachusetts Amherst, Carnegie Mellon University",,Policy Evaluation Using the -Return
+neurips,2015,1,198,Scott,Niekum,,UT Austin,,Policy Evaluation Using the -Return
+neurips,2015,2,198,Georgios,Theocharous,,Adobe,,Policy Evaluation Using the -Return
+neurips,2015,3,198,George,Konidaris,,Duke,,Policy Evaluation Using the -Return
+neurips,2015,0,1594,Kenji,Kawaguchi,mit,MIT,kawaguch@mit.edu,Bayesian Optimization with Exponential Convergence
+neurips,2015,1,1594,Leslie,Kaelbling,mit,MIT,lpk@csail.mit.edu,Bayesian Optimization with Exponential Convergence
+neurips,2015,2,1594,Tomás,Lozano-Pérez,mit,,tlp@csail.mit.edu,Bayesian Optimization with Exponential Convergence
+neurips,2015,0,531,James,Lloyd,,University of Cambridge,,Statistical Model Criticism using Kernel Two Sample Tests
+neurips,2015,1,531,Zoubin,Ghahramani,,University of Cambridge,,Statistical Model Criticism using Kernel Two Sample Tests
+neurips,2015,0,410,Jan,Chorowski,,University of Wroclaw,,Attention-Based Models for Speech Recognition
+neurips,2015,1,410,Dzmitry,Bahdanau,,"Jacobs University, Germany",,Attention-Based Models for Speech Recognition
+neurips,2015,2,410,Dmitriy,Serdyuk,,Université de Montréal,,Attention-Based Models for Speech Recognition
+neurips,2015,3,410,Kyunghyun,Cho,,NYU,,Attention-Based Models for Speech Recognition
+neurips,2015,4,410,Yoshua,Bengio,,U. Montreal,,Attention-Based Models for Speech Recognition
+neurips,2015,0,686,Jimei,Yang,ucmerced,UC Merced,jyang44@ucmerced.edu,Weakly-supervised Disentangling with Recurrent Transformations for 3D View Synthesis
+neurips,2015,1,686,Scott,Reed,ucmerced,University of Michigan,mhyang@ucmerced.edu,Weakly-supervised Disentangling with Recurrent Transformations for 3D View Synthesis
+neurips,2015,2,686,Ming-Hsuan,Yang,umich,UC Merced,reedscot@umich.edu,Weakly-supervised Disentangling with Recurrent Transformations for 3D View Synthesis
+neurips,2015,3,686,Honglak,Lee,umich,U. Michigan,honglak@umich.edu,Weakly-supervised Disentangling with Recurrent Transformations for 3D View Synthesis
+neurips,2015,0,691,Steve,Esser,ibm,IBM Research-Almaden,sesser@us.ibm.com,Backpropagation for Energy-Efficient Neuromorphic Computing
+neurips,2015,1,691,Rathinakumar,Appuswamy,ibm,IBM Research-Almaden,rappusw@us.ibm.com,Backpropagation for Energy-Efficient Neuromorphic Computing
+neurips,2015,2,691,Paul,Merolla,ibm,IBM Research-Almaden,pameroll@us.ibm.com,Backpropagation for Energy-Efficient Neuromorphic Computing
+neurips,2015,3,691,John,Arthur,ibm,IBM Research-Almaden,arthurjo@us.ibm.com,Backpropagation for Energy-Efficient Neuromorphic Computing
+neurips,2015,4,691,Dharmendra,Modha,ibm,IBM Research-Almaden,dmodha@us.ibm.com,Backpropagation for Energy-Efficient Neuromorphic Computing
+neurips,2015,0,1680,Matthias,Feurer,uni-freiburg,University of Freiburg,feurerm@cs.uni-freiburg.de,Efficient and Robust Automated Machine Learning
+neurips,2015,1,1680,Aaron,Klein,uni-freiburg,University of Freiburg,kleinaa@cs.uni-freiburg.de,Efficient and Robust Automated Machine Learning
+neurips,2015,2,1680,Katharina,Eggensperger,uni-freiburg,University of Freiburg,eggenspk@cs.uni-freiburg.de,Efficient and Robust Automated Machine Learning
+neurips,2015,3,1680,Jost,Springenberg,uni-freiburg,University of Freiburg,springj@cs.uni-freiburg.de,Efficient and Robust Automated Machine Learning
+neurips,2015,4,1680,Manuel,Blum,uni-freiburg,University of Freiburg,mblum@cs.uni-freiburg.de,Efficient and Robust Automated Machine Learning
+neurips,2015,5,1680,Frank,Hutter,uni-freiburg,U Freiburg,fh@cs.uni-freiburg.de,Efficient and Robust Automated Machine Learning
+neurips,2015,0,1937,Nan,Du,,Georgia Tech,,Time-Sensitive Recommendation From Recurrent User Activities
+neurips,2015,1,1937,Yichen,Wang,,Georgia Tech,,Time-Sensitive Recommendation From Recurrent User Activities
+neurips,2015,2,1937,Niao,He,,Georgia Institute of Technology,,Time-Sensitive Recommendation From Recurrent User Activities
+neurips,2015,3,1937,Jimeng,Sun,,Gatech,,Time-Sensitive Recommendation From Recurrent User Activities
+neurips,2015,4,1937,Le,Song,,Georgia Institute of Technology,,Time-Sensitive Recommendation From Recurrent User Activities
+neurips,2015,0,1541,Michalis,Titsias RC AUEB,aueb,Athens University of Economics and Business,mtitsias@aueb.gr,Local Expectation Gradients for Black Box Variational Inference
+neurips,2015,1,1541,Miguel,Lázaro-Gredilla,vicarious,Vicarious,miguel@vicarious.com,Local Expectation Gradients for Black Box Variational Inference
+neurips,2015,0,443,Marylou,Gabrie,ens,"École Normale Supérieure, ICFP, Laboratoire de Physique Statistique",marylou.gabrie@lps.ens.fr,Training Restricted Boltzmann Machine via the Thouless-Anderson-Palmer free energy
+neurips,2015,1,443,Eric,Tramel,ens,"LPS, École Normale Supérieure",eric.tramel@lps.ens.fr,Training Restricted Boltzmann Machine via the Thouless-Anderson-Palmer free energy
+neurips,2015,2,443,Florent,Krzakala,ens,Ecole Normale Superieure Paris,florent.krzakala@ens.fr,Training Restricted Boltzmann Machine via the Thouless-Anderson-Palmer free energy
+neurips,2015,0,1496,Zhaoran,Wang,,Princeton University,,High Dimensional EM Algorithm: Statistical Optimization and Asymptotic Normality
+neurips,2015,1,1496,Quanquan,Gu,,University of Virginia,,High Dimensional EM Algorithm: Statistical Optimization and Asymptotic Normality
+neurips,2015,2,1496,Yang,Ning,,Princeton University,,High Dimensional EM Algorithm: Statistical Optimization and Asymptotic Normality
+neurips,2015,3,1496,Han,Liu,,Princeton University,,High Dimensional EM Algorithm: Statistical Optimization and Asymptotic Normality
+neurips,2015,0,1670,Nicolas,Heess,google,Google DeepMind,heess@google.com,Learning Continuous Control Policies by Stochastic Value Gradients
+neurips,2015,1,1670,Gregory,Wayne,google,Google DeepMind,gregwayne@google.com,Learning Continuous Control Policies by Stochastic Value Gradients
+neurips,2015,2,1670,David,Silver,google,DeepMind,davidsilver@google.com,Learning Continuous Control Policies by Stochastic Value Gradients
+neurips,2015,3,1670,Timothy,Lillicrap,google,Google DeepMind,countzero@google.com,Learning Continuous Control Policies by Stochastic Value Gradients
+neurips,2015,4,1670,Tom,Erez,google,Google DeepMind,tassa@google.com,Learning Continuous Control Policies by Stochastic Value Gradients
+neurips,2015,5,1670,Yuval,Tassa,google,Google DeepMind,etom@google.com,Learning Continuous Control Policies by Stochastic Value Gradients
+neurips,2015,0,69,Shaoqing,Ren,microsoft,USTC,v-shren@microsoft.com,Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
+neurips,2015,1,69,Kaiming,He,microsoft,Microsoft Research Asia,kahe@microsoft.com,Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
+neurips,2015,2,69,Ross,Girshick,microsoft,Microsoft Research,rbg@microsoft.com,Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
+neurips,2015,3,69,Jian,Sun,microsoft,Microsoft Research Asia,jiansun@microsoft.com,Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
+neurips,2015,0,1046,Mohammad,Norouzi,,University of Toronto,,Efficient Non-greedy Optimization of Decision Trees
+neurips,2015,1,1046,Maxwell,Collins,,UW-Madison,,Efficient Non-greedy Optimization of Decision Trees
+neurips,2015,2,1046,Matthew,Johnson,,Microsoft Research,,Efficient Non-greedy Optimization of Decision Trees
+neurips,2015,3,1046,David,Fleet,,University of Toronto,,Efficient Non-greedy Optimization of Decision Trees
+neurips,2015,4,1046,Pushmeet,Kohli,,Microsoft Research,,Efficient Non-greedy Optimization of Decision Trees
+neurips,2015,0,1008,Lorenzo,Rosasco,mit,University of Genova,lrosasco@mit.edu,Learning with Incremental Iterative Regularization
+neurips,2015,1,1008,Silvia,Villa,iit,IIT-MIT,Silvia.Villa@iit.it,Learning with Incremental Iterative Regularization
+neurips,2015,0,555,Justin,Domke,nicta,NICTA,justin.domke@nicta.com.au,Maximum Likelihood Learning With Arbitrary Treewidth via Fast-Mixing Parameter Sets
+neurips,2015,0,1190,Alkis,Gotovos,ethz,ETH Zurich,alkisg@inf.ethz.ch,Sampling from Probabilistic Submodular Models
+neurips,2015,1,1190,Hamed,Hassani,ethz,ETH Zurich,hamed@inf.ethz.ch,Sampling from Probabilistic Submodular Models
+neurips,2015,2,1190,Andreas,Krause,ethz,ETHZ,krausea@ethz.ch,Sampling from Probabilistic Submodular Models
+neurips,2015,0,1819,Yali,Wan,washington,University of Washington,yaliwan@washington.edu,A class of network models recoverable by spectral clustering
+neurips,2015,1,1819,Marina,Meila,washington,University of Washington,mmp@stat.washington.edu,A class of network models recoverable by spectral clustering
+neurips,2015,0,411,Eunho,Yang,ibm,IBM Thomas J. Watson Research Center,eunhyang@us.ibm.com,Closed-form Estimators for High-dimensional Generalized Linear Models
+neurips,2015,1,411,Aurelie,Lozano,ibm,IBM Research,aclozano@us.ibm.com,Closed-form Estimators for High-dimensional Generalized Linear Models
+neurips,2015,2,411,Pradeep,Ravikumar,utexas,University of Texas at Austin,pradeepr@cs.utexas.edu,Closed-form Estimators for High-dimensional Generalized Linear Models
+neurips,2015,0,43,Cesc,Park,snu,Seoul National University,park.chunseong@snu.ac.kr,Expressing an Image Stream with a Sequence of Natural Sentences
+neurips,2015,1,43,Gunhee,Kim,snu,Seoul National University,gunhee@snu.ac.kr,Expressing an Image Stream with a Sequence of Natural Sentences
+neurips,2015,0,1404,Jean-Baptiste,SCHIRATTI,polytechnique,Ecole Polytechnique,jean-baptiste.schiratti@cmap.polytechnique.fr,Learning spatiotemporal trajectories from manifold-valued longitudinal data
+neurips,2015,1,1404,Stéphanie,ALLASSONNIERE,polytechnique,Ecole Polytechnique,stephanie.allassonniere@polytechnique.edu,Learning spatiotemporal trajectories from manifold-valued longitudinal data
+neurips,2015,2,1404,Olivier,Colliot,upmc,Université Pierre et Marie Curie (UPMC),olivier.colliot@upmc.fr,Learning spatiotemporal trajectories from manifold-valued longitudinal data
+neurips,2015,3,1404,Stanley,DURRLEMAN,inria,INRIA,stanley.durrleman@inria.fr,Learning spatiotemporal trajectories from manifold-valued longitudinal data
+neurips,2015,0,668,Tianyang,Li,utexas,UT Austin,lty@cs.utexas.edu,Fast Classification Rates for High-dimensional Gaussian Generative Models
+neurips,2015,1,668,Adarsh,Prasad,utexas,UT Austin,adarsh@cs.utexas.edu,Fast Classification Rates for High-dimensional Gaussian Generative Models
+neurips,2015,2,668,Pradeep,Ravikumar,utexas,University of Texas at Austin,pradeepr@cs.utexas.edu,Fast Classification Rates for High-dimensional Gaussian Generative Models
+neurips,2015,0,1866,Dylan,Foster,,Cornell University,,Adaptive Online Learning
+neurips,2015,1,1866,Alexander,Rakhlin,,UPenn,,Adaptive Online Learning
+neurips,2015,2,1866,Karthik,Sridharan,,Cornell,,Adaptive Online Learning
+neurips,2015,0,494,Kush,Bhatia,microsoft,Microsoft Research,t-kushb@microsoft.com,Robust Regression via Hard Thresholding
+neurips,2015,1,494,Prateek,Jain,microsoft,Microsoft Research,prajain@microsoft.com,Robust Regression via Hard Thresholding
+neurips,2015,2,494,Purushottam,Kar,iitk,Microsoft Research India,purushot@cse.iitk.ac.in,Robust Regression via Hard Thresholding
+neurips,2015,0,1241,Martin,Slawski,rutgers,Rutgers University,martin.slawski@rutgers.edu,b-bit Marginal Regression
+neurips,2015,1,1241,Ping,Li,rutgers,Rugters University,pingli@stat.rutgers.edu,b-bit Marginal Regression
+neurips,2015,0,1319,Rakesh,Shivanna,google,Google Inc.,rakeshshivanna@google.com,Spectral Norm Regularization of Orthonormal Representations for Graph Transduction
+neurips,2015,1,1319,Bibaswan,Chatterjee,ernet,Indian Institute of Science,bibaswan.chatterjee@csa.iisc.ernet.in,Spectral Norm Regularization of Orthonormal Representations for Graph Transduction
+neurips,2015,2,1319,Raman,Sankaran,ernet,Indian Institute of Science,ramans@csa.iisc.ernet.in,Spectral Norm Regularization of Orthonormal Representations for Graph Transduction
+neurips,2015,3,1319,Chiranjib,Bhattacharyya,ernet,Indian Institute of Science,chiru@csa.iisc.ernet.in,Spectral Norm Regularization of Orthonormal Representations for Graph Transduction
+neurips,2015,4,1319,Francis,Bach,ens,INRIA - ENS,francis.bach@ens.fr,Spectral Norm Regularization of Orthonormal Representations for Graph Transduction
+neurips,2015,0,850,Cameron,Musco,mit,Massachusetts Institute of Technology,cnmusco@mit.edu,Randomized Block Krylov Methods for Stronger and Faster Approximate Singular Value Decomposition
+neurips,2015,1,850,Christopher,Musco,mit,Mass. Institute of Technology,cpmusco@mit.edu,Randomized Block Krylov Methods for Stronger and Faster Approximate Singular Value Decomposition
+neurips,2015,0,1985,Jayadev,Acharya,mit,Massachusetts Institute of Technology,jayadev@mit.edu,Optimal Testing for Properties of Distributions
+neurips,2015,1,1985,Constantinos,Daskalakis,mit,MIT,costis@mit.edu,Optimal Testing for Properties of Distributions
+neurips,2015,2,1985,Gautam,Kamath,mit,MIT,g@mit.edu,Optimal Testing for Properties of Distributions
+neurips,2015,0,880,Branislav,Kveton,adobe,Adobe Research,kveton@adobe.com,Combinatorial Cascading Bandits
+neurips,2015,1,880,Zheng,Wen,yahoo-inc,Yahoo Labs,zhengwen@yahoo-inc.com,Combinatorial Cascading Bandits
+neurips,2015,2,880,Azin,Ashkan,technicolor,Technicolor Research,azin.ashkan@technicolor.com,Combinatorial Cascading Bandits
+neurips,2015,3,880,Csaba,Szepesvari,ualberta,University of Alberta,szepesva@cs.ualberta.ca,Combinatorial Cascading Bandits
+neurips,2015,0,1047,Ye,Wang,duke,Duke Univiersity,eric.ye.wang@duke.edu,Probabilistic Curve Learning: Coulomb Repulsion and the Electrostatic Gaussian Process
+neurips,2015,1,1047,David,Dunson,duke,Duke University,dunson@stat.duke.edu,Probabilistic Curve Learning: Coulomb Repulsion and the Electrostatic Gaussian Process
+neurips,2015,0,1397,Rupesh,Srivastava,idsia,IDSIA,rupesh@idsia.ch,Training Very Deep Networks
+neurips,2015,1,1397,Klaus,Greff,idsia,IDSIA,klaus@idsia.ch,Training Very Deep Networks
+neurips,2015,2,1397,Jürgen,Schmidhuber,idsia,,juergen@idsia.ch,Training Very Deep Networks
+neurips,2015,0,1771,Se-Young,Yun,inria,"Microsoft Research, Cambridge",seyoung.yun@inria.fr,Fast and Memory Optimal Low-Rank Matrix Approximation
+neurips,2015,1,1771,marc,lelarge,ens,INRIA - ENS,marc.lelarge@ens.fr,Fast and Memory Optimal Low-Rank Matrix Approximation
+neurips,2015,2,1771,Alexandre,Proutiere,kth,,alepro@kth.se,Fast and Memory Optimal Low-Rank Matrix Approximation
+neurips,2015,0,456,Xiang,Zhang,nyu,New York University,xiang@cs.nyu.edu,Character-level Convolutional Networks for Text Classification
+neurips,2015,1,456,Junbo,Zhao,nyu,New York University,junbo.zhao@cs.nyu.edu,Character-level Convolutional Networks for Text Classification
+neurips,2015,2,456,Yann,LeCun,nyu,New York University,yann@cs.nyu.edu,Character-level Convolutional Networks for Text Classification
+neurips,2015,0,1758,Igor,Mordatch,washington,University of Washington,mordatch@cs.washington.edu,Interactive Control of Diverse Complex Characters with Neural Networks
+neurips,2015,1,1758,Kendall,Lowrey,washington,University of Washington,lowrey@cs.washington.edu,Interactive Control of Diverse Complex Characters with Neural Networks
+neurips,2015,2,1758,Galen,Andrew,washington,"University of Washington, Seattle",galen@cs.washington.edu,Interactive Control of Diverse Complex Characters with Neural Networks
+neurips,2015,3,1758,Zoran,Popovic,washington,University of Washington,zoran@cs.washington.edu,Interactive Control of Diverse Complex Characters with Neural Networks
+neurips,2015,4,1758,Emanuel,Todorov,washington,University of Washington,todorov@cs.washington.edu,Interactive Control of Diverse Complex Characters with Neural Networks
+neurips,2015,0,96,Armand,Joulin,fb,Facebook AI research,ajoulin@fb.com,Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets
+neurips,2015,1,96,Tomas,Mikolov,fb,Facebook AI Research,tmikolov@fb.com,Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets
+neurips,2015,0,1584,Oriol,Vinyals,google,Google,vinyals@google.com,Grammar as a Foreign Language
+neurips,2015,1,1584,ukasz,Kaiser,google,Google,lukaszkaiser@google.com,Grammar as a Foreign Language
+neurips,2015,2,1584,Terry,Koo,google,Google,terrykoo@google.com,Grammar as a Foreign Language
+neurips,2015,3,1584,Slav,Petrov,google,Google,slav@google.com,Grammar as a Foreign Language
+neurips,2015,4,1584,Ilya,Sutskever,google,Google,ilyasu@google.com,Grammar as a Foreign Language
+neurips,2015,5,1584,Geoffrey,Hinton,google,Google,geoffhinton@google.com,Grammar as a Foreign Language
+neurips,2015,0,756,Alexandr,Andoni,,Columbia,,Practical and Optimal LSH for Angular Distance
+neurips,2015,1,756,Piotr,Indyk,,MIT,,Practical and Optimal LSH for Angular Distance
+neurips,2015,2,756,Thijs,Laarhoven,,TU/e,,Practical and Optimal LSH for Angular Distance
+neurips,2015,3,756,Ilya,Razenshteyn,,MIT,,Practical and Optimal LSH for Angular Distance
+neurips,2015,4,756,Ludwig,Schmidt,,MIT,,Practical and Optimal LSH for Angular Distance
+neurips,2015,0,1211,Kyle,Ulrich,duke,Duke,kyle.ulrich@duke.edu,GP Kernels for Cross-Spectrum Analysis
+neurips,2015,1,1211,David,Carlson,duke,,kafui.dzirasa@duke.edu,GP Kernels for Cross-Spectrum Analysis
+neurips,2015,2,1211,Kafui,Dzirasa,duke,Duke University,lcarin@duke.edu,GP Kernels for Cross-Spectrum Analysis
+neurips,2015,3,1211,Lawrence,Carin,gmail,Duke University,david.edwin.carlson@gmail.com,GP Kernels for Cross-Spectrum Analysis
+neurips,2015,0,503,Peter,Schulam,jhu,Johns Hopkins University,pschulam@jhu.edu,A Framework for Individualizing Predictions of Disease Trajectories by Exploiting Multi-Resolution Structure
+neurips,2015,1,503,Suchi,Saria,jhu,Johns Hopkins University,ssaria@cs.jhu.edu,A Framework for Individualizing Predictions of Disease Trajectories by Exploiting Multi-Resolution Structure
+neurips,2015,0,1297,Daniel,Vainsencher,,Princeton University,,Local Smoothness in Variance Reduced Optimization
+neurips,2015,1,1297,Han,Liu,,Princeton University,,Local Smoothness in Variance Reduced Optimization
+neurips,2015,2,1297,Tong,Zhang,,Rutgers,,Local Smoothness in Variance Reduced Optimization
+neurips,2015,0,77,Mijung,Park,ucl,UCL,mijung@gatsby.ucl.ac.uk,Unlocking neural population non-stationarities using hierarchical dynamics models
+neurips,2015,1,77,Gergo,Bohner,ucl,"Gatsby Unit, UCL",gbohner@gatsby.ucl.ac.uk,Unlocking neural population non-stationarities using hierarchical dynamics models
+neurips,2015,2,77,Jakob,Macke,caesar,research center caesar & BCCN Tubingen,jakob.macke@caesar.de,Unlocking neural population non-stationarities using hierarchical dynamics models
+neurips,2015,0,1558,Oriol,Vinyals,,Google,,Pointer Networks
+neurips,2015,1,1558,Meire,Fortunato,,,,Pointer Networks
+neurips,2015,2,1558,Navdeep,Jaitly,,Google,,Pointer Networks
+neurips,2015,0,88,Lucas,Maystre,epfl,EPFL,lucas.maystre@epfl.ch,Fast and Accurate Inference of Plackett–Luce Models
+neurips,2015,1,88,Matthias,Grossglauser,epfl,EPFL,matthias.grossglauser@epfl.ch,Fast and Accurate Inference of Plackett–Luce Models
+neurips,2015,0,1150,Mauro,Scanagatta,idsia,IDSIA,mauro@idsia.ch,Learning Bayesian Networks with Thousands of Variables
+neurips,2015,1,1150,Cassio,de Campos,qub,Queen's University Belfast,c.decampos@qub.ac.uk,Learning Bayesian Networks with Thousands of Variables
+neurips,2015,2,1150,Giorgio,Corani,idsia,IDSIA,giorgio@idsia.ch,Learning Bayesian Networks with Thousands of Variables
+neurips,2015,3,1150,Marco,Zaffalon,idsia,IDSIA,zaffalon@idsia.ch,Learning Bayesian Networks with Thousands of Variables
+neurips,2015,0,1513,Ilias,Diakonikolas,,University of Edinburgh,,Differentially Private Learning of Structured Discrete Distributions
+neurips,2015,1,1513,Moritz,Hardt,,Google,,Differentially Private Learning of Structured Discrete Distributions
+neurips,2015,2,1513,Ludwig,Schmidt,,MIT,,Differentially Private Learning of Structured Discrete Distributions
+neurips,2015,0,1186,Lucas,Theis,bethgelab,U.Tuebingen,lucas@bethgelab.org,Generative Image Modeling Using Spatial LSTMs
+neurips,2015,1,1186,Matthias,Bethge,bethgelab,"CIN, University Tübingen",matthias@bethgelab.org,Generative Image Modeling Using Spatial LSTMs
+neurips,2015,0,515,Megasthenis,Asteris,utexas,University of Texas at Austin,megas@utexas.edu,Sparse PCA via Bipartite Matchings
+neurips,2015,1,515,Dimitris,Papailiopoulos,berkeley,UC Berkeley,dimitrisp@berkeley.edu,Sparse PCA via Bipartite Matchings
+neurips,2015,2,515,Anastasios,Kyrillidis,utexas,University of Texas at Austin,anastasios@utexas.edu,Sparse PCA via Bipartite Matchings
+neurips,2015,3,515,Alexandros,Dimakis,utexas,Utaustin,dimakis@austin.utexas.edu,Sparse PCA via Bipartite Matchings
+neurips,2015,0,1389,Mithun,Chakraborty,wustl,Washington Univ. in St. Louis,mithunchakraborty@wustl.edu,Market Scoring Rules Act As Opinion Pools For Risk-Averse Agents
+neurips,2015,1,1389,Sanmay,Das,wustl,Washington University in St. Louis,sanmay@wustl.edu,Market Scoring Rules Act As Opinion Pools For Risk-Averse Agents
+neurips,2015,0,1945,Happy,Mittal,iitd,IIT Delhi,happy.mittal@cse.iitd.ac.in,Lifted Inference Rules With Constraints
+neurips,2015,1,1945,Anuj,Mahajan,gmail,,anujmahajan.iitd@gmail.com,Lifted Inference Rules With Constraints
+neurips,2015,2,1945,Vibhav,Gogate,utdallas,UT Dallas,vgogate@hlt.utdallas.edu,Lifted Inference Rules With Constraints
+neurips,2015,3,1945,Parag,Singla,iitd,Indian Institute of Technology,parags@cse.iitd.ac.in,Lifted Inference Rules With Constraints
+neurips,2015,0,1888,CHRISTOS,THRAMPOULIDIS,caltech,Caltech,cthrampo@caltech.edu,LASSO with Non-linear Measurements is Equivalent to One With Linear Measurements
+neurips,2015,1,1888,Ehsan,Abbasi,caltech,Caltech,eabbasi@caltech.edu,LASSO with Non-linear Measurements is Equivalent to One With Linear Measurements
+neurips,2015,2,1888,Babak,Hassibi,caltech,Caltech,hassibi@caltech.edu,LASSO with Non-linear Measurements is Equivalent to One With Linear Measurements
+neurips,2015,0,1242,Guillaume,Desjardins,google,Google DeepMind,gdesjardins@google.com,Natural Neural Networks
+neurips,2015,1,1242,Karen,Simonyan,google,Google DeepMind,simonyan@google.com,Natural Neural Networks
+neurips,2015,2,1242,Razvan,Pascanu,google,Google DeepMind,razp@google.com,Natural Neural Networks
+neurips,2015,3,1242,koray,kavukcuoglu,google,Google DeepMind,korayk@google.com,Natural Neural Networks
+neurips,2015,0,741,Michael,Hughes,brown,Brown University,mhughes@cs.brown.edu,Scalable Adaptation of State Complexity for Nonparametric Hidden Markov Models
+neurips,2015,1,741,William,Stephenson,gmail,Brown University,wtstephe@gmail.com,Scalable Adaptation of State Complexity for Nonparametric Hidden Markov Models
+neurips,2015,2,741,Erik,Sudderth,brown,Brown University,sudderth@cs.brown.edu,Scalable Adaptation of State Complexity for Nonparametric Hidden Markov Models
+neurips,2015,0,1872,Rémi,Bardenet,gmail,University of Lille,remi.bardenet@gmail.com,Inference for determinantal point processes without spectral knowledge
+neurips,2015,1,1872,Michalis,Titsias RC AUEB,aueb,Athens University of Economics and Business,mtitsias@aueb.gr,Inference for determinantal point processes without spectral knowledge
+neurips,2015,0,1418,Koosha,Khalvati,washington,University of Washington,koosha@cs.washington.edu,A Bayesian Framework for Modeling Confidence in Perceptual Decision Making
+neurips,2015,1,1418,Rajesh,Rao,washington,University of Washington,rao@cs.washington.edu,A Bayesian Framework for Modeling Confidence in Perceptual Decision Making
+neurips,2015,0,1596,Christoph,Dann,cdann,Carnegie Mellon University,cdann@cdann.net,Sample Complexity of Episodic Fixed-Horizon Reinforcement Learning
+neurips,2015,1,1596,Emma,Brunskill,cmu,CMU,ebrun@cs.cmu.edu,Sample Complexity of Episodic Fixed-Horizon Reinforcement Learning
+neurips,2015,0,333,Huasen,Wu,ucdavis,University of California at Davis,hswu@ucdavis.edu,Algorithms with Logarithmic or Sublinear Regret for  Constrained Contextual Bandits
+neurips,2015,1,333,R.,Srikant,ucdavis,University of Illinois at Urbana-Champaign,liu@cs.ucdavis.edu,Algorithms with Logarithmic or Sublinear Regret for  Constrained Contextual Bandits
+neurips,2015,2,333,Xin,Liu,illinois,"University of California, Davis",rsrikant@illinois.edu,Algorithms with Logarithmic or Sublinear Regret for  Constrained Contextual Bandits
+neurips,2015,3,333,Chong,Jiang,illinois,University of Illinois at Urbana-Champaign,jiang17@illinois.edu,Algorithms with Logarithmic or Sublinear Regret for  Constrained Contextual Bandits
+neurips,2015,0,2025,Mingjun,Zhong,ed,University of Edinburgh,mzhong@inf.ed.ac.uk,Latent Bayesian melding for integrating individual and population models
+neurips,2015,1,2025,Nigel,Goddard,ed,,nigel.goddard@inf.ed.ac.uk,Latent Bayesian melding for integrating individual and population models
+neurips,2015,2,2025,Charles,Sutton,ed,University of Edinburgh,csutton@inf.ed.ac.uk,Latent Bayesian melding for integrating individual and population models
+neurips,2015,0,1067,Michaël,Perrot,univ-st-etienne,University of Saint-Etienne,michael.perrot@univ-st-etienne.fr,Regressive Virtual Metric Learning
+neurips,2015,1,1067,Amaury,Habrard,univ-st-etienne,University of Saint-Etienne,amaury.habrard@univ-st-etienne.fr,Regressive Virtual Metric Learning
+neurips,2015,0,1009,Mahito,Sugiyama,osaka-u,Osaka University,mahito@ar.sanken.osaka-u.ac.jp,Halting in Random Walk Kernels
+neurips,2015,1,1009,Karsten,Borgwardt,ethz,ETH Zurich,karsten.borgwardt@bsse.ethz.ch,Halting in Random Walk Kernels
+neurips,2015,0,1880,Mohammad Emtiyaz,Khan,gmail,EPFL,emtiyaz@gmail.com,Kullback-Leibler Proximal Variational Inference
+neurips,2015,1,1880,Pierre,Baque,epfl,,pierre.baque@epfl.ch,Kullback-Leibler Proximal Variational Inference
+neurips,2015,2,1880,François,Fleuret,idiap,Idiap Research Institute,francois.fleuret@idiap.ch,Kullback-Leibler Proximal Variational Inference
+neurips,2015,3,1880,Pascal,Fua,epfl,,pascal.fua@epfl.ch,Kullback-Leibler Proximal Variational Inference
+neurips,2015,0,72,Qinqing,Zheng,uchicago,University of Chicago,qinqing@cs.uchicago.edu,A Convergent Gradient Descent Algorithm for Rank Minimization and Semidefinite Programming from Random Linear Measurements
+neurips,2015,1,72,John,Lafferty,uchicago,University of Chicago,lafferty@galton.uchicago.edu,A Convergent Gradient Descent Algorithm for Rank Minimization and Semidefinite Programming from Random Linear Measurements
+neurips,2015,0,1922,Keenon,Werling,stanford,Stanford University,keenon@cs.stanford.edu,On-the-Job Learning with Bayesian Decision Theory
+neurips,2015,1,1922,Arun Tejasvi,Chaganty,stanford,Stanford,chaganty@cs.stanford.edu,On-the-Job Learning with Bayesian Decision Theory
+neurips,2015,2,1922,Percy,Liang,stanford,Stanford University,pliang@cs.stanford.edu,On-the-Job Learning with Bayesian Decision Theory
+neurips,2015,3,1922,Christopher,Manning,stanford,Stanford University,manning@cs.stanford.edu,On-the-Job Learning with Bayesian Decision Theory
+neurips,2015,0,1213,Max,Jaderberg,google,Google DeepMind,jaderberg@google.com,Spatial Transformer Networks
+neurips,2015,1,1213,Karen,Simonyan,google,Google DeepMind,simonyan@google.com,Spatial Transformer Networks
+neurips,2015,2,1213,Andrew,Zisserman,google,Google DeepMind,zisserman@google.com,Spatial Transformer Networks
+neurips,2015,3,1213,koray,kavukcuoglu,google,Google DeepMind,korayk@google.com,Spatial Transformer Networks
+neurips,2015,0,535,Peter,Flach,bristol,University of Bristol,Peter.Flach@bristol.ac.uk,Precision-Recall-Gain Curves: PR Analysis Done Right
+neurips,2015,1,535,Meelis,Kull,bristol,University of Bristol,Meelis.Kull@bristol.ac.uk,Precision-Recall-Gain Curves: PR Analysis Done Right
+neurips,2015,0,41,Julian,Yarkony,experian,Dr.,julian.yarkony@experian.com,Planar Ultrametrics for Image Segmentation
+neurips,2015,1,41,Charless,Fowlkes,uci,UC Irvine,fowlkes@ics.uci.edu,Planar Ultrametrics for Image Segmentation
+neurips,2015,0,495,Kush,Bhatia,microsoft,Microsoft Research,t-kushb@microsoft.com,Sparse Local Embeddings for Extreme Multi-label Classification
+neurips,2015,1,495,Himanshu,Jain,microsoft,IIT Delhi,prajain@microsoft.com,Sparse Local Embeddings for Extreme Multi-label Classification
+neurips,2015,2,495,Purushottam,Kar,microsoft,Microsoft Research India,manik@microsoft.com,Sparse Local Embeddings for Extreme Multi-label Classification
+neurips,2015,3,495,Manik,Varma,gmail,Microsoft Research India,himanshu.j689@gmail.com,Sparse Local Embeddings for Extreme Multi-label Classification
+neurips,2015,4,495,Prateek,Jain,iitk,Microsoft Research,purushot@cse.iitk.ac.in,Sparse Local Embeddings for Extreme Multi-label Classification
+neurips,2015,0,1552,Qingqing,Huang,,MIT,,Super-Resolution Off the Grid
+neurips,2015,1,1552,Sham,Kakade,,University of Washington,,Super-Resolution Off the Grid
+neurips,2015,0,399,Alp,Kucukelbir,columbia,,alp@cs.columbia.edu,Automatic Variational Inference in Stan
+neurips,2015,1,399,Rajesh,Ranganath,princeton,Princeton University,rajeshr@cs.princeton.edu,Automatic Variational Inference in Stan
+neurips,2015,2,399,Andrew,Gelman,columbia,Columbia University,gelman@stat.columbia.edu,Automatic Variational Inference in Stan
+neurips,2015,3,399,David,Blei,columbia,Columbia University,david.blei@columbia.edu,Automatic Variational Inference in Stan
+neurips,2015,0,169,Igor,Colin,,Télécom ParisTech,,Extending Gossip Algorithms to Distributed Estimation of U-statistics
+neurips,2015,1,169,Aurélien,Bellet,,Telecom ParisTech,,Extending Gossip Algorithms to Distributed Estimation of U-statistics
+neurips,2015,2,169,Joseph,Salmon,,Télécom ParisTech,,Extending Gossip Algorithms to Distributed Estimation of U-statistics
+neurips,2015,3,169,Stéphan,Clémençon,,Telecom ParisTech,,Extending Gossip Algorithms to Distributed Estimation of U-statistics
+neurips,2015,0,1949,Abbas,Abdolmaleki,tu-darmstadt,University of Porto,Lioutikov@ias.tu-darmstadt.de,Model-Based Relative Entropy Stochastic Search
+neurips,2015,1,1949,Rudolf,Lioutikov,tu-darmstadt,TU Darmstadt,peters@ias.tu-darmstadt.de,Model-Based Relative Entropy Stochastic Search
+neurips,2015,2,1949,Jan,Peters,tu-darmstadt,TU Darmstadt,neumann@ias.tu-darmstadt.de,Model-Based Relative Entropy Stochastic Search
+neurips,2015,3,1949,Nuno,Lau,ua,University of Aveiro,abbas.a@ua.pt,Model-Based Relative Entropy Stochastic Search
+neurips,2015,4,1949,Luis,Pualo Reis,ua,University of Minho,nunolau@ua.pt,Model-Based Relative Entropy Stochastic Search
+neurips,2015,5,1949,Gerhard,Neumann,uminho,,lpreis@dsi.uminho.pt,Model-Based Relative Entropy Stochastic Search
+neurips,2015,0,1955,Antti,Rasmus,,The Curious AI Company,,Semi-supervised Learning with Ladder Networks
+neurips,2015,1,1955,Mathias,Berglund,,Aalto University,,Semi-supervised Learning with Ladder Networks
+neurips,2015,2,1955,Mikko,Honkala,,Nokia Labs,,Semi-supervised Learning with Ladder Networks
+neurips,2015,3,1955,Harri,Valpola,,The Curious AI Company,,Semi-supervised Learning with Ladder Networks
+neurips,2015,4,1955,Tapani,Raiko,,"Aalto University, The Curious AI Company",,Semi-supervised Learning with Ladder Networks
+neurips,2015,0,529,Takashi,Takenouchi,fun,Future University Hakodate,ttakashi@fun.ac.jp,Empirical Localization of Homogeneous Divergences on Discrete Sample Spaces
+neurips,2015,1,529,Takafumi,Kanamori,nagoya-u,Nagoya University,kanamori@is.nagoya-u.ac.jp,Empirical Localization of Homogeneous Divergences on Discrete Sample Spaces
+neurips,2015,0,622,Ralph,Bourdoukan,gmail,Ecole Normale Superieure,ralph.bourdoukan@gmail.com,Enforcing balance allows local supervised learning in spiking recurrent networks
+neurips,2015,1,622,Sophie,Denève,ens,"GNT, Ecole Normale Superieure",sophie.deneve@ens.fr,Enforcing balance allows local supervised learning in spiking recurrent networks
+neurips,2015,0,517,Oren,Anava,technion,Technion,oanava@tx.technion.ac.il,Online Learning for Adversaries with Memory: Price of Past Mistakes
+neurips,2015,1,517,Elad,Hazan,princeton,Princeton University,ehazan@cs.princeton.edu,Online Learning for Adversaries with Memory: Price of Past Mistakes
+neurips,2015,2,517,Shie,Mannor,technion,Technion,shie@ee.technion.ac.il,Online Learning for Adversaries with Memory: Price of Past Mistakes
+neurips,2015,0,176,Trevor,Campbell,,MIT,,"Streaming, Distributed Variational Inference for Bayesian Nonparametrics"
+neurips,2015,1,176,Julian,Straub,,Mit,,"Streaming, Distributed Variational Inference for Bayesian Nonparametrics"
+neurips,2015,2,176,John,Fisher III,,MIT,,"Streaming, Distributed Variational Inference for Bayesian Nonparametrics"
+neurips,2015,3,176,Jonathan,How,,,,"Streaming, Distributed Variational Inference for Bayesian Nonparametrics"
+neurips,2015,0,1161,Juho,Lee,postech,POSTECH,stonecold@postech.ac.kr,Tree-Guided MCMC Inference for Normalized Random Measure Mixture Models
+neurips,2015,1,1161,Seungjin,Choi,postech,POSTECH,seungjin@postech.ac.kr,Tree-Guided MCMC Inference for Normalized Random Measure Mixture Models
+neurips,2015,0,1808,Adith,Swaminathan,cornell,Cornell University,adith@cs.cornell.edu,The Self-Normalized Estimator for Counterfactual Learning
+neurips,2015,1,1808,Thorsten,Joachims,cornell,Cornell,tj@cs.cornell.edu,The Self-Normalized Estimator for Counterfactual Learning
+neurips,2015,0,1785,Yaron,Singer,harvard,Harvard University,yaron@seas.harvard.edu,Information-theoretic lower bounds for convex optimization with erroneous oracles
+neurips,2015,1,1785,Jan,Vondrak,ibm,IBM Research,jvondrak@us.ibm.com,Information-theoretic lower bounds for convex optimization with erroneous oracles
+neurips,2015,0,386,Tuo,Zhao,,,,A Nonconvex Optimization Framework for Low Rank Matrix Estimation
+neurips,2015,1,386,Zhaoran,Wang,,Princeton University,,A Nonconvex Optimization Framework for Low Rank Matrix Estimation
+neurips,2015,2,386,Han,Liu,,Princeton University,,A Nonconvex Optimization Framework for Low Rank Matrix Estimation
+neurips,2015,0,1964,Kisuk,Lee,mit,MIT,kisuklee@mit.edu,Recursive Training of 2D-3D Convolutional Networks for Neuronal Boundary Prediction
+neurips,2015,1,1964,Aleksandar,Zlateski,mit,MIT,zlateski@mit.edu,Recursive Training of 2D-3D Convolutional Networks for Neuronal Boundary Prediction
+neurips,2015,2,1964,Vishwanathan,Ashwin,princeton,Princeton University,ashwinv@princeton.edu,Recursive Training of 2D-3D Convolutional Networks for Neuronal Boundary Prediction
+neurips,2015,3,1964,H. Sebastian,Seung,princeton,Princeton University,sseung@princeton.edu,Recursive Training of 2D-3D Convolutional Networks for Neuronal Boundary Prediction
+neurips,2015,0,1222,Yunwen,Lei,cityu,City University of Hong Kong,yunwelei@cityu.edu.hk,Multi-class SVMs: From Tighter Data-Dependent Generalization Bounds to Novel Algorithms
+neurips,2015,1,1222,Urun,Dogan,microsoft,Microsoft,udogan@microsoft.com,Multi-class SVMs: From Tighter Data-Dependent Generalization Bounds to Novel Algorithms
+neurips,2015,2,1222,Alexander,Binder,sutd,Technical University of Berlin and Singapore University of Technology and Design,binder@sutd.edu.sg,Multi-class SVMs: From Tighter Data-Dependent Generalization Bounds to Novel Algorithms
+neurips,2015,3,1222,Marius,Kloft,hu-berlin,Humboldt University Berlin,kloft@hu-berlin.de,Multi-class SVMs: From Tighter Data-Dependent Generalization Bounds to Novel Algorithms
+neurips,2015,0,865,Amir,Dezfouli,gmail,The University of New South Wales,akdezfuli@gmail.com,Scalable Inference for Gaussian Process Models with Black-Box Likelihoods
+neurips,2015,1,865,Edwin,Bonilla,unsw,University of New South Wales,e.bonilla@unsw.edu.au,Scalable Inference for Gaussian Process Models with Black-Box Likelihoods
+neurips,2015,0,424,Alexander,Kirillov,,TU Dresden,,M-Best-Diverse Labelings for Submodular Energies and Beyond
+neurips,2015,1,424,Dmytro,Shlezinger,,TU Dresden,,M-Best-Diverse Labelings for Submodular Energies and Beyond
+neurips,2015,2,424,Dmitry,Vetrov,,"Skoltech, Moscow",,M-Best-Diverse Labelings for Submodular Energies and Beyond
+neurips,2015,3,424,Carsten,Rother,,TU Dresden,,M-Best-Diverse Labelings for Submodular Energies and Beyond
+neurips,2015,4,424,Bogdan,Savchynskyy,,TU Dresden,,M-Best-Diverse Labelings for Submodular Energies and Beyond
+neurips,2015,0,1747,Matthieu,Courbariaux,polymtl,École Polytechnique de Montréal,matthieu.courbariaux@polymtl.ca,BinaryConnect: Training Deep Neural Networks with binary weights during propagations
+neurips,2015,1,1747,Yoshua,Bengio,gmail,U. Montreal,yoshua.bengio@gmail.com,BinaryConnect: Training Deep Neural Networks with binary weights during propagations
+neurips,2015,2,1747,Jean-Pierre,David,polymtl,Polytechnique Montréal,jean-pierre.david@polymtl.ca,BinaryConnect: Training Deep Neural Networks with binary weights during propagations
+neurips,2015,0,1725,Jason,Hartline,northwestern,Northwestern University,hartline@northwestern.edu,No-Regret Learning in Bayesian Games
+neurips,2015,1,1725,Vasilis,Syrgkanis,microsoft,Microsoft Research,vasy@microsoft.com,No-Regret Learning in Bayesian Games
+neurips,2015,2,1725,Eva,Tardos,cornell,Cornell University,eva@cs.cornell.edu,No-Regret Learning in Bayesian Games
+neurips,2015,0,1522,Eunho,Yang,ibm,IBM Thomas J. Watson Research Center,eunhyang@us.ibm.com,Robust Gaussian Graphical Modeling with the Trimmed Graphical Lasso
+neurips,2015,1,1522,Aurelie,Lozano,ibm,IBM Research,aclozano@us.ibm.com,Robust Gaussian Graphical Modeling with the Trimmed Graphical Lasso
+neurips,2015,0,340,Xiangyu,Wang,duke,Duke University,xw56@stat.duke.edu,Parallelizing MCMC with Random Partition Trees
+neurips,2015,1,340,Fangjian,Guo,duke,Duke University,guo@cs.duke.edu,Parallelizing MCMC with Random Partition Trees
+neurips,2015,2,340,Katherine,Heller,duke,Duke University,kheller@stat.duke.edu,Parallelizing MCMC with Random Partition Trees
+neurips,2015,3,340,David,Dunson,duke,Duke University,dunson@stat.duke.edu,Parallelizing MCMC with Random Partition Trees
+neurips,2015,0,1722,Murat,Erdogdu,stanford,Stanford University,erdogdu@stanford.edu,Convergence rates of sub-sampled Newton methods
+neurips,2015,1,1722,Andrea,Montanari,stanford,Stanford,montanari@stanford.edu,Convergence rates of sub-sampled Newton methods
+neurips,2015,0,371,Vitaly,Kuznetsov,nyu,Courant Institute,vitaly@cims.nyu.edu,Learning Theory and Algorithms for Forecasting Non-stationary Time Series
+neurips,2015,1,371,Mehryar,Mohri,nyu,Courant Institute and Google,mohri@cims.nyu.edu,Learning Theory and Algorithms for Forecasting Non-stationary Time Series
+neurips,2015,0,921,Yann,Dauphin,umontreal,Facebook AI Research,dauphiya@iro.umontreal.ca,Equilibrated adaptive learning rates for non-convex optimization
+neurips,2015,1,921,Harm,de Vries,umontreal,,devries@iro.umontreal.ca,Equilibrated adaptive learning rates for non-convex optimization
+neurips,2015,2,921,Yoshua,Bengio,umontreal,U. Montreal,yoshua.bengio@umontreal.ca,Equilibrated adaptive learning rates for non-convex optimization
+neurips,2015,0,960,Xinyang,Yi,utexas,Utaustin,yixy@utexas.edu,Optimal Linear Estimation under Unknown Nonlinear Transform
+neurips,2015,1,960,Zhaoran,Wang,princeton,Princeton University,zhaoran@princeton.edu,Optimal Linear Estimation under Unknown Nonlinear Transform
+neurips,2015,2,960,Constantine,Caramanis,utexas,UT Austin,constantine@utexas.edu,Optimal Linear Estimation under Unknown Nonlinear Transform
+neurips,2015,3,960,Han,Liu,princeton,Princeton University,hanliu@princeton.edu,Optimal Linear Estimation under Unknown Nonlinear Transform
+neurips,2015,0,1079,Huishuai,Zhang,,Syracuse University,,Analysis of Robust PCA via Local Incoherence
+neurips,2015,1,1079,Yi,Zhou,,Syracuse University,,Analysis of Robust PCA via Local Incoherence
+neurips,2015,2,1079,Yingbin,Liang,,Syracuse Univeristy,,Analysis of Robust PCA via Local Incoherence
+neurips,2015,0,872,Qiang,Liu,dartmouth,MIT,qliu@cs.dartmouth.edu,Probabilistic Variational Bounds for Graphical Models
+neurips,2015,1,872,John,Fisher III,mit,MIT,fisher@csail.mit.edu,Probabilistic Variational Bounds for Graphical Models
+neurips,2015,2,872,Alexander,Ihler,uci,UC Irvine,ihler@ics.uci.edu,Probabilistic Variational Bounds for Graphical Models
+neurips,2015,0,1621,Andrew,Wilson,,Carnegie Mellon University,,The Human Kernel
+neurips,2015,1,1621,Christoph,Dann,,Carnegie Mellon University,,The Human Kernel
+neurips,2015,2,1621,Chris,Lucas,,University of Edinburgh,,The Human Kernel
+neurips,2015,3,1621,Eric,Xing,,Carnegie Mellon University,,The Human Kernel
+neurips,2015,0,1572,Xiangru,Lian,gmail,University of Rochester,lianxiangru@gmail.com,Asynchronous Parallel Stochastic Gradient for Nonconvex Optimization
+neurips,2015,1,1572,Yijun,Huang,gmail,University of Rochester,huangyj0@gmail.com,Asynchronous Parallel Stochastic Gradient for Nonconvex Optimization
+neurips,2015,2,1572,Yuncheng,Li,gmail,University of Rochester,raingomm@gmail.com,Asynchronous Parallel Stochastic Gradient for Nonconvex Optimization
+neurips,2015,3,1572,Ji,Liu,gmail,University of Rochester,ji.liu.uwisc@gmail.com,Asynchronous Parallel Stochastic Gradient for Nonconvex Optimization
+neurips,2015,0,821,Jason,Lee,stanford,Stanford,jdl17@stanford.edu,Evaluating the statistical significance of biclusters
+neurips,2015,1,821,Yuekai,Sun,stanford,Stanford University,yuekai@stanford.edu,Evaluating the statistical significance of biclusters
+neurips,2015,2,821,Jonathan,Taylor,stanford,Stanford University,jonathan.taylor@stanford.edu,Evaluating the statistical significance of biclusters
+neurips,2015,0,626,Yining,Wang,,Carnegie Mellon University,,Fast and Guaranteed Tensor Decomposition via Sketching
+neurips,2015,1,626,Hsiao-Yu,Tung,,Carnegie Mellon University,,Fast and Guaranteed Tensor Decomposition via Sketching
+neurips,2015,2,626,Alexander,Smola,,Carnegie Mellon University,,Fast and Guaranteed Tensor Decomposition via Sketching
+neurips,2015,3,626,Anima,Anandkumar,,UC Irvine,,Fast and Guaranteed Tensor Decomposition via Sketching
+neurips,2015,0,1051,Quoc Phong,Nguyen,nus,National University of Singapore,qphong@comp.nus.edu.sg,Inverse Reinforcement Learning with Locally Consistent Reward Functions
+neurips,2015,1,1051,Bryan Kian Hsiang,Low,nus,National University of Singapore,lowkh@comp.nus.edu.sg,Inverse Reinforcement Learning with Locally Consistent Reward Functions
+neurips,2015,2,1051,Patrick,Jaillet,mit,Massachusetts Institute of Technology,jaillet@mit.edu,Inverse Reinforcement Learning with Locally Consistent Reward Functions
+neurips,2015,0,1292,Maria,Lomeli,ucl,"Gatsby Unit, University College London",mlomeli@gatsby.ucl.ac.uk,A hybrid sampler for Poisson-Kingman mixture models
+neurips,2015,1,1292,Stefano,Favaro,unito,University of Torino and Collegio Carlo Alberto,stefano.favaro@unito.it,A hybrid sampler for Poisson-Kingman mixture models
+neurips,2015,2,1292,Yee Whye,Teh,ox,University of Oxford,y.w.teh@stats.ox.ac.uk,A hybrid sampler for Poisson-Kingman mixture models
+neurips,2015,0,9,Brendan,van Rooyen,,NICTA,,Learning with Symmetric Label Noise: The Importance of Being Unhinged
+neurips,2015,1,9,Aditya,Menon,,NICTA,,Learning with Symmetric Label Noise: The Importance of Being Unhinged
+neurips,2015,2,9,Robert,Williamson,,NICTA,,Learning with Symmetric Label Noise: The Importance of Being Unhinged
+neurips,2015,0,1152,Fereshteh,Sadeghi,washington,University of Washington,fsadeghi@cs.washington.edu,Visalogy: Answering Visual Analogy Questions
+neurips,2015,1,1152,C. Lawrence,Zitnick,microsoft,Microsoft Research,larryz@microsoft.com,Visalogy: Answering Visual Analogy Questions
+neurips,2015,2,1152,Ali,Farhadi,washington,University of Washington,ali@cs.washington.edu,Visalogy: Answering Visual Analogy Questions
+neurips,2015,0,1843,Julien,Audiffren,ens-cachan,"CMLA, ENS Cachan",audiffren@cmla.ens-cachan.fr,Cornering Stationary and Restless Mixing Bandits with Remix-UCB
+neurips,2015,1,1843,Liva,Ralaivola,univ-mrs,Univesity of Marseille,liva.ralaivola@lif.univ-mrs.fr,Cornering Stationary and Restless Mixing Bandits with Remix-UCB
+neurips,2015,0,1692,Purnamrita,Sarkar,utexas,UT Austin,purnamritas@austin.utexas.edu,The Consistency of Common Neighbors for Link Prediction in Stochastic Blockmodels
+neurips,2015,1,1692,Deepayan,Chakrabarti,utexas,UT Austin,deepay@utexas.edu,The Consistency of Common Neighbors for Link Prediction in Stochastic Blockmodels
+neurips,2015,2,1692,peter,bickel,berkeley,U C Berkeley,bickel@stat.berkeley.edu,The Consistency of Common Neighbors for Link Prediction in Stochastic Blockmodels
+neurips,2015,0,1059,Jacob,Andreas,berkeley,UC Berkeley,jda@cs.berkeley.edu,On the Accuracy of Self-Normalized Log-Linear Models
+neurips,2015,1,1059,Maxim,Rabinovich,berkeley,UC Berkeley,rabinovich@cs.berkeley.edu,On the Accuracy of Self-Normalized Log-Linear Models
+neurips,2015,2,1059,Michael,Jordan,berkeley,UC Berkeley,jordan@cs.berkeley.edu,On the Accuracy of Self-Normalized Log-Linear Models
+neurips,2015,3,1059,Dan,Klein,berkeley,UC Berkeley,klein@cs.berkeley.edu,On the Accuracy of Self-Normalized Log-Linear Models
+neurips,2015,0,1782,Harikrishna,Narasimhan,harvard,Harvard University,hnarasimhan@seas.harvard.edu,Learnability of Influence in Networks
+neurips,2015,1,1782,David,Parkes,harvard,Harvard University,parkes@seas.harvard.edu,Learnability of Influence in Networks
+neurips,2015,2,1782,Yaron,Singer,harvard,Harvard University,yaron@seas.harvard.edu,Learnability of Influence in Networks
+neurips,2015,0,875,Ryan,Giordano,berkeley,UC Berkeley,rgiordano@berkeley.edu,Linear Response Methods for Accurate Covariance Estimates from Mean Field Variational Bayes
+neurips,2015,1,875,Tamara,Broderick,mit,MIT,tbroderick@csail.mit.edu,Linear Response Methods for Accurate Covariance Estimates from Mean Field Variational Bayes
+neurips,2015,2,875,Michael,Jordan,berkeley,UC Berkeley,jordan@cs.berkeley.edu,Linear Response Methods for Accurate Covariance Estimates from Mean Field Variational Bayes
+neurips,2015,0,638,Fredrik,Johansson,chalmers,"Chalmers University, Sweden",frejohk@chalmers.se,"Weighted Theta Functions and Embeddings with Applications to Max-Cut, Clustering and Summarization"
+neurips,2015,1,638,Ankani,Chattoraj,ernet,Chalmers University,chiru@csa.iisc.ernet.in,"Weighted Theta Functions and Embeddings with Applications to Max-Cut, Clustering and Summarization"
+neurips,2015,2,638,Chiranjib,Bhattacharyya,rochester,Indian Institute of Science,achattor@ur.rochester.edu,"Weighted Theta Functions and Embeddings with Applications to Max-Cut, Clustering and Summarization"
+neurips,2015,3,638,Devdatt,Dubhashi,chalmers,"Chalmers University, Sweden",dubhashi@chalmers.se,"Weighted Theta Functions and Embeddings with Applications to Max-Cut, Clustering and Summarization"
+neurips,2015,0,1056,Jianshu,Chen,microsoft,"Microsoft Research, Redmond, W",jianshuc@microsoft.com,End-to-end Learning of LDA by Mirror-Descent Back Propagation over a Deep Architecture
+neurips,2015,1,1056,Ji,He,microsoft,University Washington,yeshen@microsoft.com,End-to-end Learning of LDA by Mirror-Descent Back Propagation over a Deep Architecture
+neurips,2015,2,1056,Yelong,Shen,microsoft,"Microsoft Research, Redmond, WA",lin.xiao@microsoft.com,End-to-end Learning of LDA by Mirror-Descent Back Propagation over a Deep Architecture
+neurips,2015,3,1056,Lin,Xiao,microsoft,Microsoft,xiaohe@microsoft.com,End-to-end Learning of LDA by Mirror-Descent Back Propagation over a Deep Architecture
+neurips,2015,4,1056,Xiaodong,He,microsoft,"Microsoft Research, Redmond, WA",jfgao@microsoft.com,End-to-end Learning of LDA by Mirror-Descent Back Propagation over a Deep Architecture
+neurips,2015,5,1056,Jianfeng,Gao,microsoft,"Microsoft Research, Redmond, WA",xinson@microsoft.com,End-to-end Learning of LDA by Mirror-Descent Back Propagation over a Deep Architecture
+neurips,2015,6,1056,Xinying,Song,microsoft,"Microsoft Research, Redmond, WA",deng@microsoft.com,End-to-end Learning of LDA by Mirror-Descent Back Propagation over a Deep Architecture
+neurips,2015,7,1056,Li,Deng,uw,MSR,jvking@uw.edu,End-to-end Learning of LDA by Mirror-Descent Back Propagation over a Deep Architecture
+neurips,2015,0,1563,Moontae,Lee,cornell,Cornell University,moontae@cs.cornell.edu,Robust Spectral Inference for Joint Stochastic Matrix Factorization
+neurips,2015,1,1563,David,Bindel,cornell,Cornell University,bindel@cs.cornell.edu,Robust Spectral Inference for Joint Stochastic Matrix Factorization
+neurips,2015,2,1563,David,Mimno,cornell,Cornell University,mimno@cornell.edu,Robust Spectral Inference for Joint Stochastic Matrix Factorization
+neurips,2015,0,1507,Wouter,Koolen,cwi,Queensland University of Technology,wmkoolen@cwi.nl,Minimax Time Series Prediction
+neurips,2015,1,1507,Alan,Malek,berkeley,UC Berkeley,malek@berkeley.edu,Minimax Time Series Prediction
+neurips,2015,2,1507,Peter,Bartlett,berkeley,UC Berkeley,bartlett@cs.berkeley.edu,Minimax Time Series Prediction
+neurips,2015,3,1507,Yasin,Abbasi Yadkori,qut,Queensland University of Technology,yasin.abbasiyadkori@qut.edu.au,Minimax Time Series Prediction
+neurips,2015,0,1207,Pedro,O. Pinheiro,opinheiro,EPFL / Idiap,pedro@opinheiro.com,Learning to Segment Object Candidates
+neurips,2015,1,1207,Ronan,Collobert,fb,Facebook,locronan@fb.com,Learning to Segment Object Candidates
+neurips,2015,2,1207,Piotr,Dollar,fb,Facebook AI Research,pdollar@fb.com,Learning to Segment Object Candidates
+neurips,2015,0,1481,Michael,Shvartsman,princeton,Princeton Neuroscience Inst.,ms44@princeton.edu,A Theory of Decision Making Under Dynamic Context
+neurips,2015,1,1481,Vaibhav,Srivastava,princeton,Princeton Neuroscience Institute,vaibhavs@princeton.edu,A Theory of Decision Making Under Dynamic Context
+neurips,2015,2,1481,Jonathan,Cohen,princeton,Princeton University,jdc@princeton.edu,A Theory of Decision Making Under Dynamic Context
+neurips,2015,0,1403,Nilesh,Tripuraneni,cam,Cambridge University,nt357@cam.ac.uk,Particle Gibbs for Infinite Hidden Markov Models
+neurips,2015,1,1403,Shixiang (Shane),Gu,cam,University of Cambridge and Max Planck Institute for Intelligent Systems,sg717@cam.ac.uk,Particle Gibbs for Infinite Hidden Markov Models
+neurips,2015,2,1403,Hong,Ge,cam,University of Cambridge,hg344@cam.ac.uk,Particle Gibbs for Infinite Hidden Markov Models
+neurips,2015,3,1403,Zoubin,Ghahramani,cam,University of Cambridge,zoubin@eng.cam.ac.uk,Particle Gibbs for Infinite Hidden Markov Models
+neurips,2015,0,1664,Ofer,Dekel,microsoft,Microsoft Research,oferd@microsoft.com,Bandit Smooth Convex Optimization: Improving the Bias-Variance Tradeoff
+neurips,2015,1,1664,Ronen,Eldan,gmail,,roneneldan@gmail.com,Bandit Smooth Convex Optimization: Improving the Bias-Variance Tradeoff
+neurips,2015,2,1664,Tomer,Koren,technion,Technion,tomerk@technion.ac.il,Bandit Smooth Convex Optimization: Improving the Bias-Variance Tradeoff
+neurips,2015,0,382,Dinesh,Ramasamy,ucsb,UC Santa Barbara,dineshr@ece.ucsb.edu,Compressive spectral embedding: sidestepping the SVD
+neurips,2015,1,382,Upamanyu,Madhow,ucsb,UC Santa Barbara,madhow@ece.ucsb.edu,Compressive spectral embedding: sidestepping the SVD
+neurips,2015,0,1591,Alireza,Makhzani,toronto,University of Toronto,makhzani@psi.toronto.edu,Winner-Take-All Autoencoders
+neurips,2015,1,1591,Brendan,Frey,toronto,U. Toronto,frey@psi.toronto.edu,Winner-Take-All Autoencoders
+neurips,2015,0,462,Ehsan,Adeli-Mosabbeb,unc,UNC-Chapel Hill,eadeli@med.unc.edu,Robust Feature-Sample Linear Discriminant Analysis for Brain Disorders Diagnosis
+neurips,2015,1,462,Kim-Han,Thung,unc,UNC-Chapel Hill,khthung@med.unc.edu,Robust Feature-Sample Linear Discriminant Analysis for Brain Disorders Diagnosis
+neurips,2015,2,462,Le,An,unc,UNC-Chapel Hill,le_an@med.unc.edu,Robust Feature-Sample Linear Discriminant Analysis for Brain Disorders Diagnosis
+neurips,2015,3,462,Feng,Shi,unc,UNC-Chapel Hill,fengshi@med.unc.edu,Robust Feature-Sample Linear Discriminant Analysis for Brain Disorders Diagnosis
+neurips,2015,4,462,Dinggang,Shen,unc,UNC-Chapel Hill,dgshen@med.unc.edu,Robust Feature-Sample Linear Discriminant Analysis for Brain Disorders Diagnosis
+neurips,2015,0,1192,Mehrdad,Farajtabar,gatech,Georgia Tech,mehrdad@gatech.edu,COEVOLVE: A Joint Point Process Model for Information Diffusion and Network Co-evolution
+neurips,2015,1,1192,Yichen,Wang,gatech,Georgia Institute of Technology,yichen.wang@gatech.edu,COEVOLVE: A Joint Point Process Model for Information Diffusion and Network Co-evolution
+neurips,2015,2,1192,Manuel,Gomez Rodriguez,gatech,MPI SWS,sli370@gatech.edu,COEVOLVE: A Joint Point Process Model for Information Diffusion and Network Co-evolution
+neurips,2015,3,1192,Shuang,Li,gatech,Georgia Institute of Technology,zha@cc.gatech.edu,COEVOLVE: A Joint Point Process Model for Information Diffusion and Network Co-evolution
+neurips,2015,4,1192,Hongyuan,Zha,gatech,Georgia Tech,lsong@cc.gatech.edu,COEVOLVE: A Joint Point Process Model for Information Diffusion and Network Co-evolution
+neurips,2015,5,1192,Le,Song,mpi-sws,Georgia Institute of Technology,manuelgr@mpi-sws.org,COEVOLVE: A Joint Point Process Model for Information Diffusion and Network Co-evolution
+neurips,2015,0,1709,Kunal,Talwar,google,Google,kunal@google.com,Nearly Optimal Private LASSO
+neurips,2015,1,1709,Abhradeep,Guha Thakurta,gmail,,guhathakurta.abhradeep@gmail.com,Nearly Optimal Private LASSO
+neurips,2015,2,1709,Li,Zhang,google,Google,liqzhang@google.com,Nearly Optimal Private LASSO
+neurips,2015,0,1932,Volodymyr,Kuleshov,,Stanford University,,Calibrated Structured Prediction
+neurips,2015,1,1932,Percy,Liang,,Stanford University,,Calibrated Structured Prediction
+neurips,2015,0,1453,Oren,Rippel,mit,MIT,rippel@math.mit.edu,Spectral Representations for Convolutional Neural Networks
+neurips,2015,1,1453,Jasper,Snoek,harvard,Twitter Cortex,jsnoek@seas.harvard.edu,Spectral Representations for Convolutional Neural Networks
+neurips,2015,2,1453,Ryan,Adams,harvard,Harvard,rpa@seas.harvard.edu,Spectral Representations for Convolutional Neural Networks
+neurips,2015,0,1439,Xiangyu,Wang,duke,Duke University,xw56@stat.duke.edu,On the consistency theory of high dimensional variable screening
+neurips,2015,1,1439,Chenlei,Leng,warwick,,C.Leng@warwick.ac.uk,On the consistency theory of high dimensional variable screening
+neurips,2015,2,1439,David,Dunson,duke,Duke University,dunson@stat.duke.edu,On the consistency theory of high dimensional variable screening
+neurips,2015,0,1497,Mehryar,Mohri,,Courant Institute and Google,,Revenue Optimization against Strategic Buyers
+neurips,2015,1,1497,Andres,Munoz,,Google,,Revenue Optimization against Strategic Buyers
+neurips,2015,0,729,James,McInerney,columbia,Columbia,james@cs.columbia.edu,The Population Posterior and Bayesian Modeling on Streams
+neurips,2015,1,729,Rajesh,Ranganath,princeton,Princeton University,rajeshr@cs.princeton.edu,The Population Posterior and Bayesian Modeling on Streams
+neurips,2015,2,729,David,Blei,columbia,Columbia University,david.blei@columbia.edu,The Population Posterior and Bayesian Modeling on Streams
+neurips,2015,0,1842,Amar,Shah,cam,Cambridge,as793@cam.ac.uk,Parallel Predictive Entropy Search for Batch Global Optimization of Expensive Objective Functions
+neurips,2015,1,1842,Zoubin,Ghahramani,cam,University of Cambridge,zoubin@eng.cam.ac.uk,Parallel Predictive Entropy Search for Batch Global Optimization of Expensive Objective Functions
+neurips,2015,0,1557,Dan,Rosenbaum,,The Hebrew University,,The Return of the Gating Network: Combining Generative Models and Discriminative Training in Natural Image Priors
+neurips,2015,1,1557,Yair,Weiss,,Hebrew University,,The Return of the Gating Network: Combining Generative Models and Discriminative Training in Natural Image Priors
+neurips,2015,0,1304,Jacob,Abernethy,umich,University of Michigan,jabernet@umich.edu,Fighting Bandits with a New Kind of Smoothness
+neurips,2015,1,1304,Chansoo,Lee,umich,University of Michigan Ann Arb,chansool@umich.edu,Fighting Bandits with a New Kind of Smoothness
+neurips,2015,2,1304,Ambuj,Tewari,umich,University of Michigan,tewaria@umich.edu,Fighting Bandits with a New Kind of Smoothness
+neurips,2015,0,1501,Parikshit,Shah,yahoo-inc,Yahoo Labs,parikshit@yahoo-inc.com,Sparse and Low-Rank Tensor Decomposition
+neurips,2015,1,1501,Nikhil,Rao,utexas,University of Texas at Austin,nikhilr@cs.utexas.edu,Sparse and Low-Rank Tensor Decomposition
+neurips,2015,2,1501,Gongguo,Tang,mines,Colorado School of Mines,gtang@mines.edu,Sparse and Low-Rank Tensor Decomposition
+neurips,2015,0,1527,Bhaswar,Bhattacharya,stanford,Stanford University,bhaswar@stanford.edu,Testing Closeness With Unequal Sized Samples
+neurips,2015,1,1527,Gregory,Valiant,stanford,Stanford University,valiant@stanford.edu,Testing Closeness With Unequal Sized Samples
+neurips,2015,0,944,Yinlam,Chow,stanford,Stanford,ychow@stanford.edu,Risk-Sensitive and Robust Decision-Making: a CVaR Optimization Approach
+neurips,2015,1,944,Aviv,Tamar,technion,Technion,shie@ee.technion.ac.il,Risk-Sensitive and Robust Decision-Making: a CVaR Optimization Approach
+neurips,2015,2,944,Shie,Mannor,berkeley,Technion,avivt@berkeley.edu,Risk-Sensitive and Robust Decision-Making: a CVaR Optimization Approach
+neurips,2015,3,944,Marco,Pavone,stanford,Stanford University,pavone@stanford.edu,Risk-Sensitive and Robust Decision-Making: a CVaR Optimization Approach
+neurips,2015,0,1809,Somdeb,Sarkhel,,University of Texas at Dallas,,Fast Lifted MAP Inference via Partitioning
+neurips,2015,1,1809,Parag,Singla,,Indian Institute of Technology,,Fast Lifted MAP Inference via Partitioning
+neurips,2015,2,1809,Vibhav,Gogate,,UT Dallas,,Fast Lifted MAP Inference via Partitioning
+neurips,2015,0,11,Ibrahim,Alabdulmohsin,kaust,King Abdullah University of Science and Technology (KAUST),ibrahim.alabdulmohsin@kaust.edu.sa,Algorithmic Stability and Uniform Generalization
+neurips,2015,0,971,Youssef,Mroueh,ibm,IBM,mroueh@us.ibm.com,Learning with Group Invariant Features: A Kernel Perspective.
+neurips,2015,1,971,Stephen,Voinea,mit,MIT,tp@ai.mit.edu,Learning with Group Invariant Features: A Kernel Perspective.
+neurips,2015,2,971,Tomaso,Poggio,mit,MIT,voinea@mit.edu,Learning with Group Invariant Features: A Kernel Perspective.
+neurips,2015,0,431,Janne,Korhonen,helsinki,University of Helsinki,janne.h.korhonen@helsinki.fi,Tractable Bayesian Network Structure Learning with Bounded Vertex Cover Number
+neurips,2015,1,431,Pekka,Parviainen,aalto,Aalto University,pekka.parviainen@aalto.fi,Tractable Bayesian Network Structure Learning with Bounded Vertex Cover Number
+neurips,2015,0,1716,Rafael,Frongillo,colorado,CU Boulder,raf@colorado.edu,Convergence Analysis of Prediction Markets via Randomized Subspace Descent
+neurips,2015,1,1716,Mark,Reid,anu,Australia National University,mark.reid@anu.edu.au,Convergence Analysis of Prediction Markets via Randomized Subspace Descent
+neurips,2015,0,641,Guillaume,Papa,,Telecom paristech,,SGD Algorithms based on Incomplete U-statistics: Large-Scale Minimization of Empirical Risk
+neurips,2015,1,641,Stéphan,Clémençon,,Telecom ParisTech,,SGD Algorithms based on Incomplete U-statistics: Large-Scale Minimization of Empirical Risk
+neurips,2015,2,641,Aurélien,Bellet,,Telecom ParisTech,,SGD Algorithms based on Incomplete U-statistics: Large-Scale Minimization of Empirical Risk
+neurips,2015,0,789,Jie,Wang,umich,University of Michigan-Ann Arbor,jwangumi@umich.edu,Multi-Layer Feature Reduction for Tree Structured Group Lasso via Hierarchical Projection
+neurips,2015,1,789,Jieping,Ye,umich,University of Michigan,jpye@umich.edu,Multi-Layer Feature Reduction for Tree Structured Group Lasso via Hierarchical Projection
+neurips,2015,0,1889,Tatsunori,Hashimoto,mit,MIT CSAIL,thashim@mit.edu,From random walks to distances on unweighted graphs
+neurips,2015,1,1889,Yi,Sun,mit,MIT Mathematics,tommi@mit.edu,From random walks to distances on unweighted graphs
+neurips,2015,2,1889,Tommi,Jaakkola,mit,MIT,yisun@mit.edu,From random walks to distances on unweighted graphs
+neurips,2015,0,336,Alexander,Novikov,bayesgroup,Skolkovo Institute of Science and Technology,novikov@bayesgroup.ru,Tensorizing Neural Networks
+neurips,2015,1,336,Dmitrii,Podoprikhin,gmail,Skolkovo Institute of Science and Technology,podoprikhin.dmitry@gmail.com,Tensorizing Neural Networks
+neurips,2015,2,336,Anton,Osokin,inria,Inria,anton.osokin@inria.fr,Tensorizing Neural Networks
+neurips,2015,3,336,Dmitry,Vetrov,yandex,"Skoltech, Moscow",vetrovd@yandex.ru,Tensorizing Neural Networks
+neurips,2015,0,1259,Pranjal,Awasthi,rutgers,Princeton,pranjal.awasthi@rutgers.edu,On some provably correct cases of variational inference for topic models
+neurips,2015,1,1259,Andrej,Risteski,princeton,Princeton,risteski@cs.princeton.edu,On some provably correct cases of variational inference for topic models
+neurips,2015,0,525,Eugene,Ndiaye,,"Institut Mines-Télécom, Télécom ParisTech, CNRS LTCI",,GAP Safe screening rules for sparse multi-task and multi-class models
+neurips,2015,1,525,Olivier,Fercoq,,Telecom ParisTech,,GAP Safe screening rules for sparse multi-task and multi-class models
+neurips,2015,2,525,Alexandre,Gramfort,,Telecom Paristech,,GAP Safe screening rules for sparse multi-task and multi-class models
+neurips,2015,3,525,Joseph,Salmon,,Télécom ParisTech,,GAP Safe screening rules for sparse multi-task and multi-class models
+neurips,2015,0,103,Tor,Lattimore,gmail,University of Alberta,tor.lattimore@gmail.com,The Pareto Regret Frontier for Bandits
+neurips,2015,0,111,Jackson,Gorham,,Stanford University,,Measuring Sample Quality with Stein's Method
+neurips,2015,1,111,Lester,Mackey,,Stanford,,Measuring Sample Quality with Stein's Method
+neurips,2015,0,635,Prateek,Jain,microsoft,Microsoft Research,prajain@microsoft.com,Predtron: A Family of Online Algorithms for General Prediction Problems
+neurips,2015,1,635,Nagarajan,Natarajan,utexas,UT Austin,naga86@cs.utexas.edu,Predtron: A Family of Online Algorithms for General Prediction Problems
+neurips,2015,2,635,Ambuj,Tewari,umich,University of Michigan,tewaria@umich.edu,Predtron: A Family of Online Algorithms for General Prediction Problems
+neurips,2015,0,1013,James,Hensman,lancaster,Lancaster University,james.hensman@lancaster.ac.uk,MCMC for Variationally Sparse Gaussian Processes
+neurips,2015,1,1013,Alexander,Matthews,eurecom,University of Cambridge,maurizio.filippone@eurecom.fr,MCMC for Variationally Sparse Gaussian Processes
+neurips,2015,2,1013,Maurizio,Filippone,cam,University of Glasgow,am554@cam.ac.uk,MCMC for Variationally Sparse Gaussian Processes
+neurips,2015,3,1013,Zoubin,Ghahramani,cam,University of Cambridge,zoubin@cam.ac.uk,MCMC for Variationally Sparse Gaussian Processes
+neurips,2015,0,1631,Junhyuk,Oh,umich,University of Michigan,junhyuk@umich.edu,Action-Conditional Video Prediction using Deep Networks in Atari Games
+neurips,2015,1,1631,Xiaoxiao,Guo,umich,"University of Michigan, Ann Arbor",guoxiao@umich.edu,Action-Conditional Video Prediction using Deep Networks in Atari Games
+neurips,2015,2,1631,Honglak,Lee,umich,U. Michigan,honglak@umich.edu,Action-Conditional Video Prediction using Deep Networks in Atari Games
+neurips,2015,3,1631,Richard,Lewis,umich,University of Michigan,rickl@umich.edu,Action-Conditional Video Prediction using Deep Networks in Atari Games
+neurips,2015,4,1631,Satinder,Singh,umich,University of Michigan,baveja@umich.edu,Action-Conditional Video Prediction using Deep Networks in Atari Games
+neurips,2015,0,735,Suriya,Gunasekar,utexas,UT Austin,suriya@utexas.edu,Unified View of Matrix Completion under General Structural Constraints
+neurips,2015,1,735,Arindam,Banerjee,umn,University of Minnesota,banerjee@cs.umn.edu,Unified View of Matrix Completion under General Structural Constraints
+neurips,2015,2,735,Joydeep,Ghosh,utexas,UT Austin,ghosh@ece.utexas.edu,Unified View of Matrix Completion under General Structural Constraints
+neurips,2015,0,1038,Christopher,Dance,xerox,Xerox Research Centre Europe,dance@xrce.xerox.com,When are Kalman-Filter Restless Bandits Indexable?
+neurips,2015,1,1038,Tomi,Silander,xerox,Xerox Research Centre Europe,silander@xrce.xerox.com,When are Kalman-Filter Restless Bandits Indexable?
+neurips,2015,0,331,Xiaozhi,Chen,tsinghua,Tsinghua University,chenxz12@mails.tsinghua.edu.cn,3D Object Proposals for Accurate Object Class Detection
+neurips,2015,1,331,Kaustav,Kundu,toronto,University of Toronto,kkundu@cs.toronto.edu,3D Object Proposals for Accurate Object Class Detection
+neurips,2015,2,331,Yukun,Zhu,toronto,University of Toronto,yukun@cs.toronto.edu,3D Object Proposals for Accurate Object Class Detection
+neurips,2015,3,331,Andrew,Berneshawi,utoronto,University of Toronto,andrew.berneshawi@mail.utoronto.ca,3D Object Proposals for Accurate Object Class Detection
+neurips,2015,4,331,Huimin,Ma,tsinghua,Tsinghua University,mhmpub@tsinghua.edu.cn,3D Object Proposals for Accurate Object Class Detection
+neurips,2015,5,331,Sanja,Fidler,toronto,University of Toronto,fidler@cs.toronto.edu,3D Object Proposals for Accurate Object Class Detection
+neurips,2015,6,331,Raquel,Urtasun,toronto,University of Toronto,urtasun@cs.toronto.edu,3D Object Proposals for Accurate Object Class Detection
+neurips,2015,0,1742,Qinqing,Zheng,uchicago,University of Chicago,qinqing@cs.uchicago.edu,Interpolating Convex and Non-Convex Tensor Decompositions via the Subspace Norm
+neurips,2015,1,1742,Ryota,Tomioka,ttic,Toyota Technological Institute at Chicago,tomioka@ttic.edu,Interpolating Convex and Non-Convex Tensor Decompositions via the Subspace Norm
+neurips,2015,0,1180,Jonathan,Vacher,dauphine,Université Paris Dauphine,vacher@ceremade.dauphine.fr,Biologically Inspired Dynamic Textures for Probing Motion Perception
+neurips,2015,1,1180,Andrew Isaac,Meso,univ-amu,Institut des neurosciences de la Timone,andrew.meso@univ-amu.fr,Biologically Inspired Dynamic Textures for Probing Motion Perception
+neurips,2015,2,1180,Laurent,Perrinet,univ-amu,Institut des neurosciences de la Timone,laurent.perrinet@univ-amu.fr,Biologically Inspired Dynamic Textures for Probing Motion Perception
+neurips,2015,3,1180,Gabriel,Peyré,dauphine,"CNRS and Ceremade, Université Paris-Dauphine",peyre@ceremade.dauphine.fr,Biologically Inspired Dynamic Textures for Probing Motion Perception
+neurips,2015,0,18,Xiaocheng,Shang,ed,University of Edinburgh,x.shang@ed.ac.uk,Covariance-Controlled Adaptive Langevin Thermostat for Large-Scale Bayesian Sampling
+neurips,2015,1,18,Zhanxing,Zhu,ed,University of Edinburgh,zhanxing.zhu@ed.ac.uk,Covariance-Controlled Adaptive Langevin Thermostat for Large-Scale Bayesian Sampling
+neurips,2015,2,18,Benedict,Leimkuhler,ed,University of Edinburgh,b.leimkuhler@ed.ac.uk,Covariance-Controlled Adaptive Langevin Thermostat for Large-Scale Bayesian Sampling
+neurips,2015,3,18,Amos,Storkey,ed,University of Edinburgh,a.storkey@ed.ac.uk,Covariance-Controlled Adaptive Langevin Thermostat for Large-Scale Bayesian Sampling
+neurips,2015,0,1728,Andrew,Dai,google,Google Inc,adai@google.com,Semi-supervised Sequence Learning
+neurips,2015,1,1728,Quoc,Le,google,Google,qvl@google.com,Semi-supervised Sequence Learning
+neurips,2015,0,677,Wei,Sun,yahoo-inc,Yahoo Labs,sunweisurrey@yahoo-inc.com,Non-convex Statistical Optimization for Sparse Tensor Graphical Model
+neurips,2015,1,677,Zhaoran,Wang,princeton,Princeton University,hanliu@princeton.edu,Non-convex Statistical Optimization for Sparse Tensor Graphical Model
+neurips,2015,2,677,Han,Liu,princeton,Princeton University,zhaoran@princeton.edu,Non-convex Statistical Optimization for Sparse Tensor Graphical Model
+neurips,2015,3,677,Guang,Cheng,purdue,Purdue University,chengg@stat.purdue.edu,Non-convex Statistical Optimization for Sparse Tensor Graphical Model
+neurips,2015,0,815,Timothy,Kopp,rochester,University of Rochester,tkopp@cs.rochester.edu,Lifted Symmetry Detection and Breaking for MAP Inference
+neurips,2015,1,815,Parag,Singla,iitd,Indian Institute of Technology,parags@cse.iitd.ac.in,Lifted Symmetry Detection and Breaking for MAP Inference
+neurips,2015,2,815,Henry,Kautz,rochester,University of Rochester,kautz@cs.rochester.edu,Lifted Symmetry Detection and Breaking for MAP Inference
+neurips,2015,0,832,Christian,Borgs,microsoft,Microsoft Research,cborgs@microsoft.com,Private Graphon Estimation for Sparse Graphs
+neurips,2015,1,832,Jennifer,Chayes,microsoft,Microsoft Research,jchayes@microsoft.com,Private Graphon Estimation for Sparse Graphs
+neurips,2015,2,832,Adam,Smith,psu,Pennsylvania State University,asmith@psu.edu,Private Graphon Estimation for Sparse Graphs
+neurips,2015,0,782,Kent,Quanrud,illinois,UIUC,quanrud2@illinois.edu,Online Learning with Adversarial Delays
+neurips,2015,1,782,Daniel,Khashabi,illinois,UIUC,khashab2@illinois.edu,Online Learning with Adversarial Delays
+neurips,2015,0,497,Yuxin,Chen,stanfor,Stanford University,yxchen@stanfor.edu,Solving Random Quadratic Systems of Equations Is Nearly as Easy as Solving Linear Systems
+neurips,2015,1,497,Emmanuel,Candes,stanford,Stanford University,candes@stanford.edu,Solving Random Quadratic Systems of Equations Is Nearly as Easy as Solving Linear Systems
+neurips,2015,0,1726,Roland,Kwitt,gmx,University of Salzburg,rkwitt@gmx.at,Statistical Topological Data Analysis - A Kernel Perspective
+neurips,2015,1,1726,Stefan,Huber,ist,IST Austria,stefan.huber@ist.ac.at,Statistical Topological Data Analysis - A Kernel Perspective
+neurips,2015,2,1726,Marc,Niethammer,unc,UNC Chapel Hill,mn@cs.unc.edu,Statistical Topological Data Analysis - A Kernel Perspective
+neurips,2015,3,1726,Weili,Lin,unc,UNC Chapel Hill,weili_lin@med.unc.edu,Statistical Topological Data Analysis - A Kernel Perspective
+neurips,2015,4,1726,Ulrich,Bauer,bauer,TU Munich,ulrich@bauer.org,Statistical Topological Data Analysis - A Kernel Perspective
+neurips,2015,0,1272,Pinar,Yanardag,purdue,Purdue University,ypinar@purdue.edu,A Structural Smoothing Framework For Robust Graph Comparison
+neurips,2015,1,1272,S.V.N.,Vishwanathan,ucsc,UCSC,vishy@ucsc.edu,A Structural Smoothing Framework For Robust Graph Comparison
+neurips,2015,0,826,Elias,Bareinboim,purdue,Purdue University,eb@purdue.edu,Bandits with Unobserved Confounders: A Causal Approach
+neurips,2015,1,826,Andrew,Forney,ucla,UCLA,forns@cs.ucla.edu,Bandits with Unobserved Confounders: A Causal Approach
+neurips,2015,2,826,Judea,Pearl,ucla,UCLA,judea@cs.ucla.edu,Bandits with Unobserved Confounders: A Causal Approach
+neurips,2015,0,1376,Bo,Xie,gatech,Georgia Tech,bo.xie@gatech.edu,Scale Up Nonlinear Component Analysis with Doubly Stochastic Gradients
+neurips,2015,1,1376,Yingyu,Liang,gatech,Princeton University,lsong@cc.gatech.edu,Scale Up Nonlinear Component Analysis with Doubly Stochastic Gradients
+neurips,2015,2,1376,Le,Song,princeton,Georgia Institute of Technology,yingyul@cs.princeton.edu,Scale Up Nonlinear Component Analysis with Doubly Stochastic Gradients
+neurips,2015,0,1941,Bo,Waggoner,harvard,Harvard,bwaggoner@fas.harvard.edu,A Market Framework for Eliciting Private Data
+neurips,2015,1,1941,Rafael,Frongillo,colorado,CU Boulder,raf@colorado.edu,A Market Framework for Eliciting Private Data
+neurips,2015,2,1941,Jacob,Abernethy,umich,University of Michigan,jabernet@umich.edu,A Market Framework for Eliciting Private Data
+neurips,2015,0,538,Tasuku,Soma,u-tokyo,University of Tokyo,soma@mist.i.u-tokyo.ac.jp,A Generalization of Submodular Cover via the Diminishing Return Property on the Integer Lattice
+neurips,2015,1,538,Yuichi,Yoshida,nii,"National Institute of Informatics and Preferred Infrastructure, Inc.",yyoshida@nii.ac.jp,A Generalization of Submodular Cover via the Diminishing Return Property on the Integer Lattice
+neurips,2015,0,70,Ke,Sun,,University of Geneva,,Space-Time Local Embeddings
+neurips,2015,1,70,Jun,Wang,,"Expedia, Geneva",,Space-Time Local Embeddings
+neurips,2015,2,70,Alexandros,Kalousis,,,,Space-Time Local Embeddings
+neurips,2015,3,70,Stephane,Marchand-Maillet,,University of Geneva,,Space-Time Local Embeddings
+neurips,2015,0,887,Daniel,Hsu,columbia,Columbia University,djhsu@cs.columbia.edu,Mixing Time Estimation in Reversible Markov Chains from a Single Sample Path
+neurips,2015,1,887,Aryeh,Kontorovich,bgu,Ben Gurion University,karyeh@cs.bgu.ac.il,Mixing Time Estimation in Reversible Markov Chains from a Single Sample Path
+neurips,2015,2,887,Csaba,Szepesvari,ualberta,University of Alberta,szepesva@cs.ualberta.ca,Mixing Time Estimation in Reversible Markov Chains from a Single Sample Path
+neurips,2015,0,419,Balázs,Szörényi,gmail,The Technion / University of Szeged,szorenyibalazs@gmail.com,Online Rank Elicitation for Plackett-Luce: A Dueling Bandits Approach
+neurips,2015,1,419,Róbert,Busa-Fekete,upb,UPB,busarobi@upb.de,Online Rank Elicitation for Plackett-Luce: A Dueling Bandits Approach
+neurips,2015,2,419,Adil,Paul,upb,UPB,adil.paul@upb.de,Online Rank Elicitation for Plackett-Luce: A Dueling Bandits Approach
+neurips,2015,3,419,Eyke,Hüllermeier,upb,Marburguniversity,eyke@upb.de,Online Rank Elicitation for Plackett-Luce: A Dueling Bandits Approach
+neurips,2015,0,687,Pascal,Vincent,,U. Montreal,,Efficient Exact Gradient Update for training Deep Networks with Very Large Sparse Targets
+neurips,2015,1,687,Alexandre,de Brébisson,,Université de Montréal,,Efficient Exact Gradient Update for training Deep Networks with Very Large Sparse Targets
+neurips,2015,2,687,Xavier,Bouthillier,,Universit de Montréal,,Efficient Exact Gradient Update for training Deep Networks with Very Large Sparse Targets
+neurips,2015,0,1485,Andrew,Miller,harvard,Harvard,acm@seas.harvard.edu,A Gaussian Process Model of Quasar Spectral Energy Distributions
+neurips,2015,1,1485,Albert,Wu,harvard,Harvard,awu@college.harvard.edu,A Gaussian Process Model of Quasar Spectral Energy Distributions
+neurips,2015,2,1485,Jeff,Regier,berkeley,Berkeley,jeff@stat.berkeley.edu,A Gaussian Process Model of Quasar Spectral Energy Distributions
+neurips,2015,3,1485,Jon,McAuliffe,berkeley,,jon@stat.berkeley.edu,A Gaussian Process Model of Quasar Spectral Energy Distributions
+neurips,2015,4,1485,Dustin,Lang,lbl,,prabhat@lbl.gov,A Gaussian Process Model of Quasar Spectral Energy Distributions
+neurips,2015,5,1485,Mr.,Prabhat,lbl,LBL/NERSC,djschlegel@lbl.gov,A Gaussian Process Model of Quasar Spectral Energy Distributions
+neurips,2015,6,1485,David,Schlegel,cmu,,dstn@cmu.edu,A Gaussian Process Model of Quasar Spectral Energy Distributions
+neurips,2015,7,1485,Ryan,Adams,harvard,Harvard,rpa@seas.harvard.edu,A Gaussian Process Model of Quasar Spectral Energy Distributions
+neurips,2015,0,1687,Vasilis,Syrgkanis,microsoft,Microsoft Research,vasy@microsoft.com,Fast Convergence of Regularized Learning in Games
+neurips,2015,1,1687,Alekh,Agarwal,microsoft,Microsoft Research,alekha@microsoft.com,Fast Convergence of Regularized Learning in Games
+neurips,2015,2,1687,Haipeng,Luo,princeton,Princeton University,haipengl@cs.princeton.edu,Fast Convergence of Regularized Learning in Games
+neurips,2015,3,1687,Robert,Schapire,microsoft,MIcrosoft Research,schapire@microsoft.com,Fast Convergence of Regularized Learning in Games
+neurips,2015,0,1053,Yossi,Arjevani,weizmann,The Weizmann Institute,yossi.arjevani@weizmann.ac.il,Communication Complexity of Distributed Convex Learning and Optimization
+neurips,2015,1,1053,Ohad,Shamir,weizmann,Weizmann Institute of Science,ohad.shamir@weizmann.ac.il,Communication Complexity of Distributed Convex Learning and Optimization
+neurips,2015,0,1805,Piyush,Rai,iitk,Duke University,piyush@cse.iitk.ac.in,Large-Scale Bayesian Multi-Label Learning via Topic-Based Label Embeddings
+neurips,2015,1,1805,Changwei,Hu,duke,,ch237@duke.edu,Large-Scale Bayesian Multi-Label Learning via Topic-Based Label Embeddings
+neurips,2015,2,1805,Ricardo,Henao,duke,Duke University,r.henao@duke.edu,Large-Scale Bayesian Multi-Label Learning via Topic-Based Label Embeddings
+neurips,2015,3,1805,Lawrence,Carin,duke,Duke University,lcarin@duke.edu,Large-Scale Bayesian Multi-Label Learning via Topic-Based Label Embeddings
+neurips,2015,0,95,Maren,Mahsereci,,MPI for Intelligent Systems Tübingen,,Probabilistic Line Searches for Stochastic Optimization
+neurips,2015,1,95,Philipp,Hennig,,"MPI for Intelligent Systems, Tübingen",,Probabilistic Line Searches for Stochastic Optimization
+neurips,2015,0,1517,Nakul,Verma,hhmi,Janelia Research Campus HHMI,verman@janelia.hhmi.org,Sample Complexity of Learning Mahalanobis Distance Metrics
+neurips,2015,1,1517,Kristin,Branson,hhmi,"Janelia Research Campus, HHMI",bransonk@janelia.hhmi.org,Sample Complexity of Learning Mahalanobis Distance Metrics
+neurips,2015,0,1371,Yunpeng,Pan,gatech,Georgia Institute of Technolog,ypan37@gatech.edu,Sample Efficient Path Integral Control under Uncertainty
+neurips,2015,1,1371,Evangelos,Theodorou,gatech,Georgia Tech,evangelos.theodorou@gatech.edu,Sample Efficient Path Integral Control under Uncertainty
+neurips,2015,2,1371,Michail,Kontitsis,gatech,Georgia Institute of Technology,kontitsis@gatech.edu,Sample Efficient Path Integral Control under Uncertainty
+neurips,2015,0,1346,Been,Kim,,MIT,,Mind the Gap: A Generative Approach to Interpretable Feature Selection and Extraction
+neurips,2015,1,1346,Julie,Shah,,MIT,,Mind the Gap: A Generative Approach to Interpretable Feature Selection and Extraction
+neurips,2015,2,1346,Finale,Doshi-Velez,,Harvard,,Mind the Gap: A Generative Approach to Interpretable Feature Selection and Extraction
+neurips,2015,0,1025,Atsushi,Shibagaki,gmail,Nagoya Institute of Technology,shibagaki.a.mllab.nit@gmail.com,Regularization Path of Cross-Validation Error Lower Bounds
+neurips,2015,1,1025,Yoshiki,Suzuki,gmail,Nagoya Institute of Technology,suzuki.mllab.nit@gmail.com,Regularization Path of Cross-Validation Error Lower Bounds
+neurips,2015,2,1025,Masayuki,Karasuyama,nitech,Nagoya Institute of Technology,karasuyama@nitech.ac.jp,Regularization Path of Cross-Validation Error Lower Bounds
+neurips,2015,3,1025,Ichiro,Takeuchi,nitech,Nagoya Institute of Technology,takeuchi.ichiro@nitech.ac.jp,Regularization Path of Cross-Validation Error Lower Bounds
+neurips,2015,0,1691,Hadi,Mohasel Afshar,anu,Australian National University,hadi.afshar@anu.edu.au,"Reflection, Refraction, and Hamiltonian Monte Carlo"
+neurips,2015,1,1691,Justin,Domke,nicta,NICTA,Justin.Domke@nicta.com.au,"Reflection, Refraction, and Hamiltonian Monte Carlo"
+neurips,2015,0,1676,Mengye,Ren,toronto,University of Toronto,mren@cs.toronto.edu,Exploring Models and Data for Image Question Answering
+neurips,2015,1,1676,Ryan,Kiros,toronto,U. Toronto,rkiros@cs.toronto.edu,Exploring Models and Data for Image Question Answering
+neurips,2015,2,1676,Richard,Zemel,toronto,University of Toronto,zemel@cs.toronto.edu,Exploring Models and Data for Image Question Answering
+neurips,2015,0,1358,Siqi,Sun,ttic,TTIC,siqi.sun@ttic.edu,Learning structured densities via infinite dimensional exponential families
+neurips,2015,1,1358,Mladen,Kolar,chicagobooth,University of Chicago Booth School of Business,mkolar@chicagobooth.edu,Learning structured densities via infinite dimensional exponential families
+neurips,2015,2,1358,Jinbo,Xu,gmail,Toyota Technological Institute at Chicago,jinbo.xu@gmail.com,Learning structured densities via infinite dimensional exponential families
+neurips,2015,0,1177,Dan,Alistarh,microsoft,Microsoft Research,dan.alistarh@microsoft.com,Streaming Min-max Hypergraph Partitioning
+neurips,2015,1,1177,Jennifer,Iglesias,cmu,Carnegie Mellon University,jiglesia@andrew.cmu.edu,Streaming Min-max Hypergraph Partitioning
+neurips,2015,2,1177,Milan,Vojnovic,microsoft,Microsoft Research,milanv@microsoft.com,Streaming Min-max Hypergraph Partitioning
+neurips,2015,0,1036,Jonas,Mueller,,MIT,,Principal Differences Analysis: Interpretable Characterization of Differences between Distributions
+neurips,2015,1,1036,Tommi,Jaakkola,,MIT,,Principal Differences Analysis: Interpretable Characterization of Differences between Distributions
+neurips,2015,0,1294,Xiao,Li,berkeley,UC Berkeley,xiaoli@berkeley.edu,An Active Learning Framework using Sparse-Graph Codes for Sparse Polynomials and Graph Sketching
+neurips,2015,1,1294,Kannan,Ramchandran,berkeley,UC Berkeley,kannanr@berkeley.edu,An Active Learning Framework using Sparse-Graph Codes for Sparse Polynomials and Graph Sketching
+neurips,2015,0,805,Jaya,Kawale,adobe,Adobe Research,kawale@adobe.com,Efficient Thompson Sampling for Online Matrix-Factorization Recommendation
+neurips,2015,1,805,Hung,Bui,adobe,Adobe Research,hubui@adobe.com,Efficient Thompson Sampling for Online Matrix-Factorization Recommendation
+neurips,2015,2,805,Branislav,Kveton,adobe,Adobe Research,kveton@adobe.com,Efficient Thompson Sampling for Online Matrix-Factorization Recommendation
+neurips,2015,3,805,Long,Tran-Thanh,soton,University of Southampton,ltt08r@ecs.soton.ac.uk,Efficient Thompson Sampling for Online Matrix-Factorization Recommendation
+neurips,2015,4,805,Sanjay,Chawla,sydney,"Qatar Computing Research Institute,  HBKU  and University of Sydney",sanjay.chawla@sydney.edu.au,Efficient Thompson Sampling for Online Matrix-Factorization Recommendation
+neurips,2015,0,1730,Vikas,Sindhwani,google,Google,sindhwani@google.com,Structured Transforms for Small-Footprint Deep Learning
+neurips,2015,1,1730,Tara,Sainath,google,Google,tsainath@google.com,Structured Transforms for Small-Footprint Deep Learning
+neurips,2015,2,1730,Sanjiv,Kumar,google,Google,sanjivk@google.com,Structured Transforms for Small-Footprint Deep Learning
+neurips,2015,0,614,Tor,Lattimore,gmail,University of Alberta,tor.lattimore@gmail.com,Linear Multi-Resource Allocation with Semi-Bandit Feedback
+neurips,2015,1,614,Koby,Crammer,technion,Technion,koby@ee.technion.ac.il,Linear Multi-Resource Allocation with Semi-Bandit Feedback
+neurips,2015,2,614,Csaba,Szepesvari,ualberta,University of Alberta,szepesva@ualberta.ca,Linear Multi-Resource Allocation with Semi-Bandit Feedback
+neurips,2015,0,489,Weiwei,Liu,gmail,UTS,liuweiwei863@gmail.com,On the Optimality of Classifier Chain for Multi-label Classification
+neurips,2015,1,489,Ivor,Tsang,uts,"University of Technology, Sydney",ivor.tsang@uts.edu.au,On the Optimality of Classifier Chain for Multi-label Classification
+neurips,2015,0,1837,Oluwasanmi,Koyejo,stanford,Stanford University,sanmi@stanford.edu,Consistent Multilabel Classification
+neurips,2015,1,1837,Nagarajan,Natarajan,utexas,UT Austin,naga86@cs.utexas.edu,Consistent Multilabel Classification
+neurips,2015,2,1837,Pradeep,Ravikumar,utexas,University of Texas at Austin,pradeepr@cs.utexas.edu,Consistent Multilabel Classification
+neurips,2015,3,1837,Inderjit,Dhillon,utexas,University of Texas at Austin,inderjit@cs.utexas.edu,Consistent Multilabel Classification
+neurips,2015,0,1350,Cengiz,Pehlevan,simonsfoundation,Simons Foundation,cpehlevan@simonsfoundation.org,A Normative Theory of Adaptive Dimensionality Reduction in Neural Networks
+neurips,2015,1,1350,Dmitri,Chklovskii,simonsfoundation,Simons Foundation,dchklovskii@simonsfoundation.org,A Normative Theory of Adaptive Dimensionality Reduction in Neural Networks
+neurips,2015,0,1486,D.,Sculley,google,Google Research,dsculley@google.com,Hidden Technical Debt in Machine Learning Systems
+neurips,2015,1,1486,Gary,Holt,google,,gholt@google.com,Hidden Technical Debt in Machine Learning Systems
+neurips,2015,2,1486,Daniel,Golovin,google,"Google, Inc.",dgg@google.com,Hidden Technical Debt in Machine Learning Systems
+neurips,2015,3,1486,Eugene,Davydov,google,"Google, Inc.",edavydov@google.com,Hidden Technical Debt in Machine Learning Systems
+neurips,2015,4,1486,Todd,Phillips,google,"Google, Inc.",toddphillips@google.com,Hidden Technical Debt in Machine Learning Systems
+neurips,2015,5,1486,Dietmar,Ebner,google,,ebner@google.com,Hidden Technical Debt in Machine Learning Systems
+neurips,2015,6,1486,Vinay,Chaudhary,google,"Google, Inc.",vchaudhary@google.com,Hidden Technical Debt in Machine Learning Systems
+neurips,2015,7,1486,Michael,Young,google,"Google, Inc.",mwyoung@google.com,Hidden Technical Debt in Machine Learning Systems
+neurips,2015,8,1486,Jean-François,Crespo,google,"Google, Inc.",jfcrespo@google.com,Hidden Technical Debt in Machine Learning Systems
+neurips,2015,9,1486,Dan,Dennison,google,"Google, Inc.",dennison@google.com,Hidden Technical Debt in Machine Learning Systems
+neurips,2015,0,1545,Kevin,Jamieson,berkeley,University of Wisconsin,kjamieson@berkeley.edu,"NEXT: A System for Real-World Development, Evaluation, and Application of Active Learning"
+neurips,2015,1,1545,Lalit,Jain,wisc,University of Wisconsin,ljain@wisc.edu,"NEXT: A System for Real-World Development, Evaluation, and Application of Active Learning"
+neurips,2015,2,1545,Chris,Fernandez,wisc,University of Wisconsin,crfernandez@wisc.edu,"NEXT: A System for Real-World Development, Evaluation, and Application of Active Learning"
+neurips,2015,3,1545,Nicholas,Glattard,wisc,University of Wisconsin,glattard@wisc.edu,"NEXT: A System for Real-World Development, Evaluation, and Application of Active Learning"
+neurips,2015,4,1545,Rob,Nowak,wisc,Wisconsin,rdnowak@wisc.edu,"NEXT: A System for Real-World Development, Evaluation, and Application of Active Learning"
+neurips,2015,0,1644,James,Voss,ohio-state,,vossj@cse.ohio-state.edu,A Pseudo-Euclidean Iteration for Optimal Recovery in Noisy ICA
+neurips,2015,1,1644,Mikhail,Belkin,ohio-state,Ohio State University,mbelkin@cse.ohio-state.edu,A Pseudo-Euclidean Iteration for Optimal Recovery in Noisy ICA
+neurips,2015,2,1644,Luis,Rademacher,ohio-state,The Ohio State University,lrademac@cse.ohio-state.edu,A Pseudo-Euclidean Iteration for Optimal Recovery in Noisy ICA
+neurips,2015,0,1935,Kihyuk,Sohn,nec-labs,University of Michigan,ksohn@nec-labs.com,Learning Structured Output Representation using Deep Conditional Generative Models
+neurips,2015,1,1935,Honglak,Lee,umich,U. Michigan,xcyan@umich.edu,Learning Structured Output Representation using Deep Conditional Generative Models
+neurips,2015,2,1935,Xinchen,Yan,umich,University of Michigan,honglak@umich.edu,Learning Structured Output Representation using Deep Conditional Generative Models
+neurips,2015,0,354,Sida,Wang,stanford,Stanford University,sidaw@cs.stanford.edu,Estimating Mixture Models via Mixtures of Polynomials
+neurips,2015,1,354,Arun Tejasvi,Chaganty,stanford,Stanford,chaganty@cs.stanford.edu,Estimating Mixture Models via Mixtures of Polynomials
+neurips,2015,2,354,Percy,Liang,stanford,Stanford University,pliang@cs.stanford.edu,Estimating Mixture Models via Mixtures of Polynomials
+neurips,2015,0,830,Yifan,Wu,ualberta,University of Alberta,ywu12@ualberta.ca,Online Learning with Gaussian Payoffs and Side Observations
+neurips,2015,1,830,András,György,ualberta,Imperial College London,szepesva@ualberta.ca,Online Learning with Gaussian Payoffs and Side Observations
+neurips,2015,2,830,Csaba,Szepesvari,imperial,University of Alberta,a.gyorgy@imperial.ac.uk,Online Learning with Gaussian Payoffs and Side Observations
+neurips,2015,0,611,Heiko,Strathmann,,University College London,,Gradient-free Hamiltonian Monte Carlo with Efficient Kernel Exponential Families
+neurips,2015,1,611,Dino,Sejdinovic,,University of Oxford,,Gradient-free Hamiltonian Monte Carlo with Efficient Kernel Exponential Families
+neurips,2015,2,611,Samuel,Livingstone,,University College London,,Gradient-free Hamiltonian Monte Carlo with Efficient Kernel Exponential Families
+neurips,2015,3,611,Zoltan,Szabo,,"Gatsby Unit, UCL",,Gradient-free Hamiltonian Monte Carlo with Efficient Kernel Exponential Families
+neurips,2015,4,611,Arthur,Gretton,,University Collage London,,Gradient-free Hamiltonian Monte Carlo with Efficient Kernel Exponential Families
+neurips,2015,0,268,ABHISEK,KUNDU,,RENSSELAER POLYTECHNIC INST,,Approximating Sparse PCA from Incomplete Data
+neurips,2015,1,268,Petros,Drineas,,Rensselaer Polytechnic Institute,,Approximating Sparse PCA from Incomplete Data
+neurips,2015,2,268,Malik,Magdon-Ismail,,RPI,,Approximating Sparse PCA from Incomplete Data
+neurips,2015,0,1586,Martin,Slawski,rutgers,Rutgers University,martin.slawski@rutgers.edu,Regularization-Free Estimation in Trace Regression with Symmetric Positive Semidefinite Matrices
+neurips,2015,1,1586,Ping,Li,rutgers,Rugters University,pingli@stat.rutgers.edu,Regularization-Free Estimation in Trace Regression with Symmetric Positive Semidefinite Matrices
+neurips,2015,2,1586,Matthias,Hein,uni-saarland,Saarland University,hein@cs.uni-saarland.de,Regularization-Free Estimation in Trace Regression with Symmetric Positive Semidefinite Matrices
+neurips,2015,0,179,Carl,Vondrick,mit,MIT,vondrick@mit.edu,Learning visual biases from human imagination
+neurips,2015,1,179,Hamed,Pirsiavash,mit,UMBC,oliva@mit.edu,Learning visual biases from human imagination
+neurips,2015,2,179,Aude,Oliva,mit,MIT,torralba@mit.edu,Learning visual biases from human imagination
+neurips,2015,3,179,Antonio,Torralba,umbc,MIT,hpirsiav@umbc.edu,Learning visual biases from human imagination
+neurips,2015,0,1446,Sainbayar,Sukhbaatar,nyu,New York University,sainbar@cs.nyu.edu,End-To-End Memory Networks
+neurips,2015,1,1446,arthur,szlam,fb,Facebook,aszlam@fb.com,End-To-End Memory Networks
+neurips,2015,2,1446,Jason,Weston,fb,Facebook AI Research,jase@fb.com,End-To-End Memory Networks
+neurips,2015,3,1446,Rob,Fergus,fb,Facebook AI Research,robfergus@fb.com,End-To-End Memory Networks
+neurips,2015,0,675,Gustavo,Malkomes,wustl,Washington University in St. Louis,luizgustavo@wustl.edu,Fast Distributed k-Center Clustering with Outliers on Massive Data
+neurips,2015,1,675,Matt,Kusner,wustl,Washington University in St. Louis,mkusner@wustl.edu,Fast Distributed k-Center Clustering with Outliers on Massive Data
+neurips,2015,2,675,Wenlin,Chen,wustl,Washington University in St. Louis,wenlinchen@wustl.edu,Fast Distributed k-Center Clustering with Outliers on Massive Data
+neurips,2015,3,675,Kilian,Weinberger,cornell,Washington University in St. Louis,kqw4@cornell.edu,Fast Distributed k-Center Clustering with Outliers on Massive Data
+neurips,2015,4,675,Benjamin,Moseley,wustl,Washington University in St Lo,bmoseley@wustl.edu,Fast Distributed k-Center Clustering with Outliers on Massive Data
+neurips,2015,0,941,Dominik,Rothenhäusler,ethz,ETH Zurich,rothenhaeusler@stat.math.ethz.ch,BACKSHIFT: Learning causal cyclic graphs from unknown shift interventions
+neurips,2015,1,941,Christina,Heinze,ethz,ETH Zurich,heinze@stat.math.ethz.ch,BACKSHIFT: Learning causal cyclic graphs from unknown shift interventions
+neurips,2015,2,941,Jonas,Peters,mpg,MPI Tübingen,jonas.peters@tuebingen.mpg.de,BACKSHIFT: Learning causal cyclic graphs from unknown shift interventions
+neurips,2015,3,941,Nicolai,Meinshausen,ethz,ETH Zurich,meinshausen@stat.math.ethz.ch,BACKSHIFT: Learning causal cyclic graphs from unknown shift interventions
+neurips,2015,0,953,Anastasia,Pentina,ist,IST Austria,apentina@ist.ac.at,Lifelong Learning with Non-i.i.d. Tasks
+neurips,2015,1,953,Christoph,Lampert,ist,IST Austria,chl@ist.ac.at,Lifelong Learning with Non-i.i.d. Tasks
+neurips,2015,0,975,Xinyang,Yi,utexas,Utaustin,yixy@utexas.edu,Regularized EM Algorithms: A Unified Framework and Statistical Guarantees
+neurips,2015,1,975,Constantine,Caramanis,utexas,UT Austin,constantine@utexas.edu,Regularized EM Algorithms: A Unified Framework and Statistical Guarantees
+neurips,2015,0,994,Elad,Hazan,princeton,Princeton University,ehazan@cs.princeton.edu,Beyond Convexity: Stochastic Quasi-Convex Optimization
+neurips,2015,1,994,Kfir,Levy,technion,Technion,kfiryl@tx.technion.ac.il,Beyond Convexity: Stochastic Quasi-Convex Optimization
+neurips,2015,2,994,Shai,Shalev-Shwartz,huji,Hebrew University,shais@cs.huji.ac.il,Beyond Convexity: Stochastic Quasi-Convex Optimization
+neurips,2015,0,1764,Özgür,imek,mpg,Max Plank Institute for Human Development,ozgur@mpib-berlin.mpg.de,Learning From Small Samples: An Analysis of Simple Decision Heuristics
+neurips,2015,1,1764,Marcus,Buckmann,mpg,Max Planck Institute for Human Development,buckmann@mpib-berlin.mpg.de,Learning From Small Samples: An Analysis of Simple Decision Heuristics
+neurips,2015,0,1461,Zhe,Gan,duke,Duke University,zhe.gan@duke.edu,Deep Temporal Sigmoid Belief Networks for Sequence Modeling
+neurips,2015,1,1461,Chunyuan,Li,duke,Duke University,chunyuan.li@duke.edu,Deep Temporal Sigmoid Belief Networks for Sequence Modeling
+neurips,2015,2,1461,Ricardo,Henao,duke,Duke University,r.henao@duke.edu,Deep Temporal Sigmoid Belief Networks for Sequence Modeling
+neurips,2015,3,1461,David,Carlson,duke,,david.carlson@duke.edu,Deep Temporal Sigmoid Belief Networks for Sequence Modeling
+neurips,2015,4,1461,Lawrence,Carin,duke,Duke University,lcarin@duke.edu,Deep Temporal Sigmoid Belief Networks for Sequence Modeling
+neurips,2015,0,1607,Vitaly,Feldman,harvard,IBM Research - Almaden,vitaly@post.harvard.edu,Subsampled Power Iteration: a Unified Algorithm for Block Models and Planted CSP's
+neurips,2015,1,1607,Will,Perkins,bham,University of Birmingham,w.f.perkins@bham.ac.uk,Subsampled Power Iteration: a Unified Algorithm for Block Models and Planted CSP's
+neurips,2015,2,1607,Santosh,Vempala,gatech,Georgia Tech,vempala@cc.gatech.edu,Subsampled Power Iteration: a Unified Algorithm for Block Models and Planted CSP's
+neurips,2015,0,1940,Felipe,Tobar,uchile,Universidad de Chile,ftobar@dim.uchile.cl,Learning Stationary Time Series using Gaussian Processes with Nonparametric Kernels
+neurips,2015,1,1940,Thang,Bui,cam,University of Cambridge,tdb40@cam.ac.uk,Learning Stationary Time Series using Gaussian Processes with Nonparametric Kernels
+neurips,2015,2,1940,Richard,Turner,cam,University of Cambridge,ret26@cam.ac.uk,Learning Stationary Time Series using Gaussian Processes with Nonparametric Kernels
+neurips,2015,0,814,Ruoyu,Sun,,Stanford university,,Improved Iteration Complexity Bounds of Cyclic Block Coordinate Descent for Convex Problems
+neurips,2015,1,814,Mingyi,Hong,,,,Improved Iteration Complexity Bounds of Cyclic Block Coordinate Descent for Convex Problems
+neurips,2015,0,1650,Mark,Kozdoba,technion,Technion,markk@tx.technion.ac.il,Community Detection via Measure Space Embedding
+neurips,2015,1,1650,Shie,Mannor,technion,Technion,shie@ee.technion.ac.il,Community Detection via Measure Space Embedding
+neurips,2015,0,82,Ayan,Chakrabarti,ttic,TTI Chicago,ayanc@ttic.edu,Color Constancy by Learning to Predict Chromaticity from Luminance
+neurips,2015,0,1745,Marin,Kobilarov,jhu,Johns Hopkins University,marin@jhu.edu,Sample Complexity Bounds for Iterative Stochastic Policy Optimization
+neurips,2015,0,186,Masrour,Zoghi,uva,University of Amsterdam,m.zoghi@uva.nl,Copeland Dueling Bandits
+neurips,2015,1,186,Zohar,Karnin,ox,,shimon.whiteson@cs.ox.ac.uk,Copeland Dueling Bandits
+neurips,2015,2,186,Shimon,Whiteson,yahoo-inc,University of Oxford,zkarnin@yahoo-inc.com,Copeland Dueling Bandits
+neurips,2015,3,186,Maarten,de Rijke,uva,University of Amsterdam,derijke@uva.nl,Copeland Dueling Bandits
+neurips,2015,0,1554,Christopher,De Sa,,Stanford,,Taming the Wild: A Unified Analysis of Hogwild-Style Algorithms
+neurips,2015,1,1554,Ce,Zhang,,Wisconsin,,Taming the Wild: A Unified Analysis of Hogwild-Style Algorithms
+neurips,2015,2,1554,Kunle,Olukotun,,Stanford,,Taming the Wild: A Unified Analysis of Hogwild-Style Algorithms
+neurips,2015,3,1554,Christopher,Ré,,Stanford,,Taming the Wild: A Unified Analysis of Hogwild-Style Algorithms
+neurips,2015,4,1554,Christopher,Ré,,,,Taming the Wild: A Unified Analysis of Hogwild-Style Algorithms
+neurips,2015,0,1235,Yuanjun,Gao,columbia,Columbia University,yg2312@columbia.edu,High-dimensional neural spike train analysis with generalized count linear dynamical systems
+neurips,2015,1,1235,Lars,Busing,columbia,Columbia University,lars@stat.columbia.edu,High-dimensional neural spike train analysis with generalized count linear dynamical systems
+neurips,2015,2,1235,Krishna,Shenoy,stanford,Stanford University,shenoy@stanford.edu,High-dimensional neural spike train analysis with generalized count linear dynamical systems
+neurips,2015,3,1235,John,Cunningham,columbia,University of Columbia,jpc2181@columbia.edu,High-dimensional neural spike train analysis with generalized count linear dynamical systems
+neurips,2015,0,1531,Shixiang (Shane),Gu,cam,University of Cambridge and Max Planck Institute for Intelligent Systems,sg717@cam.ac.uk,Neural Adaptive Sequential Monte Carlo
+neurips,2015,1,1531,Zoubin,Ghahramani,cam,University of Cambridge,zoubin@eng.cam.ac.uk,Neural Adaptive Sequential Monte Carlo
+neurips,2015,2,1531,Richard,Turner,cam,University of Cambridge,ret26@cam.ac.uk,Neural Adaptive Sequential Monte Carlo
+neurips,2015,0,1193,Ahmed,Hefny,cmu,Carnegie Mellon University,ahefny@cs.cmu.edu,Supervised Learning for Dynamical System Learning
+neurips,2015,1,1193,Carlton,Downey,cmu,Carnegie Mellon UNiversity,cmdowney@cs.cmu.edu,Supervised Learning for Dynamical System Learning
+neurips,2015,2,1193,Geoffrey,Gordon,cmu,CMU,ggordon@cs.cmu.edu,Supervised Learning for Dynamical System Learning
+neurips,2015,0,1660,Yi-An,Ma,,University of Washington,yianma@u,A Complete Recipe for Stochastic Gradient MCMC
+neurips,2015,1,1660,Tianqi,Chen,,University of Washington,tqchen@cs,A Complete Recipe for Stochastic Gradient MCMC
+neurips,2015,2,1660,Emily,Fox,washington,Washington,ebfox@stat.washington.edu,A Complete Recipe for Stochastic Gradient MCMC
+neurips,2015,0,1042,Ilya,Shpitser,jhu,Johns Hopkins University,ilyas@cs.jhu.edu,Segregated Graphs and Marginals of Chain Graph Models
+neurips,2015,0,365,Anastasia,Podosinnikova,,INRIA/ENS,,Rethinking LDA: Moment Matching for Discrete ICA
+neurips,2015,1,365,Francis,Bach,,INRIA - ENS,,Rethinking LDA: Moment Matching for Discrete ICA
+neurips,2015,2,365,Simon,Lacoste-Julien,,INRIA,,Rethinking LDA: Moment Matching for Discrete ICA
+neurips,2015,0,1113,Chongxuan,Li,,Tsinghua University,,Max-Margin Deep Generative Models
+neurips,2015,1,1113,Jun,Zhu,,Tsinghua University,,Max-Margin Deep Generative Models
+neurips,2015,2,1113,Tianlin,Shi,,Tsinghua University,,Max-Margin Deep Generative Models
+neurips,2015,3,1113,Bo,Zhang,,Tsinghua University,,Max-Margin Deep Generative Models
+neurips,2015,0,604,Ming,Liang,tsinghua,Tsinghua University,liangm07@mails.tsinghua.edu.cn,Convolutional Neural Networks with Intra-Layer Recurrent Connections for Scene Labeling
+neurips,2015,1,604,Xiaolin,Hu,tsinghua,Tsinghua University,xlhu@tsinghua.edu.cn,Convolutional Neural Networks with Intra-Layer Recurrent Connections for Scene Labeling
+neurips,2015,2,604,Bo,Zhang,tsinghua,Tsinghua University,dcszb@tsinghua.edu.cn,Convolutional Neural Networks with Intra-Layer Recurrent Connections for Scene Labeling
+neurips,2015,0,350,Xia,Qu,gmail,Epic Systems,quxiapisces@gmail.com,"Individual Planning in Infinite-Horizon Multiagent Settings: Inference, Structure and Scalability"
+neurips,2015,1,350,Prashant,Doshi,uga,University of Georgia,pdoshi@cs.uga.edu,"Individual Planning in Infinite-Horizon Multiagent Settings: Inference, Structure and Scalability"
+neurips,2015,0,2007,Thibaut,Lienart,ox,University of Oxford,lienart@stats.ox.ac.uk,Expectation Particle Belief Propagation
+neurips,2015,1,2007,Yee Whye,Teh,ox,University of Oxford,teh@stats.ox.ac.uk,Expectation Particle Belief Propagation
+neurips,2015,2,2007,Arnaud,Doucet,ox,Oxford,doucet@stats.ox.ac.uk,Expectation Particle Belief Propagation
+neurips,2015,0,1212,Peter,Kairouz,,UIUC,,Secure Multi-party Differential Privacy
+neurips,2015,1,1212,Sewoong,Oh,,UIUC,,Secure Multi-party Differential Privacy
+neurips,2015,2,1212,Pramod,Viswanath,,UIUC,,Secure Multi-party Differential Privacy
+neurips,2015,0,1573,Manuel,Watter,uni-freiburg,University of Freiburg,watterm@cs.uni-freiburg.de,Embed to Control: A Locally Linear Latent Dynamics Model for Control from Raw Images
+neurips,2015,1,1573,Jost,Springenberg,uni-freiburg,University of Freiburg,springj@cs.uni-freiburg.de,Embed to Control: A Locally Linear Latent Dynamics Model for Control from Raw Images
+neurips,2015,2,1573,Joschka,Boedecker,uni-freiburg,University of Freiburg,jboedeck@cs.uni-freiburg.de,Embed to Control: A Locally Linear Latent Dynamics Model for Control from Raw Images
+neurips,2015,3,1573,Martin,Riedmiller,google,Google DeepMind,riedmiller@google.com,Embed to Control: A Locally Linear Latent Dynamics Model for Control from Raw Images
+neurips,2015,0,752,Murat,Erdogdu,stanford,Stanford University,erdogdu@stanford.edu,Newton-Stein Method: A Second Order Method for GLMs via Stein's Lemma
+neurips,2015,0,1065,Ariel,Procaccia,cmu,Carnegie Mellon University,arielpro@cs.cmu.edu,Is Approval Voting Optimal Given Approval Votes?
+neurips,2015,1,1065,Nisarg,Shah,cmu,Carnegie Mellon University,nkshah@cs.cmu.edu,Is Approval Voting Optimal Given Approval Votes?
+neurips,2015,0,1252,Ted,Meeds,gmail,U. Amsterdam,tmeeds@gmail.com,Optimization Monte Carlo: Efficient and Embarrassingly Parallel Likelihood-Free Inference
+neurips,2015,1,1252,Max,Welling,gmail,University of Amsterdam,welling.max@gmail.com,Optimization Monte Carlo: Efficient and Embarrassingly Parallel Likelihood-Free Inference
+neurips,2015,0,1657,Gheorghe,Comanici,mcgill,"McGill University, Montreal",gcoman@cs.mcgill.ca,Basis refinement strategies for linear value function approximation in MDPs
+neurips,2015,1,1657,Doina,Precup,mcgill,University of McGill,dprecup@cs.mcgill.ca,Basis refinement strategies for linear value function approximation in MDPs
+neurips,2015,2,1657,Prakash,Panangaden,mcgill,"McGill University, Montreal",prakash@cs.mcgill.ca,Basis refinement strategies for linear value function approximation in MDPs
+neurips,2015,0,1344,Reza,Babanezhad Harikandeh,ubc,UBC,1rezababa@cs.ubc.ca,StopWasting My Gradients: Practical SVRG
+neurips,2015,1,1344,Mohamed Osama,Ahmed,ubc,,moahmed@cs.ubc.ca,StopWasting My Gradients: Practical SVRG
+neurips,2015,2,1344,Alim,Virani,ubc,,schmidtm@cs.ubc.ca,StopWasting My Gradients: Practical SVRG
+neurips,2015,3,1344,Mark,Schmidt,gmail,University of British Columbia,2alim.virani@gmail.com,StopWasting My Gradients: Practical SVRG
+neurips,2015,4,1344,Jakub,Konený,gmail,,kubo.konecny@gmail.com,StopWasting My Gradients: Practical SVRG
+neurips,2015,5,1344,Scott,Sallinen,ubc,UBC,scotts@ece.ubc.ca,StopWasting My Gradients: Practical SVRG
+neurips,2015,0,1298,Shafin,Rahman,gmail,University of Manitoba,shafin109@gmail.com,"Saliency, Scale and Information: Towards a Unifying Theory"
+neurips,2015,1,1298,Neil,Bruce,umanitoba,University of Manitoba,bruce@cs.umanitoba.ca,"Saliency, Scale and Information: Towards a Unifying Theory"
+neurips,2015,0,2003,Yu-Ying,Liu,,Georgia Tech,,Efficient Learning of Continuous-Time Hidden Markov Models for Disease Progression
+neurips,2015,1,2003,Shuang,Li,,Georgia Tech,,Efficient Learning of Continuous-Time Hidden Markov Models for Disease Progression
+neurips,2015,2,2003,Fuxin,Li,,Georgia Tech,,Efficient Learning of Continuous-Time Hidden Markov Models for Disease Progression
+neurips,2015,3,2003,Le,Song,,Georgia Institute of Technology,,Efficient Learning of Continuous-Time Hidden Markov Models for Disease Progression
+neurips,2015,4,2003,James,Rehg,,Georgia Tech,,Efficient Learning of Continuous-Time Hidden Markov Models for Disease Progression
+neurips,2015,0,737,Pratik Kumar,Jawanpuria,,Saarlanduniversity,,Efficient Output Kernel Learning for Multiple Tasks
+neurips,2015,1,737,Maksim,Lapin,,Max Planck Institute for Informatics,,Efficient Output Kernel Learning for Multiple Tasks
+neurips,2015,2,737,Matthias,Hein,,Saarland University,,Efficient Output Kernel Learning for Multiple Tasks
+neurips,2015,3,737,Bernt,Schiele,,Max Planck Institute for Informatics,,Efficient Output Kernel Learning for Multiple Tasks
+neurips,2015,0,146,Leon,Gatys,,University of Tübingen,,Texture Synthesis Using Convolutional Neural Networks
+neurips,2015,1,146,Alexander,Ecker,,University of Tuebingen,,Texture Synthesis Using Convolutional Neural Networks
+neurips,2015,2,146,Matthias,Bethge,,"CIN, University Tübingen",,Texture Synthesis Using Convolutional Neural Networks
+neurips,2015,0,570,Minhyung,Cho,gmail,Gracenote,mhyung.cho@gmail.com,Hessian-free Optimization for Learning Deep Multidimensional Recurrent Neural Networks
+neurips,2015,1,570,Chandra,Dhir,gmail,Gracenote,shekhardhir@gmail.com,Hessian-free Optimization for Learning Deep Multidimensional Recurrent Neural Networks
+neurips,2015,2,570,Jaehyung,Lee,kaist,Gracenote,jaehyung.lee@kaist.ac.kr,Hessian-free Optimization for Learning Deep Multidimensional Recurrent Neural Networks
+neurips,2015,0,780,Alaa,Saade,,ENS,,Matrix Completion from Fewer Entries: Spectral Detectability and Rank Estimation
+neurips,2015,1,780,Florent,Krzakala,,Ecole Normale Superieure Paris,,Matrix Completion from Fewer Entries: Spectral Detectability and Rank Estimation
+neurips,2015,2,780,Lenka,Zdeborová,,CEA,,Matrix Completion from Fewer Entries: Spectral Detectability and Rank Estimation
+neurips,2015,0,585,Vladimir,Vovk,gmail,"Royal Holloway, Univ of London",volodya.vovk@gmail.com,Large-scale probabilistic predictors with and without guarantees of validity
+neurips,2015,1,585,Ivan,Petej,gmail,"Royal Holloway, University of London",ivan.petej@gmail.com,Large-scale probabilistic predictors with and without guarantees of validity
+neurips,2015,2,585,Valentina,Fedorova,gmail,Yandex,alushaf@gmail.com,Large-scale probabilistic predictors with and without guarantees of validity
+neurips,2015,0,1237,Charlie,Frogner,mit,MIT,frogner@mit.edu,Learning with a Wasserstein Loss
+neurips,2015,1,1237,Chiyuan,Zhang,mit,MIT,chiyuan@mit.edu,Learning with a Wasserstein Loss
+neurips,2015,2,1237,Hossein,Mobahi,shell,MIT,Mauricio.Araya@shell.com,Learning with a Wasserstein Loss
+neurips,2015,3,1237,Mauricio,Araya,mit,Shell Intl. E&P Inc.,hmobahi@csail.mit.edu,Learning with a Wasserstein Loss
+neurips,2015,4,1237,Tomaso,Poggio,mit,MIT,tp@ai.mit.edu,Learning with a Wasserstein Loss
+neurips,2015,0,903,Emily,Denton,,New York University,,Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks
+neurips,2015,1,903,Soumith,Chintala,,Facebook AI Research,,Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks
+neurips,2015,2,903,arthur,szlam,,Facebook,,Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks
+neurips,2015,3,903,Rob,Fergus,,Facebook AI Research,,Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks
+neurips,2015,0,1529,Wenye,Li,ipm,Macao Polytechnic Institute,wyli@ipm.edu.mo,Estimating Jaccard Index with Missing Observations: A Matrix Calibration Approach
+neurips,2015,0,654,Wei,Cao,,Tsinghua University,1cao-w13@mails,On Top-k Selection in Multi-Armed Bandits and Hidden Bipartite Graphs
+neurips,2015,1,654,Jian,Li,,Tsinghua University,lijian83@mail,On Top-k Selection in Multi-Armed Bandits and Hidden Bipartite Graphs
+neurips,2015,2,654,Yufei,Tao,tsinghua,CUHK,zz-li14@mails.tsinghua.edu.cn,On Top-k Selection in Multi-Armed Bandits and Hidden Bipartite Graphs
+neurips,2015,3,654,Zhize,Li,cuhk,Tsinghua University,2taoyf@cse.cuhk.edu.hk,On Top-k Selection in Multi-Armed Bandits and Hidden Bipartite Graphs
+neurips,2015,0,467,Jean-Bastien,Grill,,INRIA Lille - Nord Europe,,Black-box optimization of noisy functions with unknown smoothness
+neurips,2015,1,467,Michal,Valko,,INRIA Lille - Nord Europe,,Black-box optimization of noisy functions with unknown smoothness
+neurips,2015,2,467,Remi,Munos,,Google DeepMind,,Black-box optimization of noisy functions with unknown smoothness
+neurips,2015,3,467,Remi,Munos,,Google DeepMind,,Black-box optimization of noisy functions with unknown smoothness
+neurips,2015,0,593,Rie,Johnson,gmail,RJ Research Consuulting,riejohnson@gmail.com,Semi-supervised Convolutional Neural Networks for Text Categorization via Region Embedding
+neurips,2015,1,593,Tong,Zhang,rutgers,Rutgers,tzhang@stat.rutgers.edu,Semi-supervised Convolutional Neural Networks for Text Categorization via Region Embedding
+neurips,2015,0,900,Tomer,Koren,technion,Technion,tomerk@technion.ac.il,Fast Rates for Exp-concave Empirical Risk Minimization
+neurips,2015,1,900,Kfir,Levy,technion,Technion,kfiryl@tx.technion.ac.il,Fast Rates for Exp-concave Empirical Risk Minimization
+neurips,2015,0,708,Song,Han,stanford,Stanford University,songhan@stanford.edu,Learning both Weights and Connections for Efficient Neural Network
+neurips,2015,1,708,Jeff,Pool,nvidia,NVIDIA,jpool@nvidia.com,Learning both Weights and Connections for Efficient Neural Network
+neurips,2015,2,708,John,Tran,nvidia,NVIDIA,johntran@nvidia.com,Learning both Weights and Connections for Efficient Neural Network
+neurips,2015,3,708,William,Dally,stanford,Stanford University,dally@stanford.edu,Learning both Weights and Connections for Efficient Neural Network
+neurips,2015,0,1897,Anoop,Korattikara Balan,google,Google,kbanoop@google.com,Bayesian dark knowledge
+neurips,2015,1,1897,Vivek,Rathod,google,Google,rathodv@google.com,Bayesian dark knowledge
+neurips,2015,2,1897,Kevin,Murphy,google,Google,kpmurphy@google.com,Bayesian dark knowledge
+neurips,2015,3,1897,Max,Welling,uva,,m.welling@uva.nl,Bayesian dark knowledge
+neurips,2015,0,1354,Changyou,Chen,gmail,Duke University,cchangyou@gmail.com,On the Convergence of Stochastic Gradient MCMC Algorithms with High-Order Integrators
+neurips,2015,1,1354,Nan,Ding,google,Google,dingnan@google.com,On the Convergence of Stochastic Gradient MCMC Algorithms with High-Order Integrators
+neurips,2015,2,1354,Lawrence,Carin,duke,Duke University,lcarin@duke.edu,On the Convergence of Stochastic Gradient MCMC Algorithms with High-Order Integrators
+neurips,2015,0,1031,Karl Moritz,Hermann,google,Google DeepMind,kmh@google.com,Teaching Machines to Read and Comprehend
+neurips,2015,1,1031,Tomas,Kocisky,google,Oxford University,tkocisky@google.com,Teaching Machines to Read and Comprehend
+neurips,2015,2,1031,Edward,Grefenstette,google,Google DeepMind,etg@google.com,Teaching Machines to Read and Comprehend
+neurips,2015,3,1031,Lasse,Espeholt,google,Google DeepMind,lespeholt@google.com,Teaching Machines to Read and Comprehend
+neurips,2015,4,1031,Will,Kay,google,Google DeepMind,wkay@google.com,Teaching Machines to Read and Comprehend
+neurips,2015,5,1031,Mustafa,Suleyman,google,Google DeepMind,mustafasul@google.com,Teaching Machines to Read and Comprehend
+neurips,2015,6,1031,Phil,Blunsom,google,Google DeepMind,pblunsom@google.com,Teaching Machines to Read and Comprehend
+neurips,2015,0,261,David,Kappel,,Graz University of Technology,,Synaptic Sampling: A Bayesian Approach to Neural Network Plasticity and Rewiring
+neurips,2015,1,261,Stefan,Habenschuss,,,,Synaptic Sampling: A Bayesian Approach to Neural Network Plasticity and Rewiring
+neurips,2015,2,261,Robert,Legenstein,,,,Synaptic Sampling: A Bayesian Approach to Neural Network Plasticity and Rewiring
+neurips,2015,3,261,Wolfgang,Maass,,,,Synaptic Sampling: A Bayesian Approach to Neural Network Plasticity and Rewiring
+neurips,2015,0,702,Prateek,Jain,,Microsoft Research,,Alternating Minimization for Regression Problems with Vector-valued Outputs
+neurips,2015,1,702,Ambuj,Tewari,,University of Michigan,,Alternating Minimization for Regression Problems with Vector-valued Outputs
+neurips,2015,0,1220,Kevin,Scaman,ens-cachan,ENS Cachan - CMLA,scaman@cmla.ens-cachan.fr,Anytime Influence Bounds and the Explosive Behavior of Continuous-Time Diffusion Networks
+neurips,2015,1,1220,Rémi,Lemonnier,ens-cachan,ENS Cachan - CMLA,lemonnier@cmla.ens-cachan.fr,Anytime Influence Bounds and the Explosive Behavior of Continuous-Time Diffusion Networks
+neurips,2015,2,1220,Nicolas,Vayatis,ens-cachan,ENS Cachan - CMLA,vayatis@cmla.ens-cachan.fr,Anytime Influence Bounds and the Explosive Behavior of Continuous-Time Diffusion Networks
+neurips,2015,0,1731,Christopher,De Sa,stanford,Stanford,cdesa@stanford.edu,Rapidly Mixing Gibbs Sampling for a Class of Factor Graphs Using Hierarchy Width
+neurips,2015,1,1731,Ce,Zhang,wisc,Wisconsin,czhang@cs.wisc.edu,Rapidly Mixing Gibbs Sampling for a Class of Factor Graphs Using Hierarchy Width
+neurips,2015,2,1731,Kunle,Olukotun,stanford,Stanford,kunle@stanford.edu,Rapidly Mixing Gibbs Sampling for a Class of Factor Graphs Using Hierarchy Width
+neurips,2015,3,1731,Christopher,Ré,stanford,,chrismre@stanford.edu,Rapidly Mixing Gibbs Sampling for a Class of Factor Graphs Using Hierarchy Width
+neurips,2015,0,344,Po-Hsuan (Cameron),Chen,,Princeton,,A Reduced-Dimension fMRI Shared Response Model
+neurips,2015,1,344,Janice,Chen,,,,A Reduced-Dimension fMRI Shared Response Model
+neurips,2015,2,344,Yaara,Yeshurun,,,,A Reduced-Dimension fMRI Shared Response Model
+neurips,2015,3,344,Uri,Hasson,,Princeton University,,A Reduced-Dimension fMRI Shared Response Model
+neurips,2015,4,344,James,Haxby,,,,A Reduced-Dimension fMRI Shared Response Model
+neurips,2015,5,344,Peter,Ramadge,,Princeton,,A Reduced-Dimension fMRI Shared Response Model
+neurips,2015,0,1881,Niao,He,gatech,Georgia Institute of Technology,nhe6@gatech.edu,Semi-Proximal Mirror-Prox for Nonsmooth Composite Minimization
+neurips,2015,1,1881,Zaid,Harchaoui,nyu,Inria,firstname.lastname@nyu.edu,Semi-Proximal Mirror-Prox for Nonsmooth Composite Minimization
+neurips,2015,0,1058,Chao,Qian,nju,Nanjing University,qianc@lamda.nju.edu.cn,Subset Selection by Pareto Optimization
+neurips,2015,1,1058,Yang,Yu,nju,Nanjing University,yuy@lamda.nju.edu.cn,Subset Selection by Pareto Optimization
+neurips,2015,2,1058,Zhi-Hua,Zhou,nju,Nanjing University,zhouzh@lamda.nju.edu.cn,Subset Selection by Pareto Optimization
+neurips,2015,0,55,Xinghao,Pan,,UC Berkeley,,Parallel Correlation Clustering on Big Graphs
+neurips,2015,1,55,Dimitris,Papailiopoulos,,UC Berkeley,,Parallel Correlation Clustering on Big Graphs
+neurips,2015,2,55,Samet,Oymak,,Caltech,,Parallel Correlation Clustering on Big Graphs
+neurips,2015,3,55,Benjamin,Recht,,UC Berkeley,,Parallel Correlation Clustering on Big Graphs
+neurips,2015,4,55,Kannan,Ramchandran,,UC Berkeley,,Parallel Correlation Clustering on Big Graphs
+neurips,2015,5,55,Michael,Jordan,,UC Berkeley,,Parallel Correlation Clustering on Big Graphs
+neurips,2015,0,1205,Kacper,Chwialkowski,gmail,University College London,kacper.chwialkowski@gmail.com,Fast Two-Sample Testing with Analytic Representations of Probability Measures
+neurips,2015,1,1205,Aaditya,Ramdas,berkeley,Carnegie Mellon University,aramdas@cs.berkeley.edu,Fast Two-Sample Testing with Analytic Representations of Probability Measures
+neurips,2015,2,1205,Dino,Sejdinovic,gmail,University of Oxford,dino.sejdinovic@gmail.com,Fast Two-Sample Testing with Analytic Representations of Probability Measures
+neurips,2015,3,1205,Arthur,Gretton,gmail,University Collage London,arthur.gretton@gmail.com,Fast Two-Sample Testing with Analytic Representations of Probability Measures
+neurips,2015,0,1686,Junyoung,Chung,,University of Montreal,,A Recurrent Latent Variable Model for Sequential Data
+neurips,2015,1,1686,Kyle,Kastner,,Universite de Montreal,,A Recurrent Latent Variable Model for Sequential Data
+neurips,2015,2,1686,Laurent,Dinh,,University of Montreal,,A Recurrent Latent Variable Model for Sequential Data
+neurips,2015,3,1686,Kratarth,Goel,,University of Montreal,,A Recurrent Latent Variable Model for Sequential Data
+neurips,2015,4,1686,Aaron,Courville,,U. Montreal,,A Recurrent Latent Variable Model for Sequential Data
+neurips,2015,5,1686,Yoshua,Bengio,,U. Montreal,,A Recurrent Latent Variable Model for Sequential Data
+neurips,2015,0,620,Kevin,Ellis,mit,MIT,ellisk@mit.edu,Unsupervised Learning by Program Synthesis
+neurips,2015,1,620,Armando,Solar-Lezama,mit,MIT,asolar@csail.mit.edu,Unsupervised Learning by Program Synthesis
+neurips,2015,2,620,Josh,Tenenbaum,mit,MIT,jbt@mit.edu,Unsupervised Learning by Program Synthesis
+neurips,2015,0,1783,Karthikeyan,Shanmugam,utexas,UT Austin,1karthiksh@utexas.edu,Learning Causal Graphs with Small Interventions
+neurips,2015,1,1783,Murat,Kocaoglu,utexas,UT Austin,2mkocaoglu@utexas.edu,Learning Causal Graphs with Small Interventions
+neurips,2015,2,1783,Alexandros,Dimakis,utexas,Utaustin,3dimakis@austin.utexas.edu,Learning Causal Graphs with Small Interventions
+neurips,2015,3,1783,Sriram,Vishwanath,utexas,UT Austin,4sriram@ece.utexas.edu,Learning Causal Graphs with Small Interventions
+neurips,2015,0,1108,Edward,Grefenstette,google,Google DeepMind,etg@google.com,Learning to Transduce with Unbounded Memory
+neurips,2015,1,1108,Karl Moritz,Hermann,google,Google DeepMind,kmh@google.com,Learning to Transduce with Unbounded Memory
+neurips,2015,2,1108,Mustafa,Suleyman,google,Google DeepMind,mustafasul@google.com,Learning to Transduce with Unbounded Memory
+neurips,2015,3,1108,Phil,Blunsom,google,Google DeepMind,pblunsom@google.com,Learning to Transduce with Unbounded Memory
+neurips,2015,0,1759,Jennifer,Gillenwater,uw,University of Washington,jengi@uw.edu,Submodular Hamming Metrics
+neurips,2015,1,1759,Rishabh,Iyer,uw,"University of Washington, Seattle",rkiyer@uw.edu,Submodular Hamming Metrics
+neurips,2015,2,1759,Bethany,Lusch,uw,University of Washington,herwaldt@uw.edu,Submodular Hamming Metrics
+neurips,2015,3,1759,Rahul,Kidambi,uw,University of Washington,rkidambi@uw.edu,Submodular Hamming Metrics
+neurips,2015,4,1759,Jeff,Bilmes,uw,"University of Washington, Seattle",bilmes@uw.edu,Submodular Hamming Metrics
+neurips,2015,0,732,François-Xavier,Briol,warwick,University of Warwick,f-x.briol@warwick.ac.uk,Frank-Wolfe Bayesian Quadrature: Probabilistic Integration with Theoretical Guarantees
+neurips,2015,1,732,Chris,Oates,uts,"University of Tech., Sydney",christopher.oates@uts.edu.au,Frank-Wolfe Bayesian Quadrature: Probabilistic Integration with Theoretical Guarantees
+neurips,2015,2,732,Mark,Girolami,warwick,"University of Warwick, The Alan Turing Institute for Data Science",m.girolami@warwick.ac.uk,Frank-Wolfe Bayesian Quadrature: Probabilistic Integration with Theoretical Guarantees
+neurips,2015,3,732,Michael,Osborne,ox,U Oxford,mosb@robots.ox.ac.uk,Frank-Wolfe Bayesian Quadrature: Probabilistic Integration with Theoretical Guarantees
+neurips,2015,0,364,Chris,Piech,,Stanford,,Deep Knowledge Tracing
+neurips,2015,1,364,Jonathan,Bassen,,stanford.edu,,Deep Knowledge Tracing
+neurips,2015,2,364,Jonathan,Huang,,google.com,,Deep Knowledge Tracing
+neurips,2015,3,364,Surya,Ganguli,,stanford.edu,,Deep Knowledge Tracing
+neurips,2015,4,364,Mehran,Sahami,,stanford.edu,,Deep Knowledge Tracing
+neurips,2015,5,364,Leonidas,Guibas,,stanford.edu,,Deep Knowledge Tracing
+neurips,2015,6,364,Jascha,Sohl-Dickstein,,stanford.edu,,Deep Knowledge Tracing
+neurips,2015,0,1379,Cynthia,Dwork,,Microsoft Research,,Generalization in Adaptive Data Analysis and Holdout Reuse
+neurips,2015,1,1379,Vitaly,Feldman,,IBM Research - Almaden,,Generalization in Adaptive Data Analysis and Holdout Reuse
+neurips,2015,2,1379,Moritz,Hardt,,Google,,Generalization in Adaptive Data Analysis and Holdout Reuse
+neurips,2015,3,1379,Toni,Pitassi,,University of Toronto,,Generalization in Adaptive Data Analysis and Holdout Reuse
+neurips,2015,4,1379,Omer,Reingold,,Samsung Research,,Generalization in Adaptive Data Analysis and Holdout Reuse
+neurips,2015,5,1379,Aaron,Roth,,University of Pennsylvania,,Generalization in Adaptive Data Analysis and Holdout Reuse
+neurips,2015,0,1324,Jessa,Bekker,kuleuven,KU Leuven,jessa.bekker@cs.kuleuven.be,Tractable Learning for Complex Probability Queries
+neurips,2015,1,1324,Jesse,Davis,kuleuven,KU Leuven,jesse.davis@cs.kuleuven.be,Tractable Learning for Complex Probability Queries
+neurips,2015,2,1324,Arthur,Choi,ucla,UCLA,aychoi@cs.ucla.edu,Tractable Learning for Complex Probability Queries
+neurips,2015,3,1324,Adnan,Darwiche,ucla,UCLA,darwiche@cs.ucla.edu,Tractable Learning for Complex Probability Queries
+neurips,2015,4,1324,Guy,Van den Broeck,ucla,UCLA,guyvdb@cs.ucla.edu,Tractable Learning for Complex Probability Queries
+neurips,2015,0,1515,Durk,Kingma,uva,University of Amsterdam,D.P.Kingma@uva.nl,Variational Dropout and the Local Reparameterization Trick
+neurips,2015,1,1515,Tim,Salimans,gmail,Algoritmica,salimans.tim@gmail.com,Variational Dropout and the Local Reparameterization Trick
+neurips,2015,2,1515,Max,Welling,uva,"University of California, Irvine",M.Welling@uva.nl,Variational Dropout and the Local Reparameterization Trick
+neurips,2015,0,1566,Rasmus,Kyng,yale,Yale University,rasmus.kyng@yale.edu,"Fast, Provable Algorithms for Isotonic Regression in all L_p-norms"
+neurips,2015,1,1566,Anup,Rao,gatech,"School of Computer Science, Georgia Tech",arao89@gatech.edu,"Fast, Provable Algorithms for Isotonic Regression in all L_p-norms"
+neurips,2015,2,1566,Sushant,Sachdeva,yale,Yale University,sachdeva@cs.yale.edu,"Fast, Provable Algorithms for Isotonic Regression in all L_p-norms"
+neurips,2015,0,359,Simon,Lacoste-Julien,,INRIA,,On the Global Linear Convergence of Frank-Wolfe Optimization Variants
+neurips,2015,1,359,Martin,Jaggi,,ETH Zurich,,On the Global Linear Convergence of Frank-Wolfe Optimization Variants
+neurips,2015,0,1286,Joseph,Wang,,Boston University,,Efficient Learning by Directed Acyclic Graph For Resource Constrained Prediction
+neurips,2015,1,1286,Kirill,Trapeznikov,,STR,,Efficient Learning by Directed Acyclic Graph For Resource Constrained Prediction
+neurips,2015,2,1286,Venkatesh,Saligrama,,Boston University,,Efficient Learning by Directed Acyclic Graph For Resource Constrained Prediction
+neurips,2015,0,775,Sebastien,Bubeck,microsoft,MSR,sebubeck@microsoft.com,Finite-Time Analysis of Projected Langevin Monte Carlo
+neurips,2015,1,775,Ronen,Eldan,gmail,,roneneldan@gmail.com,Finite-Time Analysis of Projected Langevin Monte Carlo
+neurips,2015,2,775,Joseph,Lehec,dauphine,,lehec@ceremade.dauphine.fr,Finite-Time Analysis of Projected Langevin Monte Carlo
+neurips,2015,0,1868,Hongzhou,Lin,inria,Inria,hongzhou.lin@inria.fr,A Universal Catalyst for First-Order Optimization
+neurips,2015,1,1868,Julien,Mairal,inria,INRIA,julien.mairal@inria.fr,A Universal Catalyst for First-Order Optimization
+neurips,2015,2,1868,Zaid,Harchaoui,nyu,Inria,zaid.harchaoui@nyu.edu,A Universal Catalyst for First-Order Optimization
+neurips,2015,0,1645,Baharan,Mirzasoleiman,,ETHZ,,Distributed Submodular Cover: Succinctly Summarizing Massive Data
+neurips,2015,1,1645,Amin,Karbasi,,Yale,,Distributed Submodular Cover: Succinctly Summarizing Massive Data
+neurips,2015,2,1645,Ashwinkumar,Badanidiyuru,,Google Research,,Distributed Submodular Cover: Succinctly Summarizing Massive Data
+neurips,2015,3,1645,Andreas,Krause,,ETHZ,,Distributed Submodular Cover: Succinctly Summarizing Massive Data
+neurips,2015,0,1188,Wooseok,Ha,uchicago,The University of Chicago,haywse@uchicago.edu,Robust PCA with compressed data
+neurips,2015,1,1188,Rina,Foygel Barber,uchicago,University of Chicago,rina@uchicago.edu,Robust PCA with compressed data
+neurips,2015,0,116,Yan,Huang,ia,"CRIPAC, CASIA",yhuang@nlpr.ia.ac.cn,Bidirectional Recurrent Convolutional Networks for Multi-Frame Super-Resolution
+neurips,2015,1,116,Wei,Wang,ia,"NLPR,CASIA",wangwei@nlpr.ia.ac.cn,Bidirectional Recurrent Convolutional Networks for Multi-Frame Super-Resolution
+neurips,2015,2,116,Liang,Wang,ia,,wangliang@nlpr.ia.ac.cn,Bidirectional Recurrent Convolutional Networks for Multi-Frame Super-Resolution
+neurips,2015,0,1198,Noam,Brown,cmu,Carnegie Mellon University,noamb@cmu.edu,Regret-Based Pruning in Extensive-Form Games
+neurips,2015,1,1198,Tuomas,Sandholm,cmu,Carnegie Mellon University,sandholm@cs.cmu.edu,Regret-Based Pruning in Extensive-Form Games
+neurips,2015,0,16,Theodoros,Tsiligkaridis,,MIT Lincoln Laboratory,,Adaptive Low-Complexity Sequential Inference for Dirichlet Process Mixture Models
+neurips,2015,1,16,Theodoros,Tsiligkaridis,,MIT Lincoln Laboratory,,Adaptive Low-Complexity Sequential Inference for Dirichlet Process Mixture Models
+neurips,2015,2,16,Keith,Forsythe,,MIT Lincoln Laboratory,,Adaptive Low-Complexity Sequential Inference for Dirichlet Process Mixture Models
+neurips,2015,0,547,Mathias,Berglund,,Aalto University,,Bidirectional Recurrent Neural Networks as Generative Models
+neurips,2015,1,547,Tapani,Raiko,,"Aalto University, The Curious AI Company",,Bidirectional Recurrent Neural Networks as Generative Models
+neurips,2015,2,547,Mikko,Honkala,,Nokia Labs,,Bidirectional Recurrent Neural Networks as Generative Models
+neurips,2015,3,547,Leo,Kärkkäinen,,Nokia Labs,,Bidirectional Recurrent Neural Networks as Generative Models
+neurips,2015,4,547,Akos,Vetek,,Nokia Labs,,Bidirectional Recurrent Neural Networks as Generative Models
+neurips,2015,5,547,Juha,Karhunen,,Aalto University,,Bidirectional Recurrent Neural Networks as Generative Models
+neurips,2015,0,2,Nihar Bhadresh,Shah,berkeley,UC Berkeley,nihar@eecs.berkeley.edu,Double or Nothing: Multiplicative Incentive Mechanisms for Crowdsourcing
+neurips,2015,1,2,Dengyong,Zhou,microsoft,MSR,dengyong.zhou@microsoft.com,Double or Nothing: Multiplicative Incentive Mechanisms for Crowdsourcing
+neurips,2015,0,946,Sorathan,Chaturapruek,stanford,Stanford University,sorathan@stanford.edu,Asynchronous stochastic convex optimization: the noise is in the noise and SGD don't care
+neurips,2015,1,946,John,Duchi,stanford,Stanford,jduchi@stanford.edu,Asynchronous stochastic convex optimization: the noise is in the noise and SGD don't care
+neurips,2015,2,946,Christopher,Ré,stanford,,chrismre@stanford.edu,Asynchronous stochastic convex optimization: the noise is in the noise and SGD don't care
+neurips,2015,0,124,Guillaume,Dehaene,gmail,University of Geneva,guillaume.dehaene@gmail.com,Bounding errors of Expectation-Propagation
+neurips,2015,1,124,Simon,Barthelmé,gipsa-lab,Gipsa-lab CNRS,simon.barthelme@gipsa-lab.fr,Bounding errors of Expectation-Propagation
+neurips,2015,0,104,Andrea,Montanari,stanford,Stanford,montanari@stanford.edu,On the Limitation of Spectral Methods: From the Gaussian Hidden Clique Problem to Rank-One Perturbations of Gaussian Tensors
+neurips,2015,1,104,Daniel,Reichman,gmail,Cornell University,daniel.reichman@gmail.com,On the Limitation of Spectral Methods: From the Gaussian Hidden Clique Problem to Rank-One Perturbations of Gaussian Tensors
+neurips,2015,2,104,Ofer,Zeitouni,weizmann,Weizmann Institute and Courant Institute,ofer.zeitouni@weizmann.ac.il,On the Limitation of Spectral Methods: From the Gaussian Hidden Clique Problem to Rank-One Perturbations of Gaussian Tensors
+neurips,2015,0,679,Kamalika,Chaudhuri,,UCSD,,Convergence Rates of Active Learning for Maximum Likelihood Estimation
+neurips,2015,1,679,Sham,Kakade,,University of Washington,,Convergence Rates of Active Learning for Maximum Likelihood Estimation
+neurips,2015,2,679,Praneeth,Netrapalli,,Microsoft Research,,Convergence Rates of Active Learning for Maximum Likelihood Estimation
+neurips,2015,3,679,Sujay,Sanghavi,,UTexas-Austin,,Convergence Rates of Active Learning for Maximum Likelihood Estimation
+neurips,2015,0,977,Soroosh,Shafieezadeh Abadeh,,cole Polytechnique Fe de rale de Lausanne,,Distributionally Robust Logistic Regression
+neurips,2015,1,977,Peyman,Mohajerin Esfahani,,cole Polytechnique Fe de rale de Lausanne,,Distributionally Robust Logistic Regression
+neurips,2015,2,977,Daniel,Kuhn,,cole Polytechnique Fe de rale de Lausanne,,Distributionally Robust Logistic Regression
+neurips,2015,0,1257,Tom,Goldstein,,University of Maryland,,Adaptive Primal-Dual Splitting Methods for Statistical Learning and Image Processing
+neurips,2015,1,1257,Min,Li,,Southeast University,,Adaptive Primal-Dual Splitting Methods for Statistical Learning and Image Processing
+neurips,2015,2,1257,Xiaoming,Yuan,,Hong Kong Baptist University,,Adaptive Primal-Dual Splitting Methods for Statistical Learning and Image Processing
+neurips,2015,0,1062,Junpei,Komiyama,komiyama,The University of Tokyo,junpei@komiyama.info,Regret Lower Bound and Optimal Algorithm in Finite Stochastic Partial Monitoring
+neurips,2015,1,1062,Junya,Honda,u-tokyo,The University of Tokyo,honda@stat.t.u-tokyo.ac.jp,Regret Lower Bound and Optimal Algorithm in Finite Stochastic Partial Monitoring
+neurips,2015,2,1062,Hiroshi,Nakagawa,u-tokyo,The University of Tokyo,nakagawa@dl.itc.u-tokyo.ac.jp,Regret Lower Bound and Optimal Algorithm in Finite Stochastic Partial Monitoring
+neurips,2015,0,1669,Mark,Herbster,ucl,University College London,m.herbster@cs.ucl.ac.uk,Online Prediction at the Limit of Zero Temperature
+neurips,2015,1,1669,Stephen,Pasteris,ucl,UCL,s.pasteris@cs.ucl.ac.uk,Online Prediction at the Limit of Zero Temperature
+neurips,2015,2,1669,Shaona,Ghosh,gmail,University of Southhampton,ghosh.shaona@gmail.com,Online Prediction at the Limit of Zero Temperature
+neurips,2015,0,829,Akshay,Balsubramani,ucsd,Ucsd,abalsubr@cs.ucsd.edu,Scalable Semi-Supervised Aggregation of Classifiers
+neurips,2015,1,829,Yoav,Freund,ucsd,UC San Diego,yfreund@cs.ucsd.edu,Scalable Semi-Supervised Aggregation of Classifiers
+neurips,2015,0,1498,Tejas,Kulkarni,mit,MIT,1tejask@mit.edu,Deep Convolutional Inverse Graphics Network
+neurips,2015,1,1498,William,Whitney,mit,MIT,2wwhitney@mit.edu,Deep Convolutional Inverse Graphics Network
+neurips,2015,2,1498,Pushmeet,Kohli,microsoft,Microsoft Research,3pkohli@microsoft.com,Deep Convolutional Inverse Graphics Network
+neurips,2015,3,1498,Josh,Tenenbaum,mit,MIT,4jbt@mit.edu,Deep Convolutional Inverse Graphics Network
+neurips,2015,0,183,Ofer,Meshi,,TTI Chicago,,Smooth and Strong: MAP Inference with Linear Convergence
+neurips,2015,1,183,Mehrdad,Mahdavi,,TTI Chicago,,Smooth and Strong: MAP Inference with Linear Convergence
+neurips,2015,2,183,Alex,Schwing,,University of Toronto,,Smooth and Strong: MAP Inference with Linear Convergence
+neurips,2015,0,368,Sohail,Bahmani,gatech,Georgia Tech.,sohail.bahmani@ece.gatech.edu,Efficient Compressive Phase Retrieval with Constrained Sensing Vectors
+neurips,2015,1,368,Justin,Romberg,gatech,Georgia Institute of Technology,jrom@ece.gatech.edu,Efficient Compressive Phase Retrieval with Constrained Sensing Vectors
+neurips,2015,0,520,Anqi,Wu,princeton,Princeton University,anqiw@princeton.edu,Convolutional spike-triggered covariance analysis for neural subunit models
+neurips,2015,1,520,Il Memming,Park,princeton,Stony Brook University,pillow@princeton.edu,Convolutional spike-triggered covariance analysis for neural subunit models
+neurips,2015,2,520,Jonathan,Pillow,stonybrook,Princeton University,memming.park@stonybrook.edu,Convolutional spike-triggered covariance analysis for neural subunit models
+neurips,2015,0,478,Emmanuel,Abbe,princeton,Princeton University,eabbe@princeton.edu,Recovering Communities in the General Stochastic Block Model Without Knowing the Parameters
+neurips,2015,1,478,Colin,Sandon,princeton,Princeton University,sandon@princeton.edu,Recovering Communities in the General Stochastic Block Model Without Knowing the Parameters
+neurips,2015,0,1542,Sashank,J. Reddi,cmu,Carnegie Mellon University,sjakkamr@cs.cmu.edu,On Variance Reduction in Stochastic Gradient Descent and its Asynchronous Variants
+neurips,2015,1,1542,Ahmed,Hefny,cmu,Carnegie Mellon University,ahefny@cs.cmu.edu,On Variance Reduction in Stochastic Gradient Descent and its Asynchronous Variants
+neurips,2015,2,1542,Suvrit,Sra,cmu,MIT,bapoczos@cs.cmu.edu,On Variance Reduction in Stochastic Gradient Descent and its Asynchronous Variants
+neurips,2015,3,1542,Barnabas,Poczos,mit,Carnegie Mellon University,suvrit@mit.edu,On Variance Reduction in Stochastic Gradient Descent and its Asynchronous Variants
+neurips,2015,4,1542,Alexander,Smola,smola,Carnegie Mellon University,alex@smola.org,On Variance Reduction in Stochastic Gradient Descent and its Asynchronous Variants
+neurips,2015,0,75,Jiajun,Wu,mit,MIT,jiajunwu@mit.edu,Galileo: Perceiving Physical Object Properties by Integrating a Physics Engine with Deep Learning
+neurips,2015,1,75,Ilker,Yildirim,mit,MIT,lim@csail.mit.edu,Galileo: Perceiving Physical Object Properties by Integrating a Physics Engine with Deep Learning
+neurips,2015,2,75,Joseph,Lim,mit,MIT,ilkery@mit.edu,Galileo: Perceiving Physical Object Properties by Integrating a Physics Engine with Deep Learning
+neurips,2015,3,75,Bill,Freeman,mit,MIT,billf@mit.edu,Galileo: Perceiving Physical Object Properties by Integrating a Physics Engine with Deep Learning
+neurips,2015,4,75,Josh,Tenenbaum,mit,MIT,jbt@mit.edu,Galileo: Perceiving Physical Object Properties by Integrating a Physics Engine with Deep Learning
+neurips,2015,0,714,Bharath,Sriperumbudur,psu,The Pennsylvania State University,bks18@psu.edu,Optimal Rates for Random Fourier Features
+neurips,2015,1,714,Zoltan,Szabo,ucl,"Gatsby Unit, UCL",zoltan.szabo@gatsby.ucl.ac.uk,Optimal Rates for Random Fourier Features
+neurips,2015,0,479,Sixin,Zhang,nyu,New York University,zsx@cims.nyu.edu,Deep learning with Elastic Averaging SGD
+neurips,2015,1,479,Anna,Choromanska,nyu,"Courant Institute, NYU",achoroma@cims.nyu.edu,Deep learning with Elastic Averaging SGD
+neurips,2015,2,479,Yann,LeCun,nyu,New York University,yann@cims.nyu.edu,Deep learning with Elastic Averaging SGD
+neurips,2015,0,418,Róbert,Busa-Fekete,upb,UPB,busarobi@upb.de,Online F-Measure Optimization
+neurips,2015,1,418,Balázs,Szörényi,poznan,The Technion / University of Szeged,kdembczynski@cs.put.poznan.pl,Online F-Measure Optimization
+neurips,2015,2,418,Krzysztof,Dembczynski,gmail,Poznan University of Technology,szorenyibalazs@gmail.com,Online F-Measure Optimization
+neurips,2015,3,418,Eyke,Hüllermeier,upb,Marburguniversity,eyke@upb.de,Online F-Measure Optimization
+neurips,2015,0,79,Mijung,Park,ucl,UCL,mijung@gatsby.ucl.ac.uk,Bayesian Manifold Learning: The Locally Linear Latent Variable Model (LL-LVM)
+neurips,2015,1,79,Wittawat,Jitkrittum,ucl,"Gatsby Unit, UCL",wittawat@gatsby.ucl.ac.uk,Bayesian Manifold Learning: The Locally Linear Latent Variable Model (LL-LVM)
+neurips,2015,2,79,Ahmad,Qamar,ucl,,zoltan.szabo@gatsby.ucl.ac.uk,Bayesian Manifold Learning: The Locally Linear Latent Variable Model (LL-LVM)
+neurips,2015,3,79,Zoltan,Szabo,gmail,"Gatsby Unit, UCL",atqamar@gmail.com,Bayesian Manifold Learning: The Locally Linear Latent Variable Model (LL-LVM)
+neurips,2015,4,79,Lars,Buesing,google,,lbuesing@google.com,Bayesian Manifold Learning: The Locally Linear Latent Variable Model (LL-LVM)
+neurips,2015,5,79,Maneesh,Sahani,ucl,,maneesh@gatsby.ucl.ac.uk,Bayesian Manifold Learning: The Locally Linear Latent Variable Model (LL-LVM)
+neurips,2015,0,73,Bryan,He,stanford,Stanford University,bryanhe@stanford.edu,Smooth Interactive Submodular Set Cover
+neurips,2015,1,73,Yisong,Yue,caltech,Caltech,yyue@caltech.edu,Smooth Interactive Submodular Set Cover
+neurips,2015,0,279,Saurabh,Paul,paypal,Paypal Inc,saupaul@paypal.com,Column Selection via Adaptive Sampling
+neurips,2015,1,279,Malik,Magdon-Ismail,rpi,RPI,magdon@cs.rpi.edu,Column Selection via Adaptive Sampling
+neurips,2015,2,279,Petros,Drineas,rpi,Rensselaer Polytechnic Institute,drinep@cs.rpi.edu,Column Selection via Adaptive Sampling
+neurips,2015,0,1690,Marijn,Stollenga,,IDSIA,,"Parallel Multi-Dimensional LSTM, With Application to Fast Biomedical Volumetric Image Segmentation"
+neurips,2015,1,1690,Wonmin,Byeon,,IDSIA,,"Parallel Multi-Dimensional LSTM, With Application to Fast Biomedical Volumetric Image Segmentation"
+neurips,2015,2,1690,Marcus,Liwicki,,TU Kaiserslautern,,"Parallel Multi-Dimensional LSTM, With Application to Fast Biomedical Volumetric Image Segmentation"
+neurips,2015,3,1690,Jürgen,Schmidhuber,,,,"Parallel Multi-Dimensional LSTM, With Application to Fast Biomedical Volumetric Image Segmentation"
+neurips,2015,0,825,Jiaji,Huang,duke,Duke University,jiaji.huang@duke.edu,Discriminative Robust Transformation Learning
+neurips,2015,1,825,Qiang,Qiu,duke,Duke University,qiang.qiu@duke.edu,Discriminative Robust Transformation Learning
+neurips,2015,2,825,Guillermo,Sapiro,duke,,guillermo.sapiro@duke.edu,Discriminative Robust Transformation Learning
+neurips,2015,3,825,Robert,Calderbank,duke,Duke University,robert.calderbank@duke.edu,Discriminative Robust Transformation Learning
+neurips,2015,0,1592,Ricardo,Henao,duke,Duke University,r.henao@duke.edu,Deep Poisson Factor Modeling
+neurips,2015,1,1592,Zhe,Gan,duke,Duke University,zhe.gan@duke.edu,Deep Poisson Factor Modeling
+neurips,2015,2,1592,James,Lu,duke,Duke University,james.lu@duke.edu,Deep Poisson Factor Modeling
+neurips,2015,3,1592,Lawrence,Carin,duke,Duke University,lcarin@duke.edu,Deep Poisson Factor Modeling
+neurips,2015,0,1007,TIAN,TIAN,tsinghua,Tsinghua University,tiant13@mails.tsinghua.edu.cn,Max-Margin Majority Voting for Learning from Crowds
+neurips,2015,1,1007,Jun,Zhu,tsinghua,Tsinghua University,dcszj@tsinghua.edu.cn,Max-Margin Majority Voting for Learning from Crowds
+neurips,2015,0,1277,Alon,Orlitsky,,"University of California, San Diego",,Competitive Distribution Estimation: Why is Good-Turing Good
+neurips,2015,1,1277,Ananda Theertha,Suresh,,UCSD,,Competitive Distribution Estimation: Why is Good-Turing Good
+neurips,2015,0,1958,Farzaneh,Mirzazadeh,ualberta,University of Alberta,mirzazad@ualberta.ca,Embedding Inference for Structured Multilabel Prediction
+neurips,2015,1,1958,Siamak,Ravanbakhsh,ualberta,University of Alberta,mravanba@ualberta.ca,Embedding Inference for Structured Multilabel Prediction
+neurips,2015,2,1958,Nan,Ding,google,Google,dingnan@google.com,Embedding Inference for Structured Multilabel Prediction
+neurips,2015,3,1958,Dale,Schuurmans,ualberta,Alberta,daes@ualberta.ca,Embedding Inference for Structured Multilabel Prediction
+neurips,2015,0,345,Chicheng,Zhang,ucsd,UC San Diego,chz038@eng.ucsd.edu,Spectral Learning of Large Structured HMMs for Comparative Epigenomics
+neurips,2015,1,345,Jimin,Song,rutgers,Rutgers,song@dls.rutgers.edu,Spectral Learning of Large Structured HMMs for Comparative Epigenomics
+neurips,2015,2,345,Kamalika,Chaudhuri,rutgers,UCSD,kcchen@dls.rutgers.edu,Spectral Learning of Large Structured HMMs for Comparative Epigenomics
+neurips,2015,3,345,Kevin,Chen,ucsd,Rutgers,kamalika@eng.ucsd.edu,Spectral Learning of Large Structured HMMs for Comparative Epigenomics
+neurips,2015,0,257,Guosheng,Lin,adelaide,The University of Adelaide,guosheng.lin@adelaide.edu.au,Deeply Learning the Messages in Message Passing Inference
+neurips,2015,1,257,Chunhua,Shen,adelaide,,chunhua.shen@adelaide.edu.au,Deeply Learning the Messages in Message Passing Inference
+neurips,2015,2,257,Ian,Reid,adelaide,University of Adelaide,ian.reid@adelaide.edu.au,Deeply Learning the Messages in Message Passing Inference
+neurips,2015,3,257,Anton,van den Hengel,adelaide,University of Adelaide,anton.vandenhengel@adelaide.edu.au,Deeply Learning the Messages in Message Passing Inference
+neurips,2015,0,1398,Jacob,Gardner,cornell,Cornell University,jrg365@cornell.edu,Bayesian Active Model Selection with an Application to Automated Audiometry
+neurips,2015,1,1398,Gustavo,Malkomes,cornell,Washington University in St. Louis,kqw4@cornell.edu,Bayesian Active Model Selection with an Application to Automated Audiometry
+neurips,2015,2,1398,Roman,Garnett,wustl,Washington University in STL,luizgustavo@wustl.edu,Bayesian Active Model Selection with an Application to Automated Audiometry
+neurips,2015,3,1398,Kilian,Weinberger,wustl,Cornell University,garnett@wustl.edu,Bayesian Active Model Selection with an Application to Automated Audiometry
+neurips,2015,4,1398,Dennis,Barbour,wustl,Washington University in St. Louis,dbarbour@wustl.edu,Bayesian Active Model Selection with an Application to Automated Audiometry
+neurips,2015,5,1398,John,Cunningham,columbia,University of Columbia,jpc2181@columbia.edu,Bayesian Active Model Selection with an Application to Automated Audiometry
+neurips,2015,0,1179,Sewoong,Oh,,UIUC,,Collaboratively Learning Preferences from Ordinal Data
+neurips,2015,1,1179,Kiran,Thekumparampil,,UIUC,,Collaboratively Learning Preferences from Ordinal Data
+neurips,2015,2,1179,Jiaming,Xu,,,,Collaboratively Learning Preferences from Ordinal Data
+neurips,2015,0,588,Jimmy,Ren,sensetime,SenseTime Group Limited,rensijie@sensetime.com,Shepard Convolutional Neural Networks
+neurips,2015,1,588,Li,Xu,sensetime,SenseTime Group Limited,xuli@sensetime.com,Shepard Convolutional Neural Networks
+neurips,2015,2,588,Qiong,Yan,sensetime,SenseTime Group Limited,yanqiong@sensetime.com,Shepard Convolutional Neural Networks
+neurips,2015,3,588,Wenxiu,Sun,sensetime,SenseTime Group Limited,sunwenxiu@sensetime.com,Shepard Convolutional Neural Networks
+neurips,2015,0,1520,Jimmy,Ba,toronto,University of Toronto,jimmy@psi.toronto.edu,Learning Wake-Sleep Recurrent Attention Models
+neurips,2015,1,1520,Russ,Salakhutdinov,toronto,University of Toronto,rgrosse@cs.toronto.edu,Learning Wake-Sleep Recurrent Attention Models
+neurips,2015,2,1520,Roger,Grosse,toronto,University of Toronto,rsalskhu@cs.toronto.edu,Learning Wake-Sleep Recurrent Attention Models
+neurips,2015,3,1520,Brendan,Frey,toronto,U. Toronto,frey@psi.toronto.edu,Learning Wake-Sleep Recurrent Attention Models
+neurips,2015,0,592,Reshad,Hosseini,ut,University of Tehran,reshad.hosseini@ut.ac.ir,Matrix Manifold Optimization for Gaussian Mixtures
+neurips,2015,1,592,Suvrit,Sra,mit,MIT,suvrit@mit.edu,Matrix Manifold Optimization for Gaussian Mixtures
+neurips,2015,0,804,Sung-Soo,Ahn,kaist,,sungsoo.ahn@kaist.ac.kr,Minimum Weight Perfect Matching via Blossom Belief Propagation
+neurips,2015,1,804,Sejun,Park,kaist,KAIST,sejun.park@kaist.ac.kr,Minimum Weight Perfect Matching via Blossom Belief Propagation
+neurips,2015,2,804,Michael,Chertkov,kaist,,jinwoos@kaist.ac.kr,Minimum Weight Perfect Matching via Blossom Belief Propagation
+neurips,2015,3,804,Jinwoo,Shin,lanl,KAIST,chertkov@lanl.gov,Minimum Weight Perfect Matching via Blossom Belief Propagation
+neurips,2015,0,676,Kwang-Sung,Jun,wisc,University of Wisconsin-Madison,kjun@discovery.wisc.edu,Human Memory Search as Initial-Visit Emitting Random Walk
+neurips,2015,1,676,Jerry,Zhu,wisc,University of Wisconsin-Madison,jerryzhu@cs.wisc.edu,Human Memory Search as Initial-Visit Emitting Random Walk
+neurips,2015,2,676,Timothy,Rogers,wisc,University of Wisconsin-Madison,ttrogers@wisc.edu,Human Memory Search as Initial-Visit Emitting Random Walk
+neurips,2015,3,676,Zhuoran,Yang,tsinghua,Tsinghua University,yzr11@mails.tsinghua.edu.cn,Human Memory Search as Initial-Visit Emitting Random Walk
+neurips,2015,4,676,ming,yuan,wisc,University of Wisconsin - Madison,myuan@stat.wisc.edu,Human Memory Search as Initial-Visit Emitting Random Walk
+neurips,2015,0,607,David,Smith,utdallas,University of Texas at Dallas,dbs014200@utdallas.edu,Bounding the Cost of Search-Based Lifted Inference
+neurips,2015,1,607,Vibhav,Gogate,utdallas,UT Dallas,vibhav.gogate@utdallas.edu,Bounding the Cost of Search-Based Lifted Inference
+neurips,2015,0,1322,Kai,Wei,washington,,kaiwei@u.washington.edu,"Mixed Robust/Average Submodular Partitioning: Fast Algorithms, Guarantees, and Applications"
+neurips,2015,1,1322,Rishabh,Iyer,washington,"University of Washington, Seattle",rkiyer@u.washington.edu,"Mixed Robust/Average Submodular Partitioning: Fast Algorithms, Guarantees, and Applications"
+neurips,2015,2,1322,Shengjie,Wang,washington,University of Washington,wangsj@u.washington.edu,"Mixed Robust/Average Submodular Partitioning: Fast Algorithms, Guarantees, and Applications"
+neurips,2015,3,1322,Wenruo,Bai,washington,University of Washington,wrbai@u.washington.edu,"Mixed Robust/Average Submodular Partitioning: Fast Algorithms, Guarantees, and Applications"
+neurips,2015,4,1322,Jeff,Bilmes,washington,"University of Washington, Seattle",bilmes@u.washington.edu,"Mixed Robust/Average Submodular Partitioning: Fast Algorithms, Guarantees, and Applications"
+neurips,2015,0,1947,John,Schulman,berkeley,UC Berkeley / Google,joschu@eecs.berkeley.edu,Gradient Estimation Using Stochastic Computation Graphs
+neurips,2015,1,1947,Nicolas,Heess,google,Google DeepMind,heess@google.com,Gradient Estimation Using Stochastic Computation Graphs
+neurips,2015,2,1947,Theophane,Weber,google,Google DeepMind,theophane@google.com,Gradient Estimation Using Stochastic Computation Graphs
+neurips,2015,3,1947,Pieter,Abbeel,berkeley,UC Berkeley,pabbeel@eecs.berkeley.edu,Gradient Estimation Using Stochastic Computation Graphs
+neurips,2015,0,1148,Djork-Arné,Clevert,jku,Johannes Kepler University,okko@bioinf.jku.at,Rectified Factor Networks
+neurips,2015,1,1148,Andreas,Mayr,jku,Johannes Kepler University Linz,mayr@bioinf.jku.at,Rectified Factor Networks
+neurips,2015,2,1148,Thomas,Unterthiner,jku,Johannes Kepler University Linz,unterthiner@bioinf.jku.at,Rectified Factor Networks
+neurips,2015,3,1148,Sepp,Hochreiter,jku,Johannes Kepler University Linz,hochreit@bioinf.jku.at,Rectified Factor Networks
+neurips,2015,0,987,Zhan Wei,Lim,nus,NUS,limzhanw@comp.nus.edu.sg,Adaptive Stochastic Optimization: From Sets to Paths
+neurips,2015,1,987,David,Hsu,nus,National University of Singapore,dyhsu@comp.nus.edu.sg,Adaptive Stochastic Optimization: From Sets to Paths
+neurips,2015,2,987,Wee Sun,Lee,nus,National University of Singapore,leews@comp.nus.edu.sg,Adaptive Stochastic Optimization: From Sets to Paths
+neurips,2015,0,1763,Alp,Yurtsever,epfl,"LIONS, EPFL, Lausanne",alp.yurtsever@epfl.ch,A Universal Primal-Dual Convex Optimization Framework
+neurips,2015,1,1763,Quoc,Tran Dinh,epfl,"Department of Statistics and Operations Research, UNC, North Carolina",volkan.cevher@epfl.ch,A Universal Primal-Dual Convex Optimization Framework
+neurips,2015,2,1763,Volkan,Cevher,unc,EPFL,quoctd@email.unc.edu,A Universal Primal-Dual Convex Optimization Framework
+neurips,2015,0,1568,Hong,Wang,uic,University of Illinois at Chic,hwang27@uic.edu,Adversarial Prediction Games for Multivariate Losses
+neurips,2015,1,1568,Wei,Xing,uic,University of Illinois at Chicago,wxing3@uic.edu,Adversarial Prediction Games for Multivariate Losses
+neurips,2015,2,1568,Kaiser,Asif,uic,University of Illinois at Chicago,kasif2@uic.edu,Adversarial Prediction Games for Multivariate Losses
+neurips,2015,3,1568,Brian,Ziebart,uic,University of Illinois at Chicago,bziebart@uic.edu,Adversarial Prediction Games for Multivariate Losses
+neurips,2015,0,1269,Shakir,Mohamed,google,Google DeepMind,shakir@google.com,Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning
+neurips,2015,1,1269,Danilo,Jimenez Rezende,google,Google DeepMind,danilor@google.com,Variational Information Maximisation for Intrinsically Motivated Reinforcement Learning
+neurips,2015,0,778,Scott,Reed,umich,University of Michigan,reedscot@umich.edu,Deep Visual Analogy-Making
+neurips,2015,1,778,Yi,Zhang,umich,University of Michigan,yeezhang@umich.edu,Deep Visual Analogy-Making
+neurips,2015,2,778,Yuting,Zhang,umich,University of Michigan,yutingzh@umich.edu,Deep Visual Analogy-Making
+neurips,2015,3,778,Honglak,Lee,umich,U. Michigan,honglak@umich.edu,Deep Visual Analogy-Making
+neurips,2015,0,1831,Sergey,Plis,gmail,The Mind Research Network,s.m.plis@gmail.com,Rate-Agnostic (Causal) Structure Learning
+neurips,2015,1,1831,David,Danks,cmu,Carnegie Mellon University,ddanks@cmu.edu,Rate-Agnostic (Causal) Structure Learning
+neurips,2015,2,1831,Cynthia,Freeman,gmail,The Mind Research Network,cynthiaw2004@gmail.com,Rate-Agnostic (Causal) Structure Learning
+neurips,2015,3,1831,Vince,Calhoun,mrn,MRN,vcalhoun@mrn.org,Rate-Agnostic (Causal) Structure Learning
+neurips,2015,0,1659,Sheng,Chen,umn,University of Minnesota,shengc@cs.umn.edu,Structured Estimation with Atomic Norms: General Bounds and Applications
+neurips,2015,1,1659,Arindam,Banerjee,umn,University of Minnesota,banerjee@cs.umn.edu,Structured Estimation with Atomic Norms: General Bounds and Applications
+neurips,2015,0,34,Anna,Choromanska,nyu,"Courant Institute, NYU",achoroma@cims.nyu.edu,Logarithmic Time Online Multiclass prediction
+neurips,2015,1,34,John,Langford,microsoft,Microsoft Research New York,jcl@microsoft.com,Logarithmic Time Online Multiclass prediction
+neurips,2015,0,1959,Dustin,Tran,,Harvard University,,Copula variational inference
+neurips,2015,1,1959,David,Blei,,Columbia University,,Copula variational inference
+neurips,2015,2,1959,Edo,Airoldi,,Harvard University,,Copula variational inference
+neurips,2015,0,1030,Dane,Corneil,epfl,EPFL,dane.corneil@epfl.ch,Attractor Network Dynamics Enable Preplay and Rapid Path Planning in Maze–like Environments
+neurips,2015,1,1030,Wulfram,Gerstner,epfl,EPFL,wulfram.gerstner@epfl.ch,Attractor Network Dynamics Enable Preplay and Rapid Path Planning in Maze–like Environments
+neurips,2015,0,1373,Nicholas,Ruozzi,,UTDallas,,Exactness of Approximate MAP Inference in Continuous MRFs
+neurips,2015,0,1770,Gergely,Neu,gmail,INRIA,gergely.neu@gmail.com,Explore no more: Improved high-probability regret bounds for non-stochastic bandits
+neurips,2015,0,505,Chao,Qu,nus,NUS,A0117143@u.nus.edu,Subspace Clustering with Irrelevant Features via Robust Dantzig Selector
+neurips,2015,1,505,Huan,Xu,nus,National University of Singapore,mpexuh@nus.edu.sg,Subspace Clustering with Irrelevant Features via Robust Dantzig Selector
+neurips,2015,0,742,Maxim,Rabinovich,berkeley,UC Berkeley,rabinovich@eecs.berkeley.edu,Variational Consensus Monte Carlo
+neurips,2015,1,742,Elaine,Angelino,berkeley,Harvard,elaine@eecs.berkeley.edu,Variational Consensus Monte Carlo
+neurips,2015,2,742,Michael,Jordan,berkeley,UC Berkeley,jordan@eecs.berkeley.edu,Variational Consensus Monte Carlo
+neurips,2015,0,734,Samy,Bengio,google,Google Research,bengio@google.com,Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks
+neurips,2015,1,734,Oriol,Vinyals,google,Google,vinyals@google.com,Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks
+neurips,2015,2,734,Navdeep,Jaitly,google,Google,ndjaitly@google.com,Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks
+neurips,2015,3,734,Noam,Shazeer,google,Google,noam@google.com,Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks
+neurips,2015,0,1436,Behnam,Neyshabur,ttic,TTI Chicago,bneyshabur@ttic.edu,Path-SGD: Path-Normalized Optimization in Deep Neural Networks
+neurips,2015,1,1436,Russ,Salakhutdinov,toronto,University of Toronto,rsalakhu@cs.toronto.edu,Path-SGD: Path-Normalized Optimization in Deep Neural Networks
+neurips,2015,2,1436,Nati,Srebro,ttic,Toyota Technological Institute at Chicago,nati@ttic.edu,Path-SGD: Path-Normalized Optimization in Deep Neural Networks
+neurips,2015,0,205,Megasthenis,Asteris,utexas,University of Texas at Austin,megas@utexas.edu,Orthogonal NMF through Subspace Exploration
+neurips,2015,1,205,Dimitris,Papailiopoulos,berkeley,UC Berkeley,dimitrisp@berkeley.edu,Orthogonal NMF through Subspace Exploration
+neurips,2015,2,205,Alexandros,Dimakis,utexas,Utaustin,dimakis@austin.utexas.edu,Orthogonal NMF through Subspace Exploration
+neurips,2015,0,1852,Shuang,Li,gatech,Georgia Institute of Technology,sli370@gatech.edu,M-Statistic for Kernel Change-Point Detection
+neurips,2015,1,1852,Yao,Xie,gatech,Georgia Tech,yao.xie@isye.gatech.edu,M-Statistic for Kernel Change-Point Detection
+neurips,2015,2,1852,Hanjun,Dai,gatech,Georgia Tech,hanjundai@gatech.edu,M-Statistic for Kernel Change-Point Detection
+neurips,2015,3,1852,Le,Song,gatech,Georgia Institute of Technology,lsong@cc.gatech.edu,M-Statistic for Kernel Change-Point Detection
+neurips,2015,0,484,Chicheng,Zhang,ucsd,UC San Diego,chichengzhang@ucsd.edu,Active Learning from Weak and Strong Labelers
+neurips,2015,1,484,Kamalika,Chaudhuri,ucsd,UCSD,kamalika@eng.ucsd.edu,Active Learning from Weak and Strong Labelers
+neurips,2015,0,997,Tengyu,Ma,,Princeton University,,Sum-of-Squares Lower Bounds for Sparse PCA
+neurips,2015,1,997,Avi,Wigderson,,Institute for Advanced Study,,Sum-of-Squares Lower Bounds for Sparse PCA
+neurips,2015,0,102,Adria,Recasens,mit,MIT,recasens@csail.mit.edu,Where are they looking?
+neurips,2015,1,102,Aditya,Khosla,mit,MIT,khosla@csail.mit.edu,Where are they looking?
+neurips,2015,2,102,Carl,Vondrick,mit,MIT,vondrick@csail.mit.edu,Where are they looking?
+neurips,2015,3,102,Antonio,Torralba,mit,MIT,torralba@csail.mit.edu,Where are they looking?
+neurips,2015,0,1579,Mathew,Monfort,,University of Illinois at Chicago,,Softstar: Heuristic-Guided Probabilistic Inference
+neurips,2015,1,1579,Brenden,Lake,,MIT,,Softstar: Heuristic-Guided Probabilistic Inference
+neurips,2015,2,1579,Brenden,Lake,,New York University,,Softstar: Heuristic-Guided Probabilistic Inference
+neurips,2015,3,1579,Brian,Ziebart,,University of Illinois at Chicago,,Softstar: Heuristic-Guided Probabilistic Inference
+neurips,2015,4,1579,Patrick,Lucey,,Disney Research Pittsburgh,,Softstar: Heuristic-Guided Probabilistic Inference
+neurips,2015,5,1579,Josh,Tenenbaum,,MIT,,Softstar: Heuristic-Guided Probabilistic Inference
+neurips,2015,0,867,Siddhartha,Banerjee,cornell,Cornell University,sbanerjee@cornell.edu,Fast Bidirectional Probability Estimation in Markov Models
+neurips,2015,1,867,Peter,Lofgren,stanford,Stanford University,plofgren@cs.stanford.edu,Fast Bidirectional Probability Estimation in Markov Models
+neurips,2015,0,763,Ross,Goroshin,nyu,New York University,goroshin@cs.nyu.edu,Learning to Linearize Under Uncertainty
+neurips,2015,1,763,Michael,Mathieu,nyu,New York University,mathieu@cs.nyu.edu,Learning to Linearize Under Uncertainty
+neurips,2015,2,763,Yann,LeCun,nyu,New York University,yann@cs.nyu.edu,Learning to Linearize Under Uncertainty
+neurips,2015,0,1364,Thomas,Hofmann,,ETH Zurich,,Variance Reduced Stochastic Gradient Descent with Neighbors
+neurips,2015,1,1364,Aurelien,Lucchi,,ETH Zurich,,Variance Reduced Stochastic Gradient Descent with Neighbors
+neurips,2015,2,1364,Simon,Lacoste-Julien,,INRIA,,Variance Reduced Stochastic Gradient Descent with Neighbors
+neurips,2015,3,1364,Brian,McWilliams,,ETH Zurich,,Variance Reduced Stochastic Gradient Descent with Neighbors
+neurips,2015,0,1815,Rafael,Frongillo,colorado,CU Boulder,raf@colorado.edu,On Elicitation Complexity
+neurips,2015,1,1815,Ian,Kash,microsoft,Microsoft,iankash@microsoft.com,On Elicitation Complexity
+neurips,2015,0,1605,Jacob,Steinhardt,,Stanford University,,Learning with Relaxed Supervision
+neurips,2015,1,1605,Percy,Liang,,Stanford University,,Learning with Relaxed Supervision
+neurips,2015,0,1151,Ravi Sastry,Ganti,umich,UW Madison,girasole@umich.edu,Matrix Completion Under Monotonic Single Index Models
+neurips,2015,1,1151,Laura,Balzano,wisc,University of Michigan-Ann Arbor,gantimahapat@wisc.edu,Matrix Completion Under Monotonic Single Index Models
+neurips,2015,2,1151,Rebecca,Willett,wisc,University of Wisconsin,rmwillett@wisc.edu,Matrix Completion Under Monotonic Single Index Models
+neurips,2015,0,1836,Vivien,Seguy,kyoto-u,Kyoto University,vivien.seguy@iip.ist.i.kyoto-u.ac.jp,Principal Geodesic Analysis for Probability Measures under the Optimal Transport Metric
+neurips,2015,1,1836,Marco,Cuturi,kyoto-u,Kyoto University,mcuturi@i.kyoto-u.ac.jp,Principal Geodesic Analysis for Probability Measures under the Optimal Transport Metric
+neurips,2015,0,324,Pinghua,Gong,umich,University of Michigan-Ann Arbor,gongp@umich.edu,HONOR: Hybrid Optimization for NOn-convex Regularized problems
+neurips,2015,1,324,Jieping,Ye,umich,University of Michigan,jpye@umich.edu,HONOR: Hybrid Optimization for NOn-convex Regularized problems
+neurips,2015,0,1719,Mingyuan,Zhou,,University of Texas at Austin,,The Poisson Gamma Belief Network
+neurips,2015,1,1719,Yulai,Cong,,,,The Poisson Gamma Belief Network
+neurips,2015,2,1719,Bo,Chen,,Xidian University,,The Poisson Gamma Belief Network
+neurips,2015,0,1800,David,Inouye,utexas,University of Texas at Austin,dinouye@cs.utexas.edu,Fixed-Length Poisson MRF: Adding Dependencies to the Multinomial
+neurips,2015,1,1800,Pradeep,Ravikumar,utexas,University of Texas at Austin,pradeepr@cs.utexas.edu,Fixed-Length Poisson MRF: Adding Dependencies to the Multinomial
+neurips,2015,2,1800,Inderjit,Dhillon,utexas,University of Texas at Austin,inderjit@cs.utexas.edu,Fixed-Length Poisson MRF: Adding Dependencies to the Multinomial
+neurips,2015,0,1372,Yingzhen,Li,cam,University of Cambridge,yl494@cam.ac.uk,Stochastic Expectation Propagation
+neurips,2015,1,1372,José Miguel,Hernández-Lobato,harvard,Harvard,jmh@seas.harvard.edu,Stochastic Expectation Propagation
+neurips,2015,2,1372,Richard,Turner,cam,University of Cambridge,ret26@cam.ac.uk,Stochastic Expectation Propagation
+neurips,2015,0,1316,Vidyashankar,Sivakumar,umn,"UNIVERSITY OF MINNESOTA, TC",sivakuma@cs.umn.edu,Beyond Sub-Gaussian Measurements: High-Dimensional Structured Estimation with Sub-Exponential Designs
+neurips,2015,1,1316,Arindam,Banerjee,umn,University of Minnesota,banerjee@cs.umn.edu,Beyond Sub-Gaussian Measurements: High-Dimensional Structured Estimation with Sub-Exponential Designs
+neurips,2015,2,1316,Pradeep,Ravikumar,utexas,University of Texas at Austin,pradeepr@cs.utexas.edu,Beyond Sub-Gaussian Measurements: High-Dimensional Structured Estimation with Sub-Exponential Designs
+neurips,2015,0,516,Ahmed,Alaoui,,UC Berkeley,elalaoui@eecs,Fast Randomized Kernel Ridge Regression with Statistical Guarantees
+neurips,2015,1,516,Michael,Mahoney,berkeley,UC Berkeley,mmahoney@stat.berkeley.edu,Fast Randomized Kernel Ridge Regression with Statistical Guarantees
+neurips,2015,0,1826,Ryan,Kiros,,U. Toronto,,Skip-Thought Vectors
+neurips,2015,1,1826,Yukun,Zhu,,University of Toronto,,Skip-Thought Vectors
+neurips,2015,2,1826,Russ,Salakhutdinov,,University of Toronto,,Skip-Thought Vectors
+neurips,2015,3,1826,Richard,Zemel,,University of Toronto,,Skip-Thought Vectors
+neurips,2015,4,1826,Raquel,Urtasun,,University of Toronto,,Skip-Thought Vectors
+neurips,2015,5,1826,Antonio,Torralba,,MIT,,Skip-Thought Vectors
+neurips,2015,6,1826,Sanja,Fidler,,University of Toronto,,Skip-Thought Vectors
+neurips,2015,0,1260,Nikhil,Rao,utexas,University of Texas at Austin,nikhilr@cs.utexas.edu,Collaborative Filtering with Graph Information: Consistency and Scalable Methods
+neurips,2015,1,1260,Hsiang-Fu,Yu,utexas,U Texas,rofuyu@cs.utexas.edu,Collaborative Filtering with Graph Information: Consistency and Scalable Methods
+neurips,2015,2,1260,Pradeep,Ravikumar,utexas,University of Texas at Austin,paradeepr@cs.utexas.edu,Collaborative Filtering with Graph Information: Consistency and Scalable Methods
+neurips,2015,3,1260,Inderjit,Dhillon,utexas,University of Texas at Austin,inderjit@cs.utexas.edu,Collaborative Filtering with Graph Information: Consistency and Scalable Methods
+neurips,2015,0,1846,David,Moore,berkeley,UC Berkeley,dmoore@cs.berkeley.edu,Gaussian Process Random Fields
+neurips,2015,1,1846,Stuart,Russell,berkeley,UC Berkeley,russell@cs.berkeley.edu,Gaussian Process Random Fields
+neurips,2015,0,904,Seunghoon,Hong,,POSTECH,,Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation
+neurips,2015,1,904,Hyeonwoo,Noh,,POSTECH,,Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation
+neurips,2015,2,904,Bohyung,Han,,POSTECH,,Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation
+neurips,2015,0,1817,Meisam,Razaviyayn,stanford,Stanford University,meisamr@stanford.edu,Discrete Rényi Classifiers
+neurips,2015,1,1817,Farzan,Farnia,stanford,,farnia@stanford.edu,Discrete Rényi Classifiers
+neurips,2015,2,1817,David,Tse,stanford,Stanford University,dntse@stanford.edu,Discrete Rényi Classifiers
+neurips,2015,0,1681,David,Carlson,,,,Preconditioned Spectral Descent for Deep Learning
+neurips,2015,1,1681,Edo,Collins,,,,Preconditioned Spectral Descent for Deep Learning
+neurips,2015,2,1681,Ya-Ping,Hsieh,,EPFL,,Preconditioned Spectral Descent for Deep Learning
+neurips,2015,3,1681,Lawrence,Carin,,Duke University,,Preconditioned Spectral Descent for Deep Learning
+neurips,2015,4,1681,Volkan,Cevher,,EPFL,,Preconditioned Spectral Descent for Deep Learning
+neurips,2015,0,1618,Walid,Krichene,berkeley,UC Berkeley,walid@eecs.berkeley.edu,Accelerated Mirror Descent in Continuous and Discrete Time
+neurips,2015,1,1618,Alexandre,Bayen,berkeley,UC Berkeley,bayen@berkeley.edu,Accelerated Mirror Descent in Continuous and Discrete Time
+neurips,2015,2,1618,Peter,Bartlett,berkeley,UC Berkeley,bartlett@berkeley.edu,Accelerated Mirror Descent in Continuous and Discrete Time
+neurips,2015,0,266,Huan,Li,pku,Peking University,lihuanss@pku.edu.cn,Accelerated Proximal Gradient Methods for Nonconvex Programming
+neurips,2015,1,266,Zhouchen,Lin,pku,Peking University,zlin@pku.edu.cn,Accelerated Proximal Gradient Methods for Nonconvex Programming
+neurips,2015,0,482,Naoto,Ohsaka,u-tokyo,The University of Tokyo,ohsaka@is.s.u-tokyo.ac.jp,Monotone k-Submodular Function Maximization with Size Constraints
+neurips,2015,1,482,Yuichi,Yoshida,nii,"National Institute of Informatics and Preferred Infrastructure, Inc.",yyoshida@nii.ac.jp,Monotone k-Submodular Function Maximization with Size Constraints
+neurips,2015,0,1141,Jeffrey,Pennington,google,Google,jpennin@google.com,Spherical Random Features for Polynomial Kernels
+neurips,2015,1,1141,Felix Xinnan,Yu,google,Google Research,felixyu@google.com,Spherical Random Features for Polynomial Kernels
+neurips,2015,2,1141,Sanjiv,Kumar,google,Google,sanjivk@google.com,Spherical Random Features for Polynomial Kernels
+neurips,2015,0,1980,Ian En-Hsu,Yen,utexas,University of Texas at Austin,ianyen@cs.utexas.edu,A Dual Augmented Block Minimization Framework for Learning with Limited Memory
+neurips,2015,1,1980,Shan-Wei,Lin,ntu,National Taiwan University,r03922067@csie.ntu.edu.tw,A Dual Augmented Block Minimization Framework for Learning with Limited Memory
+neurips,2015,2,1980,Shou-De,Lin,ntu,National Taiwan University,sdlin@csie.ntu.edu.tw,A Dual Augmented Block Minimization Framework for Learning with Limited Memory
+neurips,2015,0,1321,David,Duvenaud,,Harvard University,,Convolutional Networks on Graphs for Learning Molecular Fingerprints
+neurips,2015,1,1321,Dougal,Maclaurin,,Harvard University,,Convolutional Networks on Graphs for Learning Molecular Fingerprints
+neurips,2015,2,1321,Jorge,Iparraguirre,,Harvard University,,Convolutional Networks on Graphs for Learning Molecular Fingerprints
+neurips,2015,3,1321,Rafael,Bombarell,,Harvard University,,Convolutional Networks on Graphs for Learning Molecular Fingerprints
+neurips,2015,4,1321,Timothy,Hirzel,,Harvard University,,Convolutional Networks on Graphs for Learning Molecular Fingerprints
+neurips,2015,5,1321,Alan,Aspuru-Guzik,,Harvard University,,Convolutional Networks on Graphs for Learning Molecular Fingerprints
+neurips,2015,6,1321,Ryan,Adams,,Harvard,,Convolutional Networks on Graphs for Learning Molecular Fingerprints
+neurips,2015,0,1816,Wei,Ping,uci,UC Irvine,wping@ics.uci.edu,Decomposition Bounds for Marginal MAP
+neurips,2015,1,1816,Qiang,Liu,uci,MIT,ihler@ics.uci.edu,Decomposition Bounds for Marginal MAP
+neurips,2015,2,1816,Alexander,Ihler,dartmouth,UC Irvine,qliu@cs.dartmouth.edu,Decomposition Bounds for Marginal MAP
+neurips,2015,0,666,Sebastian,Bitzer,tu-dresden,TU Dresden,sebastian.bitzer@tu-dresden.de,The Brain Uses Reliability of Stimulus Information when Making Perceptual Decisions
+neurips,2015,1,666,Stefan,Kiebel,tu-dresden,TU Dresden,stefan.kiebel@tu-dresden.de,The Brain Uses Reliability of Stimulus Information when Making Perceptual Decisions
+neurips,2015,0,1360,Haoyuan,Gao,baidu,Baidu,gaohaoyuan@baidu.com,Are You Talking to a Machine? Dataset and Methods for Multilingual Image Question
+neurips,2015,1,1360,Junhua,Mao,ucla,UCLA,mjhustc@ucla.edu,Are You Talking to a Machine? Dataset and Methods for Multilingual Image Question
+neurips,2015,2,1360,Jie,Zhou,baidu,Baidu,zhoujie01@baidu.com,Are You Talking to a Machine? Dataset and Methods for Multilingual Image Question
+neurips,2015,3,1360,Zhiheng,Huang,baidu,Baidu,huangzhiheng@baidu.com,Are You Talking to a Machine? Dataset and Methods for Multilingual Image Question
+neurips,2015,4,1360,Lei,Wang,baidu,Baidu,wanglei22@baidu.com,Are You Talking to a Machine? Dataset and Methods for Multilingual Image Question
+neurips,2015,5,1360,Wei,Xu,baidu,Baidu,wei.xu@baidu.com,Are You Talking to a Machine? Dataset and Methods for Multilingual Image Question
+neurips,2015,0,76,Jamie,Morgenstern,upenn,University of Pennsylvania,jamiemor@cis.upenn.edu,On the Pseudo-Dimension of Nearly Optimal Auctions
+neurips,2015,1,76,Tim,Roughgarden,stanford,Stanford University,tim@cs.stanford.edu,On the Pseudo-Dimension of Nearly Optimal Auctions
+neurips,2015,0,842,Kai,Fan,duke,Duke University,kai.fan@stat.duke.edu,Fast Second Order Stochastic Backpropagation for Variational Inference
+neurips,2015,1,842,Ziteng,Wang,gmail,,wangzt2012@gmail.com,Fast Second Order Stochastic Backpropagation for Variational Inference
+neurips,2015,2,842,Jeff,Beck,duke,,jeff.beck@duke.edu,Fast Second Order Stochastic Backpropagation for Variational Inference
+neurips,2015,3,842,James,Kwok,ust,Hong Kong University of Science and Technology,jamesk@cse.ust.hk,Fast Second Order Stochastic Backpropagation for Variational Inference
+neurips,2015,4,842,Katherine,Heller,gmail,Duke,kheller@gmail.com,Fast Second Order Stochastic Backpropagation for Variational Inference
+neurips,2015,0,860,Yuya,Yoshikawa,naist,NAIST,yoshikawa.yuya.yl9@is.naist.jp,Cross-Domain Matching for Bag-of-Words Data via Kernel Embeddings of Latent Distributions
+neurips,2015,1,860,Tomoharu,Iwata,ntt,Nippon Telegraph and Telephone Corporation,iwata.tomoharu@lab.ntt.co.jp,Cross-Domain Matching for Bag-of-Words Data via Kernel Embeddings of Latent Distributions
+neurips,2015,2,860,Hiroshi,Sawada,ntt,NTT Service Evolution Labs.,sawada.hiroshi@lab.ntt.co.jp,Cross-Domain Matching for Bag-of-Words Data via Kernel Embeddings of Latent Distributions
+neurips,2015,3,860,Takeshi,Yamada,ntt,NTT Communication Science Labs.,yamada.tak@lab.ntt.co.jp,Cross-Domain Matching for Bag-of-Words Data via Kernel Embeddings of Latent Distributions
+neurips,2015,0,437,Gunwoong,Park,wisc,"UW, Madison",parkg@stat.wisc.edu,Learning Large-Scale Poisson DAG Models based on OverDispersion Scoring
+neurips,2015,1,437,Garvesh,Raskutti,wisc,"University of Wisconsin, Madison",raskutti@cs.wisc.edu,Learning Large-Scale Poisson DAG Models based on OverDispersion Scoring
+neurips,2015,0,1494,Tian,Gao,rpi,Rensselaer Polytechnic Institute,gaot@rpi.edu,Local Causal Discovery of Direct Causes and Effects
+neurips,2015,1,1494,Qiang,Ji,rpi,Rensselaer Polytechnic Institute,jiq@rpi.edu,Local Causal Discovery of Direct Causes and Effects
+neurips,2015,0,1463,Emile,Richard,stanford,Stanford University,emileric@stanford.edu,Recognizing retinal ganglion cells in the dark
+neurips,2015,1,1463,Georges,Goetz,stanford,Stanford University,ggoetz@stanford.edu,Recognizing retinal ganglion cells in the dark
+neurips,2015,2,1463,E.J.,Chichilnisky,stanford,Stanford,ej@stanford.edu,Recognizing retinal ganglion cells in the dark

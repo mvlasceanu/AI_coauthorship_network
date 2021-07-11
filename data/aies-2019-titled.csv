@@ -1,0 +1,266 @@
+conference,year,index,paper_id,given_name,family_name,org,institution,email,title
+aies,2019,0,33066183314266,Junaid,Ali,mpi-sws,max planck institute for software systemssaarbrckengermany,,Loss-Aversively Fair Classification
+aies,2019,1,33066183314266,Muhammad Bilal,Zafar,mpi-sws,max planck institute for software systemssaarbrckengermany,,Loss-Aversively Fair Classification
+aies,2019,2,33066183314266,Adish,Singla,mpi-sws,max planck institute for software systemssaarbrckengermany,,Loss-Aversively Fair Classification
+aies,2019,3,33066183314266,Krishna P.,Gummadi,mpi-sws,max planck institute for software systemssaarbrckengermany,,Loss-Aversively Fair Classification
+aies,2019,0,33066183314260,Lior,Wolf,fb,facebook ai research amptel aviv universitytel avivisrael,,A Formal Approach to Explainability
+aies,2019,1,33066183314260,Tomer,Galanti,tau,tel aviv universitytel avivisrael,,A Formal Approach to Explainability
+aies,2019,2,33066183314260,Tamir,Hazan,technion,technionhaifaisrael,,A Formal Approach to Explainability
+aies,2019,0,33066183314282,Naman,Goel,polytechnique,ecole polytechnique fdrale de lausannelausanneswitzerland,,"Crowdsourcing with Fairness, Diversity and Budget Constraints"
+aies,2019,1,33066183314282,Boi,Faltings,polytechnique,ecole polytechnique fdrale de lausannelausanneswitzerland,,"Crowdsourcing with Fairness, Diversity and Budget Constraints"
+aies,2019,0,33066183314262,Rodrigo,L. Cardoso,ufmg,universidade federal de minas geraisbelo horizontebrazil,,A Framework for Benchmarking Discrimination-Aware Models in Machine Learning
+aies,2019,1,33066183314262,Wagner,Meira Jr.,ufmg,universidade federal de minas geraisbelo horizontebrazil,,A Framework for Benchmarking Discrimination-Aware Models in Machine Learning
+aies,2019,2,33066183314262,Virgilio,Almeida,ufmg,universidade federal de minas geraisbelo horizontebrazil,,A Framework for Benchmarking Discrimination-Aware Models in Machine Learning
+aies,2019,3,33066183314262,Mohammed,J. Zaki,rpi,rensselaer polytechnic institutetroynyusa,,A Framework for Benchmarking Discrimination-Aware Models in Machine Learning
+aies,2019,0,33066183314281,Tathagata,Chakraborti,ibm,ibm research aicambridgemausa,,(When) Can AI Bots Lie?
+aies,2019,1,33066183314281,Subbarao,Kambhampati,asu,arizona state universitytempeazusa,,(When) Can AI Bots Lie?
+aies,2019,0,33066183314280,Joe,Cruz,,williams collegewilliamstownmausa,,Shared Moral Foundations of Embodied Artificial Intelligence
+aies,2019,0,33066183314225,Ryan,Calo,washington,university of washingtonseattlewausa,,How We Talk About AI (and Why It Matters)
+aies,2019,0,33066183314227,Anca,Dragan,berkeley,university of californiaberkeleyberkeleycausa,,Specifying AI Objectives as a Human-AI Collaboration problem
+aies,2019,0,33066183314269,Charles M.,Giattino,duke,duke universitydurhamncusa,,The Seductive Allure of Artificial Intelligence-Powered Neurotechnology
+aies,2019,1,33066183314269,Lydia,Kwong,duke,duke universitydurhamncusa,,The Seductive Allure of Artificial Intelligence-Powered Neurotechnology
+aies,2019,2,33066183314269,Chad,Rafetto,duke,duke universitydurhamncusa,,The Seductive Allure of Artificial Intelligence-Powered Neurotechnology
+aies,2019,3,33066183314269,Nita A.,Farahany,duke,duke universitydurhamncusa,,The Seductive Allure of Artificial Intelligence-Powered Neurotechnology
+aies,2019,0,33066183314259,Alexander,Peysakhovich,fb,facebook ai researchnew yorknyusa,,Reinforcement Learning and Inverse Reinforcement Learning with System 1 and System 2
+aies,2019,0,33066183314261,Ava Thomas,Wright,uga,university of georgiaathensgausa,,Rightful Machines and Dilemmas
+aies,2019,0,33066183314240,Han,Yu,ntu,nanyang technological universitysingaporesingapore,,Ethically Aligned Opportunistic Scheduling for Productive Laziness
+aies,2019,1,33066183314240,Chunyan,Miao,ntu,nanyang technological universitysingaporesingapore,,Ethically Aligned Opportunistic Scheduling for Productive Laziness
+aies,2019,2,33066183314240,Yongqing,Zheng,gmail,shandong universityjinanchina,,Ethically Aligned Opportunistic Scheduling for Productive Laziness
+aies,2019,3,33066183314240,Lizhen,Cui,gmail,shandong universityjinanchina,,Ethically Aligned Opportunistic Scheduling for Productive Laziness
+aies,2019,4,33066183314240,Simon,Fauvel,ntu,nanyang technological universitysingaporesingapore,,Ethically Aligned Opportunistic Scheduling for Productive Laziness
+aies,2019,5,33066183314240,Cyril,Leung,ubc,the university of british columbiavancouvercanada,,Ethically Aligned Opportunistic Scheduling for Productive Laziness
+aies,2019,0,33066183314323,Alan,Mishler,cmu,carnegie mellon universitypittsburghpausa,,Modeling Risk and Achieving Algorithmic Fairness Using Potential Outcomes
+aies,2019,0,33066183314242,Andrew,Morgan,cornell,cornell universityithacanyusa,,Paradoxes in Fair Computer-Aided Decision Making
+aies,2019,1,33066183314242,Rafael,Pass,cornell,cornell technew york citynyusa,,Paradoxes in Fair Computer-Aided Decision Making
+aies,2019,0,33066183314245,Ravi,Pandya,berkeley,university of californiaberkeleyberkeleycausa,,Human-AI Learning Performance in Multi-Armed Bandits
+aies,2019,1,33066183314245,Sandy H.,Huang,berkeley,university of californiaberkeleyberkeleycausa,,Human-AI Learning Performance in Multi-Armed Bandits
+aies,2019,2,33066183314245,Dylan,Hadfield-Menell,berkeley,university of californiaberkeleyberkeleycausa,,Human-AI Learning Performance in Multi-Armed Bandits
+aies,2019,3,33066183314245,Anca D.,Dragan,berkeley,university of californiaberkeleyberkeleycausa,,Human-AI Learning Performance in Multi-Armed Bandits
+aies,2019,0,33066183314283,Bishwamittra,Ghosh,nus,national university of singaporesingaporesingapore,,IMLI
+aies,2019,1,33066183314283,Kuldeep S.,Meel,nus,national university of singaporesingaporesingapore,,IMLI
+aies,2019,0,33066183317964,Daniel,McNamara,anu,australian national university ampcsiro datacanberraaustralia,,Costs and Benefits of Fair Representation Learning
+aies,2019,1,33066183317964,Cheng Soon,Ong,anu,australian national university ampcsiro datacanberraaustralia,,Costs and Benefits of Fair Representation Learning
+aies,2019,2,33066183317964,Robert C.,Williamson,anu,australian national university ampcsiro datacanberraaustralia,,Costs and Benefits of Fair Representation Learning
+aies,2019,0,33066183314311,Michelle C.,Ausman,,california polytechnic state universitysan luis obispocausa,,Artificial Intelligence's Impact on Mental Health Treatments
+aies,2019,0,33066183314315,Vasanth,Sarathy,tufts,tufts universitymedfordmausa,,Learning Context-Sensitive Norms under Uncertainty
+aies,2019,0,33066183314320,Duncan C.,McElfresh,umd,university of marylandcollege parkmdusa,,A Framework for Technically- and Morally-Sound AI
+aies,2019,0,33066183314310,Amanda,Coston,cmu,carnegie mellon universitypittsburghpausa,,Risk Assessments and Fairness Under Missingness and Confounding
+aies,2019,0,33066183314318,Elija,Perrier,uts,university of technologysydneysydneyaustralia,,AIES 2019 Student Submission
+aies,2019,0,33066183314324,Fernando A.,Delgado,cornell,cornell universityithacanyusa,,Machine Learning in Legal Practice
+aies,2019,0,33066183314292,Eric P. S.,Baumer,ethz,lehigh universitybethlehempausa,,Speaking on Behalf of
+aies,2019,1,33066183314292,Micki,McGee,,fordham universitybronxnyusa,,Speaking on Behalf of
+aies,2019,0,33066183314237,Timothy,Geary,,california state universitymonterey baymontereycausa,,Balancing the Benefits of Autonomous Vehicles
+aies,2019,1,33066183314237,David,Danks,cmu,carnegie mellon universitypittsburghpausa,,Balancing the Benefits of Autonomous Vehicles
+aies,2019,0,33066183314230,Mark,Ibrahim,,center for machine learningcapital onenew yorknyusa,,Global Explanations of Neural Networks
+aies,2019,1,33066183314230,Melissa,Louie,,center for machine learningcapital onenew yorknyusa,,Global Explanations of Neural Networks
+aies,2019,2,33066183314230,Ceena,Modarres,,center for machine learningcapital onenew yorknyusa,,Global Explanations of Neural Networks
+aies,2019,3,33066183314230,John,Paisley,columbia,columbia universitynew yorknyusa,,Global Explanations of Neural Networks
+aies,2019,0,33066183314290,Daniel,McNamara,anu,australian national university ampcsiro datacanberraaustralia,,Equalized Odds Implies Partially Equalized Outcomes Under Realistic Assumptions
+aies,2019,0,33066183314239,Vahid,Behzadan,,kansas state universitymanhattanksusa,,TrolleyMod v1.0
+aies,2019,1,33066183314239,James,Minton,,kansas state universitymanhattanksusa,,TrolleyMod v1.0
+aies,2019,2,33066183314239,Arslan,Munir,,kansas state universitymanhattanksusa,,TrolleyMod v1.0
+aies,2019,0,33066183314250,Dylan,Hadfield-Menell,berkeley,university of californiaberkeley ampcenter for humancompatible aiberkeleycausa,,Incomplete Contracting and AI Alignment
+aies,2019,1,33066183314250,Gillian K.,Hadfield,toronto,university of toronto ampvector institute for ai ampopenai ampcenter for humancompatible aitorontooncanada,,Incomplete Contracting and AI Alignment
+aies,2019,0,33066183314276,Cristina,Cornelio,ibm,ibm researchyorktown heightsnyusa,,Using Deceased-Donor Kidneys to Initiate Chains of Living Donor Kidney Paired Donations
+aies,2019,1,33066183314276,Lucrezia,Furian,,university of padovapadovaitaly,,Using Deceased-Donor Kidneys to Initiate Chains of Living Donor Kidney Paired Donations
+aies,2019,2,33066183314276,Antonio,Nicolò,manchester,university of padova ampuniversity of manchesterpadovaitaly,,Using Deceased-Donor Kidneys to Initiate Chains of Living Donor Kidney Paired Donations
+aies,2019,3,33066183314276,Francesca,Rossi,ibm,ibm research ampuniversity of padovayorktown heightsnyusa,,Using Deceased-Donor Kidneys to Initiate Chains of Living Donor Kidney Paired Donations
+aies,2019,0,33066183314314,Nripsuta Ani,Saxena,usc,university of southern californialos angelescausa,,Perceptions of Fairness
+aies,2019,0,33066183314291,Daniel,Lim,duke,duke kunshan universitykunshanchina,,Killer Robots and Human Dignity
+aies,2019,0,33066183314295,Sean,Welsh,,university of canterburychristchurchnew zealand,,Regulating Lethal and Harmful Autonomy
+aies,2019,0,33066183314247,Paul,Duckworth,ox,university of oxfordoxfordunited kingdom,,Inferring Work Task Automatability from AI Expert Evidence
+aies,2019,1,33066183314247,Logan,Graham,ox,university of oxfordoxfordunited kingdom,,Inferring Work Task Automatability from AI Expert Evidence
+aies,2019,2,33066183314247,Michael,Osborne,ox,university of oxfordoxfordunited kingdom,,Inferring Work Task Automatability from AI Expert Evidence
+aies,2019,0,33066183314308,Filip,Michalsky,harvard,harvard universitycambridgemausa,,Fairness Criteria for Face Recognition Applications
+aies,2019,0,33066183314319,De'Aira,Bryant,gatech,georgia institute of technologyatlantagausa,,Towards Emotional Intelligence in Social Robots Designed for Children
+aies,2019,0,33066183314246,Christian,Borgs,microsoft,microsoft researchcambridgemausa,,Algorithmic Greenlining
+aies,2019,1,33066183314246,Jennifer,Chayes,microsoft,microsoft researchcambridgemausa,,Algorithmic Greenlining
+aies,2019,2,33066183314246,Nika,Haghtalab,microsoft,microsoft researchcambridgemausa,,Algorithmic Greenlining
+aies,2019,3,33066183314246,Adam Tauman,Kalai,microsoft,microsoft researchcambridgemausa,,Algorithmic Greenlining
+aies,2019,4,33066183314246,Ellen,Vitercik,cmu,carnegie mellon universitypittsburghpausa,,Algorithmic Greenlining
+aies,2019,0,33066183314251,Huao,Li,pitt,university of pittsburghpittsburghpausa,,Perceptions of Domestic Robots' Normative Behavior Across Cultures
+aies,2019,1,33066183314251,Stephanie,Milani,cmu,university of marylandbaltimore county ampcarnegie mellon universitybaltimoremdusa,,Perceptions of Domestic Robots' Normative Behavior Across Cultures
+aies,2019,2,33066183314251,Vigneshram,Krishnamoorthy,cmu,carnegie mellon universitypittsburghpausa,,Perceptions of Domestic Robots' Normative Behavior Across Cultures
+aies,2019,3,33066183314251,Michael,Lewis,pitt,university of pittsburghpittsburghpausa,,Perceptions of Domestic Robots' Normative Behavior Across Cultures
+aies,2019,4,33066183314251,Katia,Sycara,cmu,carnegie mellon universitypittsburghpausa,,Perceptions of Domestic Robots' Normative Behavior Across Cultures
+aies,2019,0,33066183314312,Daniel,McNamara,anu,australian national university ampcsiro datacanberraaustralia,,Algorithmic Stereotypes
+aies,2019,0,33066183314321,Meir,Friedenberg,cornell,cornell universityithacanyusa,,Towards Formal Models of Blameworthiness
+aies,2019,0,33066183314277,Alejandro,Noriega-Campero,mit,massachusetts institute of technologycambridgemausa,,Active Fairness in Algorithmic Decision Making
+aies,2019,1,33066183314277,Michiel A.,Bakker,mit,massachusetts institute of technologycambridgemausa,,Active Fairness in Algorithmic Decision Making
+aies,2019,2,33066183314277,Bernardo,Garcia-Bulle,cam,mexican institute of technologycambridgemausa,,Active Fairness in Algorithmic Decision Making
+aies,2019,3,33066183314277,Alex 'Sandy',Pentland,mit,massachusetts institute of technologycambridgemausa,,Active Fairness in Algorithmic Decision Making
+aies,2019,0,33066183314325,McKane,Andrus,berkeley,university of californiaberkeleyberkeleycausa,,On Serving Two Masters
+aies,2019,0,33066183314235,Zhiyuan,Lin,stanford,stanford universitystanfordcausa,,Guiding Prosecutorial Decisions with an Interpretable Statistical Model
+aies,2019,1,33066183314235,Alex,Chohlas-Wood,stanford,stanford universitystanfordcausa,,Guiding Prosecutorial Decisions with an Interpretable Statistical Model
+aies,2019,2,33066183314235,Sharad,Goel,stanford,stanford universitystanfordcausa,,Guiding Prosecutorial Decisions with an Interpretable Statistical Model
+aies,2019,0,33066183314272,Arifah,Addison,,university of canterburychristchurchnew zealand,,Robots Can Be More Than Black And White
+aies,2019,1,33066183314272,Christoph,Bartneck,,university of canterburychristchurchnew zealand,,Robots Can Be More Than Black And White
+aies,2019,2,33066183314272,Kumar,Yogeeswaran,,university of canterburychristchurchnew zealand,,Robots Can Be More Than Black And White
+aies,2019,0,33066183314317,Aaron,Springer,ucsd,university of california santa cruzsanta cruzcausa,,Enabling Effective Transparency
+aies,2019,0,33066183314249,Tracy Hresko,Pearl,,texas tech university school of lawlubbocktxusa,,Compensation at the Crossroads
+aies,2019,0,33066183314316,Kacper,Sokol,bristol,university of bristolbristolunited kingdom,,"Fairness, Accountability and Transparency in Artificial Intelligence"
+aies,2019,0,33066183314231,Sky,Croeser,,curtin universityperthaustralia,,Theories of Parenting and Their Application to Artificial Intelligence
+aies,2019,1,33066183314231,Peter,Eckersley,,partnership on ai and effsan franciscocausa,,Theories of Parenting and Their Application to Artificial Intelligence
+aies,2019,0,33066183314306,Ryan Blake,Jackson,mines,colorado school of minesgoldencousa,,Generating Appropriate Responses to Inappropriate Robot Commands
+aies,2019,0,33066183314258,Dylan,Hadfield-Menell,berkeley,university of californiaberkeley ampcenter for humancompatible aiberkeleycausa,,Legible Normativity for AI Alignment
+aies,2019,1,33066183314258,Mckane,Andrus,berkeley,university of californiaberkeley ampcenter for humancompatible aiberkeleycausa,,Legible Normativity for AI Alignment
+aies,2019,2,33066183314258,Gillian,Hadfield,toronto,university of toronto ampvector institute for ai ampopenai ampcenter for humancompatible aitorontooncanada,,Legible Normativity for AI Alignment
+aies,2019,0,33066183314257,Beishui,Liao,zju,zhejiang universityhangzhouchina,,Building Jiminy Cricket
+aies,2019,1,33066183314257,Marija,Slavkovik,uib,university of bergenbergennorway,,Building Jiminy Cricket
+aies,2019,2,33066183314257,Leendert,van der Torre,,university of luxembourgluxembourg cityluxembourg,,Building Jiminy Cricket
+aies,2019,0,33066183314264,Shervin,Shahrdar,fau,florida atlantic universityboca ratonflusa,,Human Trust Measurement Using an Immersive Virtual Reality Autonomous Vehicle Simulator
+aies,2019,1,33066183314264,Corey,Park,fau,florida atlantic universityboca ratonflusa,,Human Trust Measurement Using an Immersive Virtual Reality Autonomous Vehicle Simulator
+aies,2019,2,33066183314264,Mehrdad,Nojoumian,fau,florida atlantic universityboca ratonflusa,,Human Trust Measurement Using an Immersive Virtual Reality Autonomous Vehicle Simulator
+aies,2019,0,33066183314252,Bertram F.,Malle,brown,brown universityprovidenceriusa,,Requirements for an Artificial Agent with Norm Competence
+aies,2019,1,33066183314252,Paul,Bello,washington,usnaval research laboratorywashingtondcusa,,Requirements for an Artificial Agent with Norm Competence
+aies,2019,2,33066183314252,Matthias,Scheutz,tufts,tufts universitymedfordmausa,,Requirements for an Artificial Agent with Norm Competence
+aies,2019,0,33066183314255,Luca,Oneto,unipi,dibris university of genoagenovaitaly,,Taking Advantage of Multitask Learning for Fair Classification
+aies,2019,1,33066183314255,Michele,Doninini,eurecom,istituto italiano di tecnologiagenovaitaly,,Taking Advantage of Multitask Learning for Fair Classification
+aies,2019,2,33066183314255,Amon,Elders,eurecom,istituto italiano di tecnologiagenovaitaly,,Taking Advantage of Multitask Learning for Fair Classification
+aies,2019,3,33066183314255,Massimiliano,Pontil,ucl,istituto italiano di tecnologia ampuniversity college londongenovaitaly,,Taking Advantage of Multitask Learning for Fair Classification
+aies,2019,0,33066183314284,De'Aira,Bryant,gatech,georgia institute of technologyatlantagausa,,A Comparative Analysis of Emotion-Detecting AI Systems with Respect to Algorithm Performance and Dataset Diversity
+aies,2019,1,33066183314284,Ayanna,Howard,gatech,georgia institute of technologyatlantagausa,,A Comparative Analysis of Emotion-Detecting AI Systems with Respect to Algorithm Performance and Dataset Diversity
+aies,2019,0,33066183314265,The Anh,Han,,teesside univeresitymiddlesbroughunited kingdom,,Modelling and Influencing the AI Bidding War
+aies,2019,1,33066183314265,Luís Moniz,Pereira,,universidade nova de lisboalisbonportugal,,Modelling and Influencing the AI Bidding War
+aies,2019,2,33066183314265,Tom,Lenaerts,gmail,universitlibre de bruxelles ampvrije universiteit brusselbrusselsbelgium,,Modelling and Influencing the AI Bidding War
+aies,2019,0,33066183314228,David,Danks,cmu,carnegie mellon universitypittsburghpausa,,The Value of Trustworthy AI
+aies,2019,0,33066183314254,Emanuelle,Burton,uic,university of illinois at chicagochicagoilusa,,The Heart of the Matter
+aies,2019,1,33066183314254,Kristel,Clayville,,zygon center for religion and sciencechicagoilusa,,The Heart of the Matter
+aies,2019,2,33066183314254,Judy,Goldsmith,ntu,university of kentuckylexingtonkyusa,,The Heart of the Matter
+aies,2019,3,33066183314254,Nicholas,Mattei,,tulane universitynew orleanslausa,,The Heart of the Matter
+aies,2019,0,33066183314288,Ray,Jiang,google,deepmindlondonunited kingdom,,Degenerate Feedback Loops in Recommender Systems
+aies,2019,1,33066183314288,Silvia,Chiappa,google,deepmindlondonunited kingdom,,Degenerate Feedback Loops in Recommender Systems
+aies,2019,2,33066183314288,Tor,Lattimore,google,deepmindlondonunited kingdom,,Degenerate Feedback Loops in Recommender Systems
+aies,2019,3,33066183314288,András,György,google,deepmindlondonunited kingdom,,Degenerate Feedback Loops in Recommender Systems
+aies,2019,4,33066183314288,Pushmeet,Kohli,google,deepmindlondonunited kingdom,,Degenerate Feedback Loops in Recommender Systems
+aies,2019,0,33066183314322,Sina,Mohseni,,texas aampm universitycollege stationtxusa,,Toward Design and Evaluation Framework for Interpretable Machine Learning Systems
+aies,2019,0,33066183314267,Sophie,Jentzsch,tu-darmstadt,tu darmstadtdarmstadtgermany,,Semantics Derived Automatically from Language Corpora Contain Human-like Moral Choices
+aies,2019,1,33066183314267,Patrick,Schramowski,tu-darmstadt,tu darmstadtdarmstadtgermany,,Semantics Derived Automatically from Language Corpora Contain Human-like Moral Choices
+aies,2019,2,33066183314267,Constantin,Rothkopf,tu-darmstadt,tu darmstadtdarmstadtgermany,,Semantics Derived Automatically from Language Corpora Contain Human-like Moral Choices
+aies,2019,3,33066183314267,Kristian,Kersting,tu-darmstadt,tu darmstadtdarmstadtgermany,,Semantics Derived Automatically from Language Corpora Contain Human-like Moral Choices
+aies,2019,0,33066183314236,Amanda,Coston,cmu,ibm research ampcarnegie mellon universityyorktown heightsnyusa,,Fair Transfer Learning with Missing Protected Attributes
+aies,2019,1,33066183314236,Karthikeyan Natesan,Ramamurthy,ibm,ibm researchyorktown heightsnyusa,,Fair Transfer Learning with Missing Protected Attributes
+aies,2019,2,33066183314236,Dennis,Wei,ibm,ibm researchyorktown heightsnyusa,,Fair Transfer Learning with Missing Protected Attributes
+aies,2019,3,33066183314236,Kush R.,Varshney,ibm,ibm researchyorktown heightsnyusa,,Fair Transfer Learning with Missing Protected Attributes
+aies,2019,4,33066183314236,Skyler,Speakman,ibm,ibm researchnairobikenya,,Fair Transfer Learning with Missing Protected Attributes
+aies,2019,5,33066183314236,Zairah,Mustahsan,ibm,ibm watson ai platformyorktown heightsnyusa,,Fair Transfer Learning with Missing Protected Attributes
+aies,2019,6,33066183314236,Supriyo,Chakraborty,ibm,ibm researchyorktown heightsnyusa,,Fair Transfer Learning with Missing Protected Attributes
+aies,2019,0,33066183314286,Daniel,Susser,psu,penn state universitystate collegepausa,,Invisible Influence
+aies,2019,0,33066183314253,Bradley J.,Gram-Hansen,ox,university of oxfordoxfordunited kingdom,,Mapping Informal Settlements in Developing Countries using Machine Learning and Low Resolution Multi-spectral Data
+aies,2019,1,33066183314253,Patrick,Helber,itu,dfkitu kaiserslauternkaiserslauterngermany,,Mapping Informal Settlements in Developing Countries using Machine Learning and Low Resolution Multi-spectral Data
+aies,2019,2,33066183314253,Indhu,Varatharajan,itu,dlr institute for planetaryberlingermany,,Mapping Informal Settlements in Developing Countries using Machine Learning and Low Resolution Multi-spectral Data
+aies,2019,3,33066183314253,Faiza,Azam,gmail,independent researcherbremengermany,,Mapping Informal Settlements in Developing Countries using Machine Learning and Low Resolution Multi-spectral Data
+aies,2019,4,33066183314253,Alejandro,Coca-Castro,kcl,kings college londonlondonunited kingdom,,Mapping Informal Settlements in Developing Countries using Machine Learning and Low Resolution Multi-spectral Data
+aies,2019,5,33066183314253,Veronika,Kopackova,uec,czech geological surveypragueczech rep,,Mapping Informal Settlements in Developing Countries using Machine Learning and Low Resolution Multi-spectral Data
+aies,2019,6,33066183314253,Piotr,Bilinski,ox,university of oxford ampuniversity of warsawoxfordunited kingdom,,Mapping Informal Settlements in Developing Countries using Machine Learning and Low Resolution Multi-spectral Data
+aies,2019,0,33066183314233,Antonio,Daniele,,queen mary university of londonlondonunited kingdom,,AI + Art = Human
+aies,2019,1,33066183314233,Yi-Zhe,Song,,queen mary university of londonlondonunited kingdom,,AI + Art = Human
+aies,2019,0,33066183314275,McKane,Andrus,berkeley,university of californiaberkeleyberkeleycausa,,Towards a Just Theory of Measurement
+aies,2019,1,33066183314275,Thomas K.,Gilbert,berkeley,university of californiaberkeleyberkeleycausa,,Towards a Just Theory of Measurement
+aies,2019,0,33066183314271,Shiwali,Mohan,parc,palo alto research centerpalo altocausa,,On Influencing Individual Behavior for Reducing Transportation Energy Expenditure in a Large Population
+aies,2019,1,33066183314271,Frances,Yan,parc,palo alto research centerpalo altocausa,,On Influencing Individual Behavior for Reducing Transportation Energy Expenditure in a Large Population
+aies,2019,2,33066183314271,Victoria,Bellotti,,lyftsan franciscocausa,,On Influencing Individual Behavior for Reducing Transportation Energy Expenditure in a Large Population
+aies,2019,3,33066183314271,Ahmed,Elbery,,vttiblacksburgvausa,,On Influencing Individual Behavior for Reducing Transportation Energy Expenditure in a Large Population
+aies,2019,4,33066183314271,Hesham,Rakha,,vttiblacksburgvausa,,On Influencing Individual Behavior for Reducing Transportation Energy Expenditure in a Large Population
+aies,2019,5,33066183314271,Matthew,Klenk,parc,palo alto research centerblacksburgvausa,,On Influencing Individual Behavior for Reducing Transportation Energy Expenditure in a Large Population
+aies,2019,0,33066183317950,Sahaj,Garg,stanford,stanford universitystanfordcausa,,Counterfactual Fairness in Text Classification through Robustness
+aies,2019,1,33066183317950,Vincent,Perot,google,google ainew yorknyusa,,Counterfactual Fairness in Text Classification through Robustness
+aies,2019,2,33066183317950,Nicole,Limtiaco,google,google ainew yorknyusa,,Counterfactual Fairness in Text Classification through Robustness
+aies,2019,3,33066183317950,Ankur,Taly,google,google aimountain viewcausa,,Counterfactual Fairness in Text Classification through Robustness
+aies,2019,4,33066183317950,Ed H.,Chi,google,google aimountain viewcausa,,Counterfactual Fairness in Text Classification through Robustness
+aies,2019,5,33066183317950,Alex,Beutel,google,google ainew yorknyusa,,Counterfactual Fairness in Text Classification through Robustness
+aies,2019,0,33066183314278,Stephen,Pfohl,stanford,stanford universitystanfordcausa,,Creating Fair Models of Atherosclerotic Cardiovascular Disease Risk
+aies,2019,1,33066183314278,Ben,Marafino,stanford,stanford universitystanfordcausa,,Creating Fair Models of Atherosclerotic Cardiovascular Disease Risk
+aies,2019,2,33066183314278,Adrien,Coulet,stanford,stanford university ampuniversitde lorrainestanfordcausa,,Creating Fair Models of Atherosclerotic Cardiovascular Disease Risk
+aies,2019,3,33066183314278,Fatima,Rodriguez,stanford,stanford universitystanfordcausa,,Creating Fair Models of Atherosclerotic Cardiovascular Disease Risk
+aies,2019,4,33066183314278,Latha,Palaniappan,stanford,stanford universitystanfordcausa,,Creating Fair Models of Atherosclerotic Cardiovascular Disease Risk
+aies,2019,5,33066183314278,Nigam H.,Shah,stanford,stanford universitystanfordcausa,,Creating Fair Models of Atherosclerotic Cardiovascular Disease Risk
+aies,2019,0,33066183314243,Alexander,Amini,mit,massachusetts institute of technologycambridgemausa,,Uncovering and Mitigating Algorithmic Bias through Learned Latent Structure
+aies,2019,1,33066183314243,Ava P.,Soleimany,harvard,harvard universitybostonmausa,,Uncovering and Mitigating Algorithmic Bias through Learned Latent Structure
+aies,2019,2,33066183314243,Wilko,Schwarting,mit,massachusetts institute of technologycambridgemausa,,Uncovering and Mitigating Algorithmic Bias through Learned Latent Structure
+aies,2019,3,33066183314243,Sangeeta N.,Bhatia,mit,massachusetts institute of technologycambridgemausa,,Uncovering and Mitigating Algorithmic Bias through Learned Latent Structure
+aies,2019,4,33066183314243,Daniela,Rus,mit,massachusetts institute of technologycambridgemausa,,Uncovering and Mitigating Algorithmic Bias through Learned Latent Structure
+aies,2019,0,33066183314279,Jeanna,Matthews,,clarkson universitypotsdam nyusa,,The Right To Confront Your Accusers
+aies,2019,1,33066183314279,Marzieh,Babaeianjelodar,,clarkson universitypotsdamnyusa,,The Right To Confront Your Accusers
+aies,2019,2,33066183314279,Stephen,Lorenz,,clarkson universitypotsdamnyusa,,The Right To Confront Your Accusers
+aies,2019,3,33066183314279,Abigail,Matthews,,clarkson universitypotsdamnyusa,,The Right To Confront Your Accusers
+aies,2019,4,33066183314279,Mariama,Njie,,iona collegenew yorknyusa,,The Right To Confront Your Accusers
+aies,2019,5,33066183314279,Nathaniel,Adams,mit,forensic bioinformatic servicesdaytonohusa,,The Right To Confront Your Accusers
+aies,2019,6,33066183314279,Dan,Krane,,wright state universitydaytonohusa,,The Right To Confront Your Accusers
+aies,2019,7,33066183314279,Jessica,Goldthwaite,,legal aid societynew yorknyusa,,The Right To Confront Your Accusers
+aies,2019,8,33066183314279,Clinton,Hughes,,brooklyn defender servicesnew yorknyusa,,The Right To Confront Your Accusers
+aies,2019,0,33066183314307,Maayan,Shvo,toronto,university of torontotorontooncanada,,Towards Empathetic Planning and Plan Recognition
+aies,2019,0,33066183314270,Nathaniel,Swinger,,lexington high schoollexingtonmausa,,What are the Biases in My Word Embedding?
+aies,2019,1,33066183314270,Maria,De-Arteaga,cmu,carnegie mellon universitypittsburghpausa,,What are the Biases in My Word Embedding?
+aies,2019,2,33066183314270,Neil Thomas,Heffernan IV,,shrewsbury high schoolshrewsburymausa,,What are the Biases in My Word Embedding?
+aies,2019,3,33066183314270,Mark DM,Leiserson,umd,university of marylandflibbertigibbetmdusa,,What are the Biases in My Word Embedding?
+aies,2019,4,33066183314270,Adam Tauman,Kalai,microsoft,microsoft researchcambridgemausa,,What are the Biases in My Word Embedding?
+aies,2019,0,33066183314229,Himabindu,Lakkaraju,harvard,harvard universitybostonmausa,,Faithful and Customizable Explanations of Black Box Models
+aies,2019,1,33066183314229,Ece,Kamar,microsoft,microsoft researchredmondwausa,,Faithful and Customizable Explanations of Black Box Models
+aies,2019,2,33066183314229,Rich,Caruana,microsoft,microsoft researchredmondwausa,,Faithful and Customizable Explanations of Black Box Models
+aies,2019,3,33066183314229,Jure,Leskovec,stanford,stanford universitystanfordcausa,,Faithful and Customizable Explanations of Black Box Models
+aies,2019,0,33066183314241,Ryan Blake,Jackson,mines,colorado school of minesgoldencousa,,Tact in Noncompliance
+aies,2019,1,33066183314241,Ruchen,Wen,mines,colorado school of minesgoldencousa,,Tact in Noncompliance
+aies,2019,2,33066183314241,Tom,Williams,mines,colorado school of minesgoldencousa,,Tact in Noncompliance
+aies,2019,0,33066183314309,Himan,Abdollahpouri,colorado,university of colorado boulderbouldercousa,,Popularity Bias in Ranking and Recommendation
+aies,2019,0,33066183314289,Jess,Whittlestone,cam,university of cambridgecambridgeunited kingdom,,The Role and Limits of Principles in AI Ethics
+aies,2019,1,33066183314289,Rune,Nyrup,cam,university of cambridgecambridgeunited kingdom,,The Role and Limits of Principles in AI Ethics
+aies,2019,2,33066183314289,Anna,Alexandrova,cam,university of cambridgecambridgeunited kingdom,,The Role and Limits of Principles in AI Ethics
+aies,2019,3,33066183314289,Stephen,Cave,cam,university of cambridgecambridgeunited kingdom,,The Role and Limits of Principles in AI Ethics
+aies,2019,0,33066183314232,Stephen,Cave,cam,university of cambridgecambridgeunited kingdom,,"""Scary Robots"""
+aies,2019,1,33066183314232,Kate,Coughlan,,bbclondonunited kingdom,,"""Scary Robots"""
+aies,2019,2,33066183314232,Kanta,Dihal,cam,university of cambridgecambridgeunited kingdom,,"""Scary Robots"""
+aies,2019,0,33066183314273,Michael,Hind,ibm,ibm research aiyorktown heightsnyusa,,TED
+aies,2019,1,33066183314273,Dennis,Wei,ibm,ibm research aiyorktown heightsnyusa,,TED
+aies,2019,2,33066183314273,Murray,Campbell,ibm,ibm research aiyorktown heightsnyusa,,TED
+aies,2019,3,33066183314273,Noel C. F.,Codella,ibm,ibm research aiyorktown heightsnyusa,,TED
+aies,2019,4,33066183314273,Amit,Dhurandhar,ibm,ibm research aiyorktown heightsnyusa,,TED
+aies,2019,5,33066183314273,Aleksandra,Mojsilovi,ibm,ibm research aiyorktown heightsnyusa,,TED
+aies,2019,6,33066183314273,Karthikeyan,Natesan Ramamurthy,ibm,ibm research aiyorktown heightsnyusa,,TED
+aies,2019,7,33066183314273,Kush R.,Varshney,ibm,ibm research aiyorktown heightsnyusa,,TED
+aies,2019,0,33066183314285,Ching-Hua,Chuan,miami,university of miamicoral gablesflusa,,Framing Artificial Intelligence in American Newspapers
+aies,2019,1,33066183314285,Wan-Hsiu Sunny,Tsai,miami,university of miamicoral gablesflusa,,Framing Artificial Intelligence in American Newspapers
+aies,2019,2,33066183314285,Su Yeon,Cho,miami,university of miamicoral gablesflusa,,Framing Artificial Intelligence in American Newspapers
+aies,2019,0,33066183314256,Naveen Sundar,Govindarajulu,rpi,rensselaer polytechnic institutetroynyusa,,Toward the Engineering of Virtuous Machines
+aies,2019,1,33066183314256,Selmer,Bringsjord,rpi,rensselaer polytechnic institutetroynyusa,,Toward the Engineering of Virtuous Machines
+aies,2019,2,33066183314256,Rikhiya,Ghosh,rpi,rensselaer polytechnic institutetroynyusa,,Toward the Engineering of Virtuous Machines
+aies,2019,3,33066183314256,Vasanth,Sarathy,tufts,tufts universitymedfordmausa,,Toward the Engineering of Virtuous Machines
+aies,2019,0,33066183314274,Jack,Parker,cmu,carnegie mellon universitypittsburghpausa,,How Technological Advances Can Reveal Rights
+aies,2019,1,33066183314274,David,Danks,cmu,carnegie mellon universitypittsburghpausa,,How Technological Advances Can Reveal Rights
+aies,2019,0,33066183314293,Stefano,Teso,kuleuven,ku leuvenleuvenbelgium,,Explanatory Interactive Machine Learning
+aies,2019,1,33066183314293,Kristian,Kersting,tu-darmstadt,tu darmstadtdarmstadtgermany,,Explanatory Interactive Machine Learning
+aies,2019,0,33066183314268,Adam,Lerer,fb,facebook ai researchnew yorknyusa,,Learning Existing Social Conventions via Observationally Augmented Self-Play
+aies,2019,1,33066183314268,Alexander,Peysakhovich,fb,facebook ai researchnew yorknyusa,,Learning Existing Social Conventions via Observationally Augmented Self-Play
+aies,2019,0,33066183314238,José,Hernández-Orallo,,universitat politcnica de valnciavalenciaspain,,AI Extenders
+aies,2019,1,33066183314238,Karina,Vold,cam,university of cambridgecambridgeunited kingdom,,AI Extenders
+aies,2019,0,33066183314294,Thomas Krendl,Gilbert,berkeley,university of californiaberkeleyberkeleycausa,,Epistemic Therapy for Bias in Automated Decision-Making
+aies,2019,1,33066183314294,Yonatan,Mintz,gatech,georgia institute of technologyatlantagausa,,Epistemic Therapy for Bias in Automated Decision-Making
+aies,2019,0,33066183314263,Wenjie,Hu,stanford,stanford universitystanfordcausa,,Mapping Missing Population in Rural India
+aies,2019,1,33066183314263,Jay Harshadbhai,Patel,stanford,stanford universitystanfordcausa,,Mapping Missing Population in Rural India
+aies,2019,2,33066183314263,Zoe-Alanah,Robert,stanford,stanford universitystanfordcausa,,Mapping Missing Population in Rural India
+aies,2019,3,33066183314263,Paul,Novosad,dartmouth,dartmouth collegehanovernhusa,,Mapping Missing Population in Rural India
+aies,2019,4,33066183314263,Samuel,Asher,washington,world bankwashingtondcusa,,Mapping Missing Population in Rural India
+aies,2019,5,33066183314263,Zhongyi,Tang,stanford,stanford universitystanfordcausa,,Mapping Missing Population in Rural India
+aies,2019,6,33066183314263,Marshall,Burke,stanford,stanford universitystanfordcausa,,Mapping Missing Population in Rural India
+aies,2019,7,33066183314263,David,Lobell,stanford,stanford universitystanfordcausa,,Mapping Missing Population in Rural India
+aies,2019,8,33066183314263,Stefano,Ermon,stanford,stanford universitystanfordcausa,,Mapping Missing Population in Rural India
+aies,2019,0,33066183314244,Inioluwa Deborah,Raji,toronto,university of torontotorontooncanada,,Actionable Auditing
+aies,2019,1,33066183314244,Joy,Buolamwini,mit,massachusetts institute of technologycambridgemausa,,Actionable Auditing
+aies,2019,0,33066183314287,Michael P.,Kim,stanford,stanford universitystanfordcausa,,Multiaccuracy
+aies,2019,1,33066183314287,Amirata,Ghorbani,stanford,stanford universitystanfordcausa,,Multiaccuracy
+aies,2019,2,33066183314287,James,Zou,stanford,stanford universitystanfordcausa,,Multiaccuracy
+aies,2019,0,33066183314234,Alex,Beutel,google,googlenew yorknyusa,,Putting Fairness Principles into Practice
+aies,2019,1,33066183314234,Jilin,Chen,google,googlemountain viewcausa,,Putting Fairness Principles into Practice
+aies,2019,2,33066183314234,Tulsee,Doshi,google,googlemountain viewcausa,,Putting Fairness Principles into Practice
+aies,2019,3,33066183314234,Hai,Qian,google,googlemountain viewcausa,,Putting Fairness Principles into Practice
+aies,2019,4,33066183314234,Allison,Woodruff,google,googlemountain viewcausa,,Putting Fairness Principles into Practice
+aies,2019,5,33066183314234,Christine,Luu,google,googlemountain viewcausa,,Putting Fairness Principles into Practice
+aies,2019,6,33066183314234,Pierre,Kreitmann,google,googlesan brunocausa,,Putting Fairness Principles into Practice
+aies,2019,7,33066183314234,Jonathan,Bischof,google,googleseattlewausa,,Putting Fairness Principles into Practice
+aies,2019,8,33066183314234,Ed H.,Chi,google,googlemountain viewcausa,,Putting Fairness Principles into Practice
+aies,2019,0,33066183314248,Nripsuta Ani,Saxena,usc,university of southern californialos angelescausa,,How Do Fairness Definitions Fare?
+aies,2019,1,33066183314248,Karen,Huang,harvard,harvard universitycambridge mausa,,How Do Fairness Definitions Fare?
+aies,2019,2,33066183314248,Evan,DeFilippis,harvard,harvard universitycambridgemausa,,How Do Fairness Definitions Fare?
+aies,2019,3,33066183314248,Goran,Radanovic,harvard,harvard universitycambridgemausa,,How Do Fairness Definitions Fare?
+aies,2019,4,33066183314248,David C.,Parkes,harvard,harvard universitycambridgemausa,,How Do Fairness Definitions Fare?
+aies,2019,5,33066183314248,Yang,Liu,ucsd,university of californiasanta cruzsanta cruzcausa,,How Do Fairness Definitions Fare?
